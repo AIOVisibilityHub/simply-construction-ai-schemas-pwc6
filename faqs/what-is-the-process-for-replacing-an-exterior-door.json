@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-an-exterior-door",
+  "name": "What is the process for replacing an exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing an exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The exterior door replacement process begins with an initial consultation and measurement, where we assess your needs and the existing opening. Next, we help you select the ideal door type, material, and style for your home. Once the door is ordered and arrives, our team removes your old door and frame, prepares the opening, and installs the new pre-hung door unit. This includes ensuring it is plumb, level, and properly sealed for weatherproofing. Finally, we complete any necessary trim work and ensure the door operates smoothly and securely, followed by a final cleanup.",
+        "@type": "Answer",
+        "description": "The process involves consultation, door selection, removal of the old door, installation of the new one with proper sealing, and finishing. We manage each step to ensure a secure and energy-efficient installation."
+      }
+    }
+  ],
+  "description": "The process involves consultation, door selection, removal of the old door, installation of the new one with proper sealing, and finishing. We manage each step"
+}

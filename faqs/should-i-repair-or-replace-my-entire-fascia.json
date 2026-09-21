@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-repair-or-replace-my-entire-fascia",
+  "name": "Should I repair or replace my entire fascia?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my entire fascia?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or completely replace your fascia depends on the extent and nature of the damage. If only small, isolated sections show signs of rot or minor wear, targeted repairs are often sufficient and more cost-effective. However, if there is widespread rot, structural integrity issues along many sections, or if the fascia is severely deteriorated due to prolonged water damage or pests, a full replacement might be the more durable and ultimately economical solution. A professional inspection can accurately determine the best course of action for your home.",
+        "@type": "Answer",
+        "description": "Decide between repair or replacement based on damage extent. Small, isolated damage suggests repair; widespread rot or structural issues often require full replacement."
+      }
+    }
+  ],
+  "description": "Decide between repair or replacement based on damage extent. Small, isolated damage suggests repair; widespread rot or structural issues often require full repl"
+}

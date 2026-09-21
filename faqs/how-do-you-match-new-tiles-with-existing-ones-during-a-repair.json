@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-you-match-new-tiles-with-existing-ones-during-a-repair",
+  "name": "How do you match new tiles with existing ones during a repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match new tiles with existing ones during a repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching new tiles with existing ones during a repair involves several steps to achieve a seamless look. We first identify the manufacturer and specific style or profile of your current tiles. We then source replacement tiles that are as close a match as possible in terms of color, shape, and texture. Sometimes, new tiles may initially appear slightly different due to weathering of the old tiles, but they typically blend over time. In some cases, tiles from a less visible part of the roof may be relocated to a prominent area for a perfect match.",
+        "@type": "Answer",
+        "description": "We match new tiles by identifying the existing manufacturer, style, and color. We source the closest possible match, sometimes relocating tiles from less visible areas for a perfect blend."
+      }
+    }
+  ],
+  "description": "We match new tiles by identifying the existing manufacturer, style, and color. We source the closest possible match, sometimes relocating tiles from less visibl"
+}

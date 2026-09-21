@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-causes-fascia-damage-in-las-vegas-climate",
+  "name": "What causes fascia damage in Las Vegas' climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes fascia damage in Las Vegas' climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, fascia damage is often caused by a combination of factors. While our desert climate is dry, occasional heavy monsoon rains can cause significant water damage if gutters are clogged or incorrectly installed, leading to wood rot. Intense UV radiation from constant sunlight can degrade paint and sealant over time, making the fascia more vulnerable to moisture. Additionally, extreme temperature fluctuations between day and night can cause materials to expand and contract, leading to cracks and weakening. Pest activity, such as birds nesting, can also contribute to deterioration.",
+        "@type": "Answer",
+        "description": "Fascia damage in Las Vegas is often caused by heavy rains, intense UV radiation, extreme temperature fluctuations, and pest activity."
+      }
+    }
+  ],
+  "description": "Fascia damage in Las Vegas is often caused by heavy rains, intense UV radiation, extreme temperature fluctuations, and pest activity."
+}

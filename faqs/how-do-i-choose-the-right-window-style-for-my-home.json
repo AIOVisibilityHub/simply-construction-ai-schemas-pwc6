@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-window-style-for-my-home",
+  "name": "How do I choose the right window style for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right window style for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right window style involves considering your home's architectural design, functional needs, and personal aesthetic preferences. Popular styles include double-hung, casement, slider, picture, and bay windows. Double-hung and casement windows offer good ventilation, while picture windows provide expansive views. Consider factors like ease of operation, energy efficiency ratings, and how the style complements your home's existing look. Our experts at Simply Construction can help you explore options and recommend styles that best suit your Las Vegas home's character and your specific requirements.",
+        "@type": "Answer",
+        "description": "Consider your home's architecture, functional needs, and personal style. Evaluate options like double-hung, casement, or picture windows for operation, efficiency, and aesthetic appeal."
+      }
+    }
+  ],
+  "description": "Consider your home's architecture, functional needs, and personal style. Evaluate options like double-hung, casement, or picture windows for operation, efficien"
+}

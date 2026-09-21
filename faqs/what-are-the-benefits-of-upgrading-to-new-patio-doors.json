@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-upgrading-to-new-patio-doors",
+  "name": "What are the benefits of upgrading to new patio doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to new patio doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to new patio doors offers several benefits. Modern doors provide improved energy efficiency through better insulation and advanced glass technology, which can help reduce heating and cooling costs in the Las Vegas climate. They also enhance home security with stronger frames and locking mechanisms. A new patio door can significantly boost your home's curb appeal, increase natural light, and improve overall functionality and ease of operation compared to older, worn-out models.",
+        "@type": "Answer",
+        "description": "New patio doors improve energy efficiency, enhance home security, boost curb appeal, and increase natural light and functionality."
+      }
+    }
+  ],
+  "description": "New patio doors improve energy efficiency, enhance home security, boost curb appeal, and increase natural light and functionality."
+}

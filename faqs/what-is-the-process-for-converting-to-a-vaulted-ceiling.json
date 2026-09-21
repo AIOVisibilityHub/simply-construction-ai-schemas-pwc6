@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-converting-to-a-vaulted-ceiling",
+  "name": "What is the process for converting to a vaulted ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for converting to a vaulted ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation and structural assessment to determine feasibility and design options. This is followed by obtaining necessary permits, which are crucial in areas like Las Vegas. Construction involves removing the existing ceiling, modifying or replacing roof framing as needed, installing new insulation and electrical wiring, and then finishing the new vaulted surface with drywall or other materials. The final step is painting and trim work to complete the transformation.",
+        "@type": "Answer",
+        "description": "The process involves consultation, structural assessment, permits, removing the old ceiling, structural modification, new insulation and electrical, and finishing work."
+      }
+    }
+  ],
+  "description": "The process involves consultation, structural assessment, permits, removing the old ceiling, structural modification, new insulation and electrical, and finishi"
+}

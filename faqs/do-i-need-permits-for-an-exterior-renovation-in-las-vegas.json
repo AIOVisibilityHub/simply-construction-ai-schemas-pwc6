@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-an-exterior-renovation-in-las-vegas",
+  "name": "Do I need permits for an exterior renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an exterior renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many exterior renovation projects in Las Vegas require permits from the local building department. This often includes significant changes to the structure, such as new roofing, major window replacements, or alterations to load-bearing walls. Minor cosmetic changes like painting typically do not. Obtaining the necessary permits ensures your project complies with local building codes and safety standards. We manage the permit application process for our clients to ensure full compliance.",
+        "@type": "Answer",
+        "description": "Many exterior renovations in Las Vegas, like roofing or major window replacements, require permits to comply with local building codes."
+      }
+    }
+  ],
+  "description": "Many exterior renovations in Las Vegas, like roofing or major window replacements, require permits to comply with local building codes."
+}

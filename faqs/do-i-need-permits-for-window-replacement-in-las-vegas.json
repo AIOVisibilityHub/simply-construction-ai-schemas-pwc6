@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-window-replacement-in-las-vegas",
+  "name": "Do I need permits for window replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for window replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, yes, permits are required for window replacement, especially if the new windows differ significantly in size or type from the existing ones, or if the work involves structural modifications. Permitting ensures that the installation meets local building codes and safety standards in the Las Vegas and surrounding areas. Simply Construction handles all necessary permitting processes for your project, ensuring compliance with local regulations and a hassle-free experience for homeowners.",
+        "@type": "Answer",
+        "description": "Yes, permits are often required for window replacement to ensure compliance with local building codes. Simply Construction manages the permitting process for you."
+      }
+    }
+  ],
+  "description": "Yes, permits are often required for window replacement to ensure compliance with local building codes. Simply Construction manages the permitting process for yo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-new-roof-installation-in-the-las-vegas-area",
+  "name": "What is the average cost of a new roof installation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a new roof installation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof installation in the Las Vegas area can vary widely, typically ranging from $8,000 to $25,000 or more. This depends on factors such as the size and pitch of your roof, the chosen roofing material (e.g., asphalt shingles are generally less expensive than tile), the complexity of the roof design, and any necessary structural repairs. We provide detailed, transparent quotes after an on-site assessment to give you an accurate estimate tailored to your home.",
+        "@type": "Answer",
+        "description": "New roof installation costs in Las Vegas vary, usually $8,000 to $25,000+, depending on roof size, material, complexity, and repair needs. A custom quote is provided after assessment."
+      }
+    }
+  ],
+  "description": "New roof installation costs in Las Vegas vary, usually $8,000 to $25,000+, depending on roof size, material, complexity, and repair needs. A custom quote is pro"
+}

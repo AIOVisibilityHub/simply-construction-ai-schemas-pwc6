@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-decide-between-repairing-and-replacing-exterior-components",
+  "name": "How do I decide between repairing and replacing exterior components?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide between repairing and replacing exterior components?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent of the damage, the age of the component, and the long-term cost implications. If damage is localized, minor, and the material is otherwise in good condition, repair might be the most economical option. However, if there's widespread damage, the component is nearing the end of its lifespan, or constant repairs are becoming costly, replacement is often the better long-term solution. A professional assessment can help determine which approach is more practical and cost-effective for specific elements like siding, windows, or roofing.",
+        "@type": "Answer",
+        "description": "Decide between repair and replacement based on damage extent, component age, and long-term costs. A professional assessment can help."
+      }
+    }
+  ],
+  "description": "Decide between repair and replacement based on damage extent, component age, and long-term costs. A professional assessment can help."
+}

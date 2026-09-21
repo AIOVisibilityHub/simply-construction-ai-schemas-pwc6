@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-expected-lifespan-of-energy-efficient-windows",
+  "name": "What is the expected lifespan of energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the expected lifespan of energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of energy-efficient windows can vary significantly based on the quality of materials, manufacturing, installation, and ongoing maintenance. Generally, high-quality energy-efficient windows, especially those with robust frames like fiberglass or vinyl, can last 20 to 30 years or even longer. Proper installation by certified professionals and routine care are crucial factors in maximizing their longevity and ensuring they continue to perform optimally throughout their lifespan.",
+        "@type": "Answer",
+        "description": "High-quality energy-efficient windows can last 20-30 years or more with proper installation and maintenance."
+      }
+    }
+  ],
+  "description": "High-quality energy-efficient windows can last 20-30 years or more with proper installation and maintenance."
+}

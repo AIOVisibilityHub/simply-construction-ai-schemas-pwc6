@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-window-and-door-replacement-in-las-vegas",
+  "name": "What is the average cost of window and door replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of window and door replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of window and door replacement in Las Vegas varies significantly based on several factors, including the type of windows or doors (e.g., vinyl, fiberglass, wood), their style (e.g., double-hung, casement, sliding), glass options, hardware, and the complexity of the installation. Custom sizes or specific energy-efficient features will also impact the price. We provide detailed, transparent quotes after an on-site consultation to assess your specific needs and preferences.",
+        "@type": "Answer",
+        "description": "Average costs vary widely based on material, style, glass options, and installation complexity. A consultation provides an accurate quote tailored to your project."
+      }
+    }
+  ],
+  "description": "Average costs vary widely based on material, style, glass options, and installation complexity. A consultation provides an accurate quote tailored to your proje"
+}

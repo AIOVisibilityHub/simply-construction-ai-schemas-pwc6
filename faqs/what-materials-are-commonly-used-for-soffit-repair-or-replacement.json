@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-commonly-used-for-soffit-repair-or-replacement",
+  "name": "What materials are commonly used for soffit repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for soffit repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials used for soffit repair or replacement include vinyl, aluminum, and wood. Vinyl soffits are popular due to their durability, low maintenance, and resistance to rot and pests, making them a great choice for the Las Vegas climate. Aluminum soffits offer excellent longevity and are also resistant to rust and rot. Wood soffits, while requiring more maintenance, can offer a classic aesthetic and are often used for historical accuracy or specific architectural styles. The best material depends on your budget, aesthetic preference, and desired level of maintenance.",
+        "@type": "Answer",
+        "description": "Vinyl, aluminum, and wood are common soffit materials. Vinyl and aluminum offer durability and low maintenance, suitable for Las Vegas, while wood provides a classic look."
+      }
+    }
+  ],
+  "description": "Vinyl, aluminum, and wood are common soffit materials. Vinyl and aluminum offer durability and low maintenance, suitable for Las Vegas, while wood provides a cl"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-patio-doors-are-available-for-installation",
+  "name": "What types of patio doors are available for installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of patio doors are available for installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are several common types of patio doors, each offering different aesthetics and functionalities. Sliding patio doors, also known as bypass doors, are popular for their space-saving design. French patio doors, or hinged doors, offer a classic look and can open inward or outward. Bifold patio doors fold accordion-style to create large open spaces. Additionally, multi-slide patio doors offer wider openings than standard sliders. The best type depends on your space, design preferences, and desired functionality.",
+        "@type": "Answer",
+        "description": "Common types include sliding, French, bifold, and multi-slide patio doors. Each offers different styles and operational methods to suit various needs."
+      }
+    }
+  ],
+  "description": "Common types include sliding, French, bifold, and multi-slide patio doors. Each offers different styles and operational methods to suit various needs."
+}

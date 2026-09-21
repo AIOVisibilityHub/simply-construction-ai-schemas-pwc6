@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-be-home-during-the-roof-replacement",
+  "name": "Do I need to be home during the roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be home throughout the entire roof replacement, we recommend being available for the initial consultation and final walkthrough. During the actual work, our team handles all operations. We ensure clear communication throughout the project, so you'll be informed of progress and any potential issues.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire replacement, but being available for initial consultation and final walkthrough is recommended."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire replacement, but being available for initial consultation and final walkthrough is recommended."
+}

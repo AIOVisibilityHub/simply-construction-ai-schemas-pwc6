@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-an-exterior-renovation-typically-take",
+  "name": "How long does an exterior renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior renovation project depends on its complexity and scope. Smaller projects like exterior painting might take a week or two, while larger renovations involving multiple elements such as roofing, siding, and window replacements could extend to several weeks or even months. Factors like material availability, weather conditions, and permit processing times can also influence the timeline. We provide an estimated project timeline after our initial consultation and planning.",
+        "@type": "Answer",
+        "description": "Project duration varies based on complexity; small projects take weeks, larger ones can take months."
+      }
+    }
+  ],
+  "description": "Project duration varies based on complexity; small projects take weeks, larger ones can take months."
+}

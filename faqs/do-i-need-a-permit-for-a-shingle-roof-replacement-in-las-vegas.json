@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-shingle-roof-replacement-in-las-vegas",
+  "name": "Do I need a permit for a shingle roof replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a shingle roof replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Las Vegas and surrounding areas like North Las Vegas, Henderson, and Paradise, a building permit is typically required for shingle roof replacement projects. This ensures that the work complies with local building codes and safety standards. Reputable roofing contractors will handle the permit application process on your behalf, coordinating with the local authorities. Attempting a roof replacement without a necessary permit can lead to fines, difficulties with insurance claims, and potential issues when selling your home.",
+        "@type": "Answer",
+        "description": "Yes, a building permit is generally required for shingle roof replacement in Las Vegas and nearby areas to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, a building permit is generally required for shingle roof replacement in Las Vegas and nearby areas to ensure compliance with local building codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-warranty-can-i-expect-on-a-new-flat-roof",
+  "name": "What kind of warranty can I expect on a new flat roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty can I expect on a new flat roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new flat roof replacement typically comes with two types of warranties: a manufacturer's warranty on the roofing materials and a contractor's warranty on the workmanship. Manufacturer warranties often range from 10 to 25 years or more, depending on the product. Workmanship warranties, provided by the roofing company, usually cover the installation for a period, often 5 to 10 years. We will provide detailed warranty information specific to your chosen system and our installation services.",
+        "@type": "Answer",
+        "description": "You can expect a manufacturer's warranty on materials (10-25+ years) and a contractor's warranty on workmanship (5-10 years)."
+      }
+    }
+  ],
+  "description": "You can expect a manufacturer's warranty on materials (10-25+ years) and a contractor's warranty on workmanship (5-10 years)."
+}

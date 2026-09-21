@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-tile-roofs-can-you-repair",
+  "name": "What types of tile roofs can you repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile roofs can you repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We repair various types of tile roofs commonly found in the Las Vegas area, including concrete tiles, clay tiles (Spanish and French styles), and synthetic tiles. Each type requires specific repair techniques and materials to ensure a durable and aesthetically matching result. Our expertise covers different profiles and colors, aiming to seamlessly integrate new or repaired sections with your existing roof.",
+        "@type": "Answer",
+        "description": "We repair various tile roof types, including concrete, clay (Spanish/French), and synthetic tiles, common in Las Vegas. Our approach ensures durable repairs that match your existing roof."
+      }
+    }
+  ],
+  "description": "We repair various tile roof types, including concrete, clay (Spanish/French), and synthetic tiles, common in Las Vegas. Our approach ensures durable repairs tha"
+}

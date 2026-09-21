@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-warranty-comes-with-a-new-roof-installation",
+  "name": "What kind of warranty comes with a new roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with a new roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New roof installations typically come with two types of warranties: a manufacturer's warranty covering the roofing materials and a contractor's warranty covering the workmanship. Manufacturer warranties often range from 20 years for standard shingles to 50 years or a lifetime for premium materials like certain tiles. Our workmanship warranty covers the installation itself, ensuring that any issues arising from our work are promptly addressed. We provide all warranty details in writing for your peace of mind.",
+        "@type": "Answer",
+        "description": "New roofs usually have a manufacturer's warranty on materials and a contractor's warranty on workmanship, with durations varying by material. All details are provided in writing."
+      }
+    }
+  ],
+  "description": "New roofs usually have a manufacturer's warranty on materials and a contractor's warranty on workmanship, with durations varying by material. All details are pr"
+}

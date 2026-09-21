@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-roofing-materials-are-best-suited-for-the-las-vegas-climate",
+  "name": "What types of roofing materials are best suited for the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roofing materials are best suited for the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the Las Vegas climate, materials that withstand intense sun and heat are crucial. Popular choices include clay or concrete tiles, which offer excellent durability and energy efficiency, and certain types of asphalt shingles designed for high heat exposure. Metal roofing is another durable option, offering longevity and resistance to extreme temperatures.",
+        "@type": "Answer",
+        "description": "Clay or concrete tiles, high-performance asphalt shingles, and metal roofing are well-suited for the intense sun and heat of the Las Vegas climate."
+      }
+    }
+  ],
+  "description": "Clay or concrete tiles, high-performance asphalt shingles, and metal roofing are well-suited for the intense sun and heat of the Las Vegas climate."
+}

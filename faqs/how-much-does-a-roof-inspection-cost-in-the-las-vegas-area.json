@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-roof-inspection-cost-in-the-las-vegas-area",
+  "name": "How much does a roof inspection cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a roof inspection cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a roof inspection in the Las Vegas area can vary depending on factors such as the size and pitch of your roof, its accessibility, and the type of inspection required (e.g., standard visual vs. more detailed structural assessment). Some contractors may offer free inspections as part of a repair estimate, while others charge a fee for a standalone, comprehensive report. It's best to contact local contractors for specific quotes.",
+        "@type": "Answer",
+        "description": "Roof inspection costs in Las Vegas vary based on roof size, pitch, and inspection type. Some contractors offer free inspections with repair estimates, while others charge a fee for standalone reports."
+      }
+    }
+  ],
+  "description": "Roof inspection costs in Las Vegas vary based on roof size, pitch, and inspection type. Some contractors offer free inspections with repair estimates, while oth"
+}

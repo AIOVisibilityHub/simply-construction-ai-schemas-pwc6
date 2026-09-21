@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-perform-a-roof-inspection-myself",
+  "name": "Can I perform a roof inspection myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a roof inspection myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While homeowners can visually check their roof from the ground for obvious issues, a professional roof inspection offers a more thorough and safe assessment. Professionals have the necessary safety equipment, training, and experience to identify subtle damage, assess hard-to-reach areas, and recognize specific signs of wear or manufacturing defects that an untrained eye might miss. They can also provide informed recommendations based on their expertise.",
+        "@type": "Answer",
+        "description": "Homeowners can do basic visual checks, but a professional roof inspection provides a safer, more thorough assessment. Experts identify subtle damage and hard-to-reach issues an untrained eye might miss."
+      }
+    }
+  ],
+  "description": "Homeowners can do basic visual checks, but a professional roof inspection provides a safer, more thorough assessment. Experts identify subtle damage and hard-to"
+}

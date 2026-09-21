@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-replace-a-sliding-glass-door-in-the-las-vegas-area",
+  "name": "How much does it cost to replace a sliding glass door in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to replace a sliding glass door in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a sliding glass door in the Las Vegas area varies significantly based on factors such as the door's size, material, glass type, energy efficiency features, and complexity of installation. Standard replacements may start from a certain price point, but custom options or structural modifications will increase the cost. We provide detailed, transparent quotes after an on-site assessment to give you an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on door size, material, glass type, and installation complexity. A custom quote is provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on door size, material, glass type, and installation complexity. A custom quote is provided after an on-site assessment."
+}

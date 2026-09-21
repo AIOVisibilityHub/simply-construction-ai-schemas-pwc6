@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-do-i-need-a-roof-inspection-for-a-home-sale-or-purchase",
+  "name": "When do I need a roof inspection for a home sale or purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a roof inspection for a home sale or purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof inspection is crucial during a home sale or purchase. For sellers, a pre-listing inspection can identify necessary repairs, allowing you to address them proactively and avoid last-minute issues that could delay closing. Buyers benefit from an independent inspection to understand the roof's current condition, assess its remaining lifespan, and negotiate repairs or credits if significant issues are found before finalizing the purchase.",
+        "@type": "Answer",
+        "description": "For home sales, sellers can use a pre-listing inspection to make repairs, while buyers can assess the roof's condition and negotiate terms before purchase."
+      }
+    }
+  ],
+  "description": "For home sales, sellers can use a pre-listing inspection to make repairs, while buyers can assess the roof's condition and negotiate terms before purchase."
+}

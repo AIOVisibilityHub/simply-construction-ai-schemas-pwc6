@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-perform-fascia-repair-myself-or-should-i-hire-a-professional",
+  "name": "Can I perform fascia repair myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform fascia repair myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic fascia repairs like painting might be manageable for a homeowner with appropriate safety measures, structural repairs involving damaged wood, proper sealing, and gutter reattachment are best left to professionals. Working at heights on ladders, especially around the roofline, carries significant safety risks. Professionals have the necessary tools, experience to identify underlying issues, and knowledge of proper installation techniques to ensure the repair is durable, watertight, and correctly integrated with your roofing and gutter system, preventing future problems.",
+        "@type": "Answer",
+        "description": "Minor cosmetic fascia repairs might be DIY, but structural repairs, due to safety risks and technical requirements, are best handled by professionals."
+      }
+    }
+  ],
+  "description": "Minor cosmetic fascia repairs might be DIY, but structural repairs, due to safety risks and technical requirements, are best handled by professionals."
+}

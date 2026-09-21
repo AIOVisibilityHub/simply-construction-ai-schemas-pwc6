@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-my-roof-has-a-leak",
+  "name": "How do I know if my roof has a leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has a leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond visible drips, signs of a roof leak include water stains on ceilings or walls, peeling paint, or bubbling plaster inside your home. Dark spots or mold growth on the ceiling, especially after rain, are strong indicators. In the attic, look for wet insulation, mildew smells, or streaks on rafters. On the exterior, inspect your roof for missing or curled shingles, cracked caulk around vents, or damaged flashing. Sometimes, a musty odor without visible water can also signal a hidden leak.",
+        "@type": "Answer",
+        "description": "Look for water stains on ceilings, peeling paint, mold growth, or wet insulation in the attic. Exterior signs include damaged shingles or flashing."
+      }
+    }
+  ],
+  "description": "Look for water stains on ceilings, peeling paint, mold growth, or wet insulation in the attic. Exterior signs include damaged shingles or flashing."
+}

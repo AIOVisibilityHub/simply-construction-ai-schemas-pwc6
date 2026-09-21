@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-new-energy-efficient-windows",
+  "name": "How long does it take to install new energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install new energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an energy-efficient window installation project depends on the number and size of windows, as well as the complexity of the existing window frames. For an average-sized home, most installations can be completed within one to three days. Larger projects or those requiring significant structural adjustments may take longer. We strive to work efficiently while maintaining high quality, ensuring minimal disruption to your daily routine. We'll provide a clear timeline during your initial consultation.",
+        "@type": "Answer",
+        "description": "Installation typically takes 1-3 days for an average home, depending on the number and size of windows."
+      }
+    }
+  ],
+  "description": "Installation typically takes 1-3 days for an average home, depending on the number and size of windows."
+}

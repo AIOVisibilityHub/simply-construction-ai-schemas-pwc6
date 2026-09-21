@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-upgrading-my-front-door",
+  "name": "What are the benefits of upgrading my front door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading my front door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading your front door offers multiple benefits. It significantly enhances your home's curb appeal, increasing its perceived value and aesthetic. A new, well-insulated door improves energy efficiency by preventing drafts, potentially lowering heating and cooling costs. Modern doors also offer enhanced security features, providing better protection for your home. Additionally, new doors can reduce outdoor noise and require less maintenance than older models.",
+        "@type": "Answer",
+        "description": "Upgrading your front door enhances curb appeal, improves energy efficiency, boosts home security, and can reduce noise."
+      }
+    }
+  ],
+  "description": "Upgrading your front door enhances curb appeal, improves energy efficiency, boosts home security, and can reduce noise."
+}

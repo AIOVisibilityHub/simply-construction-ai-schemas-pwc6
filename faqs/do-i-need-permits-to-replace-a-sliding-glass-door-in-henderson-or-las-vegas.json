@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-to-replace-a-sliding-glass-door-in-henderson-or-las-vegas",
+  "name": "Do I need permits to replace a sliding glass door in Henderson or Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to replace a sliding glass door in Henderson or Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, replacing an existing sliding glass door with a new one of the same size and in the same opening typically does not require a permit in Henderson or Las Vegas. However, if the replacement involves structural changes, enlarging the opening, or altering the header, permits may be necessary. It's always best to consult with your contractor or local building department to confirm specific requirements for your project to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for same-size replacements but are often required for structural changes or enlarging openings in Henderson or Las Vegas."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for same-size replacements but are often required for structural changes or enlarging openings in Henderson or Las Vegas."
+}

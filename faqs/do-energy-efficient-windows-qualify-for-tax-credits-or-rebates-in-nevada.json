@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-energy-efficient-windows-qualify-for-tax-credits-or-rebates-in-nevada",
+  "name": "Do energy-efficient windows qualify for tax credits or rebates in Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do energy-efficient windows qualify for tax credits or rebates in Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While federal tax credits for energy-efficient home improvements can change, it's worth checking current IRS guidelines for residential energy property credits. Additionally, local utility companies or state programs in Nevada occasionally offer rebates or incentives for installing energy-efficient products. We recommend consulting with a tax professional or checking the latest information from the Department of Energy and your local utility provider (e.g., NV Energy) for current eligibility and available programs.",
+        "@type": "Answer",
+        "description": "Federal tax credits and local utility rebates may be available. Check current IRS guidelines and local utility programs."
+      }
+    }
+  ],
+  "description": "Federal tax credits and local utility rebates may be available. Check current IRS guidelines and local utility programs."
+}

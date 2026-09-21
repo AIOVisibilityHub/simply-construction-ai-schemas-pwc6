@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-raised-ceiling-project",
+  "name": "How do I choose the right contractor for my raised ceiling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my raised ceiling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a raised ceiling project is crucial. Look for a general contractor with specific experience in structural renovations and ceiling modifications. Verify their licensing and insurance in Nevada, and request references from previous clients with similar projects. Review their portfolio for examples of quality workmanship. Ensure clear communication, a detailed proposal outlining scope and costs, and a transparent contract before making a decision. A reputable contractor will also handle all necessary permits.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with structural renovation experience. Check references, review portfolios, and ensure clear communication and a detailed proposal."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with structural renovation experience. Check references, review portfolios, and ensure clear communication and a detailed"
+}

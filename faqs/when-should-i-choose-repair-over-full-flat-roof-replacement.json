@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-choose-repair-over-full-flat-roof-replacement",
+  "name": "When should I choose repair over full flat roof replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I choose repair over full flat roof replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between repair and replacement depends on the age of your roof, the extent of the damage, and its overall condition. If your flat roof is relatively new and the damage is isolated to a small area, repair is often the more cost-effective solution. However, if the roof is old, has widespread damage, or has recurring issues, a full replacement might be a better long-term investment to prevent ongoing problems and protect your property.",
+        "@type": "Answer",
+        "description": "Choose repair for isolated damage on a newer roof. Consider replacement for old roofs with widespread damage or recurring issues for long-term value."
+      }
+    }
+  ],
+  "description": "Choose repair for isolated damage on a newer roof. Consider replacement for old roofs with widespread damage or recurring issues for long-term value."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-of-water-damage-behind-stucco",
+  "name": "What are the signs of water damage behind stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of water damage behind stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of water damage behind stucco often include persistent dampness or discoloration on interior walls, musty odors, peeling paint, or warped baseboards. On the exterior, look for staining or efflorescence (white powdery residue) below windows or at the foundation line, soft or bulging stucco, and unusual mold or mildew growth. These indicate water is getting behind the stucco and requires immediate professional attention.",
+        "@type": "Answer",
+        "description": "Look for interior dampness, musty odors, exterior staining, soft or bulging stucco, and mold/mildew, indicating water intrusion."
+      }
+    }
+  ],
+  "description": "Look for interior dampness, musty odors, exterior staining, soft or bulging stucco, and mold/mildew, indicating water intrusion."
+}

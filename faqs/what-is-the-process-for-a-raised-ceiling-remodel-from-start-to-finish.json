@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-a-raised-ceiling-remodel-from-start-to-finish",
+  "name": "What is the process for a raised ceiling remodel from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a raised ceiling remodel from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and on-site assessment to understand your goals and evaluate structural feasibility. Next, we develop architectural plans and secure necessary permits. Demolition of the existing ceiling follows, carefully managing debris. Structural modifications are then completed, which may include framing and support adjustments. This is followed by installing new insulation, electrical, and HVAC lines if rerouted. Finally, new drywall is installed, finished, and painted, concluding with any new lighting or trim details. Throughout, regular communication keeps you informed.",
+        "@type": "Answer",
+        "description": "The process involves consultation, planning, permitting, demolition, structural work, utility relocation, drywall installation, finishing, and final touches."
+      }
+    }
+  ],
+  "description": "The process involves consultation, planning, permitting, demolition, structural work, utility relocation, drywall installation, finishing, and final touches."
+}

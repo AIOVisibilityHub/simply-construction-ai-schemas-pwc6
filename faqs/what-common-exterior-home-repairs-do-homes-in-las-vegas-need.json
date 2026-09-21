@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-common-exterior-home-repairs-do-homes-in-las-vegas-need",
+  "name": "What common exterior home repairs do homes in Las Vegas need?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common exterior home repairs do homes in Las Vegas need?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes in the Las Vegas area frequently require exterior repairs due to the desert climate, which includes intense sun, high temperatures, and occasional strong winds. Common repairs involve refreshing sun-damaged stucco, repairing or replacing roofing materials affected by heat and UV exposure, and fixing issues with exterior paint that may blister or fade. Addressing damage to landscaping elements like fences or retaining walls from wind or soil erosion is also typical. These repairs help maintain a home's structural integrity and aesthetic appeal against unique regional challenges.",
+        "@type": "Answer",
+        "description": "Las Vegas homes often need repairs for sun-damaged stucco, heat-affected roofs, faded exterior paint, and wind-damaged landscaping due to the desert climate."
+      }
+    }
+  ],
+  "description": "Las Vegas homes often need repairs for sun-damaged stucco, heat-affected roofs, faded exterior paint, and wind-damaged landscaping due to the desert climate."
+}

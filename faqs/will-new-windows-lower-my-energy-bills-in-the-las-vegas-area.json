@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-new-windows-lower-my-energy-bills-in-the-las-vegas-area",
+  "name": "Will new windows lower my energy bills in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will new windows lower my energy bills in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, new energy-efficient windows can significantly lower your energy bills, especially in the Las Vegas area with its hot summers and cooler winters. Modern windows, particularly those with double or triple-pane glass, low-emissivity (Low-E) coatings, and insulated frames, reduce heat transfer. This keeps your home cooler in summer and warmer in winter, meaning your HVAC system doesn't have to work as hard. The exact savings vary based on your home's existing insulation, the number of windows replaced, and the efficiency of the new units.",
+        "@type": "Answer",
+        "description": "Yes, new energy-efficient windows, especially with Low-E glass, can reduce energy bills by minimizing heat transfer, which is beneficial for the Las Vegas climate."
+      }
+    }
+  ],
+  "description": "Yes, new energy-efficient windows, especially with Low-E glass, can reduce energy bills by minimizing heat transfer, which is beneficial for the Las Vegas clima"
+}

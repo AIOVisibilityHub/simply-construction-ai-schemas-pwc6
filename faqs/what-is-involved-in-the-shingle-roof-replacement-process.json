@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-shingle-roof-replacement-process",
+  "name": "What is involved in the shingle roof replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the shingle roof replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The shingle roof replacement process typically begins with a thorough inspection and estimate. Once approved, the existing roof materials are carefully removed and disposed of. Next, the roof deck is inspected for damage and repaired if necessary. A new underlayment is installed for added protection, followed by drip edge, flashing around penetrations (like chimneys and vents), and finally, the new shingles are installed according to manufacturer specifications. The job concludes with a comprehensive cleanup of debris and a final inspection.",
+        "@type": "Answer",
+        "description": "The shingle roof replacement process includes old roof removal, deck repair, installing new underlayment, flashing, shingles, and a final cleanup."
+      }
+    }
+  ],
+  "description": "The shingle roof replacement process includes old roof removal, deck repair, installing new underlayment, flashing, shingles, and a final cleanup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-raised-ceiling-remodeling",
+  "name": "What is raised ceiling remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is raised ceiling remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Raised ceiling remodeling involves increasing the vertical height of a room's ceiling. This can be achieved by removing drop ceilings, opening up vaulted or tray ceilings, or sometimes by structurally raising the roofline of a building. The primary goal is to create a more open, spacious, and airy feel within a room, often improving natural light and enhancing the overall aesthetic. It's a significant renovation that can transform the perception of space in your home.",
+        "@type": "Answer",
+        "description": "Raised ceiling remodeling increases a room's vertical height to create a more spacious and open feel."
+      }
+    }
+  ],
+  "description": "Raised ceiling remodeling increases a room's vertical height to create a more spacious and open feel."
+}

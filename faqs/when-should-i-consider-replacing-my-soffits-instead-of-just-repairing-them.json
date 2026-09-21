@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-replacing-my-soffits-instead-of-just-repairing-them",
+  "name": "When should I consider replacing my soffits instead of just repairing them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my soffits instead of just repairing them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing your soffits instead of just repairing them when the damage is widespread, severe, or indicative of systemic issues. If most of your soffit panels are deteriorated, rotting, or compromised by persistent moisture or pests, a full replacement can be more cost-effective in the long run than continuous patch repairs. Replacing them also offers an opportunity to upgrade materials for better durability and aesthetics. A professional assessment can help determine if replacement is the more prudent and economical choice for your home.",
+        "@type": "Answer",
+        "description": "Consider replacement if damage is widespread, severe, or indicates systemic issues. A full replacement can be more cost-effective long-term and allows for material upgrades."
+      }
+    }
+  ],
+  "description": "Consider replacement if damage is widespread, severe, or indicates systemic issues. A full replacement can be more cost-effective long-term and allows for mater"
+}

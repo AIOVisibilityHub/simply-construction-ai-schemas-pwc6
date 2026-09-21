@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-window-and-door-replacement-in-las-vegas",
+  "name": "Do I need permits for window and door replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for window and door replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas and surrounding areas, minor window and door replacements that do not alter the structural opening typically do not require a permit. However, if you are enlarging an opening, adding a new window or door, or making structural changes, a permit is generally required to ensure compliance with local building codes for safety and structural integrity. Simply Construction can advise on specific permit requirements for your project.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for direct replacements that don't alter structural openings. They are required for enlarging openings or new installations."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for direct replacements that don't alter structural openings. They are required for enlarging openings or new installations."
+}

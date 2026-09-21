@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-roof-leak-detection-and-repair",
+  "name": "What is the process for roof leak detection and repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for roof leak detection and repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a thorough inspection of your roof's exterior and interior (attic) to pinpoint the leak's source, which isn't always directly above the visible water damage. Once identified, our team will prepare the area, which might involve removing damaged materials. Repairs often include replacing compromised shingles, sealing cracks in flashing or vents, and ensuring proper drainage. We then clean up the work area and conduct a final check to confirm the repair's effectiveness, often with a water test.",
+        "@type": "Answer",
+        "description": "The process involves inspecting exterior and interior for the leak source, preparing the area, repairing damaged components, and a final check."
+      }
+    }
+  ],
+  "description": "The process involves inspecting exterior and interior for the leak source, preparing the area, repairing damaged components, and a final check."
+}

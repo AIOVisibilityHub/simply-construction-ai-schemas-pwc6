@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-soffit-needs-repair",
+  "name": "What are common signs that my soffit needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my soffit needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your soffit needs repair include visible water stains, peeling paint, sagging sections, or holes. You might also notice pests like birds or rodents entering your attic through damaged areas. Additionally, if your energy bills are unusually high, it could suggest compromised attic ventilation due to a damaged soffit. Inspecting your soffits regularly for these indicators can help you catch problems early and prevent more extensive, costly repairs.",
+        "@type": "Answer",
+        "description": "Look for water stains, peeling paint, sagging, holes, or pest entry. High energy bills can also indicate soffit damage."
+      }
+    }
+  ],
+  "description": "Look for water stains, peeling paint, sagging, holes, or pest entry. High energy bills can also indicate soffit damage."
+}

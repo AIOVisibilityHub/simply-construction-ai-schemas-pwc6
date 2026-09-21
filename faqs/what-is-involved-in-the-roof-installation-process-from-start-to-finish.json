@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-roof-installation-process-from-start-to-finish",
+  "name": "What is involved in the roof installation process from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the roof installation process from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof installation process typically begins with an initial inspection and proposal. Once approved, we schedule the project. On installation day, old roofing materials are removed down to the deck. Any damaged decking or underlying structures are repaired or replaced. New underlayment, flashing, and then the chosen roofing material (shingles, tiles, etc.) are installed according to manufacturer specifications and local building codes. Finally, the site is thoroughly cleaned, and a final inspection is conducted to ensure quality.",
+        "@type": "Answer",
+        "description": "The roof installation process involves inspection, removal of old materials, repairs, installation of new underlayment and roofing, site cleanup, and a final quality inspection."
+      }
+    }
+  ],
+  "description": "The roof installation process involves inspection, removal of old materials, repairs, installation of new underlayment and roofing, site cleanup, and a final qu"
+}

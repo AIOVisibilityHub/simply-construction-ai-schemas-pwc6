@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-update-my-exterior-before-selling-my-house",
+  "name": "Should I update my exterior before selling my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I update my exterior before selling my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Updating your exterior before selling can significantly impact buyer interest and sale price. First impressions are crucial, and a well-maintained, attractive exterior enhances curb appeal, making your home stand out. Focus on high-impact, visible improvements like fresh paint, updated landscaping, and repairing any visible damage to siding or roofing. Replacing an old front door or garage door also offers a strong return on investment. These updates can help your home sell faster and potentially for a higher price by creating a positive first impression.",
+        "@type": "Answer",
+        "description": "Yes, updating your exterior before selling can significantly increase buyer interest, sale price, and help your home sell faster."
+      }
+    }
+  ],
+  "description": "Yes, updating your exterior before selling can significantly increase buyer interest, sale price, and help your home sell faster."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-be-home-during-a-roof-repair",
+  "name": "Do I need to be home during a roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during a roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, you do not need to be home during a roof repair, especially for exterior-only work. Our team can access your roof from the outside. However, we recommend being available by phone in case our crew has questions or needs to discuss any unforeseen issues. For repairs that require interior access to assess leaks or complete repairs, arrangements will be made to ensure someone is present.",
+        "@type": "Answer",
+        "description": "You generally don't need to be home for exterior roof repairs, but being available by phone is advised. Interior access requires someone to be present."
+      }
+    }
+  ],
+  "description": "You generally don't need to be home for exterior roof repairs, but being available by phone is advised. Interior access requires someone to be present."
+}

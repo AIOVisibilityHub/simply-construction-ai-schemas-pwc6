@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-shingle-type-for-my-home",
+  "name": "How do I choose the right shingle type for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right shingle type for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right shingle type involves considering several factors specific to your home and preferences. Asphalt shingles are the most common, offering a balance of affordability and durability. Architectural or dimensional shingles provide a more aesthetically pleasing, textured look and often a longer lifespan. Consider your home's architectural style, the local climate conditions (e.g., UV exposure in Las Vegas), your budget, and the desired warranty length. A reputable contractor can help you compare options and select shingles that meet your needs and enhance your home's appearance.",
+        "@type": "Answer",
+        "description": "To choose the right shingle, consider your home's style, local climate, budget, and desired lifespan; a contractor can provide guidance."
+      }
+    }
+  ],
+  "description": "To choose the right shingle, consider your home's style, local climate, budget, and desired lifespan; a contractor can provide guidance."
+}

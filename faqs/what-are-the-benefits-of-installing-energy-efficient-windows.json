@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-installing-energy-efficient-windows",
+  "name": "What are the benefits of installing energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing energy-efficient windows offers several advantages. The primary benefit is reduced energy consumption, leading to lower utility bills as your HVAC system operates more efficiently. They also enhance indoor comfort by minimizing drafts and maintaining consistent temperatures throughout your home. Beyond energy savings, these windows can reduce outside noise, increase your home's curb appeal, and potentially boost its resale value. They also protect interior furnishings from harmful UV rays.",
+        "@type": "Answer",
+        "description": "Benefits include lower energy bills, improved indoor comfort, reduced outside noise, and increased home value."
+      }
+    }
+  ],
+  "description": "Benefits include lower energy bills, improved indoor comfort, reduced outside noise, and increased home value."
+}

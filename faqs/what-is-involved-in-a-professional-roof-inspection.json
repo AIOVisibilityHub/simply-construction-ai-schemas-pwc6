@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-professional-roof-inspection",
+  "name": "What is involved in a professional roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a professional roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A professional roof inspection typically includes a comprehensive visual assessment of your roof's exterior, checking for common issues like cracked or missing shingles, damaged flashing, granule loss, and proper drainage. Inspectors will also look for signs of wear and tear, storm damage, and potential leaks. The process often involves examining the gutters, downspouts, and sometimes the attic space directly below the roof for water intrusion or structural concerns. A detailed report with findings and recommendations is usually provided.",
+        "@type": "Answer",
+        "description": "A professional roof inspection involves a visual assessment of your roof's condition, checking for damage, wear, and potential leaks, often including gutters and attic, followed by a detailed report."
+      }
+    }
+  ],
+  "description": "A professional roof inspection involves a visual assessment of your roof's condition, checking for damage, wear, and potential leaks, often including gutters an"
+}

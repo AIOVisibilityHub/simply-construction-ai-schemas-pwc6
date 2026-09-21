@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-exterior-renovations-increase-my-home-s-value",
+  "name": "Can exterior renovations increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can exterior renovations increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, exterior renovations can significantly increase your home's value and curb appeal, making it more attractive to potential buyers. Projects with a high return on investment often include front door replacement, garage door replacement, adding a manufactured stone veneer, and improving siding. A fresh coat of paint and professional landscaping also offer excellent value. These improvements not only enhance aesthetics but can also improve energy efficiency and structural integrity, adding to the long-term value of your property.",
+        "@type": "Answer",
+        "description": "Exterior renovations like door replacement, new siding, and landscaping can significantly increase home value and curb appeal."
+      }
+    }
+  ],
+  "description": "Exterior renovations like door replacement, new siding, and landscaping can significantly increase home value and curb appeal."
+}

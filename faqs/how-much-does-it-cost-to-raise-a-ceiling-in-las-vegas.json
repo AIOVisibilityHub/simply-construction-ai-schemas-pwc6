@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-raise-a-ceiling-in-las-vegas",
+  "name": "How much does it cost to raise a ceiling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to raise a ceiling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to raise a ceiling in Las Vegas varies widely depending on several factors, such as the current ceiling type (e.g., drop, flat), whether structural modifications are needed, the size of the room, and the chosen finishing materials. Complex projects involving HVAC, electrical, or plumbing relocation will increase costs. A simple removal of a drop ceiling might be less expensive than raising a flat ceiling that requires significant structural work. We provide detailed estimates after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Costs vary based on current ceiling type, structural needs, room size, and finishing materials. Complex projects with utility relocation will be more expensive."
+      }
+    }
+  ],
+  "description": "Costs vary based on current ceiling type, structural needs, room size, and finishing materials. Complex projects with utility relocation will be more expensive."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-roof-repair",
+  "name": "What factors influence the cost of roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof repair is influenced by several factors, including the type and extent of the damage, the materials required, the pitch and accessibility of the roof, and the size of the area needing repair. Emergency repairs, specific material types like tile or metal, and underlying structural damage can also affect the final price. We provide detailed estimates after a thorough inspection.",
+        "@type": "Answer",
+        "description": "Roof repair costs depend on damage extent, material type, roof pitch, accessibility, and whether emergency work is needed."
+      }
+    }
+  ],
+  "description": "Roof repair costs depend on damage extent, material type, roof pitch, accessibility, and whether emergency work is needed."
+}

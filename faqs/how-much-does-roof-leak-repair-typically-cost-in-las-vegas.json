@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-roof-leak-repair-typically-cost-in-las-vegas",
+  "name": "How much does roof leak repair typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does roof leak repair typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of roof leak repair in Las Vegas varies widely based on the leak's severity, location, roof material, and the extent of damage. Minor repairs, like replacing a few shingles or resealing flashing, might range from a few hundred dollars. More extensive damage, involving multiple sections or underlying structural issues, can cost significantly more. Factors like the pitch of your roof and accessibility also influence labor costs. A professional inspection is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs vary based on leak severity, location, roof material, and damage extent. Minor repairs can be a few hundred dollars; major repairs are more."
+      }
+    }
+  ],
+  "description": "Costs vary based on leak severity, location, roof material, and damage extent. Minor repairs can be a few hundred dollars; major repairs are more."
+}

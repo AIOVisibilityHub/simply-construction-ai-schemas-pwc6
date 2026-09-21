@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-window-and-door-replacement-project-take",
+  "name": "How long does a typical window and door replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical window and door replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a window and door replacement project varies based on the number of units, type of products, and complexity of the installation. A standard full-home window replacement can take anywhere from a few days to a week. Door replacements, especially for entry doors, might take one to two days per door. We aim to complete projects efficiently while ensuring quality craftsmanship and minimal disruption to your home in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Project duration depends on the number and type of units. A full-home window replacement can take days to a week; door replacements often take 1-2 days per door."
+      }
+    }
+  ],
+  "description": "Project duration depends on the number and type of units. A full-home window replacement can take days to a week; door replacements often take 1-2 days per door"
+}

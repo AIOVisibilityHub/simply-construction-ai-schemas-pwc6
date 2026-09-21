@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-fascia-repair-project-take",
+  "name": "How long does a typical fascia repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical fascia repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a fascia repair project depends on the scope and severity of the damage. Small, isolated repairs like patching and repainting a few feet of fascia might only take a few hours to a day. More extensive damage, such as replacing multiple sections or a significant portion of the entire perimeter, could extend the project to several days. Factors like weather conditions, material availability, and the complexity of accessing certain areas also influence the timeline. We provide an estimated completion time with your detailed quote.",
+        "@type": "Answer",
+        "description": "Fascia repair duration varies from a few hours for minor fixes to several days for extensive replacements, depending on damage scope and conditions."
+      }
+    }
+  ],
+  "description": "Fascia repair duration varies from a few hours for minor fixes to several days for extensive replacements, depending on damage scope and conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-questions-should-i-ask-a-roofing-contractor-before-hiring-them-for-a-shingl",
+  "name": "What questions should I ask a roofing contractor before hiring them for a shingle replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a roofing contractor before hiring them for a shingle replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a roofing contractor for a shingle replacement, ask about their licensing and insurance (liability and worker's compensation). Inquire about their experience with projects similar to yours and ask for local references. Request a detailed written estimate outlining all costs, materials, and the project timeline. Clarify warranty information for both materials and labor. Also, ask about their cleanup process and how they handle unforeseen issues. A transparent contractor will gladly answer these questions.",
+        "@type": "Answer",
+        "description": "Ask a roofing contractor about their license, insurance, experience, references, detailed estimates, warranties, and cleanup process."
+      }
+    }
+  ],
+  "description": "Ask a roofing contractor about their license, insurance, experience, references, detailed estimates, warranties, and cleanup process."
+}

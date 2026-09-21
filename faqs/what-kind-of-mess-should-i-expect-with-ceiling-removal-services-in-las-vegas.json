@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-mess-should-i-expect-with-ceiling-removal-services-in-las-vegas",
+  "name": "What kind of mess should I expect with ceiling removal services in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of mess should I expect with ceiling removal services in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When undergoing ceiling removal in Las Vegas, you should expect significant dust and debris, as the process involves scraping off old material. Professional contractors mitigate this by sealing off the work area, covering floors and furnishings, and utilizing dust control methods. While precautions are taken, it’s advisable to clear the room of valuables and sensitive items beforehand.",
+        "@type": "Answer",
+        "description": "Expect significant dust and debris during ceiling removal in Las Vegas, though professionals use sealing and covering to minimize the mess."
+      }
+    }
+  ],
+  "description": "Expect significant dust and debris during ceiling removal in Las Vegas, though professionals use sealing and covering to minimize the mess."
+}

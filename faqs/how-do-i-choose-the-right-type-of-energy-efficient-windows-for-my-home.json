@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-type-of-energy-efficient-windows-for-my-home",
+  "name": "How do I choose the right type of energy-efficient windows for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of energy-efficient windows for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right energy-efficient windows involves considering your home's architectural style, your budget, and specific energy performance needs. Key factors include the window's U-factor (which measures heat transfer) and Solar Heat Gain Coefficient (SHGC, for solar radiation blockage). We offer various materials like vinyl, fiberglass, and wood, each with different insulation properties and aesthetic appeal. Our experts can guide you through the options, helping you select windows that best suit your climate and personal preferences.",
+        "@type": "Answer",
+        "description": "Consider your home's style, budget, and energy performance metrics like U-factor and SHGC. Our experts can assist with selection."
+      }
+    }
+  ],
+  "description": "Consider your home's style, budget, and energy performance metrics like U-factor and SHGC. Our experts can assist with selection."
+}

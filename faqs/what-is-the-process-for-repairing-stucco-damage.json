@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-stucco-damage",
+  "name": "What is the process for repairing stucco damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing stucco damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing stucco damage typically involves several steps. First, the damaged or loose stucco is carefully removed. The underlying surface is then prepared, which might include cleaning, applying a bonding agent, or repairing the lath if necessary. Next, new stucco material is applied in multiple layers, mimicking the original texture and finish. This often includes a scratch coat, a brown coat, and a finish coat. Finally, the repaired area is allowed to cure properly to ensure durability and a seamless blend with the existing stucco.",
+        "@type": "Answer",
+        "description": "Stucco repair involves removing damaged material, preparing the underlying surface, applying new stucco in layers to match texture, and allowing it to cure."
+      }
+    }
+  ],
+  "description": "Stucco repair involves removing damaged material, preparing the underlying surface, applying new stucco in layers to match texture, and allowing it to cure."
+}

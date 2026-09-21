@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-of-hail-damage-on-a-roof",
+  "name": "What are common signs of hail damage on a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs of hail damage on a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hail damage can appear as dents, cracks, or bruising on shingles, especially asphalt shingles where the granules might be dislodged, exposing the underlying mat. On metal roofs, you'll see visible dents or dings. Hail can also damage other roof components like skylights, vents, and gutters. These impacts can compromise the integrity of your roof, even if they don't immediately cause leaks, and warrant a professional inspection.",
+        "@type": "Answer",
+        "description": "Common signs include dents, cracks, or bruising on shingles, dislodged granules, and dents on metal components like vents and gutters."
+      }
+    }
+  ],
+  "description": "Common signs include dents, cracks, or bruising on shingles, dislodged granules, and dents on metal components like vents and gutters."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-damaged-soffits",
+  "name": "What is the process for repairing damaged soffits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing damaged soffits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The soffit repair process typically begins with an inspection to assess the damage and identify its cause. Depending on the issue, the contractor will either repair or replace the damaged sections. This often involves carefully removing the affected soffit panels, addressing any underlying rot or structural issues, and then installing new materials that match the existing soffit. Proper sealing and painting are usually the final steps to ensure weather resistance and a seamless appearance. We prioritize quality materials and techniques to ensure a lasting repair.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removing damaged panels, addressing underlying issues, installing new materials, and finishing with sealing and painting for weather resistance."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removing damaged panels, addressing underlying issues, installing new materials, and finishing with sealing and painting for we"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-front-door-installation-usually-take",
+  "name": "How long does front door installation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does front door installation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard front door installations can be completed within one day. This includes removing the old door and frame, preparing the opening, installing the new pre-hung door unit, and applying exterior trim and weatherstripping. More complex projects, such as widening an entryway, adding structural supports, or installing custom-sized doors, may require additional time. We provide an estimated timeline during the initial consultation.",
+        "@type": "Answer",
+        "description": "Standard front door installation usually takes one day, including removal and setup. More complex projects might require additional time."
+      }
+    }
+  ],
+  "description": "Standard front door installation usually takes one day, including removal and setup. More complex projects might require additional time."
+}

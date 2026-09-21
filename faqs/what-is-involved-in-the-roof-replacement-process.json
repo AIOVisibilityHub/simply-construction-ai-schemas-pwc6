@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-roof-replacement-process",
+  "name": "What is involved in the roof replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the roof replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof replacement process typically involves several steps: initial inspection and estimate, removal of the old roofing material, inspection of the roof deck, necessary repairs, installation of underlayment and new flashing, installation of the new roofing material, and a thorough clean-up. We ensure all debris is removed and your property is left tidy.",
+        "@type": "Answer",
+        "description": "The process includes inspection, removal of old materials, deck repair, installation of underlayment and new roofing, followed by a complete cleanup."
+      }
+    }
+  ],
+  "description": "The process includes inspection, removal of old materials, deck repair, installation of underlayment and new roofing, followed by a complete cleanup."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-roof-leak-repair-take",
+  "name": "How long does roof leak repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does roof leak repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of roof leak repair depends on the complexity and extent of the damage. Simple repairs, such as replacing a few missing shingles or patching a small hole, can often be completed within a few hours to one day. More extensive repairs involving multiple leak sources, significant structural damage, or large sections of re-roofing might take several days. Weather conditions can also affect the timeline, as roof work cannot safely proceed in heavy rain or high winds.",
+        "@type": "Answer",
+        "description": "Simple repairs may take a few hours to a day, while extensive damage could require several days, depending on complexity and weather."
+      }
+    }
+  ],
+  "description": "Simple repairs may take a few hours to a day, while extensive damage could require several days, depending on complexity and weather."
+}

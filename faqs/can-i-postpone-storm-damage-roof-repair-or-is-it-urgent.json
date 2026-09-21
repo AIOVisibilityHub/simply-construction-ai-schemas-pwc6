@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-postpone-storm-damage-roof-repair-or-is-it-urgent",
+  "name": "Can I postpone storm damage roof repair, or is it urgent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I postpone storm damage roof repair, or is it urgent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Postponing storm damage roof repair is not recommended. Even minor damage can quickly worsen, especially with subsequent weather events, leading to more extensive and costly issues like leaks, mold growth, or structural damage to your home. Addressing storm damage promptly helps prevent further deterioration, protects your property, and often ensures better outcomes with insurance claims.",
+        "@type": "Answer",
+        "description": "It is urgent. Postponing repairs can lead to worse damage, leaks, mold, and higher costs. Address it promptly to protect your home."
+      }
+    }
+  ],
+  "description": "It is urgent. Postponing repairs can lead to worse damage, leaks, mold, and higher costs. Address it promptly to protect your home."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-roof-needs-repair",
+  "name": "What are common signs that my roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your roof needs repair include missing, cracked, or curled shingles, visible water stains on ceilings or walls, granules in your gutters, or sagging areas on your roof deck. Discolored or mossy areas can also indicate moisture retention. Regular inspections can help identify these issues early and prevent more extensive damage to your property. Addressing small problems promptly can save significant costs down the line.",
+        "@type": "Answer",
+        "description": "Missing or damaged shingles, water stains indoors, granules in gutters, and sagging areas are common signs your roof needs repair."
+      }
+    }
+  ],
+  "description": "Missing or damaged shingles, water stains indoors, granules in gutters, and sagging areas are common signs your roof needs repair."
+}

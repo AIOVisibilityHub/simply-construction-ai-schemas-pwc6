@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-new-windows-and-doors-reduce-my-energy-bills",
+  "name": "Can new windows and doors reduce my energy bills?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can new windows and doors reduce my energy bills?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Upgrading to energy-efficient windows and doors can significantly reduce your energy consumption and lower utility bills. Modern windows and doors offer superior insulation, preventing conditioned air from escaping and outside temperatures from entering your home. Features like multi-pane glass, Low-E coatings, and insulated frames are designed to minimize heat transfer, leading to a more stable indoor temperature and less reliance on your HVAC system.",
+        "@type": "Answer",
+        "description": "Yes, new energy-efficient windows and doors reduce energy consumption by providing better insulation, leading to lower utility bills."
+      }
+    }
+  ],
+  "description": "Yes, new energy-efficient windows and doors reduce energy consumption by providing better insulation, leading to lower utility bills."
+}

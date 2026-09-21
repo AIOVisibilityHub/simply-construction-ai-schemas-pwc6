@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-new-flat-roof-improve-my-building-s-energy-efficiency-in-the-las-vegas-cl",
+  "name": "Will a new flat roof improve my building's energy efficiency in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new flat roof improve my building's energy efficiency in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a new flat roof can significantly improve your building's energy efficiency, especially in the Las Vegas climate. Many modern flat roofing materials, like TPO and PVC, are designed to be highly reflective, reducing heat absorption and lowering cooling costs during hot months. We can also incorporate additional insulation layers during the replacement process, which further enhances thermal performance and contributes to a more comfortable indoor environment and reduced energy bills.",
+        "@type": "Answer",
+        "description": "Yes, a new flat roof, especially with reflective materials like TPO or PVC and added insulation, can significantly improve energy efficiency and lower cooling costs in Las Vegas."
+      }
+    }
+  ],
+  "description": "Yes, a new flat roof, especially with reflective materials like TPO or PVC and added insulation, can significantly improve energy efficiency and lower cooling c"
+}

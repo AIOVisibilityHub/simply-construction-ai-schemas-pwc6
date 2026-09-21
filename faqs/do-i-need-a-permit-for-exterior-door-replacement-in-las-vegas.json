@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-exterior-door-replacement-in-las-vegas",
+  "name": "Do I need a permit for exterior door replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for exterior door replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, replacing an existing exterior door with a new one of similar size and type does not require a building permit in Las Vegas. However, if the replacement involves altering the structural opening, enlarging the door frame, or changing the door's fire rating (especially for commercial properties or specific residential scenarios), a permit may be necessary. It's always best to consult with your contractor, as they can verify local building codes and permit requirements to ensure compliance for your specific project before work begins.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for like-for-like exterior door replacements in Las Vegas. However, structural alterations or changes in door size or type may require one. We can help verify local code requirements."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for like-for-like exterior door replacements in Las Vegas. However, structural alterations or changes in door size or type may re"
+}

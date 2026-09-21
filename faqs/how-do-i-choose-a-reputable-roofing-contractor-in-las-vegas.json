@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-reputable-roofing-contractor-in-las-vegas",
+  "name": "How do I choose a reputable roofing contractor in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable roofing contractor in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing contractor in Las Vegas, look for licensed and insured companies with a strong local reputation. Check their portfolio of past work, read customer reviews, and ensure they provide clear, detailed estimates without hidden fees. A reliable contractor will also offer warranties on both materials and workmanship.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured local contractor with good reviews, a clear portfolio, and comprehensive warranties on materials and workmanship."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured local contractor with good reviews, a clear portfolio, and comprehensive warranties on materials and workmanship."
+}

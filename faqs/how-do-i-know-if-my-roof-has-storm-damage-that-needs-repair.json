@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-my-roof-has-storm-damage-that-needs-repair",
+  "name": "How do I know if my roof has storm damage that needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my roof has storm damage that needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs like missing or cracked shingles, dents on soft metals (gutters, vents), or excessive shingle granules in downspouts. Inside, check for water stains on ceilings or walls. It's often difficult to assess roof damage safely from the ground. A professional inspection by a qualified contractor can accurately identify hidden or subtle damage that may not be obvious to an untrained eye.",
+        "@type": "Answer",
+        "description": "Check for missing shingles, dents on metal, granule loss, or interior water stains. A professional inspection is recommended."
+      }
+    }
+  ],
+  "description": "Check for missing shingles, dents on metal, granule loss, or interior water stains. A professional inspection is recommended."
+}

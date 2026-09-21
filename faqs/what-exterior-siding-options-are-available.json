@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-exterior-siding-options-are-available",
+  "name": "What exterior siding options are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What exterior siding options are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common exterior siding options include vinyl, stucco, fiber cement, and wood. Vinyl siding is popular for its affordability and low maintenance. Stucco is a durable choice, particularly suited for the desert climate of Las Vegas, offering good insulation. Fiber cement siding provides the look of wood without the maintenance concerns, while wood siding offers a classic aesthetic but requires more upkeep. We can help you select the best option based on your budget, desired look, and durability needs.",
+        "@type": "Answer",
+        "description": "Options include vinyl, stucco, fiber cement, and wood, each offering different benefits in terms of cost, maintenance, and appearance."
+      }
+    }
+  ],
+  "description": "Options include vinyl, stucco, fiber cement, and wood, each offering different benefits in terms of cost, maintenance, and appearance."
+}

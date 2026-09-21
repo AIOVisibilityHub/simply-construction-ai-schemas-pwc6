@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-replacement-windows-and-new-construction-windows",
+  "name": "What's the difference between replacement windows and new construction windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between replacement windows and new construction windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacement windows are designed to fit into existing window frames after the old sash and sometimes the frame are removed, preserving the original wall opening. New construction windows, on the other hand, include a nailing fin and are designed to be installed directly into the rough opening of a new home or during a major renovation where the exterior siding is removed. Most existing home upgrades utilize replacement windows to minimize structural work.",
+        "@type": "Answer",
+        "description": "Replacement windows fit into existing frames, while new construction windows are installed into rough openings, typically during new builds or extensive renovations."
+      }
+    }
+  ],
+  "description": "Replacement windows fit into existing frames, while new construction windows are installed into rough openings, typically during new builds or extensive renovat"
+}

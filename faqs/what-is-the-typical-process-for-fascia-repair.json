@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-fascia-repair",
+  "name": "What is the typical process for fascia repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for fascia repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The fascia repair process typically begins with an inspection to assess the extent of the damage. Minor issues like small cracks or peeling paint might involve cleaning, sanding, filling, and repainting the affected areas. For more significant damage, such as rot or structural compromise, the damaged sections of fascia will need to be carefully removed. New fascia boards, often made from wood or composite materials, are then cut to size, primed, and securely installed. Finally, the new fascia is painted or sealed to match your home's exterior and protect it from future weather exposure.",
+        "@type": "Answer",
+        "description": "Fascia repair involves inspection, removal of damaged sections, and installation of new, prepped fascia boards, followed by painting or sealing."
+      }
+    }
+  ],
+  "description": "Fascia repair involves inspection, removal of damaged sections, and installation of new, prepped fascia boards, followed by painting or sealing."
+}

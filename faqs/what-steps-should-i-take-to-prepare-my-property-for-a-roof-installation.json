@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-steps-should-i-take-to-prepare-my-property-for-a-roof-installation",
+  "name": "What steps should I take to prepare my property for a roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps should I take to prepare my property for a roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare your property for roof installation, clear the driveway and areas around your home to allow easy access for our crews and material delivery. Move outdoor furniture, sensitive plants, and vehicles away from the house to protect them from falling debris. Inside, secure or remove any fragile items from walls or shelves, as vibrations can occur during the process. Inform your neighbors about the upcoming work as a courtesy. We will discuss specific preparations with you before work begins.",
+        "@type": "Answer",
+        "description": "Prepare your property by clearing access areas, moving outdoor items, securing indoor valuables, and informing neighbors. Specific preparations will be discussed prior to installation."
+      }
+    }
+  ],
+  "description": "Prepare your property by clearing access areas, moving outdoor items, securing indoor valuables, and informing neighbors. Specific preparations will be discusse"
+}

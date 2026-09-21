@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-often-should-i-have-my-tile-roof-inspected-for-potential-repairs-in-the-las",
+  "name": "How often should I have my tile roof inspected for potential repairs in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my tile roof inspected for potential repairs in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Given the specific climate conditions in Las Vegas, including intense sun exposure and occasional high winds or heavy rains, it's advisable to have your tile roof inspected professionally every 1 to 3 years. Regular inspections help identify minor issues early, such as shifted or cracked tiles, before they escalate into more significant and costly problems. Proactive maintenance extends your roof's lifespan and protects your home from the elements.",
+        "@type": "Answer",
+        "description": "Due to Las Vegas's climate, a professional tile roof inspection every 1 to 3 years is recommended to catch minor issues early and prevent larger problems."
+      }
+    }
+  ],
+  "description": "Due to Las Vegas's climate, a professional tile roof inspection every 1 to 3 years is recommended to catch minor issues early and prevent larger problems."
+}

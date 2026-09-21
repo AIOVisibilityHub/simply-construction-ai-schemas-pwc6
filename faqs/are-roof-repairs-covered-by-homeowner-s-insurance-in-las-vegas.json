@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-roof-repairs-covered-by-homeowner-s-insurance-in-las-vegas",
+  "name": "Are roof repairs covered by homeowner's insurance in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are roof repairs covered by homeowner's insurance in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether roof repairs are covered by homeowner's insurance in Las Vegas depends on the cause of the damage and your specific policy. Generally, sudden and accidental damage, such as that caused by storms, high winds, or vandalism, is covered. Damage resulting from neglect, wear and tear, or faulty installation typically is not. It's important to review your policy or contact your insurance provider to understand your coverage specifics.",
+        "@type": "Answer",
+        "description": "Insurance coverage for roof repairs in Las Vegas depends on your policy and the damage cause; sudden events are often covered, but neglect is not."
+      }
+    }
+  ],
+  "description": "Insurance coverage for roof repairs in Las Vegas depends on your policy and the damage cause; sudden events are often covered, but neglect is not."
+}

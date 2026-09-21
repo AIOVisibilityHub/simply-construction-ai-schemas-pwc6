@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-glass-type-for-my-new-sliding-glass-door",
+  "name": "How do I choose the right glass type for my new sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right glass type for my new sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right glass involves considering factors like energy efficiency, security, and noise reduction. Options include double or triple-pane glass for better insulation, Low-E coatings to reflect heat, and argon gas fills for enhanced thermal performance. Tempered or laminated glass provides increased safety and security. Your climate and specific needs will guide the best selection. Our experts can help you assess these factors during your consultation.",
+        "@type": "Answer",
+        "description": "Consider energy efficiency (multi-pane, Low-E, argon gas) and security (tempered/laminated glass). Your climate and needs will determine the best choice."
+      }
+    }
+  ],
+  "description": "Consider energy efficiency (multi-pane, Low-E, argon gas) and security (tempered/laminated glass). Your climate and needs will determine the best choice."
+}

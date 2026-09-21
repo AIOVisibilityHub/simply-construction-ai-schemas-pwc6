@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-exterior-home-makeover",
+  "name": "How do I choose the right contractor for my exterior home makeover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my exterior home makeover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves several key steps. Look for contractors with a strong portfolio of similar exterior projects and positive client testimonials. Verify their licensing and insurance to ensure they are reputable and protected. Obtain multiple bids and compare them not just on price, but also on the scope of work, materials specified, and project timeline. Discuss communication styles and confirm they understand your vision. A reliable contractor will provide a clear contract, answer all your questions, and offer professional references.",
+        "@type": "Answer",
+        "description": "Choose a contractor by checking their portfolio, licensing, insurance, and getting multiple bids. Ensure clear communication and references."
+      }
+    }
+  ],
+  "description": "Choose a contractor by checking their portfolio, licensing, insurance, and getting multiple bids. Ensure clear communication and references."
+}

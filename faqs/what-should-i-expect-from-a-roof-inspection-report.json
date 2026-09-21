@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-expect-from-a-roof-inspection-report",
+  "name": "What should I expect from a roof inspection report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I expect from a roof inspection report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A thorough roof inspection report should detail all observations made during the inspection. This typically includes the condition of shingles or roofing material, flashing, gutters, downspouts, and any potential points of water entry. The report often contains photos illustrating identified issues, notes on the severity of damage, and recommendations for necessary repairs, maintenance, or replacement, along with estimated costs. It should clearly outline the roof's overall health.",
+        "@type": "Answer",
+        "description": "Expect a roof inspection report to detail all observations, including material condition, flashing, gutters, and potential water entry points. It should contain photos, damage severity, and recommendations for repairs or replacement."
+      }
+    }
+  ],
+  "description": "Expect a roof inspection report to detail all observations, including material condition, flashing, gutters, and potential water entry points. It should contain"
+}

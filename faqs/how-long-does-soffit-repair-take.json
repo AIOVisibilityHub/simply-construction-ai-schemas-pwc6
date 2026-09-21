@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-soffit-repair-take",
+  "name": "How long does soffit repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does soffit repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of soffit repair depends on the scope and severity of the damage. Minor repairs, such as replacing a few small sections, might be completed within a few hours to a single day. More extensive damage involving multiple sections, structural repairs, or repainting could take several days. Factors like weather conditions and material availability can also influence the timeline. During our initial assessment, we can provide a more accurate estimate of how long your specific soffit repair project will take to complete.",
+        "@type": "Answer",
+        "description": "Repair time varies: minor fixes take hours to a day, while extensive damage can take several days. Scope of work and weather are key factors."
+      }
+    }
+  ],
+  "description": "Repair time varies: minor fixes take hours to a day, while extensive damage can take several days. Scope of work and weather are key factors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-flat-roof-replacement-in-the-las-vegas-area",
+  "name": "What is the average cost of flat roof replacement in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of flat roof replacement in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flat roof replacement in the Las Vegas area varies significantly based on factors such as the roof's size, the chosen material (e.g., TPO, PVC, Modified Bitumen), the complexity of the roofline, the need for old roof removal, and any necessary structural repairs. While it's difficult to provide an average without an inspection, we offer free, no-obligation estimates tailored to your specific project needs after assessing your property.",
+        "@type": "Answer",
+        "description": "The cost varies greatly based on roof size, material, complexity, and necessary repairs. We provide free, no-obligation estimates after an inspection."
+      }
+    }
+  ],
+  "description": "The cost varies greatly based on roof size, material, complexity, and necessary repairs. We provide free, no-obligation estimates after an inspection."
+}

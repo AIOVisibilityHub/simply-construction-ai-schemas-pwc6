@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-materials-are-used-for-flat-roof-repair",
+  "name": "What types of materials are used for flat roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are used for flat roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flat roof repairs utilize materials compatible with the existing roofing system. Common materials include TPO (Thermoplastic Polyolefin) membranes, PVC (Polyvinyl Chloride), EPDM (Ethylene Propylene Diene Monomer) rubber, and modified bitumen. Patches are often made from the same material as the roof, sealed with specialized adhesives or heat-welded for a watertight bond. Flashing repairs may involve metal or elastomeric coatings. The choice of material ensures consistency and durability for the repair.",
+        "@type": "Answer",
+        "description": "Repairs use materials compatible with the existing roof, such as TPO, PVC, EPDM, or modified bitumen membranes, sealed with adhesives or heat-welding."
+      }
+    }
+  ],
+  "description": "Repairs use materials compatible with the existing roof, such as TPO, PVC, EPDM, or modified bitumen membranes, sealed with adhesives or heat-welding."
+}

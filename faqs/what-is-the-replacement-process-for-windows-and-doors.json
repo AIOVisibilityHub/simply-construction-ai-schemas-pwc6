@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-replacement-process-for-windows-and-doors",
+  "name": "What is the replacement process for windows and doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the replacement process for windows and doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process typically begins with an initial consultation and measurement. Once products are ordered and arrive, our team will protect your home and carefully remove old units. New windows or doors are then installed, leveled, sealed, and insulated to ensure optimal performance. Finally, trim work is completed, and the work area is cleaned. We ensure minimal disruption and a smooth installation.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, removal of old units, installation and sealing of new ones, followed by finishing and cleanup."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, removal of old units, installation and sealing of new ones, followed by finishing and cleanup."
+}

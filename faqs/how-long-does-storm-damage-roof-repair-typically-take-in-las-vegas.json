@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-storm-damage-roof-repair-typically-take-in-las-vegas",
+  "name": "How long does storm damage roof repair typically take in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does storm damage roof repair typically take in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of storm damage roof repair in Las Vegas varies based on the extent of the damage, the type of roofing material, and permit requirements. Minor repairs, such as replacing a few shingles, might take a few hours. More extensive damage requiring full sections or a complete re-roof can take several days to over a week. Your contractor will provide a more precise timeline after assessing your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time depends on damage severity and roof type. Minor repairs take hours, while extensive work can take several days to over a week."
+      }
+    }
+  ],
+  "description": "Repair time depends on damage severity and roof type. Minor repairs take hours, while extensive work can take several days to over a week."
+}

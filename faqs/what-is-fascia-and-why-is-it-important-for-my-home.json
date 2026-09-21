@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-fascia-and-why-is-it-important-for-my-home",
+  "name": "What is fascia and why is it important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is fascia and why is it important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fascia is the long, straight board that runs along the lower edge of your roof, just behind the gutters. It serves several crucial purposes: it supports the bottom row of roof tiles or shingles, helps to protect the roof edge and interior from weather damage, and provides an attachment point for your gutters. A well-maintained fascia also contributes to the overall aesthetic appeal of your home, giving it a clean, finished look. Damage to the fascia can lead to water intrusion, pest infestation, and compromise the integrity of your roof system.",
+        "@type": "Answer",
+        "description": "Fascia is the board along your roof's edge that supports the roof and gutters, protecting your home from weather and pests while enhancing its appearance."
+      }
+    }
+  ],
+  "description": "Fascia is the board along your roof's edge that supports the roof and gutters, protecting your home from weather and pests while enhancing its appearance."
+}

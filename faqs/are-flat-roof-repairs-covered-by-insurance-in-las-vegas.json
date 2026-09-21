@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-flat-roof-repairs-covered-by-insurance-in-las-vegas",
+  "name": "Are flat roof repairs covered by insurance in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are flat roof repairs covered by insurance in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether flat roof repairs are covered by insurance in Las Vegas depends on your specific homeowner's or commercial property insurance policy and the cause of the damage. Policies typically cover sudden and accidental damage, such as from storms, fire, or vandalism. However, damage due to neglect, poor maintenance, or general wear and tear is usually not covered. It's crucial to review your policy and consult with your insurance provider for clarification on your coverage.",
+        "@type": "Answer",
+        "description": "Insurance coverage for flat roof repairs in Las Vegas depends on your policy and the cause of damage. Typically, sudden accidental damage is covered, not neglect."
+      }
+    }
+  ],
+  "description": "Insurance coverage for flat roof repairs in Las Vegas depends on your policy and the cause of damage. Typically, sudden accidental damage is covered, not neglec"
+}

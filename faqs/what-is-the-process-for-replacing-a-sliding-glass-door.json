@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-a-sliding-glass-door",
+  "name": "What is the process for replacing a sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The replacement process begins with an initial consultation and measurement, followed by selecting your new door. Once the door arrives, our team carefully removes the old unit, prepares the opening, and installs the new frame and door panels. We ensure proper sealing, insulation, and functionality. Finally, we clean up the work area and conduct a final inspection with you to ensure satisfaction. The entire process is designed to be efficient and minimize disruption.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, door selection, old door removal, new door installation, sealing, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, door selection, old door removal, new door installation, sealing, and final inspection."
+}

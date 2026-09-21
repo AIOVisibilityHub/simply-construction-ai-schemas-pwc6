@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-causes-a-roof-to-leak",
+  "name": "What causes a roof to leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes a roof to leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Roof leaks can stem from various issues, including damaged or missing shingles due to strong winds or hail, cracked flashing around chimneys or vents, clogged gutters causing water to back up, and deteriorated sealant. Aging roofing materials naturally become less resilient over time, leading to cracks, shrinkage, or brittleness. Poor installation practices can also contribute to leaks, as can severe weather events like heavy rains or ice dams that force water into vulnerabilities. Regular inspections can help identify and address these issues before they escalate.",
+        "@type": "Answer",
+        "description": "Common causes include damaged shingles, cracked flashing, clogged gutters, aged materials, and poor installation."
+      }
+    }
+  ],
+  "description": "Common causes include damaged shingles, cracked flashing, clogged gutters, aged materials, and poor installation."
+}

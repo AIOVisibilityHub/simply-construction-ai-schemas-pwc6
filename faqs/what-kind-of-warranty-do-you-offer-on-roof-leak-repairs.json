@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-warranty-do-you-offer-on-roof-leak-repairs",
+  "name": "What kind of warranty do you offer on roof leak repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty do you offer on roof leak repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We offer a warranty on our roof leak repair services, covering the workmanship and materials used. The specifics of the warranty, including its duration and coverage details, depend on the scope of the repair and the materials involved. We typically provide a written warranty statement outlining all terms and conditions, ensuring you have peace of mind regarding the quality and longevity of our work. Please discuss warranty specifics with your estimator during your consultation.",
+        "@type": "Answer",
+        "description": "We offer a warranty on workmanship and materials for roof leak repairs; specific terms depend on the repair scope and materials."
+      }
+    }
+  ],
+  "description": "We offer a warranty on workmanship and materials for roof leak repairs; specific terms depend on the repair scope and materials."
+}

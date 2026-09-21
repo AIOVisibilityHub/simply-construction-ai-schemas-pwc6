@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-used-for-fascia-repair-or-replacement",
+  "name": "What materials are used for fascia repair or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are used for fascia repair or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fascia boards are commonly made from several materials, each with distinct advantages. Traditional wood, such as pine or cedar, is popular for its natural look and ease of painting, though it requires regular maintenance and is susceptible to rot if not properly sealed. PVC or vinyl fascia offers excellent weather resistance, is low-maintenance, and doesn't rot, but can be less rigid. Aluminum fascia is a durable, lightweight option that caps existing wood fascia, providing strong weather protection and minimal upkeep. Your choice depends on budget, desired aesthetics, and durability requirements.",
+        "@type": "Answer",
+        "description": "Common fascia materials include wood (natural, paintable, needs maintenance), PVC/vinyl (weather-resistant, low-maintenance), and aluminum (durable cap)."
+      }
+    }
+  ],
+  "description": "Common fascia materials include wood (natural, paintable, needs maintenance), PVC/vinyl (weather-resistant, low-maintenance), and aluminum (durable cap)."
+}

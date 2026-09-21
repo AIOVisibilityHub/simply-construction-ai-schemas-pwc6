@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-flat-roof-repair-process",
+  "name": "What is involved in the flat roof repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the flat roof repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The flat roof repair process typically begins with a thorough inspection to identify the source and extent of the damage. Once assessed, the affected area is cleaned and prepared. Depending on the material and damage, this might involve patching with compatible roofing materials, applying sealants, or reinforcing weak areas. For larger sections, a partial re-membraning might be necessary. The goal is to create a watertight seal and restore the roof's integrity, followed by a final inspection to ensure quality.",
+        "@type": "Answer",
+        "description": "The process involves inspection, cleaning and preparing the damaged area, applying patches or sealants, and a final inspection to ensure a watertight repair."
+      }
+    }
+  ],
+  "description": "The process involves inspection, cleaning and preparing the damaged area, applying patches or sealants, and a final inspection to ensure a watertight repair."
+}

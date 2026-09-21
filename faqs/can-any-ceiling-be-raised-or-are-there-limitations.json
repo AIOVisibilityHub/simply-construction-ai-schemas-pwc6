@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-any-ceiling-be-raised-or-are-there-limitations",
+  "name": "Can any ceiling be raised, or are there limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any ceiling be raised, or are there limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not every ceiling can be raised without significant structural work, and some have natural limitations. Factors like the existing roof structure, the presence of load-bearing walls, HVAC ductwork, electrical wiring, and plumbing lines within the ceiling cavity can all impact feasibility and cost. While many ceilings can be modified, an on-site evaluation by a general contractor is crucial to determine the structural integrity, identify potential obstacles, and assess the practical extent to which a ceiling can be raised.",
+        "@type": "Answer",
+        "description": "Not all ceilings can be raised easily due to existing roof structure, load-bearing elements, and utilities. An on-site evaluation is needed to determine feasibility."
+      }
+    }
+  ],
+  "description": "Not all ceilings can be raised easily due to existing roof structure, load-bearing elements, and utilities. An on-site evaluation is needed to determine feasibi"
+}

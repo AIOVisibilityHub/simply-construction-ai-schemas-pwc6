@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-pressure-washing-my-home-s-exterior-surfaces",
+  "name": "When should I consider pressure washing my home's exterior surfaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider pressure washing my home's exterior surfaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pressure washing your home's exterior surfaces is beneficial when dirt, grime, mold, mildew, or other environmental buildup becomes visible, usually on siding, decks, driveways, or patios. It's often recommended as a preparatory step before exterior painting or sealing. The frequency depends on your local environment and weather, but many homeowners find it beneficial annually or bi-annually to maintain appearance and prevent organic growth from damaging surfaces. Always ensure proper technique to avoid surface damage.",
+        "@type": "Answer",
+        "description": "Consider pressure washing when dirt, mold, or grime build up on exterior surfaces, or before painting/sealing. Frequency depends on environment, often annually or bi-annually."
+      }
+    }
+  ],
+  "description": "Consider pressure washing when dirt, mold, or grime build up on exterior surfaces, or before painting/sealing. Frequency depends on environment, often annually"
+}

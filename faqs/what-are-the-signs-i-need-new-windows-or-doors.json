@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-i-need-new-windows-or-doors",
+  "name": "What are the signs I need new windows or doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs I need new windows or doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators you might need new windows or doors include drafts, difficulty opening or closing, condensation between glass panes, rising energy bills, or visible damage like rot or cracks. Outdated single-pane windows or original builder-grade doors can also signal a need for replacement due to poor insulation and security. Replacing them can improve your home's energy efficiency, comfort, and curb appeal, especially in Las Vegas's climate where good insulation is key.",
+        "@type": "Answer",
+        "description": "Signs include drafts, difficulty operating, condensation, high energy bills, or visible damage. Outdated models often lack proper insulation and security."
+      }
+    }
+  ],
+  "description": "Signs include drafts, difficulty operating, condensation, high energy bills, or visible damage. Outdated models often lack proper insulation and security."
+}

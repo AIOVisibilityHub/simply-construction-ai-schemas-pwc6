@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-replace-my-existing-exterior-door-with-a-larger-size-or-a-different-style",
+  "name": "Can I replace my existing exterior door with a larger size or a different style, like French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my existing exterior door with a larger size or a different style, like French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often replace your existing exterior door with a larger size or a different style, such as French doors or a door with sidelights. However, this type of replacement typically involves significant modifications to the existing door opening, including altering the framing and header. Such structural changes may require a building permit to ensure compliance with local building codes and safety standards. Our team can assess your current opening, advise on the feasibility, and handle the necessary structural work and permitting process to achieve your desired door style.",
+        "@type": "Answer",
+        "description": "Yes, but changing to a larger size or different style like French doors usually requires structural modifications and may need a building permit. We can assess feasibility and manage the process."
+      }
+    }
+  ],
+  "description": "Yes, but changing to a larger size or different style like French doors usually requires structural modifications and may need a building permit. We can assess"
+}

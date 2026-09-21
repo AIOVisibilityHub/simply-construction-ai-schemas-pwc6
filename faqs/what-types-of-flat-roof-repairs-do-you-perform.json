@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-flat-roof-repairs-do-you-perform",
+  "name": "What types of flat roof repairs do you perform?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flat roof repairs do you perform?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We perform a variety of flat roof repairs, addressing common issues such as leaks, punctures, blisters, tears, and ponding water. Our services include patching damaged membranes (TPO, PVC, EPDM, modified bitumen), re-sealing seams, flashing repair around penetrations like vents and skylights, and addressing drainage problems. We also repair damage from weather events and general wear and tear to extend the lifespan of your existing flat roof system.",
+        "@type": "Answer",
+        "description": "We repair leaks, punctures, blisters, and tears on various flat roof types. Services include patching membranes, sealing seams, and flashing repair."
+      }
+    }
+  ],
+  "description": "We repair leaks, punctures, blisters, and tears on various flat roof types. Services include patching membranes, sealing seams, and flashing repair."
+}

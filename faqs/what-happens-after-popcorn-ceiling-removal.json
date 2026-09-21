@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-happens-after-popcorn-ceiling-removal",
+  "name": "What happens after popcorn ceiling removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after popcorn ceiling removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After popcorn ceiling removal, the raw ceiling surface is typically assessed for any damage or imperfections that might have been hidden by the texture. Any dents, cracks, or gouges in the drywall are patched and sanded smooth. Following repairs, the ceiling is usually skim-coated to create a perfectly flat and consistent surface. Finally, it is primed and then painted to match the desired aesthetic of the room.",
+        "@type": "Answer",
+        "description": "After popcorn ceiling removal, the ceiling is repaired, skim-coated for a smooth finish, primed, and then painted."
+      }
+    }
+  ],
+  "description": "After popcorn ceiling removal, the ceiling is repaired, skim-coated for a smooth finish, primed, and then painted."
+}

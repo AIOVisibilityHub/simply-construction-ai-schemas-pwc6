@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-causes-stucco-to-crack-and-chip",
+  "name": "What causes stucco to crack and chip?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes stucco to crack and chip?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco can crack and chip due to several factors, including structural movement of the building, improper mixing or application during installation, and extreme weather conditions like temperature fluctuations and moisture exposure. hairline cracks are often cosmetic, but larger cracks can indicate underlying issues such as water intrusion or foundation problems, requiring prompt repair to prevent further damage.",
+        "@type": "Answer",
+        "description": "Common causes include structural movement, improper application, and weather exposure like temperature changes and moisture."
+      }
+    }
+  ],
+  "description": "Common causes include structural movement, improper application, and weather exposure like temperature changes and moisture."
+}

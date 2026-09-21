@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-perform-tile-roof-repairs-myself-or-should-i-hire-a-professional",
+  "name": "Can I perform tile roof repairs myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform tile roof repairs myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor tasks like replacing a single loose tile might seem straightforward, tile roof repairs are generally best left to professionals. Working on a roof carries significant safety risks, and improper repairs can lead to further damage, including leaks, compromised structural integrity, or voided warranties. Professionals have the right equipment, training, and experience to safely and effectively diagnose issues and perform durable repairs that comply with local building codes.",
+        "@type": "Answer",
+        "description": "For safety and effective results, professional repair is strongly recommended. Improper DIY repairs can cause further damage, leaks, or void warranties."
+      }
+    }
+  ],
+  "description": "For safety and effective results, professional repair is strongly recommended. Improper DIY repairs can cause further damage, leaks, or void warranties."
+}

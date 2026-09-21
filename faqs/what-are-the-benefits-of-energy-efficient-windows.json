@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-energy-efficient-windows",
+  "name": "What are the benefits of energy-efficient windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of energy-efficient windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient windows offer multiple benefits beyond just lower energy bills. They improve indoor comfort by reducing drafts and maintaining consistent temperatures throughout your home. They can also significantly decrease outside noise, creating a quieter living environment. Many energy-efficient windows feature UV protection, which helps prevent fading of furniture, flooring, and artwork. Additionally, new windows can enhance your home's curb appeal and increase its overall resale value, making them a wise investment.",
+        "@type": "Answer",
+        "description": "Benefits include lower energy bills, improved indoor comfort, reduced outside noise, UV protection for interiors, enhanced curb appeal, and increased home value."
+      }
+    }
+  ],
+  "description": "Benefits include lower energy bills, improved indoor comfort, reduced outside noise, UV protection for interiors, enhanced curb appeal, and increased home value"
+}

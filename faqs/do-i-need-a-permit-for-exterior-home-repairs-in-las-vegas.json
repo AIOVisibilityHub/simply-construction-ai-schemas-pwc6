@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-exterior-home-repairs-in-las-vegas",
+  "name": "Do I need a permit for exterior home repairs in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for exterior home repairs in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need a permit for exterior home repairs in Las Vegas depends on the scope and type of work. Minor cosmetic repairs like painting, patching small stucco areas, or replacing a few roof shingles typically do not require a permit. However, projects that involve structural changes, significant alterations to the building's envelope (like extensive re-siding or roof replacement), electrical work, or plumbing usually require permits from the local building department to ensure compliance with safety and building codes. Always check with the City of Las Vegas or Clark County building authority for specific requirements.",
+        "@type": "Answer",
+        "description": "Permit needs for exterior repairs in Las Vegas depend on the work's scope. Minor cosmetic fixes usually don't need one, but structural changes or major replacements typically do. Always check with local building authorities."
+      }
+    }
+  ],
+  "description": "Permit needs for exterior repairs in Las Vegas depend on the work's scope. Minor cosmetic fixes usually don't need one, but structural changes or major replacem"
+}

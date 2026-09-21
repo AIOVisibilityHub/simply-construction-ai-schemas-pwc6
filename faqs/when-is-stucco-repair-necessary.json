@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-stucco-repair-necessary",
+  "name": "When is stucco repair necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is stucco repair necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stucco repair is necessary when you observe visible cracks, chipping, bulging, or discoloration on your stucco surfaces. Small hairline cracks might be cosmetic, but larger cracks, holes, or areas of water staining often indicate a need for professional assessment. Addressing repairs promptly prevents water from penetrating the underlying structure, which can lead to more extensive and costly damage over time.",
+        "@type": "Answer",
+        "description": "Repair is needed for visible cracks, chips, bulges, or discoloration, especially if they indicate water intrusion."
+      }
+    }
+  ],
+  "description": "Repair is needed for visible cracks, chips, bulges, or discoloration, especially if they indicate water intrusion."
+}

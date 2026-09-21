@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-included-in-an-exterior-renovation",
+  "name": "What is included in an exterior renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in an exterior renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Exterior renovation involves updating or repairing the outside of your property. This can include a wide range of projects such as roofing replacement, siding installation, window and door upgrades, exterior painting, stucco repair, and hardscaping elements like patios or walkways. The specific services depend on your property's needs and your goals for aesthetics, durability, and energy efficiency. We assess your home's current condition and discuss your vision to create a tailored renovation plan.",
+        "@type": "Answer",
+        "description": "Exterior renovation updates the outside of your home, including roofing, siding, windows, painting, and hardscaping."
+      }
+    }
+  ],
+  "description": "Exterior renovation updates the outside of your home, including roofing, siding, windows, painting, and hardscaping."
+}

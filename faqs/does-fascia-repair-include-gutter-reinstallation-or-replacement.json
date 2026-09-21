@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/does-fascia-repair-include-gutter-reinstallation-or-replacement",
+  "name": "Does fascia repair include gutter reinstallation or replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does fascia repair include gutter reinstallation or replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fascia repair often involves addressing issues with gutters, as they are directly attached to the fascia board. If the fascia is damaged due to overflowing or detached gutters, the repair project will typically include resecuring the existing gutters properly after the fascia is fixed or replaced. In cases where the gutters themselves are old, damaged, or poorly functioning, it might be recommended to replace them simultaneously. This ensures a comprehensive solution that protects both your roofline and your home's foundation from water damage. We assess gutter condition during the initial inspection.",
+        "@type": "Answer",
+        "description": "Fascia repair often includes resecuring existing gutters or, if necessary, replacing them to ensure proper water drainage and protection."
+      }
+    }
+  ],
+  "description": "Fascia repair often includes resecuring existing gutters or, if necessary, replacing them to ensure proper water drainage and protection."
+}

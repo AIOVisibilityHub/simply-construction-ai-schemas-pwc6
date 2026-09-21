@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-roof-damage-can-be-repaired",
+  "name": "What types of roof damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of roof damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of roof damage can be effectively repaired, including cracked or missing shingles, localized leaks around flashing or vents, minor storm damage from wind or hail, punctures, and issues with sealing or flashing. The feasibility of repair versus replacement often depends on the extent of the damage and the overall condition and age of the roof. We assess each situation individually to determine the best course of action.",
+        "@type": "Answer",
+        "description": "Common roof damages like cracked shingles, localized leaks, minor storm damage, and flashing issues can often be repaired."
+      }
+    }
+  ],
+  "description": "Common roof damages like cracked shingles, localized leaks, minor storm damage, and flashing issues can often be repaired."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-counts-as-storm-damage-to-a-roof",
+  "name": "What counts as storm damage to a roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What counts as storm damage to a roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Storm damage to a roof typically includes issues caused by high winds, hail, heavy rain, or lightning. This can manifest as missing or uplifted shingles, cracks, dents from hail, punctured membranes, or damage from falling debris like tree branches. Even small, unnoticeable damage can lead to leaks and further deterioration over time, making a professional inspection crucial after any significant storm.",
+        "@type": "Answer",
+        "description": "Storm damage includes missing shingles, hail dents, punctures, or debris impact caused by wind, hail, or heavy rain."
+      }
+    }
+  ],
+  "description": "Storm damage includes missing shingles, hail dents, punctures, or debris impact caused by wind, hail, or heavy rain."
+}

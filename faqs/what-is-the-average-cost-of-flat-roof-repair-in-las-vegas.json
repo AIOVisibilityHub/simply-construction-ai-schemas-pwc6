@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-flat-roof-repair-in-las-vegas",
+  "name": "What is the average cost of flat roof repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of flat roof repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of flat roof repair in Las Vegas can vary significantly based on the type of repair needed, the roofing material, the size of the damaged area, and accessibility. Minor repairs like patching small leaks might range from a few hundred dollars. More complex issues involving membrane replacement or structural repairs could cost several thousand dollars. It's best to get a detailed estimate from a local contractor after a thorough inspection to understand the specific costs for your property.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage and materials. Minor repairs start in the hundreds, while major ones can be thousands. Get a local contractor's estimate."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage and materials. Minor repairs start in the hundreds, while major ones can be thousands. Get a local contractor's estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-new-roof-in-the-las-vegas-area",
+  "name": "What is the average cost of a new roof in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a new roof in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new roof in the Las Vegas area varies significantly based on factors like roof size, material type (e.g., asphalt shingles, tile, metal), complexity, and accessibility. A detailed inspection is needed to provide an accurate estimate. We offer free, no-obligation quotes after assessing your specific needs and roof condition.",
+        "@type": "Answer",
+        "description": "The average cost for a new roof in Las Vegas depends on factors like size, material, and complexity; a free estimate is recommended."
+      }
+    }
+  ],
+  "description": "The average cost for a new roof in Las Vegas depends on factors like size, material, and complexity; a free estimate is recommended."
+}

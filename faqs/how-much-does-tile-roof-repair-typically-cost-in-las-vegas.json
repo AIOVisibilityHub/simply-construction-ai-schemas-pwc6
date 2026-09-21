@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-tile-roof-repair-typically-cost-in-las-vegas",
+  "name": "How much does tile roof repair typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does tile roof repair typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of tile roof repair in Las Vegas varies widely depending on the extent of the damage, the type of tiles, and the accessibility of the affected area. Minor repairs, such as replacing a few tiles, might cost less than a few hundred dollars. More extensive damage involving underlayment or larger sections can range from several hundred to a few thousand dollars. A professional inspection is necessary for an accurate estimate tailored to your specific situation.",
+        "@type": "Answer",
+        "description": "Tile roof repair costs in Las Vegas vary based on damage extent, tile type, and accessibility. Minor repairs are less, while extensive work can be thousands. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Tile roof repair costs in Las Vegas vary based on damage extent, tile type, and accessibility. Minor repairs are less, while extensive work can be thousands. An"
+}

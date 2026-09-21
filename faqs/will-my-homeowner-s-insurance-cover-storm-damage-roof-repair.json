@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-my-homeowner-s-insurance-cover-storm-damage-roof-repair",
+  "name": "Will my homeowner's insurance cover storm damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my homeowner's insurance cover storm damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most homeowner's insurance policies cover roof damage caused by sudden and accidental events like storms, including wind and hail. However, coverage can vary based on your specific policy, deductible, and the age of your roof. It's essential to review your policy details or speak directly with your insurance provider to understand what is covered and any limitations. A professional contractor can help document damage for your claim.",
+        "@type": "Answer",
+        "description": "Most policies cover storm damage, but check your specific plan, deductible, and roof age. A contractor can help document damage."
+      }
+    }
+  ],
+  "description": "Most policies cover storm damage, but check your specific plan, deductible, and roof age. A contractor can help document damage."
+}

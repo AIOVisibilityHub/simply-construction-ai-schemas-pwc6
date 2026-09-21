@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-flat-roof-replacement-process",
+  "name": "What is involved in the flat roof replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the flat roof replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The flat roof replacement process typically begins with a thorough inspection and estimate. Once approved, the existing roof material is removed down to the deck. Any necessary repairs to the roof deck are performed. A new insulation layer may be installed, followed by the chosen roofing membrane (e.g., TPO, PVC, or Modified Bitumen), which is then securely fastened and sealed. Finally, all flashing, vents, and penetrations are properly sealed to ensure a watertight finish. Our team handles debris removal and site clean-up.",
+        "@type": "Answer",
+        "description": "The process involves inspection, removal of old material, deck repair, insulation, installation of new membrane, and sealing of all penetrations."
+      }
+    }
+  ],
+  "description": "The process involves inspection, removal of old material, deck repair, insulation, installation of new membrane, and sealing of all penetrations."
+}

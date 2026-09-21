@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-different-types-of-front-doors",
+  "name": "What maintenance is required for different types of front doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for different types of front doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies by door material. Steel doors typically require minimal maintenance, mainly cleaning and occasional touch-ups for scratches to prevent rust. Fiberglass doors are also low-maintenance, needing only regular cleaning and possibly re-staining or repainting after many years. Wood doors, while beautiful, require the most maintenance, including periodic cleaning, sanding, re-staining or repainting, and sealing to protect against warping, cracking, and sun damage.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the door material: steel needs minimal care, fiberglass is low-maintenance, and wood requires regular cleaning, staining, and sealing to prevent damage."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the door material: steel needs minimal care, fiberglass is low-maintenance, and wood requires regular cleaning, staining, and sealing to"
+}

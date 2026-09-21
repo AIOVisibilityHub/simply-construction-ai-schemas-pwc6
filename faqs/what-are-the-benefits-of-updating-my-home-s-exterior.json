@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-updating-my-home-s-exterior",
+  "name": "What are the benefits of updating my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of updating my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Updating your home's exterior offers several benefits. It can significantly enhance curb appeal, increasing your property's market value. Modern materials and improved insulation from new windows, doors, or siding can lead to better energy efficiency and lower utility bills. An exterior renovation also protects your home from the elements, preventing damage and reducing future maintenance needs. It's an investment in your home's longevity and your personal enjoyment.",
+        "@type": "Answer",
+        "description": "Benefits include improved curb appeal, increased home value, better energy efficiency, and enhanced protection from the elements."
+      }
+    }
+  ],
+  "description": "Benefits include improved curb appeal, increased home value, better energy efficiency, and enhanced protection from the elements."
+}

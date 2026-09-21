@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-upgrading-to-a-new-sliding-glass-door",
+  "name": "What are the benefits of upgrading to a new sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of upgrading to a new sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upgrading to a new sliding glass door offers several benefits, including improved energy efficiency through better insulation and glazing, enhanced home security with modern locking systems, and increased property value. New doors can also reduce noise transmission, improve natural light, and update the aesthetic appeal of your home, creating a more comfortable living space.",
+        "@type": "Answer",
+        "description": "Benefits include better energy efficiency, enhanced security, increased home value, improved aesthetics, and reduced noise."
+      }
+    }
+  ],
+  "description": "Benefits include better energy efficiency, enhanced security, increased home value, improved aesthetics, and reduced noise."
+}

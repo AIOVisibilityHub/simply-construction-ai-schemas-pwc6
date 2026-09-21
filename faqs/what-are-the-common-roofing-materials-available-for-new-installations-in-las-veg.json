@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-roofing-materials-available-for-new-installations-in-las-veg",
+  "name": "What are the common roofing materials available for new installations in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common roofing materials available for new installations in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, popular roofing materials include asphalt shingles, which are cost-effective and versatile; tile roofs (clay or concrete), favored for their durability and aesthetic appeal in the desert climate; and flat roofs often seen on commercial buildings or modern residential designs, typically using TPO or modified bitumen. Each material offers different benefits in terms of longevity, insulation properties, and aesthetic fit for your home. We can help you assess the best option based on your budget, home style, and specific needs.",
+        "@type": "Answer",
+        "description": "Common roofing materials in Las Vegas include asphalt shingles, tile (clay/concrete), and flat roofs (TPO/modified bitumen), each offering unique benefits for durability, aesthetics, and cost."
+      }
+    }
+  ],
+  "description": "Common roofing materials in Las Vegas include asphalt shingles, tile (clay/concrete), and flat roofs (TPO/modified bitumen), each offering unique benefits for d"
+}

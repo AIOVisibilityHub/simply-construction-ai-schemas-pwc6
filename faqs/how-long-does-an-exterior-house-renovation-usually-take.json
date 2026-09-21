@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-an-exterior-house-renovation-usually-take",
+  "name": "How long does an exterior house renovation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an exterior house renovation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior house renovation varies significantly based on the project's scope and complexity. A full exterior overhaul, including siding, windows, and painting, can take anywhere from a few weeks to several months. Smaller projects, like repainting or minor repairs, might be completed in a week or two. Factors such as weather conditions, material availability, and the need for specialized permits can also influence the timeline. We provide a detailed project schedule at the outset to manage expectations.",
+        "@type": "Answer",
+        "description": "Exterior renovations typically take a few weeks to several months, depending on the project's size and complexity."
+      }
+    }
+  ],
+  "description": "Exterior renovations typically take a few weeks to several months, depending on the project's size and complexity."
+}

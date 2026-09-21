@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-steps-are-involved-in-a-typical-tile-roof-repair-process",
+  "name": "What steps are involved in a typical tile roof repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in a typical tile roof repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical tile roof repair process begins with a thorough inspection to assess the damage and identify the root cause. Next, the damaged tiles are carefully removed. Any compromised underlayment or flashing beneath is then repaired or replaced. New tiles are then installed, ensuring proper alignment and secure fastening. Finally, the area is cleaned, and a final inspection is conducted to verify the repair's integrity and watertight seal, adhering to local building standards.",
+        "@type": "Answer",
+        "description": "The process includes inspection, removal of damaged tiles, repair/replacement of underlayment, installation of new tiles, and a final inspection for integrity."
+      }
+    }
+  ],
+  "description": "The process includes inspection, removal of damaged tiles, repair/replacement of underlayment, installation of new tiles, and a final inspection for integrity."
+}

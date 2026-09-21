@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-security-features-should-i-look-for-in-a-new-sliding-glass-door",
+  "name": "What security features should I look for in a new sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What security features should I look for in a new sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern sliding glass doors offer several enhanced security features. Look for multi-point locking systems that secure the door at several points along the frame. Anti-lift tracks prevent the door from being easily dislodged, and reinforced frames provide greater resistance to forced entry. Laminated or tempered glass also adds a layer of security, as it is more difficult to break. These features contribute to a safer home.",
+        "@type": "Answer",
+        "description": "Look for multi-point locking systems, anti-lift tracks, reinforced frames, and tempered or laminated glass for enhanced security."
+      }
+    }
+  ],
+  "description": "Look for multi-point locking systems, anti-lift tracks, reinforced frames, and tempered or laminated glass for enhanced security."
+}

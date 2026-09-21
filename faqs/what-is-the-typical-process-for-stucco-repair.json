@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-stucco-repair",
+  "name": "What is the typical process for stucco repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for stucco repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The stucco repair process typically involves assessing the damage to determine its cause and extent. Minor cracks might be filled with a patching compound, while larger areas require removal of damaged stucco down to the lath. New lath and a waterproof barrier are then installed, followed by applying new coats of stucco, matching the original texture and color as closely as possible. The repaired area is then allowed to cure.",
+        "@type": "Answer",
+        "description": "The process includes damage assessment, removing compromised material, preparing the surface, applying new stucco, and matching texture and color."
+      }
+    }
+  ],
+  "description": "The process includes damage assessment, removing compromised material, preparing the surface, applying new stucco, and matching texture and color."
+}

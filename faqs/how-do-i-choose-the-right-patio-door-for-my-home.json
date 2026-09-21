@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-patio-door-for-my-home",
+  "name": "How do I choose the right patio door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right patio door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right patio door involves considering several factors. Think about your available space; sliding doors save room, while French doors require swing clearance. Consider your home's architectural style and your aesthetic preferences. Evaluate energy efficiency needs, especially in the Las Vegas climate, by looking at U-factor and Solar Heat Gain Coefficient (SHGC) ratings. Security features, material durability, and your budget are also key considerations. Our team can help guide you through these choices.",
+        "@type": "Answer",
+        "description": "Consider space, home style, energy efficiency, security, material durability, and budget. Our team can assist with selection."
+      }
+    }
+  ],
+  "description": "Consider space, home style, energy efficiency, security, material durability, and budget. Our team can assist with selection."
+}

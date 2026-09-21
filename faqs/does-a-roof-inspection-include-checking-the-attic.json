@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/does-a-roof-inspection-include-checking-the-attic",
+  "name": "Does a roof inspection include checking the attic?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a roof inspection include checking the attic?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive roof inspection often includes checking the attic space directly beneath the roof. This allows inspectors to look for signs of water leaks, proper ventilation, insulation issues, and structural concerns that may not be visible from the exterior. Evidence of moisture, mold, or rotting wood in the attic can indicate existing or potential roof problems, making the interior assessment an important part of understanding the roof's integrity.",
+        "@type": "Answer",
+        "description": "A comprehensive roof inspection often includes checking the attic for signs of leaks, ventilation issues, and structural concerns that could impact the roof's integrity."
+      }
+    }
+  ],
+  "description": "A comprehensive roof inspection often includes checking the attic for signs of leaks, ventilation issues, and structural concerns that could impact the roof's i"
+}

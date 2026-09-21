@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-of-a-shingle-roof-replacement-in-las-vegas",
+  "name": "What is the typical cost of a shingle roof replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a shingle roof replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a shingle roof replacement in the Las Vegas area can vary significantly based on several factors. These include the size and pitch of your roof, the type and quality of shingles chosen (e.g., asphalt 3-tab, architectural, luxury), the need for old roof removal, and any necessary repairs to the roof decking or underlying structure. Prices for permits and disposal can also influence the total. It is best to get a detailed, on-site estimate from a local contractor like Simply Construction to understand the specific costs for your property.",
+        "@type": "Answer",
+        "description": "The cost of a shingle roof replacement in Las Vegas varies based on roof size, shingle type, structural repairs needed, and local permit fees."
+      }
+    }
+  ],
+  "description": "The cost of a shingle roof replacement in Las Vegas varies based on roof size, shingle type, structural repairs needed, and local permit fees."
+}

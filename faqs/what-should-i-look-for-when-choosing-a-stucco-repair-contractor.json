@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-when-choosing-a-stucco-repair-contractor",
+  "name": "What should I look for when choosing a stucco repair contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a stucco repair contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a stucco repair contractor, look for licensed and insured professionals with a strong local reputation. Check for experience specifically with stucco systems, ask for references, and review their portfolio of completed projects. A reliable contractor will provide a detailed, written estimate, explain their repair process, and offer warranties on their work. Clear communication and transparency are also key indicators of a trustworthy company.",
+        "@type": "Answer",
+        "description": "Choose licensed, insured contractors with local experience, good references, a portfolio, clear estimates, and warranties."
+      }
+    }
+  ],
+  "description": "Choose licensed, insured contractors with local experience, good references, a portfolio, clear estimates, and warranties."
+}

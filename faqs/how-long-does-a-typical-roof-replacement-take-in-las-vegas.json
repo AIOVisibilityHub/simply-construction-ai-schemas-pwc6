@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-roof-replacement-take-in-las-vegas",
+  "name": "How long does a typical roof replacement take in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof replacement take in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical residential roof replacement in Las Vegas usually takes 1 to 3 days, depending on the roof's size, complexity, and weather conditions. Larger or more complex roofs, such as those with multiple gables or unique features, may require more time. Our team works efficiently to minimize disruption, and we provide a detailed timeline upfront.",
+        "@type": "Answer",
+        "description": "Most residential roof replacements in Las Vegas take 1 to 3 days, varying by roof size and complexity."
+      }
+    }
+  ],
+  "description": "Most residential roof replacements in Las Vegas take 1 to 3 days, varying by roof size and complexity."
+}

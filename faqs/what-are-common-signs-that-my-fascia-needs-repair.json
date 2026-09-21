@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-fascia-needs-repair",
+  "name": "What are common signs that my fascia needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my fascia needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of fascia damage include visible rot, cracks, peeling paint, or discoloration, particularly after rain. You might also notice sagging or drooping sections, which indicate water saturation or structural weakening. If your gutters are pulling away from the house or overflowing regularly, it could be due to compromised fascia not providing proper support. Pest infestations, such as birds or insects nesting behind the fascia, are another strong indicator that repairs are needed to prevent further damage to your roof and home.",
+        "@type": "Answer",
+        "description": "Look for rot, cracks, peeling paint, sagging sections, detached gutters, or pest infestations as signs your fascia needs repair."
+      }
+    }
+  ],
+  "description": "Look for rot, cracks, peeling paint, sagging sections, detached gutters, or pest infestations as signs your fascia needs repair."
+}

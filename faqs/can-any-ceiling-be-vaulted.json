@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-any-ceiling-be-vaulted",
+  "name": "Can any ceiling be vaulted?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can any ceiling be vaulted?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not every ceiling can be vaulted without significant structural intervention. The feasibility largely depends on the existing roof structure above the room. Homes with attic trusses or complex rooflines might require more extensive and costly modifications than homes with simple rafter systems. A professional structural assessment is essential to determine if your specific ceiling can be vaulted practically and cost-effectively, or if it presents insurmountable challenges.",
+        "@type": "Answer",
+        "description": "Not every ceiling can be vaulted easily; feasibility depends on the existing roof structure. A professional structural assessment determines practicality and cost-effectiveness."
+      }
+    }
+  ],
+  "description": "Not every ceiling can be vaulted easily; feasibility depends on the existing roof structure. A professional structural assessment determines practicality and co"
+}

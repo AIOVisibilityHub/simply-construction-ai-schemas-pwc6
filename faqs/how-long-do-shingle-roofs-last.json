@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-do-shingle-roofs-last",
+  "name": "How long do shingle roofs last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do shingle roofs last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a shingle roof varies depending on the type of shingle, quality of installation, and local environmental factors. Standard 3-tab asphalt shingles typically last 15-20 years. Architectural or dimensional asphalt shingles, which are thicker and more durable, often last 25-30 years, with some premium options extending to 40-50 years. Proper attic ventilation and regular maintenance can also significantly impact how long your roof lasts, preventing premature aging and damage from heat buildup.",
+        "@type": "Answer",
+        "description": "Shingle roof lifespans vary by type: 3-tab asphalt lasts 15-20 years, while architectural shingles can last 25-50 years."
+      }
+    }
+  ],
+  "description": "Shingle roof lifespans vary by type: 3-tab asphalt lasts 15-20 years, while architectural shingles can last 25-50 years."
+}

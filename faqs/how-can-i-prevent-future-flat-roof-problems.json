@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-prevent-future-flat-roof-problems",
+  "name": "How can I prevent future flat roof problems?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future flat roof problems?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future flat roof problems involves regular maintenance and prompt attention to minor issues. Schedule annual professional inspections to catch problems early. Keep your roof free of debris, which can impede drainage and damage the membrane. Ensure proper drainage to prevent water ponding. Addressing small cracks or wear quickly can prevent them from escalating into major leaks, extending your roof's lifespan and reducing repair costs.",
+        "@type": "Answer",
+        "description": "Prevent problems with annual inspections, keeping the roof clear of debris, and ensuring proper drainage to avoid water ponding."
+      }
+    }
+  ],
+  "description": "Prevent problems with annual inspections, keeping the roof clear of debris, and ensuring proper drainage to avoid water ponding."
+}

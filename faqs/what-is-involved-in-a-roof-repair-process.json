@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-roof-repair-process",
+  "name": "What is involved in a roof repair process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a roof repair process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The roof repair process typically begins with a thorough inspection to identify the source and extent of the damage. Once assessed, we will discuss the recommended repairs and provide a detailed estimate. The repair itself involves preparing the work area, removing damaged materials, making any necessary structural adjustments, installing new roofing materials to match the existing roof as closely as possible, and ensuring proper sealing and flashing. Finally, the site is cleaned and debris is removed.",
+        "@type": "Answer",
+        "description": "The roof repair process involves inspection, damage assessment, material removal, necessary structural work, new material installation, sealing, and site cleanup."
+      }
+    }
+  ],
+  "description": "The roof repair process involves inspection, damage assessment, material removal, necessary structural work, new material installation, sealing, and site cleanu"
+}

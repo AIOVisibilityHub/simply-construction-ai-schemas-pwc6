@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-best-exterior-door-for-energy-efficiency-in-the-las-vegas-cl",
+  "name": "How do I choose the best exterior door for energy efficiency in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best exterior door for energy efficiency in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the Las Vegas climate, selecting an energy-efficient exterior door is crucial to manage indoor temperatures and reduce utility costs. Look for doors with a low U-factor, which indicates better insulation, and a low Solar Heat Gain Coefficient (SHGC) to minimize heat transfer from the intense sun. Fiberglass doors often excel in insulation properties and resist warping, making them suitable for extreme temperatures. Ensure the door has effective weatherstripping and a tight seal to prevent air leaks, which are significant contributors to energy loss in hot or cold weather.",
+        "@type": "Answer",
+        "description": "Choose doors with low U-factor and SHGC values for energy efficiency in Las Vegas. Fiberglass doors with good weatherstripping are often a strong choice to combat extreme temperatures."
+      }
+    }
+  ],
+  "description": "Choose doors with low U-factor and SHGC values for energy efficiency in Las Vegas. Fiberglass doors with good weatherstripping are often a strong choice to comb"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-roof-needs-to-be-replaced",
+  "name": "What are common signs that my roof needs to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs include missing, cracked, or curled shingles; granules in gutters; dark spots or algae growth; and a sagging roof deck. Indoors, look for water stains on ceilings or walls. An aging roof (20-25 years for asphalt) is also a strong indicator, as materials degrade over time, reducing their ability to protect your home from the elements.",
+        "@type": "Answer",
+        "description": "Look for missing or damaged shingles, granules in gutters, or water stains inside your home. An aging roof (20-25 years for asphalt) often signals a need for replacement."
+      }
+    }
+  ],
+  "description": "Look for missing or damaged shingles, granules in gutters, or water stains inside your home. An aging roof (20-25 years for asphalt) often signals a need for re"
+}

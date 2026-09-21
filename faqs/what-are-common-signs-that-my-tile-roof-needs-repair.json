@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-tile-roof-needs-repair",
+  "name": "What are common signs that my tile roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my tile roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your tile roof needs repair include cracked, broken, or missing tiles. You might also notice water stains on your ceiling, leaks after rain, or granules from the tiles in your gutters. Discolored or curling tiles, excessive moss or algae growth, and sagging sections are further indicators. Addressing these issues promptly can prevent more extensive damage and maintain the integrity of your home's structure.",
+        "@type": "Answer",
+        "description": "Look for cracked, broken, or missing tiles, water stains on ceilings, or leaks after rain. Discolored or sagging sections also indicate potential issues."
+      }
+    }
+  ],
+  "description": "Look for cracked, broken, or missing tiles, water stains on ceilings, or leaks after rain. Discolored or sagging sections also indicate potential issues."
+}

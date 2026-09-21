@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-signs-that-my-flat-roof-needs-replacement",
+  "name": "What are the common signs that my flat roof needs replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my flat roof needs replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating a flat roof may need replacement include significant ponding water that doesn't drain, visible cracks, blisters, or tears in the roofing membrane, and soft spots when walking on the roof. Leaks inside the building, especially after rain, are also a clear indicator. Deterioration around seams, flashing, and penetrations like skylights or vents can also signal the need for a new roof, as these are common failure points.",
+        "@type": "Answer",
+        "description": "Signs include ponding water, visible cracks, blisters, leaks inside, and deterioration around seams or flashing."
+      }
+    }
+  ],
+  "description": "Signs include ponding water, visible cracks, blisters, leaks inside, and deterioration around seams or flashing."
+}

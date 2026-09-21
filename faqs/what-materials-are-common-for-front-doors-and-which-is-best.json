@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-common-for-front-doors-and-which-is-best",
+  "name": "What materials are common for front doors and which is best?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are common for front doors and which is best?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common front door materials include steel, fiberglass, and wood. Steel doors are known for their security and durability, often being the most budget-friendly. Fiberglass doors offer excellent energy efficiency, resist dents, and can mimic the look of wood without the maintenance. Wood doors provide a classic, natural aesthetic but require more upkeep and can be more susceptible to weathering. The 'best' material depends on your priorities regarding budget, maintenance, aesthetics, and energy efficiency.",
+        "@type": "Answer",
+        "description": "Popular front door materials are steel (secure, durable, affordable), fiberglass (energy-efficient, low maintenance), and wood (classic look, higher maintenance). The best choice depends on your specific needs."
+      }
+    }
+  ],
+  "description": "Popular front door materials are steel (secure, durable, affordable), fiberglass (energy-efficient, low maintenance), and wood (classic look, higher maintenance"
+}

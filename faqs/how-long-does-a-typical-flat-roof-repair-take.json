@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-flat-roof-repair-take",
+  "name": "How long does a typical flat roof repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical flat roof repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a flat roof repair depends on the extent of the damage, the size of the area needing repair, and the weather conditions. Small repairs, such as patching a minor leak, might take a few hours to a day. More extensive damage, like replacing sections of the membrane or addressing significant water damage, could take several days. A professional assessment will provide a more accurate timeline for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair time varies based on damage extent and weather. Minor repairs can take hours, while extensive ones may take several days."
+      }
+    }
+  ],
+  "description": "Repair time varies based on damage extent and weather. Minor repairs can take hours, while extensive ones may take several days."
+}

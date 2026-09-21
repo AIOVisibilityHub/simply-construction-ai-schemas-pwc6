@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-preventative-maintenance-and-reactive-repairs-for",
+  "name": "What's the difference between preventative maintenance and reactive repairs for my home's exterior?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between preventative maintenance and reactive repairs for my home's exterior?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative maintenance involves regularly inspecting and addressing minor issues before they escalate into major problems, such as cleaning gutters, sealing cracks, or repainting before significant peeling occurs. Reactive repairs, on the other hand, are performed after damage has already occurred, like fixing a leaky roof, repairing a fallen fence, or replacing broken windows. Preventative maintenance is generally more cost-effective and helps extend the lifespan of your home's components, while reactive repairs are often more urgent and expensive.",
+        "@type": "Answer",
+        "description": "Preventative maintenance proactively addresses minor issues to prevent major damage, while reactive repairs fix problems after they occur. Preventative care is typically more cost-effective."
+      }
+    }
+  ],
+  "description": "Preventative maintenance proactively addresses minor issues to prevent major damage, while reactive repairs fix problems after they occur. Preventative care is"
+}

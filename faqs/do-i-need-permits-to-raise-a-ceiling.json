@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-to-raise-a-ceiling",
+  "name": "Do I need permits to raise a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to raise a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most raised ceiling remodeling projects, especially those involving structural changes to your home, permits are required. This ensures that the work complies with local building codes and safety standards. Our team handles the necessary permitting process for projects in Las Vegas and surrounding areas. This includes preparing architectural plans, submitting applications to the relevant city or county planning departments, and coordinating inspections.",
+        "@type": "Answer",
+        "description": "Yes, most raised ceiling projects, especially those with structural changes, require permits to ensure compliance with local building codes. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, most raised ceiling projects, especially those with structural changes, require permits to ensure compliance with local building codes. We manage the permi"
+}

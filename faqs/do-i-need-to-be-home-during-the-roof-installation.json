@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-be-home-during-the-roof-installation",
+  "name": "Do I need to be home during the roof installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be home during the roof installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary for you to be home throughout the entire roof installation process, we recommend being available on the first day to address any initial questions or concerns with our project manager. After that, our team can work independently, but we ensure clear communication channels are open. We understand you have a busy schedule, so we strive to minimize disruption and keep you informed of progress daily, regardless of your presence.",
+        "@type": "Answer",
+        "description": "You don't need to be home for the entire installation, but being present on the first day is recommended for initial discussions. We maintain clear communication throughout the project."
+      }
+    }
+  ],
+  "description": "You don't need to be home for the entire installation, but being present on the first day is recommended for initial discussions. We maintain clear communicatio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-contact-my-insurance-company-before-or-after-getting-a-storm-damage-roo",
+  "name": "Should I contact my insurance company before or after getting a storm damage roof inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I contact my insurance company before or after getting a storm damage roof inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally advisable to contact a reputable roofing contractor for an inspection *before* filing a claim. They can provide a detailed assessment of the damage, necessary repairs, and an estimate. This information will be valuable when you speak with your insurance company, ensuring you have a clear understanding of the situation and can discuss the claim effectively with your adjuster.",
+        "@type": "Answer",
+        "description": "Get a professional roof inspection first to assess the damage and estimate repairs before contacting your insurance company."
+      }
+    }
+  ],
+  "description": "Get a professional roof inspection first to assess the damage and estimate repairs before contacting your insurance company."
+}

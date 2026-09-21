@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-repair-a-roof-leak-versus-replacing-the-entire-roof",
+  "name": "When should I repair a roof leak versus replacing the entire roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair a roof leak versus replacing the entire roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement hinges on your roof's age, the extent of the damage, and its overall condition. If your roof is relatively new (under 10-15 years) and the leak is localized and minor, a repair is usually sufficient. However, if your roof is nearing the end of its expected lifespan (20+ years), has multiple leaks, widespread damage, or shows signs of significant wear, a full replacement might be a more cost-effective long-term solution. A professional assessment can determine the best course.",
+        "@type": "Answer",
+        "description": "Repair if your roof is new and the leak is minor; replace if it's old, has widespread damage, or multiple leaks."
+      }
+    }
+  ],
+  "description": "Repair if your roof is new and the leak is minor; replace if it's old, has widespread damage, or multiple leaks."
+}

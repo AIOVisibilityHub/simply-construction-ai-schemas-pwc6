@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-new-exterior-door",
+  "name": "What maintenance is required for a new exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The maintenance required for a new exterior door depends largely on its material. Wood doors need regular cleaning, periodic repainting or restaining, and inspection for rot or pest damage to maintain their appearance and integrity. Fiberglass doors are low-maintenance, typically only requiring occasional cleaning with mild soap and water, and checking seals. Steel doors also require minimal cleaning but should be inspected for scratches or dents that could lead to rust if left unaddressed. Regardless of material, ensure weatherstripping is intact and hinges are lubricated to maintain smooth operation and energy efficiency.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: wood needs regular cleaning and finishing; fiberglass requires only occasional cleaning; steel needs cleaning and scratch inspection. All doors benefit from checking weatherstripping and lubricating hinges."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: wood needs regular cleaning and finishing; fiberglass requires only occasional cleaning; steel needs cleaning and scratch inspec"
+}

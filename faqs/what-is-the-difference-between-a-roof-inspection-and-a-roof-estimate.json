@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-roof-inspection-and-a-roof-estimate",
+  "name": "What is the difference between a roof inspection and a roof estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a roof inspection and a roof estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A roof inspection is a detailed assessment of your roof's current condition, identifying existing damage, potential vulnerabilities, and overall health, typically resulting in a report. A roof estimate, on the other hand, is a quotation for the cost of specific work, such as repairs or a full replacement, often based on findings from an inspection. While some contractors combine a basic inspection with an estimate, a dedicated inspection provides a more in-depth analysis of issues before committing to work.",
+        "@type": "Answer",
+        "description": "A roof inspection assesses the roof's condition and vulnerabilities, while a roof estimate quotes the cost for specific repairs or replacement. An inspection provides a more in-depth analysis."
+      }
+    }
+  ],
+  "description": "A roof inspection assesses the roof's condition and vulnerabilities, while a roof estimate quotes the cost for specific repairs or replacement. An inspection pr"
+}

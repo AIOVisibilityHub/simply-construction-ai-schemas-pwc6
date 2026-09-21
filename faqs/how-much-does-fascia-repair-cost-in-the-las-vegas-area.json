@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-fascia-repair-cost-in-the-las-vegas-area",
+  "name": "How much does fascia repair cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does fascia repair cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of fascia repair in the Las Vegas area varies significantly based on several factors. These include the extent of the damage, the type of material used for replacement (e.g., wood, PVC, aluminum), the accessibility of the affected area, and the need for concurrent gutter repairs or painting. Minor repairs might involve patching and painting, while extensive rot could require replacing long sections. We provide detailed, transparent quotes after a thorough on-site inspection to accurately assess your specific needs and provide an estimate.",
+        "@type": "Answer",
+        "description": "Fascia repair costs in Las Vegas vary based on damage extent, material type, accessibility, and additional repairs. Quotes are provided after inspection."
+      }
+    }
+  ],
+  "description": "Fascia repair costs in Las Vegas vary based on damage extent, material type, accessibility, and additional repairs. Quotes are provided after inspection."
+}

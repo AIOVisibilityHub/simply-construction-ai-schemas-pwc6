@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-new-roof-improve-my-home-s-energy-efficiency",
+  "name": "Can a new roof improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a new roof improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a new roof can significantly improve your home's energy efficiency, especially in the Las Vegas heat. Modern roofing materials, such as cool roof technologies, reflective coatings, and proper insulation, can reduce heat absorption and transfer into your attic, leading to lower cooling costs and a more comfortable indoor environment.",
+        "@type": "Answer",
+        "description": "Yes, a new roof, especially with modern materials and insulation, can improve energy efficiency by reducing heat absorption and lowering cooling costs."
+      }
+    }
+  ],
+  "description": "Yes, a new roof, especially with modern materials and insulation, can improve energy efficiency by reducing heat absorption and lowering cooling costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-ceiling-removal",
+  "name": "What should I look for when choosing a contractor for ceiling removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for ceiling removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for ceiling removal, look for experience with similar projects and verify they are licensed and insured in your area. Request references or view portfolios of their previous work to assess the quality of their finishes. A reputable contractor will provide a detailed, transparent quote, explain their process for dust control and cleanup, and discuss potential issues like asbestos testing.",
+        "@type": "Answer",
+        "description": "Choose a ceiling removal contractor with experience, proper licensing and insurance, good references, and a clear, detailed quote."
+      }
+    }
+  ],
+  "description": "Choose a ceiling removal contractor with experience, proper licensing and insurance, good references, and a clear, detailed quote."
+}

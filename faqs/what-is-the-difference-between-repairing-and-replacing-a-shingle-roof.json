@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-repairing-and-replacing-a-shingle-roof",
+  "name": "What is the difference between repairing and replacing a shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between repairing and replacing a shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a shingle roof involves fixing specific damaged areas, such as replacing a few missing or broken shingles, sealing minor leaks, or repairing small sections of flashing. This is suitable for localized issues and extends the life of a generally sound roof. Replacing a shingle roof, on the other hand, involves removing all existing shingle layers and installing an entirely new roofing system. Replacement is necessary when damage is widespread, the roof has reached its lifespan, or when there are recurring issues that cannot be effectively resolved with repairs, ensuring long-term protection.",
+        "@type": "Answer",
+        "description": "Repairing fixes specific damaged areas, while replacing involves installing an entirely new roofing system for widespread issues or end-of-life roofs."
+      }
+    }
+  ],
+  "description": "Repairing fixes specific damaged areas, while replacing involves installing an entirely new roofing system for widespread issues or end-of-life roofs."
+}

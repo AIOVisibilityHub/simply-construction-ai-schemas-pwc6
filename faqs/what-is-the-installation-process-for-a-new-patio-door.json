@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-installation-process-for-a-new-patio-door",
+  "name": "What is the installation process for a new patio door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the installation process for a new patio door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The patio door installation process typically begins with protecting the work area and removing the old door. We then prepare the opening, ensuring it is plumb, level, and square. The new door frame is installed, shimmed, and secured, followed by the door panels. Flashing and sealing are applied to prevent water intrusion. Finally, interior and exterior trim is installed, and the door's operation is tested. We clean up the site thoroughly upon completion.",
+        "@type": "Answer",
+        "description": "The process includes old door removal, opening preparation, new door installation, sealing, trimming, and final testing."
+      }
+    }
+  ],
+  "description": "The process includes old door removal, opening preparation, new door installation, sealing, trimming, and final testing."
+}

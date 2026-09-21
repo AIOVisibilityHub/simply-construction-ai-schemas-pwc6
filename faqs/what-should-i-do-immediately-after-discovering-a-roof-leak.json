@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-do-immediately-after-discovering-a-roof-leak",
+  "name": "What should I do immediately after discovering a roof leak?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do immediately after discovering a roof leak?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upon discovering a roof leak, your immediate steps should focus on minimizing interior damage. Move furniture and valuables away from the affected area. Place buckets or towels to catch dripping water. If safe to do so, try to identify the leak's entry point in the attic and clear any debris if visible. Avoid going onto the roof yourself during a storm or if it's slippery. Contact a professional roofing contractor like Simply Construction as soon as possible to prevent further structural damage and mold growth.",
+        "@type": "Answer",
+        "description": "Immediately move valuables, catch dripping water, and if safe, identify the leak's entry point. Contact a professional roofing contractor promptly."
+      }
+    }
+  ],
+  "description": "Immediately move valuables, catch dripping water, and if safe, identify the leak's entry point. Contact a professional roofing contractor promptly."
+}

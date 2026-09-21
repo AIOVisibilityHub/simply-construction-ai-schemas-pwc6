@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-reliable-contractor-for-exterior-home-repairs",
+  "name": "How do I choose a reliable contractor for exterior home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable contractor for exterior home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a reliable contractor for exterior home repairs, look for those with a strong local reputation, proper licensing, and adequate insurance (liability and workers' compensation). Request references from previous clients and review their past work, if possible. Obtain multiple detailed bids that clearly outline the scope of work, materials, timeline, and payment schedule. A good contractor will communicate clearly, answer your questions thoroughly, and provide a written contract before starting any work.",
+        "@type": "Answer",
+        "description": "Choose a reliable contractor by checking for licenses, insurance, references, and detailed bids. Ensure clear communication and a written contract."
+      }
+    }
+  ],
+  "description": "Choose a reliable contractor by checking for licenses, insurance, references, and detailed bids. Ensure clear communication and a written contract."
+}

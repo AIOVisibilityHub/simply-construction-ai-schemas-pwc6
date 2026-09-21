@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-it-time-to-replace-my-shingle-roof",
+  "name": "When is it time to replace my shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to replace my shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your shingle roof may need replacement. Look for shingles that are curling, buckling, or missing, especially after a storm. Granule loss, visible in gutters or on the ground, is another common indicator that shingles are aging and losing their protective qualities. If your roof is over 20-25 years old, even without obvious damage, it's wise to have a professional inspection. Water leaks inside your home, dark spots on ceilings, or a sagging roof deck are urgent signs requiring immediate attention.",
+        "@type": "Answer",
+        "description": "Key signs for shingle roof replacement include curling or missing shingles, granule loss, roof age (over 20-25 years), or visible leaks and sagging."
+      }
+    }
+  ],
+  "description": "Key signs for shingle roof replacement include curling or missing shingles, granule loss, roof age (over 20-25 years), or visible leaks and sagging."
+}

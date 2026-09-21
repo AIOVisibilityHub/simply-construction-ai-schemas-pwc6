@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-new-exterior-door",
+  "name": "How long does it take to install a new exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a new exterior door typically takes a single day for a standard replacement. This can vary based on the specific type of door, the existing frame condition, and any unforeseen structural adjustments needed. For example, replacing a standard entry door usually involves removing the old door and frame, preparing the opening, installing the new pre-hung door unit, sealing, and finishing. More complex installations, such as those requiring significant frame modification or sidelights, may extend into a second day. We aim for efficient, precise installation.",
+        "@type": "Answer",
+        "description": "A standard exterior door replacement typically takes one day. Complex installations or frame modifications might extend the process to two days."
+      }
+    }
+  ],
+  "description": "A standard exterior door replacement typically takes one day. Complex installations or frame modifications might extend the process to two days."
+}

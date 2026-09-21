@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-it-better-to-repair-a-tile-roof-versus-replacing-it-entirely",
+  "name": "When is it better to repair a tile roof versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to repair a tile roof versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing your tile roof is typically recommended when the damage is localized, such as a few broken tiles or a small leak. If the overall roof structure is sound, and the underlayment is in good condition, repairs are a cost-effective solution. Replacement becomes necessary when there is widespread damage, significant leaks due to deteriorated underlayment, or if the roof has reached the end of its serviceable lifespan, making individual repairs less efficient and more costly in the long run.",
+        "@type": "Answer",
+        "description": "Repair is best for localized damage with a sound structure. Replacement is needed for widespread damage, extensive underlayment issues, or when the roof is at its end of life."
+      }
+    }
+  ],
+  "description": "Repair is best for localized damage with a sound structure. Replacement is needed for widespread damage, extensive underlayment issues, or when the roof is at i"
+}

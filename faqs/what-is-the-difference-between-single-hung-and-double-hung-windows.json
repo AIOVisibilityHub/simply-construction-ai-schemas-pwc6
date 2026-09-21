@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-single-hung-and-double-hung-windows",
+  "name": "What is the difference between single-hung and double-hung windows?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between single-hung and double-hung windows?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Single-hung and double-hung refer to how the window sashes operate. In a single-hung window, only the bottom sash moves upward for ventilation, while the top sash remains fixed. Double-hung windows, on the other hand, allow both the top and bottom sashes to move independently, sliding up and down. This provides more versatile ventilation options, as you can open the top sash to let hot air escape or tilt both sashes for easier cleaning from inside your home. Double-hung windows often offer greater flexibility.",
+        "@type": "Answer",
+        "description": "Single-hung windows have a movable bottom sash and fixed top, while double-hung windows allow both top and bottom sashes to move independently for versatile ventilation and cleaning."
+      }
+    }
+  ],
+  "description": "Single-hung windows have a movable bottom sash and fixed top, while double-hung windows allow both top and bottom sashes to move independently for versatile ven"
+}

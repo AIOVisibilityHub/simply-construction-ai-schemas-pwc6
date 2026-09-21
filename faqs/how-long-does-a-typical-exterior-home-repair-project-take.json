@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-exterior-home-repair-project-take",
+  "name": "How long does a typical exterior home repair project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical exterior home repair project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an exterior home repair project varies greatly depending on the type and scope of work. Minor repairs, like fixing a small section of siding or a few roof shingles, might take a day or two. Larger projects, such as full roof replacements, extensive stucco repair, or complete exterior painting, could take several days to a few weeks. Factors like weather conditions, material availability, and the complexity of the architectural details also influence the timeline. Your contractor should provide a clear schedule.",
+        "@type": "Answer",
+        "description": "Project duration varies by repair type and scope; minor repairs take days, while larger ones like roof or stucco replacement can take weeks. Weather and material availability also impact timelines."
+      }
+    }
+  ],
+  "description": "Project duration varies by repair type and scope; minor repairs take days, while larger ones like roof or stucco replacement can take weeks. Weather and materia"
+}

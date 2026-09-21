@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-exterior-remodeling-in-las-vegas",
+  "name": "Do I need permits for exterior remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for exterior remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many exterior remodeling projects in Las Vegas require permits from the local building department. This includes significant changes like adding new structures (e.g., decks, patios), altering the roofline, installing new windows or doors in different openings, or major siding replacements. Minor repairs or painting typically do not require permits. It's essential to check with the City of Las Vegas Building and Safety Department or your specific municipal jurisdiction (e.g., Henderson, North Las Vegas) to understand the exact requirements for your project to ensure compliance with local codes.",
+        "@type": "Answer",
+        "description": "Many exterior remodeling projects in Las Vegas require permits, especially for significant structural changes or additions."
+      }
+    }
+  ],
+  "description": "Many exterior remodeling projects in Las Vegas require permits, especially for significant structural changes or additions."
+}

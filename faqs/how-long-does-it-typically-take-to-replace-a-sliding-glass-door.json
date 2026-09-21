@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-replace-a-sliding-glass-door",
+  "name": "How long does it typically take to replace a sliding glass door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to replace a sliding glass door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard sliding glass door replacements can be completed within a single day, from removal to installation. However, the total project timeline can extend depending on custom orders, frame modifications, or unforeseen structural issues. Once a door is ordered, manufacturing and delivery can take several weeks. Our team strives for efficient installation to minimize disruption.",
+        "@type": "Answer",
+        "description": "Standard replacement typically takes one day for installation, though custom orders may extend the overall timeline."
+      }
+    }
+  ],
+  "description": "Standard replacement typically takes one day for installation, though custom orders may extend the overall timeline."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-warranties-are-available-for-a-new-roof",
+  "name": "What kind of warranties are available for a new roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranties are available for a new roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New roofs typically come with two types of warranties: a material warranty from the manufacturer and a workmanship warranty from the contractor. Manufacturer warranties often range from 20 years to lifetime, depending on the product. Our workmanship warranty covers the installation for a specified period, ensuring quality and peace of mind.",
+        "@type": "Answer",
+        "description": "New roofs typically have a material warranty from the manufacturer and a workmanship warranty from the contractor, covering different aspects of the roof."
+      }
+    }
+  ],
+  "description": "New roofs typically have a material warranty from the manufacturer and a workmanship warranty from the contractor, covering different aspects of the roof."
+}

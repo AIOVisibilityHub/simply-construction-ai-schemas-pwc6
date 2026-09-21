@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-preventative-roof-maintenance-and-why-is-it-important",
+  "name": "What is preventative roof maintenance and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is preventative roof maintenance and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventative roof maintenance involves regular inspections and minor upkeep to extend the lifespan of your roof and prevent major issues. This can include cleaning gutters, removing debris, checking for loose or damaged shingles, and inspecting flashing. It's important because it allows for early detection and correction of small problems before they escalate into costly repairs or require a full roof replacement, ultimately saving money and protecting your property.",
+        "@type": "Answer",
+        "description": "Preventative roof maintenance involves regular inspections and minor upkeep to extend roof life and catch small issues before they become costly problems."
+      }
+    }
+  ],
+  "description": "Preventative roof maintenance involves regular inspections and minor upkeep to extend roof life and catch small issues before they become costly problems."
+}

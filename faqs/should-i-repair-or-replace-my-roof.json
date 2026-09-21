@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-repair-or-replace-my-roof",
+  "name": "Should I repair or replace my roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace your roof depends on its age, the extent of the damage, and its overall condition. If your roof is relatively new (under 15 years) and the damage is localized, a repair is often the more cost-effective option. However, if your roof is nearing the end of its lifespan (typically 20-25 years for asphalt shingles), has widespread damage, or significant structural issues, a full replacement may be a better long-term investment. We can help assess your specific situation.",
+        "@type": "Answer",
+        "description": "Choose repair for minor, localized damage on a newer roof; consider replacement for widespread damage, structural issues, or an aging roof."
+      }
+    }
+  ],
+  "description": "Choose repair for minor, localized damage on a newer roof; consider replacement for widespread damage, structural issues, or an aging roof."
+}

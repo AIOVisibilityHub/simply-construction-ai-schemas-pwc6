@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-of-exterior-door-replacement-in-the-las-vegas-area",
+  "name": "What is the typical cost of exterior door replacement in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of exterior door replacement in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of exterior door replacement in the Las Vegas area can vary significantly based on factors like the door material, style, size, and whether custom modifications are needed. Installation complexity also plays a role, especially if frame adjustments are required. Generally, a standard pre-hung exterior door replacement, including installation, can range from a few hundred dollars to several thousand. High-end or custom doors with specialized features will naturally be at the higher end of this range. We provide detailed quotes after an assessment.",
+        "@type": "Answer",
+        "description": "Costs vary widely in Las Vegas based on door material, style, size, and installation complexity, typically ranging from hundreds to several thousand dollars. A detailed quote requires an assessment."
+      }
+    }
+  ],
+  "description": "Costs vary widely in Las Vegas based on door material, style, size, and installation complexity, typically ranging from hundreds to several thousand dollars. A"
+}

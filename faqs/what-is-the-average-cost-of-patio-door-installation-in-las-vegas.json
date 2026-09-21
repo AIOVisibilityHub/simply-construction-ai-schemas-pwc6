@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-patio-door-installation-in-las-vegas",
+  "name": "What is the average cost of patio door installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of patio door installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of patio door installation in Las Vegas varies widely based on several factors. These include the type of door (e.g., vinyl sliding vs. aluminum bifold), material quality, size, glass options (like energy-efficient or impact-resistant), and complexity of the installation. Professional installation is crucial for proper sealing and operation. We provide detailed, transparent quotes tailored to your specific choices and home requirements after an on-site evaluation.",
+        "@type": "Answer",
+        "description": "Costs vary based on door type, materials, size, glass options, and installation complexity. A custom quote is provided after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Costs vary based on door type, materials, size, glass options, and installation complexity. A custom quote is provided after an on-site assessment."
+}

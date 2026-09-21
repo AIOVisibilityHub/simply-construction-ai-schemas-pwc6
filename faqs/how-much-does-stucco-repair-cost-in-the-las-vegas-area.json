@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-stucco-repair-cost-in-the-las-vegas-area",
+  "name": "How much does stucco repair cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does stucco repair cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of stucco repair in the Las Vegas area varies significantly based on the extent of the damage, the type of stucco, and the accessibility of the repair area. Minor crack repairs might cost a few hundred dollars, while extensive damage involving water remediation and re-application of large sections can range into thousands. We provide detailed, no-obligation estimates after a thorough on-site inspection.",
+        "@type": "Answer",
+        "description": "Costs vary based on damage extent, stucco type, and accessibility, ranging from hundreds for small cracks to thousands for extensive repairs."
+      }
+    }
+  ],
+  "description": "Costs vary based on damage extent, stucco type, and accessibility, ranging from hundreds for small cracks to thousands for extensive repairs."
+}

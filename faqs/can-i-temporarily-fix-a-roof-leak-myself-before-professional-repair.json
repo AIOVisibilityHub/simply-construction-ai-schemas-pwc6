@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-temporarily-fix-a-roof-leak-myself-before-professional-repair",
+  "name": "Can I temporarily fix a roof leak myself before professional repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I temporarily fix a roof leak myself before professional repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to apply a temporary patch to prevent further water intrusion, professional repair is always recommended for a lasting solution. For a temporary fix, you might use roofing tar or waterproof flashing tape over the suspected leak area, ensuring the surface is clean and dry. However, these methods are not designed for long-term durability and can sometimes mask underlying issues. Always prioritize safety when working on a roof and contact a professional contractor as soon as possible.",
+        "@type": "Answer",
+        "description": "You can apply temporary patches like roofing tar, but these are not long-term solutions and professional repair is always recommended."
+      }
+    }
+  ],
+  "description": "You can apply temporary patches like roofing tar, but these are not long-term solutions and professional repair is always recommended."
+}

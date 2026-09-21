@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-materials-are-available-for-sliding-glass-door-frames",
+  "name": "What types of materials are available for sliding glass door frames?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are available for sliding glass door frames?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sliding glass door frames are commonly available in vinyl, aluminum, fiberglass, and wood. Vinyl is popular for its energy efficiency and low maintenance. Aluminum offers durability and a sleek profile, often chosen for modern designs. Fiberglass provides excellent strength and insulation, resisting warping and rotting. Wood offers a classic look but requires more maintenance. Each material has distinct advantages regarding performance, appearance, and cost.",
+        "@type": "Answer",
+        "description": "Frame materials include vinyl, aluminum, fiberglass, and wood, each offering different benefits in terms of energy efficiency, durability, and aesthetics."
+      }
+    }
+  ],
+  "description": "Frame materials include vinyl, aluminum, fiberglass, and wood, each offering different benefits in terms of energy efficiency, durability, and aesthetics."
+}

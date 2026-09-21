@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-raising-my-ceiling-affect-my-home-s-insulation-or-energy-efficiency",
+  "name": "Will raising my ceiling affect my home's insulation or energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will raising my ceiling affect my home's insulation or energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Raising your ceiling can affect your home's insulation and energy efficiency. When the ceiling is removed, the existing insulation is typically disturbed or removed. It's an opportune time to upgrade to more efficient insulation materials, which can improve your home's thermal performance. However, increasing the volume of heated or cooled space can also potentially increase energy consumption if not properly insulated or if new windows are added without considering their U-value. We plan for optimal insulation and energy efficiency during the design phase.",
+        "@type": "Answer",
+        "description": "Yes, raising a ceiling impacts insulation. It's a chance to upgrade for better thermal performance, but increased room volume requires careful insulation planning."
+      }
+    }
+  ],
+  "description": "Yes, raising a ceiling impacts insulation. It's a chance to upgrade for better thermal performance, but increased room volume requires careful insulation planni"
+}

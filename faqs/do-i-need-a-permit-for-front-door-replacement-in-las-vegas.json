@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-front-door-replacement-in-las-vegas",
+  "name": "Do I need a permit for front door replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for front door replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, a direct replacement of an existing front door within the same opening size does not require a permit in Las Vegas. However, if the project involves altering the structural opening, such as widening the doorway, changing the header, or installing an entirely new entryway system, a building permit is typically required. It's always recommended to check with your local municipality or consult with us to confirm specific permit requirements for your project.",
+        "@type": "Answer",
+        "description": "Permits for front door replacement in Las Vegas are usually not needed for direct replacements, but are required if the structural opening is altered."
+      }
+    }
+  ],
+  "description": "Permits for front door replacement in Las Vegas are usually not needed for direct replacements, but are required if the structural opening is altered."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-makes-a-window-energy-efficient",
+  "name": "What makes a window energy-efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a window energy-efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Energy-efficient windows are designed to minimize heat transfer through the windowpanes and frame. Key features include multiple panes of glass (double or triple-paned), inert gas fills like argon or krypton between the panes, and low-emissivity (Low-E) coatings. The frames themselves also contribute, with materials like vinyl, fiberglass, or wood offering better insulation than traditional aluminum. These elements work together to keep your home cooler in summer and warmer in winter, reducing the workload on your HVAC system.",
+        "@type": "Answer",
+        "description": "Energy-efficient windows feature multiple panes, inert gas fills, and low-emissivity coatings to reduce heat transfer."
+      }
+    }
+  ],
+  "description": "Energy-efficient windows feature multiple panes, inert gas fills, and low-emissivity coatings to reduce heat transfer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-stucco-repair-take-to-complete",
+  "name": "How long does stucco repair take to complete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does stucco repair take to complete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of stucco repair depends on the size and complexity of the damaged area. Small, superficial repairs might be completed within a day. Larger projects involving multiple sections, extensive damage, or custom texture matching can take several days to a week or more, including curing time between coats. We will provide a project timeline with your detailed estimate.",
+        "@type": "Answer",
+        "description": "Repair time varies; small repairs may take a day, while larger projects can span several days to a week, including curing."
+      }
+    }
+  ],
+  "description": "Repair time varies; small repairs may take a day, while larger projects can span several days to a week, including curing."
+}

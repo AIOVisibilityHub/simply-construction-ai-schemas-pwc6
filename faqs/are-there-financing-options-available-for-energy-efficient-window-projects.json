@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-there-financing-options-available-for-energy-efficient-window-projects",
+  "name": "Are there financing options available for energy-efficient window projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there financing options available for energy-efficient window projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we understand that investing in energy-efficient windows is a significant decision, and we aim to make it as accessible as possible. Simply Construction partners with reputable financial institutions to offer various financing solutions to qualified homeowners. These options can help spread the cost of your window project over time, making it more manageable. During your consultation, our team can discuss the available financing plans and help you explore the best fit for your budget.",
+        "@type": "Answer",
+        "description": "Yes, we offer various financing options through partners to help make your energy-efficient window project more affordable."
+      }
+    }
+  ],
+  "description": "Yes, we offer various financing options through partners to help make your energy-efficient window project more affordable."
+}

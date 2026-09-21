@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-replacing-my-roof-instead-of-just-repairing-it",
+  "name": "When should I consider replacing my roof instead of just repairing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing my roof instead of just repairing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between roof repair and replacement depends on several factors. If your roof is old (typically over 20-25 years for asphalt shingles), has widespread damage, or shows signs of significant wear such as curling, missing, or brittle shingles, a replacement is often more cost-effective in the long run. Frequent leaks in multiple areas, significant structural damage, or an outdated roof system are also strong indicators for replacement. Minor, localized issues or a relatively new roof can usually be addressed with repairs.",
+        "@type": "Answer",
+        "description": "Consider roof replacement if your roof is old, has widespread damage, frequent leaks, or significant structural issues. Minor, localized problems can often be repaired."
+      }
+    }
+  ],
+  "description": "Consider roof replacement if your roof is old, has widespread damage, frequent leaks, or significant structural issues. Minor, localized problems can often be r"
+}

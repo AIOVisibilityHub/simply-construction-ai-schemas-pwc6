@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-soffit-and-why-is-its-repair-important-for-my-home",
+  "name": "What is a soffit and why is its repair important for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a soffit and why is its repair important for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A soffit is the exposed underside of your roof's eaves, serving a crucial role in your home's ventilation system. It typically has vents that allow air to circulate in your attic, preventing moisture buildup, mold growth, and excessive heat, which can damage your roof structure and increase energy costs. Soffit repair addresses issues like rot, pest damage, or structural instability, ensuring proper attic ventilation and protecting your home from further damage, ultimately prolonging your roof's lifespan and maintaining indoor air quality.",
+        "@type": "Answer",
+        "description": "A soffit is the underside of your roof's eaves, essential for attic ventilation. Repairing it prevents moisture, mold, and pest damage, protecting your roof and home."
+      }
+    }
+  ],
+  "description": "A soffit is the underside of your roof's eaves, essential for attic ventilation. Repairing it prevents moisture, mold, and pest damage, protecting your roof and"
+}

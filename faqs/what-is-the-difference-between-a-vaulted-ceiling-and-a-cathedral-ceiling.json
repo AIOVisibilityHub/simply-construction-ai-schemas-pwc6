@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-vaulted-ceiling-and-a-cathedral-ceiling",
+  "name": "What is the difference between a vaulted ceiling and a cathedral ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a vaulted ceiling and a cathedral ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, there's a subtle distinction. A vaulted ceiling is a general term for any elevated ceiling that slopes upward. A cathedral ceiling is a specific type of vaulted ceiling that mirrors the pitch of the roof, coming to a point in the center, much like an inverted 'V'. All cathedral ceilings are vaulted, but not all vaulted ceilings are cathedral. Other types of vaulted ceilings include barrel vaults or groin vaults, though cathedral is the most common residential application.",
+        "@type": "Answer",
+        "description": "A vaulted ceiling is a general term for any upward-sloping ceiling. A cathedral ceiling is a specific type of vaulted ceiling that mirrors the roof's pitch, coming to a central point."
+      }
+    }
+  ],
+  "description": "A vaulted ceiling is a general term for any upward-sloping ceiling. A cathedral ceiling is a specific type of vaulted ceiling that mirrors the roof's pitch, com"
+}

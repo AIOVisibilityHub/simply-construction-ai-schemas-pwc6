@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-often-should-i-have-my-roof-inspected",
+  "name": "How often should I have my roof inspected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I have my roof inspected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's generally recommended to have your roof inspected annually, especially in areas like Las Vegas with intense sun and occasional strong winds. Regular inspections help identify minor issues before they become major problems, extending the life of your roof. You should also consider an inspection after any significant weather event, such as a severe thunderstorm or high winds, even if no visible damage is apparent from the ground.",
+        "@type": "Answer",
+        "description": "Annual roof inspections are recommended, particularly in areas with harsh weather. Inspections should also be performed after any significant weather event."
+      }
+    }
+  ],
+  "description": "Annual roof inspections are recommended, particularly in areas with harsh weather. Inspections should also be performed after any significant weather event."
+}

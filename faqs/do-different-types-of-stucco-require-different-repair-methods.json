@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-different-types-of-stucco-require-different-repair-methods",
+  "name": "Do different types of stucco require different repair methods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do different types of stucco require different repair methods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, different types of stucco, such as traditional three-coat cement stucco versus Exterior Insulation and Finish Systems (EIFS) or synthetic stucco, often require distinct repair methods and materials. Traditional stucco repairs involve cement-based mixes, while EIFS repairs use specialized synthetic materials and sealants. Understanding the stucco type on your property is crucial for effective and long-lasting repairs, preventing further complications.",
+        "@type": "Answer",
+        "description": "Yes, traditional cement stucco and synthetic stucco (EIFS) require different repair methods and materials for effective results."
+      }
+    }
+  ],
+  "description": "Yes, traditional cement stucco and synthetic stucco (EIFS) require different repair methods and materials for effective results."
+}

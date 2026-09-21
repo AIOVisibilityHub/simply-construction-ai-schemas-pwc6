@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-that-my-windows-need-to-be-replaced",
+  "name": "What are the signs that my windows need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my windows need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common indicators that your windows may need replacement include noticeable drafts, condensation between glass panes, difficulty opening or closing, and increased energy bills. Visible damage like rot, decay, or warped frames also suggests it's time for an upgrade. Older windows, especially single-pane models, are often less energy-efficient and can contribute to discomfort and higher heating or cooling costs in areas like Las Vegas. Evaluating these signs can help you determine if new windows are a beneficial investment for your home.",
+        "@type": "Answer",
+        "description": "Signs include drafts, condensation, difficulty operating, visible damage, and rising energy bills. Older, less efficient windows often benefit most from replacement."
+      }
+    }
+  ],
+  "description": "Signs include drafts, condensation, difficulty operating, visible damage, and rising energy bills. Older, less efficient windows often benefit most from replace"
+}

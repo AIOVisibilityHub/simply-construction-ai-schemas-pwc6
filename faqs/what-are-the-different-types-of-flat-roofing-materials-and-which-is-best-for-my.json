@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-different-types-of-flat-roofing-materials-and-which-is-best-for-my",
+  "name": "What are the different types of flat roofing materials, and which is best for my property in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of flat roofing materials, and which is best for my property in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common flat roofing materials include TPO (Thermoplastic Polyolefin), PVC (Polyvinyl Chloride), and Modified Bitumen. TPO and PVC are single-ply membranes known for their durability, energy efficiency, and reflective properties, making them suitable for the Las Vegas climate. Modified Bitumen is a durable asphalt-based product. The best material for your property depends on your budget, energy efficiency goals, roof structure, and specific needs. We can help you evaluate options during an on-site consultation.",
+        "@type": "Answer",
+        "description": "Common materials are TPO, PVC, and Modified Bitumen. TPO and PVC are often good for Las Vegas due to their energy efficiency. The best choice depends on your budget and needs."
+      }
+    }
+  ],
+  "description": "Common materials are TPO, PVC, and Modified Bitumen. TPO and PVC are often good for Las Vegas due to their energy efficiency. The best choice depends on your bu"
+}

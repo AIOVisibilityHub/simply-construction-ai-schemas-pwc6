@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-roof-needs-an-inspection",
+  "name": "What are common signs that my roof needs an inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my roof needs an inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs indicate your roof might need an inspection. These include visible damage like missing, cracked, or curled shingles, discolored areas, or granule loss on asphalt shingles. Inside your home, look for water stains on ceilings or walls, peeling paint, or mold. Clogged gutters, excessive debris in downspouts, or a noticeable increase in energy bills without other explanation can also suggest underlying roof issues.",
+        "@type": "Answer",
+        "description": "Signs your roof needs inspection include missing or damaged shingles, interior water stains, discolored areas, or clogged gutters. Increased energy bills can also be a clue."
+      }
+    }
+  ],
+  "description": "Signs your roof needs inspection include missing or damaged shingles, interior water stains, discolored areas, or clogged gutters. Increased energy bills can al"
+}

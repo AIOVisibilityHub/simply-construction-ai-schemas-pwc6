@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-patio-door-installation-typically-take",
+  "name": "How long does patio door installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does patio door installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a patio door can vary depending on the door type, the existing opening, and whether any structural modifications are required. A standard replacement of a similar-sized patio door often takes one day. If the project involves enlarging an opening, framing a new wall, or extensive trim work, it can extend to two or more days. We provide a detailed timeline after assessing your specific project during the consultation.",
+        "@type": "Answer",
+        "description": "Standard patio door replacement usually takes one day. More complex installations requiring structural changes can take two or more days."
+      }
+    }
+  ],
+  "description": "Standard patio door replacement usually takes one day. More complex installations requiring structural changes can take two or more days."
+}

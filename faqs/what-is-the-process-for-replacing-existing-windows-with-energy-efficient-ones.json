@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-existing-windows-with-energy-efficient-ones",
+  "name": "What is the process for replacing existing windows with energy-efficient ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing existing windows with energy-efficient ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our window replacement process begins with a consultation to assess your needs and provide a detailed estimate. Once you approve, we'll measure your openings precisely and order your custom windows. Upon delivery, our certified installers will carefully remove your old windows, prepare the openings, and meticulously install the new energy-efficient units. We ensure proper sealing and insulation, then clean up thoroughly, leaving your home tidy. A final inspection verifies quality and your satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, measurement, custom ordering, professional installation with proper sealing, and a final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, measurement, custom ordering, professional installation with proper sealing, and a final inspection."
+}

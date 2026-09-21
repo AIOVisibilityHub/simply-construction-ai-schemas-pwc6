@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-of-year-to-replace-a-front-door-in-las-vegas",
+  "name": "When is the best time of year to replace a front door in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to replace a front door in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a front door can be replaced any time of year, many homeowners in Las Vegas prefer to schedule installations during the spring or fall. These seasons offer milder temperatures, which are more comfortable for installers and help minimize the exposure of your home's interior to extreme heat or cold during the brief period the entryway is open. However, we can efficiently complete installations year-round, regardless of the weather.",
+        "@type": "Answer",
+        "description": "The best time to replace a front door in Las Vegas is often spring or fall due to milder temperatures, though installations can be done efficiently year-round."
+      }
+    }
+  ],
+  "description": "The best time to replace a front door in Las Vegas is often spring or fall due to milder temperatures, though installations can be done efficiently year-round."
+}

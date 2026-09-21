@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-patio-door-installation-in-las-vegas",
+  "name": "Do I need a permit for patio door installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for patio door installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, a building permit is required for patio door installation, especially if the project involves altering the structural opening, changing the size of the door, or if it's part of a larger renovation. Permits ensure the installation meets local building codes and safety standards. Simply Construction handles all necessary permit applications for our projects in Las Vegas and surrounding areas, ensuring compliance and a smooth process.",
+        "@type": "Answer",
+        "description": "Yes, a permit is often required, particularly if structural changes are made. We manage all necessary permit applications for your project."
+      }
+    }
+  ],
+  "description": "Yes, a permit is often required, particularly if structural changes are made. We manage all necessary permit applications for your project."
+}

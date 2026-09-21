@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-you-match-the-color-and-texture-of-existing-stucco",
+  "name": "How do you match the color and texture of existing stucco?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you match the color and texture of existing stucco?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Matching existing stucco color and texture is a skilled process that involves careful selection of materials and application techniques. We begin by analyzing the existing stucco's composition and finish. Custom color matching is achieved by tinting the stucco mix, and various tools and methods are used to replicate the texture, whether it's a smooth, sand, dash, or worm finish. Our goal is to blend the repair seamlessly with your home's original aesthetic.",
+        "@type": "Answer",
+        "description": "We analyze existing stucco to custom tint the mix and use specific tools and methods to replicate the original texture."
+      }
+    }
+  ],
+  "description": "We analyze existing stucco to custom tint the mix and use specific tools and methods to replicate the original texture."
+}

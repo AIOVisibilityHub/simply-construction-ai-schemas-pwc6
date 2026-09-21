@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-structural-considerations-for-vaulting-a-ceiling",
+  "name": "What are the structural considerations for vaulting a ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the structural considerations for vaulting a ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural considerations are paramount when vaulting a ceiling. The primary concern is whether the existing roof trusses or rafters can support the new ceiling design or if they need modification or replacement. This often involves adding new structural beams or altering the roof framing to handle the load and achieve the open space. An engineer's assessment is always required to ensure the structural integrity and safety of your home, adhering to local building codes in Las Vegas.",
+        "@type": "Answer",
+        "description": "Structural considerations involve assessing if existing roof framing can support the new design, often requiring new beams or modifications. An engineer's assessment is crucial for safety and code compliance."
+      }
+    }
+  ],
+  "description": "Structural considerations involve assessing if existing roof framing can support the new design, often requiring new beams or modifications. An engineer's asses"
+}

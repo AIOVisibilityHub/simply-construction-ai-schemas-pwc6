@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-replacing-my-old-shingle-roof",
+  "name": "What are the benefits of replacing my old shingle roof?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of replacing my old shingle roof?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replacing your old shingle roof offers numerous benefits beyond just aesthetics. A new roof significantly improves your home's curb appeal and can increase its market value. More importantly, it provides superior protection against the elements, preventing leaks and structural damage. Modern shingles often have better insulation properties, potentially reducing energy costs, especially important in the Las Vegas heat. A new roof also comes with warranties, offering peace of mind and long-term protection for your investment.",
+        "@type": "Answer",
+        "description": "Replacing an old shingle roof improves curb appeal, increases home value, provides better protection from elements, and can enhance energy efficiency."
+      }
+    }
+  ],
+  "description": "Replacing an old shingle roof improves curb appeal, increases home value, provides better protection from elements, and can enhance energy efficiency."
+}

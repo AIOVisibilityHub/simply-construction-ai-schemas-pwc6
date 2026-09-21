@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-storm-damage-roof-repair",
+  "name": "What is the average cost of storm damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of storm damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of storm damage roof repair can vary significantly depending on the type and severity of damage, roofing materials, and labor rates. Minor repairs might range from a few hundred dollars, while more extensive damage requiring partial or full roof replacement could be several thousands. An accurate estimate can only be provided after a thorough inspection by a qualified contractor. Many repairs may be covered by homeowner's insurance.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on damage extent and materials. Minor repairs can be hundreds, while major work can be thousands. Insurance may cover it."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on damage extent and materials. Minor repairs can be hundreds, while major work can be thousands. Insurance may cover it."
+}

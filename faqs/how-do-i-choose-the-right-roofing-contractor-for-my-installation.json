@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-roofing-contractor-for-my-installation",
+  "name": "How do I choose the right roofing contractor for my installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right roofing contractor for my installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a roofing contractor, look for licensed and insured professionals with a strong local reputation, like Simply Construction. Check for positive customer reviews and request references. Ensure they provide a detailed, written estimate outlining all costs and materials. Inquire about their warranty offerings on both materials and labor. A reliable contractor will also be transparent about their process and able to answer all your questions thoroughly, demonstrating expertise and professionalism.",
+        "@type": "Answer",
+        "description": "Choose a roofing contractor who is licensed, insured, has good local reviews, provides detailed estimates, offers warranties, and is transparent about their process and expertise."
+      }
+    }
+  ],
+  "description": "Choose a roofing contractor who is licensed, insured, has good local reviews, provides detailed estimates, offers warranties, and is transparent about their pro"
+}

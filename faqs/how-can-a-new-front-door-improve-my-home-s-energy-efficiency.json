@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-a-new-front-door-improve-my-home-s-energy-efficiency",
+  "name": "How can a new front door improve my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a new front door improve my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new, well-insulated front door significantly improves energy efficiency by creating a tighter seal and reducing heat transfer. Older doors often have gaps, poor insulation, or are made of less efficient materials, leading to drafts and energy loss. Modern doors incorporate features like composite materials, insulated cores, and advanced weatherstripping, which minimize air leakage and maintain consistent indoor temperatures. This can lead to noticeable reductions in your heating and cooling bills.",
+        "@type": "Answer",
+        "description": "A new, insulated front door improves energy efficiency by reducing drafts and heat transfer with better materials and seals, leading to lower utility bills."
+      }
+    }
+  ],
+  "description": "A new, insulated front door improves energy efficiency by reducing drafts and heat transfer with better materials and seals, leading to lower utility bills."
+}

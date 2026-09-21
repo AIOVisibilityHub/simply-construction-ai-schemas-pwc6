@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-sliding-glass-door-and-a-french-door",
+  "name": "What is the difference between a sliding glass door and a French door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a sliding glass door and a French door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sliding glass door operates by one panel sliding horizontally over another, maximizing interior space and offering expansive views. French doors, conversely, consist of two hinged panels that swing open, typically outward or inward, providing a wider, more traditional opening. Sliding doors are often chosen for modern aesthetics and space efficiency, while French doors are preferred for their classic charm and the ability to open completely, creating a larger transition space.",
+        "@type": "Answer",
+        "description": "Sliding glass doors slide horizontally, saving space, while French doors swing open on hinges, offering a wider opening and traditional aesthetic."
+      }
+    }
+  ],
+  "description": "Sliding glass doors slide horizontally, saving space, while French doors swing open on hinges, offering a wider opening and traditional aesthetic."
+}

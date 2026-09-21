@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-does-soffit-damage-impact-attic-ventilation-and-my-home-s-energy-efficiency",
+  "name": "How does soffit damage impact attic ventilation and my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does soffit damage impact attic ventilation and my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Soffit damage can significantly impede your attic's ventilation system. Soffits are designed with vents to draw cool, outside air into the attic, pushing hot, stale air out through roof vents. When soffits are damaged or blocked, this airflow is disrupted. Poor attic ventilation leads to heat buildup, making your air conditioning system work harder to cool your home, thus increasing energy consumption and utility bills. It also traps moisture, which can lead to mold, mildew, and premature deterioration of your roof decking and insulation. Proper soffit repair restores essential airflow, improving both energy efficiency and attic health.",
+        "@type": "Answer",
+        "description": "Soffit damage obstructs attic airflow, causing heat and moisture buildup. This increases AC usage and energy bills while potentially damaging your roof and insulation."
+      }
+    }
+  ],
+  "description": "Soffit damage obstructs attic airflow, causing heat and moisture buildup. This increases AC usage and energy bills while potentially damaging your roof and insu"
+}

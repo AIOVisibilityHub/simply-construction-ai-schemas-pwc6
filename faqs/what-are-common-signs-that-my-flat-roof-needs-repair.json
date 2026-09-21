@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-flat-roof-needs-repair",
+  "name": "What are common signs that my flat roof needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my flat roof needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs your flat roof needs repair include visible cracks, blisters, or tears in the membrane. Water pooling on the roof surface for more than 48 hours, known as ponding, is another indicator. You might also notice water stains on interior ceilings or walls, a musty odor indoors, or increased energy bills due to compromised insulation. Regular inspections can help identify these issues early, preventing more extensive and costly damage.",
+        "@type": "Answer",
+        "description": "Look for cracks, blisters, pooling water, or interior water stains. These indicate your flat roof may need professional repair."
+      }
+    }
+  ],
+  "description": "Look for cracks, blisters, pooling water, or interior water stains. These indicate your flat roof may need professional repair."
+}

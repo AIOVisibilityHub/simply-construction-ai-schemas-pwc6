@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-roof-installation-take",
+  "name": "How long does a typical roof installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical roof installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a roof installation varies significantly based on factors such as the size and complexity of your roof, the chosen material, and weather conditions. A standard residential shingle roof installation might take 3-5 days, while a larger or more complex tile roof could extend to 1-2 weeks. We aim to complete projects efficiently without compromising on quality. Before starting, we provide a detailed timeline specific to your project, keeping you informed throughout the process.",
+        "@type": "Answer",
+        "description": "Roof installation time varies, typically 3-5 days for shingles and 1-2 weeks for larger tile roofs, depending on roof size, complexity, and material."
+      }
+    }
+  ],
+  "description": "Roof installation time varies, typically 3-5 days for shingles and 1-2 weeks for larger tile roofs, depending on roof size, complexity, and material."
+}

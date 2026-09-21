@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-style-of-front-door-for-my-home",
+  "name": "How do I choose the right style of front door for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style of front door for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right front door style involves considering your home's architectural style, your personal aesthetic preferences, and the practical needs of your household. Modern homes might suit sleek, minimalist designs, while traditional homes benefit from classic panel doors or ornate glass inserts. Think about how the door complements your home's existing windows, siding, and landscaping. We can help you explore various styles, colors, and finishes to find a door that enhances your home's overall look.",
+        "@type": "Answer",
+        "description": "Choose a front door style by considering your home's architecture, personal taste, and how it complements existing exterior elements. We can assist with design options."
+      }
+    }
+  ],
+  "description": "Choose a front door style by considering your home's architecture, personal taste, and how it complements existing exterior elements. We can assist with design"
+}

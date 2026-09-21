@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-repair-stucco-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair stucco myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair stucco myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor cosmetic stucco repairs, such as small hairline cracks, can sometimes be attempted by a homeowner, extensive damage involving water intrusion, structural issues, or large sections of missing stucco typically requires professional expertise. Professionals ensure proper preparation, material matching, and application techniques to prevent further damage and ensure a durable, aesthetically pleasing result. Improper DIY repair can lead to bigger problems.",
+        "@type": "Answer",
+        "description": "Minor cosmetic repairs can be DIY, but extensive damage or structural issues require professional expertise for proper, durable results."
+      }
+    }
+  ],
+  "description": "Minor cosmetic repairs can be DIY, but extensive damage or structural issues require professional expertise for proper, durable results."
+}

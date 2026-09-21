@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-i-need-a-new-exterior-door",
+  "name": "How do I know if I need a new exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I need a new exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs you may need a new exterior door include visible damage like cracks, rot, or rust. Drafts or noticeable air leaks around the frame indicate poor sealing and energy loss. Difficulty opening or closing the door, or issues with the lock mechanism, can compromise security and functionality. An outdated door might also detract from your home's curb appeal or lack modern security features. Replacing it can improve energy efficiency, security, and the overall look of your home.",
+        "@type": "Answer",
+        "description": "Look for visible damage, drafts, operational difficulties, or outdated appearance. These signs suggest a replacement could improve energy efficiency, security, and aesthetics."
+      }
+    }
+  ],
+  "description": "Look for visible damage, drafts, operational difficulties, or outdated appearance. These signs suggest a replacement could improve energy efficiency, security,"
+}

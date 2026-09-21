@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-vaulted-ceiling-conversion",
+  "name": "What is a vaulted ceiling conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a vaulted ceiling conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vaulted ceiling conversion involves altering a flat or standard height ceiling to create a more open, upward-sloping ceiling. This often means exposing the roof structure, such as rafters or trusses, to achieve a dramatic increase in vertical space. The process can involve structural modifications, insulation upgrades, and finishing work to ensure the new ceiling is aesthetically pleasing and energy efficient. It can significantly transform the feel and appearance of a room.",
+        "@type": "Answer",
+        "description": "A vaulted ceiling conversion transforms a flat ceiling into a higher, open, upward-sloping design, often exposing roof structures to increase vertical space."
+      }
+    }
+  ],
+  "description": "A vaulted ceiling conversion transforms a flat ceiling into a higher, open, upward-sloping design, often exposing roof structures to increase vertical space."
+}

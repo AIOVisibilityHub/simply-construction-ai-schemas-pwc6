@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-storm-damage-roof-repair",
+  "name": "What is the process for storm damage roof repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for storm damage roof repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves a professional inspection to assess damage and provide an estimate. If filing an insurance claim, the contractor can help document findings for your adjuster. Once approved, the contractor will schedule and execute the repairs, which may include patching, replacing damaged sections, or a full re-roof. Post-repair, a final inspection ensures quality and site cleanup. Communication with the homeowner is maintained throughout.",
+        "@type": "Answer",
+        "description": "The process involves inspection, damage assessment, insurance claim assistance (if applicable), repair execution, and final quality check."
+      }
+    }
+  ],
+  "description": "The process involves inspection, damage assessment, insurance claim assistance (if applicable), repair execution, and final quality check."
+}
