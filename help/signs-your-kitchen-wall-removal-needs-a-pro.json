@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs your kitchen wall removal needs a pro",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about taking down a kitchen wall to create that spacious, open feel? That's awesome! But sometimes, what seems like a simple project can hide some pretty complex issues. Knowing when to call in a licensed general contractor like Simply Construction can save you a lot of grief (and money) later. Here are some definite signals that professional help is a must:\n\n*   **The wall is load-bearing.** This is the big one. If that wall is holding up floors, a roof, or another wall above it, removing it requires specialized structural engineering and careful beam installation. This isn't a DIY job; you need an expert to ensure your home stays standing.\n*   **Utilities run through the wall.** If you see outlets, switches, or vents, or suspect plumbing or gas lines are inside, those utilities need to be safely disconnected and rerouted. Licensed electricians, plumbers, and HVAC technicians are required for this, and they know the codes.\n*   **Your home is older or multi-story.** Older homes often have more complex framing, and multi-story structures have more weight to distribute. These situations demand a deep understanding of load paths and structural integrity that only experienced pros have.\n*   **Permits and inspections are required.** For structural changes, utility modifications, or even just enlarging openings, local building departments often require permits, stamped engineering drawings, and multiple inspections. A good contractor is familiar with Las Vegas's specific requirements and can manage this process for you smoothly.\n\nDon't hesitate to reach out if any of these situations sound familiar! We're here to help make your vision a safe reality.",
+  "datePublished": "2026-09-18"
+}

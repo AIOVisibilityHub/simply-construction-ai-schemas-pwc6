@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Are My Old Kitchen Countertops Beyond Repair?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever look at your kitchen countertops and wonder if they're just too far gone? It's a common question, especially with older homes or kitchens that have seen a lot of action. While some damage can definitely be repaired, there comes a point where replacement is the smarter, more cost-effective choice. As licensed general contractors in the Las Vegas area, we've seen it all, and we can help you decide.\n\nOne big sign that repair might not cut it is extensive water damage. If you've got swelling, warping, or discoloration around your sink or dishwasher, especially with laminate or wood countertops, that's often a sign of water ingress that’s hard to truly fix without addressing the underlying issues. Mold growth is another serious indicator that replacement is probably necessary for health and safety.\n\nDeep, widespread cracks or chips, particularly in solid surface or stone countertops, can also be tricky. While small chips can often be patched, large cracks can compromise the structural integrity of the counter and may be too expensive or noticeable to repair effectively. Sometimes, the material itself is just outdated or worn beyond aesthetic appeal. If your countertops are faded, stained beyond recognition, or have an undesirable pattern that no amount of cleaning can fix, it's probably time for an upgrade.\n\nFunctionality issues like uneven surfaces, delamination, or edges peeling away also point towards replacement. These aren't just cosmetic; they can affect how you use your kitchen daily. If you're constantly fighting with an unlevel surface or catching your clothes on a loose edge, new countertops will significantly improve your kitchen experience.\n\nUltimately, if the cost of repair is approaching the cost of replacement, or if you're continually unhappy with the look and feel despite attempts to fix it, it’s a clear signal. A professional like Simply Construction can give you an honest assessment. We serve areas like North Las Vegas, Green Valley, and Summerlin, and we can help you understand your options and whether a fresh start is best for your home.",
+  "datePublished": "2026-09-18"
+}

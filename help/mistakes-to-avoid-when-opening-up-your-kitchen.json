@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to avoid when opening up your kitchen",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Creating an open-concept kitchen is a fantastic way to transform your home, but it's easy to stumble if you're not careful. Here are some key mistakes to dodge to keep your project smooth and stress-free.\n\n- [ ] **Don't underestimate structural implications.** A huge oversight is assuming a wall isn't load-bearing without a professional assessment. Removing a crucial support can lead to significant structural problems, costing a fortune to fix. Always get an expert to verify.\n- [ ] **Never skip the permit process.** Starting demolition or construction without the required permits for structural changes or utility reroutes is a recipe for disaster. You could face stop-work orders, fines, and be forced to redo work, leading to major delays and expenses.\n- [ ] **Overlooking utility reroutes.** Kitchen walls often hide plumbing, electrical, and gas lines. Failing to properly plan for their relocation can lead to complicated and costly surprises, or even safety hazards during the remodel.\n- [ ] **Poor planning for storage and ventilation.** When upper cabinets disappear in an open-concept design, storage can become an issue. Also, without proper ventilation planning, cooking odors and grease can spread throughout your now-open living areas. Make sure to design smart storage solutions and robust ventilation.\n- [ ] **Not budgeting for contingencies.** Remodels, especially those involving structural work, often uncover unexpected issues. Not having a contingency fund for unforeseen problems, like hidden rot or outdated wiring, can quickly derail your budget and timeline.\n\n**How to use this checklist:** Before you kick off your open-concept kitchen project in Las Vegas, review these potential pitfalls with your contractor. A good plan and a transparent discussion about what to expect will help ensure your remodel is a success. Simply Construction has the experience to guide you through these complexities.",
+  "datePublished": "2026-09-18"
+}

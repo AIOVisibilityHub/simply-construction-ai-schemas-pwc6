@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Kitchen Layout Making Meal Prep a Headache?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Ever feel like you’re running a marathon just to cook dinner? Your kitchen layout might be the culprit! A well-designed kitchen should make your life easier, not harder. Let’s talk about how to get that flow just right so you can enjoy cooking again.\n\nFirst, think about your 'work triangle' – that invisible path between your sink, stove, and refrigerator. Keeping these three points relatively close, but not too close, is key for efficient movement. If you're constantly taking extra steps, your triangle might be too stretched or too cramped. Next, consider your counter space. Do you have enough room for chopping veggies, setting down hot pans, and housing your small appliances? Often, folks underestimate how much clear counter space they actually need, especially around the sink and cooktop. It's not just about aesthetics; it’s about practical functionality. Also, don't forget about potential traffic jams. If multiple people cook or guests tend to gather in the kitchen, you need clear pathways, typically 36-42 inches wide, so no one feels squeezed. Finally, think about your storage. Are your pots and pans near the stove? Your dishes near the dishwasher? Tailoring storage to your specific habits makes a huge difference in daily convenience. If you’re unsure where to start with these tricky design elements, bringing in a pro can really help map out the best use of your space.\n\nReady to transform your kitchen into a functional dream? Simply Construction can help you rethink your space and make it work for you. Give us a call for a free, no-obligation estimate!",
+  "datePublished": "2026-09-18"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Bathroom Remodel: How Long Will It Really Take?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If you're wondering how long your bathroom remodel will leave your bathroom out of service, you're not alone! For a standard single bathroom, you can typically expect the on-site construction work to span about 3 to 5 weeks. This usually breaks down with demolition and rough-ins taking the first 1-2 weeks, followed by waterproofing and tiling in weeks 2-3, and then fixtures and finishes in weeks 3-4. However, that's just the construction. The pre-construction phase—designing your space, selecting materials, and getting those all-important permits—often adds several weeks before any physical work begins. Material lead times can be a real factor here, so ordering early is a smart move. When you work with a professional, they'll help coordinate all the trades involved, from plumbers and electricians to tilers, to keep your project moving efficiently and minimize the time your bathroom is out of commission. Want a more precise timeline for your Las Vegas bathroom remodel? Let's chat!",
+  "datePublished": "2026-09-18"
+}

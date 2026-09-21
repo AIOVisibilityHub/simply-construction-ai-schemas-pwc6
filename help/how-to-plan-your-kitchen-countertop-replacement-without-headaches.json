@@ -1,0 +1,149 @@
+{
+  "name": "How to Plan Your Kitchen Countertop Replacement Without Headaches",
+  "step": [
+    {
+      "name": "Step 1: Initial Measuring and Planning — This is where you get a rough idea of your current kitchen layout. Measure your existing countertops and cabinets, note where your sink and appliances are, and start thinking about edge profiles and backsplash options. It helps to decide on these elements early because they influence material choices and fabrication.",
+      "text": "Step 1: Initial Measuring and Planning — This is where you get a rough idea of your current kitchen layout. Measure your existing countertops and cabinets, note where your sink and appliances are, and start thinking about edge profiles and backsplash options. It helps to decide on these elements early because they influence material choices and fabrication.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection and Quoting — Research different materials like laminate, quartz, granite, or solid surface. Compare their installed cost, maintenance needs, and how they look. Don't just look at the raw material price; get a few quotes that include fabrication and installation. This is a great time to visit showrooms and see slabs in person.",
+      "text": "Step 2: Material Selection and Quoting — Research different materials like laminate, quartz, granite, or solid surface. Compare their installed cost, maintenance needs, and how they look. Don't just look at the raw material price; get a few quotes that include fabrication and installation. This is a great time to visit showrooms and see slabs in person.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Templating — Once you've chosen your material and a professional installer, they'll come out to create a precise template of your kitchen. This often involves laser measurements to capture exact angles, wall bows, and cutouts for your sink and cooktop. This step is crucial because it ensures your new countertops will fit perfectly.",
+      "text": "Step 3: Templating — Once you've chosen your material and a professional installer, they'll come out to create a precise template of your kitchen. This often involves laser measurements to capture exact angles, wall bows, and cutouts for your sink and cooktop. This step is crucial because it ensures your new countertops will fit perfectly.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Fabrication — After templating, your chosen slabs or sheets go to the shop. Here, they're cut to size, edges are profiled, sink and appliance cutouts are milled, and surfaces are finished. This is typically done off-site, so there's no construction happening in your home during this phase.",
+      "text": "Step 4: Fabrication — After templating, your chosen slabs or sheets go to the shop. Here, they're cut to size, edges are profiled, sink and appliance cutouts are milled, and surfaces are finished. This is typically done off-site, so there's no construction happening in your home during this phase.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Site Preparation and Removal — Before installation day, you’ll need to shut off the water, disconnect plumbing, and any under-counter appliances. The installers will carefully remove your old countertops, making sure not to damage your cabinets or walls in the process. They'll also check if your cabinets are level and structurally sound, shimming them if needed.",
+      "text": "Step 5: Site Preparation and Removal — Before installation day, you’ll need to shut off the water, disconnect plumbing, and any under-counter appliances. The installers will carefully remove your old countertops, making sure not to damage your cabinets or walls in the process. They'll also check if your cabinets are level and structurally sound, shimming them if needed.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Installation — Your new countertops arrive! The installers dry-fit them first, then apply construction adhesive to the cabinet rails, set the tops, and align any seams. They’ll fasten everything from below, check that it’s level, and seal around the walls and sink. This is usually the quickest part, often done in a single day.",
+      "text": "Step 6: Installation — Your new countertops arrive! The installers dry-fit them first, then apply construction adhesive to the cabinet rails, set the tops, and align any seams. They’ll fasten everything from below, check that it’s level, and seal around the walls and sink. This is usually the quickest part, often done in a single day.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Steps — Once the counters are in place, your sink and faucet will be reinstalled or new ones put in. Plumbing and appliances are reconnected, and if you chose a natural stone, it will be sealed. Now you can enjoy your beautiful, refreshed kitchen! For a seamless experience, especially with complex stone work or plumbing, bringing in a licensed general contractor like Simply Construction can make all the difference, ensuring every step is coordinated expertly.",
+      "text": "Step 7: Final Steps — Once the counters are in place, your sink and faucet will be reinstalled or new ones put in. Plumbing and appliances are reconnected, and if you chose a natural stone, it will be sealed. Now you can enjoy your beautiful, refreshed kitchen! For a seamless experience, especially with complex stone work or plumbing, bringing in a licensed general contractor like Simply Construction can make all the difference, ensuring every step is coordinated expertly.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Measuring and Planning — This is where you get a rough idea of your current kitchen layout. Measure your existing countertops and cabinets, note where your sink and appliances are, and"
+}

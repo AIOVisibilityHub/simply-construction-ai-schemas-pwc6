@@ -1,0 +1,143 @@
+{
+  "name": "What Happens During a Kitchen Countertop Installation?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Material Selection — First, we'll sit down to discuss your vision, cooking habits, and budget. This is where you'll choose your countertop material—like quartz, granite, or laminate—along with the color, finish, edge profiles, and sink type (undermount, drop-in, etc.). Simply Construction guides you through all the options to find the perfect fit.",
+      "text": "Step 1: Initial Consultation & Material Selection — First, we'll sit down to discuss your vision, cooking habits, and budget. This is where you'll choose your countertop material—like quartz, granite, or laminate—along with the color, finish, edge profiles, and sink type (undermount, drop-in, etc.). Simply Construction guides you through all the options to find the perfect fit.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: On-Site Measurement & Templating — Once materials are chosen, our team will visit your home in Las Vegas to take precise measurements of your cabinets. We create templates that capture every detail, including wall lines, corners, appliance cutouts, and sink locations. It's critical that your cabinets are fully installed and level before this step.",
+      "text": "Step 2: On-Site Measurement & Templating — Once materials are chosen, our team will visit your home in Las Vegas to take precise measurements of your cabinets. We create templates that capture every detail, including wall lines, corners, appliance cutouts, and sink locations. It's critical that your cabinets are fully installed and level before this step.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Off-Site Fabrication — With the templates, your selected slab or material goes to our fabrication facility. Here, skilled craftsmen cut the material to size, shape the edges, create the sink and cooktop cutouts, and plan any necessary seams. This step typically takes a few days to weeks, depending on the material.",
+      "text": "Step 3: Off-Site Fabrication — With the templates, your selected slab or material goes to our fabrication facility. Here, skilled craftsmen cut the material to size, shape the edges, create the sink and cooktop cutouts, and plan any necessary seams. This step typically takes a few days to weeks, depending on the material.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pre-Installation Site Preparation — Before installation day, you'll need to clear out your base cabinets. We'll disconnect and remove your old countertops, sink, faucet, disposal, and cooktop. Our team will also ensure your cabinet bases are level and structurally sound to properly support the new, often heavy, countertops.",
+      "text": "Step 4: Pre-Installation Site Preparation — Before installation day, you'll need to clear out your base cabinets. We'll disconnect and remove your old countertops, sink, faucet, disposal, and cooktop. Our team will also ensure your cabinet bases are level and structurally sound to properly support the new, often heavy, countertops.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Countertop Installation — Our installers carefully bring in the new countertops, positioning them precisely. Any seams are aligned and leveled. The pieces are then securely fastened to your cabinets from underneath. If you chose a backsplash or build-up, those are installed next, ensuring a tight, clean fit against the wall.",
+      "text": "Step 5: Countertop Installation — Our installers carefully bring in the new countertops, positioning them precisely. Any seams are aligned and leveled. The pieces are then securely fastened to your cabinets from underneath. If you chose a backsplash or build-up, those are installed next, ensuring a tight, clean fit against the wall.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finishing Touches & Inspection — Finally, we apply appropriate kitchen/bath sealant and caulk around the edges where the countertops meet walls and sinks. Surfaces are cleaned thoroughly, and we perform a final inspection with you to ensure everything meets our high standards and your complete satisfaction. We make sure all the details are perfect.",
+      "text": "Step 6: Finishing Touches & Inspection — Finally, we apply appropriate kitchen/bath sealant and caulk around the edges where the countertops meet walls and sinks. Surfaces are cleaned thoroughly, and we perform a final inspection with you to ensure everything meets our high standards and your complete satisfaction. We make sure all the details are perfect.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Material Selection — First, we'll sit down to discuss your vision, cooking habits, and budget. This is where you'll choose your countertop material—like quartz, granite,"
+}

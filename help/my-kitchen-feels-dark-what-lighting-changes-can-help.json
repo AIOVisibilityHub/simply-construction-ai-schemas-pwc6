@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen feels dark, what lighting changes can help?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your kitchen feels more like a dungeon than a bright, inviting space, you're not alone! A common culprit is relying on just one central light fixture, which leaves countertops and work zones in shadows. The secret to a well-lit kitchen is layered lighting, which means having different types of lights working together to brighten every corner. \n\nFirst, think about your ambient light. This is your general overhead illumination, often achieved with recessed cans or a central fixture. Instead of placing lights in a symmetrical grid, plan them from the edge of your countertops inward. This washes light down your cabinet faces and onto your counters, where you actually need it, rather than just illuminating the middle of the floor.\n\nNext, task lighting is a game-changer. Under-cabinet strips or pucks are essential here. Mount them near the front edge of your cabinets to illuminate the counter space directly, not just the backsplash. Add dedicated lighting over your sink, cooktop, and any island work zones. These focused lights make prep and cooking much safer and more enjoyable.\n\nFinally, don't forget accent lighting. Pendants over an island not only add style but provide focused light for tasks or dining. In-cabinet or wall-wash lights can highlight architectural features or display items, adding depth and warmth. Using dimmers on each circuit gives you ultimate control over the mood and brightness. Simply Construction in Las Vegas can help you design a comprehensive lighting plan that transforms your dark kitchen into a bright, functional, and beautiful space, making sure all the electrical work is done safely and correctly.",
+  "datePublished": "2026-09-18"
+}

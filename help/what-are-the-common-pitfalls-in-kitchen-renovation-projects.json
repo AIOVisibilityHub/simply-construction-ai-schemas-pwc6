@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the common pitfalls in kitchen renovation projects?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a kitchen renovation in Las Vegas can be super exciting, but it's also easy to stumble if you're not careful. We’ve seen quite a few things over our 30+ years in the game, so here are some common mistakes to look out for, along with how to sidestep them.\n\n1.  **Not having a clear plan:** Jumping in without a detailed vision often leads to change orders and budget overruns. *How to avoid it:* Spend ample time planning with a professional. Know your style, needs, and must-haves before demo day.\n2.  **Underestimating the budget:** Renovations almost always cost more than initially anticipated. *How to avoid it:* Always budget for a 10-15% contingency for unexpected issues, like discovering old plumbing or electrical problems behind walls.\n3.  **DIYing complex tasks:** While some small tasks are fine, taking on major structural or utility work without expertise can be dangerous and costly. *How to avoid it:* Trust licensed professionals for tasks like load-bearing wall removal, plumbing, and electrical work. Simply Construction is licensed, bonded, and insured for a reason!\n4.  **Ignoring permits:** Many significant kitchen changes require permits, and skipping them can lead to fines or rework. *How to avoid it:* Work with a contractor who handles all necessary planning, permits, and inspections, ensuring compliance with Nevada requirements.\n5.  **Compromising on functionality:** A beautiful kitchen that doesn't function well is frustrating. *How to avoid it:* Prioritize a functional layout, adequate storage, and proper workflow. Discuss your cooking and entertaining habits with your remodeler.\n\nAvoiding these common missteps will help ensure your kitchen renovation is a success. If you're feeling unsure, getting professional help from an experienced general contractor can make all the difference. Contact us for a free estimate and let's plan your perfect kitchen.",
+  "datePublished": "2026-09-18"
+}

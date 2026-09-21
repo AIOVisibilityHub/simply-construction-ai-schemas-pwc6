@@ -1,0 +1,137 @@
+{
+  "name": "How to Plan Your Custom Kitchen Remodel to Avoid Delays?",
+  "step": [
+    {
+      "name": "Step 1: Define Your Vision and Budget Early — Get super clear on what you want your kitchen to look like and how you'll use it. What's your overall style? What specific functional improvements are you looking for? Simultaneously, establish a realistic total budget, making sure to include that essential 10-20% contingency for any unexpected discoveries or upgrades. Knowing your financial boundaries and design goals upfront allows for a more focused planning phase.",
+      "text": "Step 1: Define Your Vision and Budget Early — Get super clear on what you want your kitchen to look like and how you'll use it. What's your overall style? What specific functional improvements are you looking for? Simultaneously, establish a realistic total budget, making sure to include that essential 10-20% contingency for any unexpected discoveries or upgrades. Knowing your financial boundaries and design goals upfront allows for a more focused planning phase.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Prioritize Planning and Design — Dedicate ample time (often 2-6 weeks) to detailed design. This means firming up your layout, workflow, appliance selections, and storage strategy before anything else. For custom kitchens, this phase is critical, as every element needs to integrate seamlessly. Don't rush this; a well-thought-out plan prevents costly changes later.",
+      "text": "Step 2: Prioritize Planning and Design — Dedicate ample time (often 2-6 weeks) to detailed design. This means firming up your layout, workflow, appliance selections, and storage strategy before anything else. For custom kitchens, this phase is critical, as every element needs to integrate seamlessly. Don't rush this; a well-thought-out plan prevents costly changes later.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Order Long-Lead Items and Apply for Permits Concurrently — Custom cabinets can take 8-16 weeks to arrive, and permits in Las Vegas might take several weeks to process. Submit your permit applications as soon as your design is finalized and place orders for custom cabinetry and specialty appliances at the same time. This synchronizes two major timeline factors and ensures materials are on-site when construction is ready.",
+      "text": "Step 3: Order Long-Lead Items and Apply for Permits Concurrently — Custom cabinets can take 8-16 weeks to arrive, and permits in Las Vegas might take several weeks to process. Submit your permit applications as soon as your design is finalized and place orders for custom cabinetry and specialty appliances at the same time. This synchronizes two major timeline factors and ensures materials are on-site when construction is ready.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Book Your Contractor Well in Advance — Good contractors are in demand. Booking a reputable general contractor like Simply Construction 2-4 months ahead of your desired start date allows time for design finalization, material procurement, and permit approvals before demolition begins. This proactive approach ensures you secure the expertise you need and aligns schedules effectively.",
+      "text": "Step 4: Book Your Contractor Well in Advance — Good contractors are in demand. Booking a reputable general contractor like Simply Construction 2-4 months ahead of your desired start date allows time for design finalization, material procurement, and permit approvals before demolition begins. This proactive approach ensures you secure the expertise you need and aligns schedules effectively.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Maintain Clear Communication Throughout — Establish clear communication channels with your contractor regarding progress, potential issues, and change orders. Regularly review the schedule and discuss any concerns immediately. Transparency and ongoing dialogue with Simply Construction will keep everyone aligned and responsive, minimizing misunderstandings and delays during your custom kitchen project.",
+      "text": "Navigating a custom kitchen remodel can be complex, but with these steps, you'll be set up for success. Simply Construction has over 30 years of experience coordinating complex projects in Las Vegas, North Las Vegas, and Henderson. We're here to help you bring your custom kitchen vision to life without the typical stress. Contact us today for a free, no-obligation estimate.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Vision and Budget Early — Get super clear on what you want your kitchen to look like and how you'll use it. What's your overall style? What specific functional improvements are you"
+}

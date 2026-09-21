@@ -1,0 +1,149 @@
+{
+  "name": "What's involved in making my kitchen open concept?",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment – Walk the space with your contractor to figure out which walls can go and what's hiding inside them. This usually involves checking for structural loads and identifying any plumbing, electrical, or HVAC lines, which helps scope out the project's complexity.",
+      "text": "Step 1: Initial Assessment – Walk the space with your contractor to figure out which walls can go and what's hiding inside them. This usually involves checking for structural loads and identifying any plumbing, electrical, or HVAC lines, which helps scope out the project's complexity.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Planning – This is where your vision takes shape! Work with designers to create an integrated layout for your new open kitchen and adjacent rooms. You'll plan everything from storage solutions and lighting to appliance placement and finishes, ensuring the new space flows seamlessly.",
+      "text": "Step 2: Design and Planning – This is where your vision takes shape! Work with designers to create an integrated layout for your new open kitchen and adjacent rooms. You'll plan everything from storage solutions and lighting to appliance placement and finishes, ensuring the new space flows seamlessly.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Structural Engineering – If you're removing any load-bearing walls, a structural engineer will come in. They'll calculate the right size for new beams and posts and detail how everything will be supported, which is super important for your home's safety.",
+      "text": "Step 3: Structural Engineering – If you're removing any load-bearing walls, a structural engineer will come in. They'll calculate the right size for new beams and posts and detail how everything will be supported, which is super important for your home's safety.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Permitting – With plans and engineering in hand, your contractor will submit everything to the local Las Vegas building department. This step ensures your project complies with all codes and regulations, covering structural, electrical, plumbing, and mechanical aspects.",
+      "text": "Step 4: Permitting – With plans and engineering in hand, your contractor will submit everything to the local Las Vegas building department. This step ensures your project complies with all codes and regulations, covering structural, electrical, plumbing, and mechanical aspects.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Demolition and Structural Work – Time to get things moving! The area will be prepped, temporary supports installed if needed, and then the walls come down. New engineered beams and posts are installed, and any utilities are rerouted to their new locations.",
+      "text": "Step 5: Demolition and Structural Work – Time to get things moving! The area will be prepped, temporary supports installed if needed, and then the walls come down. New engineered beams and posts are installed, and any utilities are rerouted to their new locations.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Rough-in and Inspections – Once the framing and major utility reroutes are done, all the new plumbing, electrical, and HVAC rough-ins are completed. Inspectors will then check that everything meets code before walls are closed up, which is a critical safety check.",
+      "text": "Step 6: Rough-in and Inspections – Once the framing and major utility reroutes are done, all the new plumbing, electrical, and HVAC rough-ins are completed. Inspectors will then check that everything meets code before walls are closed up, which is a critical safety check.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Finishes and Commissioning – This is the exciting part where your kitchen comes alive! Cabinets, countertops, flooring, backsplashes, and all the fixtures go in. Appliances are installed and tested, and your contractor makes sure everything is perfect, from circulation to lighting and ventilation. This final stage typically wraps up the project, leaving you with a stunning, functional open-concept space.",
+      "text": "Step 7: Finishes and Commissioning – This is the exciting part where your kitchen comes alive! Cabinets, countertops, flooring, backsplashes, and all the fixtures go in. Appliances are installed and tested, and your contractor makes sure everything is perfect, from circulation to lighting and ventilation. This final stage typically wraps up the project, leaving you with a stunning, functional open-concept space.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Assessment – Walk the space with your contractor to figure out which walls can go and what's hiding inside them. This usually involves checking for structural loads and identifying any"
+}

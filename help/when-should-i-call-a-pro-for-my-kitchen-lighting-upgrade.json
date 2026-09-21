@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When should I call a pro for my kitchen lighting upgrade?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Kitchen lighting upgrades can make a huge difference, but sometimes it's best to call in a professional to handle the job. While some minor fixture swaps might be DIY-friendly, more complex projects often benefit from expert hands. Here are some signs it's time to bring in Simply Construction for your kitchen lighting:\n\n*   **You need new or modified wiring.** If your upgrade involves adding new circuits, relocating junction boxes, or changing your electrical panel, a licensed electrician or general contractor is essential. This ensures safety and compliance with local codes in Las Vegas.\n*   **Your kitchen has multiple lighting zones.** Larger kitchens, especially open-plan ones with an island, dining area, or pantry, require a coordinated layered lighting design. A professional can plan complex layouts that incorporate ambient, task, and accent lighting for seamless functionality.\n*   **You have challenging ceiling conditions.** Vaulted ceilings, exposed beams, or limited recess depth can make fixture selection and installation tricky. Experts can assess these challenges and recommend the best solutions that work structurally and aesthetically.\n*   **You're aiming for precise photometric planning.** If you want more than just 'bright' — if you're concerned about specific lumen output per square foot, beam spread, or glare control for optimal performance — a pro can provide detailed photometric designs.\n*   **You want advanced control systems.** Integrating smart dimmers, creating lighting scenes, or connecting your kitchen lights to a broader home automation system typically requires specialized knowledge to set up correctly and safely.\n*   **You need consistent color temperature.** Matching the color temperature across different brands and types of fixtures (e.g., recessed, under-cabinet, pendants) to avoid a visually jarring look is harder than it seems and something a professional excels at.\n\nBringing in a qualified team like Simply Construction ensures your kitchen lighting upgrade is not only beautiful and functional but also safe and up to code. Don't hesitate to reach out for a free, no-obligation estimate in the Las Vegas Valley.",
+  "datePublished": "2026-09-18"
+}

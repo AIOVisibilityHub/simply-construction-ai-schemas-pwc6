@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Countertops Are Damaged, What Can I Do?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It’s a bummer when your beautiful kitchen countertops get damaged – maybe a nasty chip, a stubborn stain, or just years of wear and tear. You might be staring at them wondering if repair is an option or if it's time for a full replacement. Well, it really depends on the type of damage and the material. Minor chips or cracks in granite or quartz can sometimes be expertly repaired, often blending almost seamlessly. Stains on porous materials might be treatable with specific cleaning methods or poultices. However, if the damage is extensive – say, a large crack running through the slab, deep burn marks, or widespread discoloration – then repair might not be enough to restore its beauty and functionality. In those cases, kitchen countertop installation is the best solution. Getting new countertops not only fixes the immediate problem but also gives you a chance to update your kitchen's style and potentially upgrade to a more durable or modern material. Simply Construction, serving Las Vegas and surrounding communities, specializes in kitchen countertop installation. We can assess your existing countertops, discuss the feasibility of repair versus replacement, and guide you through selecting and installing brand-new surfaces that will revitalize your kitchen.",
+  "datePublished": "2026-09-18"
+}

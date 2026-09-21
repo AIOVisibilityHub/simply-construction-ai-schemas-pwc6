@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Countertops Look Dated – What Are My Options?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling like your kitchen countertops are stuck in another decade? You're not alone! Dated countertops can really drag down the whole vibe of your kitchen. The good news is, you've got a ton of fantastic options to bring it into the 21st century, and we can help you figure out what’s best for your Las Vegas home.\n\nFirst off, think about what you actually *need* from your countertops. Are you a gourmet chef who needs serious durability, or do you just want something beautiful and easy to maintain? Material choice is huge here. You could go for classic granite, sleek quartz, or even something like concrete or butcher block for a unique touch. Each has its own look and feel, plus different levels of heat resistance, scratch resistance, and porosity. We’ll walk you through the pros and cons of each, considering your lifestyle and budget.\n\nNext, consider your kitchen's overall design. Are you leaning towards modern, traditional, rustic, or something in between? Your countertops should complement your existing cabinetry and flooring, or be part of a larger remodel. Don't be afraid to bring in samples to see how they look in your actual lighting. Sometimes, a full kitchen remodel isn't even necessary; just a countertop refresh can make a dramatic difference.\n\nFinally, think about edge profiles, backsplash options, and sink integration. These details might seem small, but they really pull the whole look together. A new countertop installation is a fantastic opportunity to upgrade your sink or add a stylish new backsplash that ties everything together. When you’re ready to explore these possibilities for your home in Las Vegas, North Las Vegas, or Summerlin, give Simply Construction a call. We're here to help you navigate all the choices and create a kitchen you'll love.",
+  "datePublished": "2026-09-18"
+}

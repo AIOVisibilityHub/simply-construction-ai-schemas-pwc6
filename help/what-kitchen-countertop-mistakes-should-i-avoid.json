@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Kitchen Countertop Mistakes Should I Avoid?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "- [ ] **Not verifying cabinet readiness** — why it matters: Installing heavy countertop materials like granite or quartz on uneven or inadequate cabinet bases can lead to cracked slabs, unlevel surfaces, and seam problems down the line. Make sure your cabinets are perfectly level and sturdy first. \n- [ ] **Changing layout after templating** — why it matters: Once templates are made, they're precise to your existing cabinet dimensions. Any changes to the layout or dimensions afterward will cause fit issues, delays, and potentially costly re-fabrication. Coordinate all layout changes with your contractor *before* templating. \n- [ ] **Ignoring material maintenance requirements** — why it matters: Different materials need different care. Choosing natural stone without understanding it needs periodic sealing, or expecting laminate to withstand hot pans, leads to disappointment and damage. Select a material that matches your willingness to maintain it. \n- [ ] **Underestimating stain or heat risks** — why it matters: Porous materials or certain finishes are more susceptible to stains from spills, while some materials can melt or burn from hot pots. Understand your chosen material's limitations regarding heat and staining to prevent accidental damage. \n- [ ] **Poor site preparation** — why it matters: Failing to clear out cabinets, protect surrounding flooring and furniture, or ensure clear access for large slabs can slow down installation, create hazards, or damage your home. Proper prep makes for a smoother, quicker install. \n\nHow to use this checklist: Go through each item before, during, and after your countertop selection and installation process. It's designed to help you catch common issues and ensure a successful project. If you're tackling a complex installation or are unsure about any of these steps, remember that professionals like Simply Construction specialize in precise measurements and installations. We can help you navigate these potential pitfalls for a beautiful and functional kitchen.",
+  "datePublished": "2026-09-18"
+}

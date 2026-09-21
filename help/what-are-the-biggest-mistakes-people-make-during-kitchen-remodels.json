@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Are the Biggest Mistakes People Make During Kitchen Remodels?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a kitchen remodel is exciting, but it's also where some common missteps can really cause headaches. One big one is treating construction as the project's start. Rushing the design phase or skipping a thorough scope definition often leads to issues down the line. Another mistake is choosing finishes and ordering cabinets before finalizing your layout and appliance sizes. Imagine getting beautiful cabinets only to find the fridge doesn't fit! Underestimating lead times for materials, especially cabinets and appliances, is another pitfall. Starting demolition before your core materials are on-site can leave you with an unusable kitchen for longer than necessary. Ignoring crucial elements like workflow, prep space, lighting, outlets, or ventilation until the last minute can also create functional problems. Finally, many folks compare contractor bids without ensuring they cover the same scope, or they forget to include a 10-20% contingency budget. Avoid major changes after orders are placed or mid-construction, as this adds significant cost and time. Working with a seasoned general contractor like Simply Construction helps you sidestep these common issues, ensuring your Las Vegas kitchen remodel is a smooth process from start to finish.",
+  "datePublished": "2026-09-18"
+}

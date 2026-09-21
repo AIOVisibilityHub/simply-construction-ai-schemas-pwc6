@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Tired of Your Kitchen Floor? Here's How to Pick a New One!",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your kitchen floor takes a beating, right? Spills, traffic, dropped items – it needs to be tough! If you're ready for a refresh, choosing the right material is probably at the top of your mind. Let's break down how to pick a floor that looks great and stands up to kitchen life in Las Vegas.\n\nFirst up, consider durability and water resistance. This isn't just about looks; it's about longevity. Materials like Luxury Vinyl Plank (LVP) and tile are fantastic options because they're designed to handle moisture and heavy foot traffic without warping or staining. Hardwood can work, but it needs more careful maintenance and might not be ideal for every kitchen environment. Next, think about comfort and maintenance. Some floors, like tile, are very hard underfoot, which can be tough if you spend hours cooking. LVP or even engineered wood can offer a bit more give. Also, how easy is it to clean? Spills are inevitable, so choose a material that wipes up easily without fear of damage. Don't forget about your subfloor! The condition of your existing subfloor is crucial. It needs to be clean, level, and stable for any new flooring to perform well. If it's uneven or damaged, addressing this first is non-negotiable, and a professional can tell you exactly what's needed. Finally, always factor in the long-term. What’s the expected lifespan? How easily can it be repaired if a section gets damaged? Getting these details right ensures your new floor isn't just a temporary fix. When you're making such a significant investment, especially with tile or hardwood that requires precise installation and moisture management, bringing in a qualified contractor can save you from costly headaches down the line. Simply Construction is here to help you choose and install the perfect kitchen floor. Give us a call for a free estimate!",
+  "datePublished": "2026-09-18"
+}

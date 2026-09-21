@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Mistakes Should I Avoid When Removing a Kitchen Wall?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Removing a kitchen wall can be a game-changer for your Las Vegas home, creating a more spacious and modern feel. However, it's a project with a lot of moving parts, and making certain mistakes can lead to headaches, delays, or even structural issues. Here are some key mistakes to avoid:\n\n- [ ] Assuming a wall isn't load-bearing — why: This is the biggest and most dangerous mistake. Removing a load-bearing wall without proper structural support can cause significant damage to your home, from sagging ceilings to complete structural failure. Always have a professional assess the wall first.\n\n- [ ] Skipping permits and inspections — why: Local Las Vegas building codes exist for safety. Removing a wall, especially a load-bearing one, typically requires permits and inspections. Skipping these steps can result in fines, forced rework, or issues when selling your home.\n\n- [ ] Ignoring what’s inside the wall — why: Walls often hide electrical wiring, plumbing pipes, or HVAC ducts. Not planning for these can lead to unexpected costs, damaged utilities, and service interruptions. A professional contractor will properly reroute these systems.\n\n- [ ] Underestimating the dust and disruption — why: Wall removal is messy! Dust will spread, and your home will be a construction zone for a period. Not preparing for this (e.g., sealing off areas, planning alternative cooking spaces) can make the process much more stressful.\n\n- [ ] Not planning for the 'gap' — why: Once a wall is gone, you're left with gaps in flooring, ceiling, and sometimes mismatched paint. You need a clear plan for how these areas will be finished to blend seamlessly with the new open space. \n\n- [ ] Going DIY for complex projects — why: While some minor renovations are DIY-friendly, structural changes are not. The complexities of engineering, local codes, and trade coordination make it a job best left to licensed, bonded, and insured professionals like Simply Construction. They ensure the job is done safely and correctly, saving you stress and potential costly repairs down the line.",
+  "datePublished": "2026-09-18"
+}

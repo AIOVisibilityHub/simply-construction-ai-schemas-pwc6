@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking About a Kitchen Island? Here's What to Consider",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen island can be a fantastic addition, adding extra workspace, storage, and even a spot for casual dining. But before you get swept away by design dreams, it’s super important to think about the practical side. Getting this right means your island will be a joy to use, not a bottleneck or an eyesore. Let’s chat about what really matters when planning your new kitchen centerpiece.\n\nFirst, **clearance is king.** Seriously, this is probably the most crucial factor. You absolutely need enough space around your island for comfortable movement. A minimum of 36 inches of clearance on all sides is standard, but if you have appliances opposite the island or anticipate multiple cooks, aiming for 42 to 48 inches in your main work aisles will make a huge difference. You want to be able to open dishwasher doors and oven doors without feeling squeezed. Next, **functionality should drive design.** What do you primarily want your island to do? Is it purely for prep? Do you want a sink or a cooktop? Seating? If you plan for seating, make sure you have enough counter overhang (at least 12-15 inches) and ample width per stool (about 24 inches) for comfort. This will determine its necessary depth and length. Third, **don't forget the services.** If your dream island includes a sink, a cooktop, or even just electrical outlets, you need to plan for plumbing, gas, and electrical rough-ins early. This means routing lines through your floor, which is a significant part of the installation process and often requires permits and inspections. Finally, **consider how it impacts your kitchen's flow.** Your island shouldn't interrupt the natural 'work triangle' between your fridge, sink, and stove. It should enhance your workflow, not create obstacles. Think about appliance door swings and how traffic will flow around it. If your vision involves complex utilities or major structural changes, getting a general contractor like Simply Construction involved early is a smart move. They can help navigate code requirements and ensure everything is installed safely and efficiently.",
+  "datePublished": "2026-09-18"
+}

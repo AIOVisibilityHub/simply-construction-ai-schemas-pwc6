@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Is My Kitchen Island So Hard to Use?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You dreamt of a beautiful, functional kitchen island, but now it feels more like an obstacle than an asset. It's frustrating when a key kitchen feature isn't working for you! Often, these problems stem from common design and planning mistakes. Let's look at why your island might not be living up to its potential and how to fix it.\n\nHere are some common mistakes to avoid:\n\n*   **Undersized clearance** — This is probably the biggest offender. If you have less than 36 inches of space around your island, it's going to feel cramped. Appliance doors might not open fully, and moving around with groceries or hot pans becomes a hazard. Aim for 42-48 inches in high-traffic or multi-cook areas to ensure comfortable movement and prevent bottlenecks.\n*   **Oversized islands** — While more counter space sounds great, an island that’s too big can dominate the room, making it feel small and difficult to clean. It can also disrupt your natural kitchen workflow. Your island should feel proportional to your kitchen, typically around 10-15% of the overall floor area, and allow easy circulation.\n*   **Inadequate planning for electrical** — Ever find yourself wishing you had an outlet for your blender or toaster on the island? Many islands get installed without enough, or poorly placed, electrical outlets. This isn't just inconvenient; it can be a code issue. Plan for receptacles early, considering how you'll use the space and what appliances you'll need.\n*   **Poor seating ergonomics** — If your island seating is uncomfortable, no one will want to use it. This usually comes down to insufficient counter overhang (less than 12-15 inches means cramped knees) or not enough width per person (you need about 24 inches per stool). Also, consider the walkway space behind seated individuals; 44-48 inches is ideal.\n*   **Weak floor anchoring** — A permanent island needs to be, well, permanent! If it’s not properly anchored to the floor, it can wobble, shift, or become unstable over time. This isn't just annoying; it can be a safety concern, especially with heavy countertops. A professional ensures solid fixing into your floor joists or concrete.\n\nAvoiding these common missteps during planning and installation can transform your island from a hindrance to a true kitchen highlight. If you're struggling with an existing island or planning a new one, a general contractor like Simply Construction can help you rethink the layout and ensure your island is both functional and beautiful.",
+  "datePublished": "2026-09-18"
+}

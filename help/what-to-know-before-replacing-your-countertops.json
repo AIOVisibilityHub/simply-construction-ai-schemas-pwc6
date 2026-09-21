@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Know Before Replacing Your Countertops",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about new kitchen countertops? It's an exciting home improvement that can totally transform your space! But before you dive in, there are a few common pitfalls that people sometimes overlook. Knowing these ahead of time can save you a lot of grief, and more importantly, a lot of money. Let’s make sure your project goes off without a hitch.\n\nHere are some common mistakes to avoid:\n\n*   **Insufficient planning for sink type or edge profiles** — Don't wait until the last minute to decide on your sink style (undermount, drop-in, farmhouse) or the edge profile for your counters. Making these decisions late, especially after the slabs are already cut, can lead to expensive changes or compromises you didn’t want. Always finalize these details with your designer or contractor early on.\n*   **Ignoring cabinet level and structural condition** — Your new countertops, especially heavy stone ones, need a perfectly stable and level base. If your existing cabinets aren't level or are structurally weak, it can cause problems like poor seams, rocking counters, or even stress cracks in your beautiful new stone. A professional will always check and address this before installation.\n*   **Underestimating maintenance requirements** — Different materials have different needs. Natural stone often requires sealing, and certain materials can be vulnerable to acids or heat. Choosing a countertop based purely on looks without understanding its maintenance can lead to premature damage and buyer's remorse. Be realistic about your lifestyle and choose a material that fits.\n*   **Choosing material purely on appearance** — While aesthetics are important, durability, heat resistance, and stain resistance are just as crucial. Some materials, like laminate, are more susceptible to heat or scratches than, say, quartz or porcelain. Always consider how you use your kitchen and pick a material that can stand up to your daily routine, not just one that looks pretty.\n*   **Not coordinating sink/faucet replacement** — If you're replacing your sink and faucet, it's best to do it at the same time as your countertops. Not doing so can lead to rework, awkward cutouts, or additional plumbing calls later. A good plan integrates all these elements seamlessly, saving you time and potential headaches.\n\nAvoiding these common mistakes means a smoother project and a result you’ll love for years to come. For complex installations, or if you're unsure about any of these points, calling in a seasoned pro like Simply Construction can really pay off. They have the experience to spot potential issues and guide you through every decision.",
+  "datePublished": "2026-09-18"
+}

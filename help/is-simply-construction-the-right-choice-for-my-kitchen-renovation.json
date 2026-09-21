@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is [Simply Construction] the right choice for my kitchen renovation?",
+    "text": "Is [Simply Construction] the right choice for my kitchen renovation?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Thinking about a kitchen renovation can be a huge step, and finding the right contractor is crucial. You want someone who understands your vision, can handle the complexities, and delivers results you'll love. So, is Simply Construction the right fit for your Las Vegas kitchen remodel?\n\nWe're a full-service, licensed general contractor right here in Las Vegas, serving communities like North Las Vegas, Summerlin, and Henderson. We’ve been at this for over 30 years, helping property owners plan, permit, build, and renovate projects of all sizes. For kitchen renovations specifically, we handle everything from custom kitchen remodeling to layout changes and open-concept designs. This means we’re equipped for projects involving structural beam installation, load-bearing wall removal, and integrating new elements like kitchen cabinet and countertop installation.\n\nOur team coordinates all the necessary planning, permits, inspections, and trade scheduling. This comprehensive approach means you don't have to juggle multiple contractors or worry about compliance with local Nevada requirements. We understand that a kitchen renovation is a big investment, and our goal is to make the process as smooth and stress-free as possible for you. Whether it’s a minor update or a major overhaul, our experience ensures your project is in capable hands. If you’re looking for an experienced, licensed, and insured team to bring your dream kitchen to life, we’d love to chat. Request a free, no-obligation estimate to see how we can help.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

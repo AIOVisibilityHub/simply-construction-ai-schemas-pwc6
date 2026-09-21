@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Does My Kitchen Renovation Take So Long?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to get excited about a new kitchen, and many folks wonder why it can take months from that first design meeting to the final walkthrough. You might see shows where it happens in a week, but real life is a bit different! A full kitchen renovation typically runs about 3-6 months. This timeline isn't just about the physical construction; it includes crucial steps like careful design, selecting all your materials, and ordering everything you need. These pre-construction phases alone can take 4-12 weeks, ensuring all the pieces are in place before demolition even begins. Then, the actual on-site work usually takes about 6-8 weeks, though bigger projects with layout changes might stretch to 10-16 weeks. It’s a process that ensures everything is done right and lasts for years, not just weeks. This includes demolition, plumbing and electrical rough-ins, inspections, wall prep, cabinet installation, countertop templating, and all the final finishes. Having a clear plan and working with experienced professionals like Simply Construction in Las Vegas helps manage expectations and keeps things moving as smoothly as possible. Don't rush the process; a well-planned kitchen is a joy for years to come.",
+  "datePublished": "2026-09-18"
+}

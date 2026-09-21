@@ -1,0 +1,137 @@
+{
+  "name": "Thinking About an Open-Concept Kitchen, Where Do I Start?",
+  "step": [
+    {
+      "name": "Step 1: Dream Big and Gather Inspiration. Start by thinking about how you want to use your new space. Look at design magazines, websites, and even friends’ homes for ideas. What kind of flow do you envision? This helps shape your initial vision.",
+      "text": "Step 1: Dream Big and Gather Inspiration. Start by thinking about how you want to use your new space. Look at design magazines, websites, and even friends’ homes for ideas. What kind of flow do you envision? This helps shape your initial vision.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Understand Your Home's Structure. This is a critical one. You’ll need to know if the walls you want to remove are load-bearing. This often requires a professional assessment. A general contractor, like Simply Construction, can assess your home's structural integrity to determine the feasibility and complexity of wall removal, advising on necessary structural changes like installing new beams.",
+      "text": "Step 2: Understand Your Home's Structure. This is a critical one. You’ll need to know if the walls you want to remove are load-bearing. This often requires a professional assessment. A general contractor, like Simply Construction, can assess your home's structural integrity to determine the feasibility and complexity of wall removal, advising on necessary structural changes like installing new beams.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Define Your Functional Needs. Beyond opening up the space, consider how the new layout will work for you. Do you need more counter space, a larger island, or better storage? This impacts the design and material choices for your new kitchen.",
+      "text": "Step 3: Define Your Functional Needs. Beyond opening up the space, consider how the new layout will work for you. Do you need more counter space, a larger island, or better storage? This impacts the design and material choices for your new kitchen.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Plan Your Budget and Timeline. Remodeling involves costs for demolition, structural work, new finishes, and appliances. Get a clear idea of what you’re willing to spend and discuss potential timelines with your contractor to manage expectations. Don't forget to factor in contingency funds for unexpected issues.",
+      "text": "Step 4: Plan Your Budget and Timeline. Remodeling involves costs for demolition, structural work, new finishes, and appliances. Get a clear idea of what you’re willing to spend and discuss potential timelines with your contractor to manage expectations. Don't forget to factor in contingency funds for unexpected issues.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Partner with a Professional. This step is key for a smooth process. A full-service general contractor in Las Vegas will handle everything from design and permitting to coordinating trades and ensuring the project meets all local building codes. They ensure your vision becomes a reality safely and efficiently. Ready to open up your kitchen? Let a professional help you navigate the journey.",
+      "text": "Step 5: Partner with a Professional. This step is key for a smooth process. A full-service general contractor in Las Vegas will handle everything from design and permitting to coordinating trades and ensuring the project meets all local building codes. They ensure your vision becomes a reality safely and efficiently. Ready to open up your kitchen? Let a professional help you navigate the journey.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Dream Big and Gather Inspiration. Start by thinking about how you want to use your new space. Look at design magazines, websites, and even friends’ homes for ideas. What kind of flow do you en"
+}

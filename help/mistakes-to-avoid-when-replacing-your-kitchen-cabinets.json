@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Replacing Your Kitchen Cabinets",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing your kitchen cabinets can dramatically upgrade your home, but a few common missteps can turn your dream remodel into a headache. Here are some mistakes to watch out for:\n\n*   **Not Planning the Layout Thoroughly:** Don't just replace old cabinets with new ones in the exact same spots if the original layout didn’t work for you. Think about workflow, storage needs, and how you use your kitchen. A good contractor like Simply Construction can help redesign your space for better functionality.\n*   **Forgetting About Appliances:** New cabinets might change clearances or appliance positions. Make sure your new layout accommodates your existing appliances, or plan for new ones if needed, especially with custom kitchen remodeling. This means considering refrigerators, ovens, microwaves, and dishwashers early on.\n*   **Ignoring Lighting:** New cabinets can affect how light bounces around your kitchen. Plan for adequate task lighting under upper cabinets and overall ambient lighting to ensure your new space is bright and welcoming. It's a crucial detail often overlooked.\n*   **Cutting Corners on Quality:** Cabinets are a long-term investment. Opting for the cheapest option might save money upfront, but it could lead to durability issues down the road. Focus on value and longevity, not just the lowest price. Simply Construction guides clients on quality materials that fit budgets.\n*   **DIYing Too Much:** While some small tasks are DIY-friendly, kitchen cabinet replacement, especially with layout changes or structural elements, is best left to licensed professionals. It involves precision, plumbing, and sometimes electrical work that requires expert knowledge to ensure safety and compliance with Nevada requirements. We coordinate all necessary aspects, from permits to inspections.",
+  "datePublished": "2026-09-18"
+}

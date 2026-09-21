@@ -1,0 +1,137 @@
+{
+  "name": "How to Plan for Your Kitchen Countertop Installation",
+  "step": [
+    {
+      "name": "Step 1: Material Selection and Design Consultation. This is where you decide on the countertop material (granite, quartz, etc.) and edge profile. Simply Construction will sit down with you to discuss your vision, budget, and lifestyle to help you choose the perfect fit. This phase can take a few days to a couple of weeks, depending on how quickly you make decisions and material availability.",
+      "text": "Step 1: Material Selection and Design Consultation. This is where you decide on the countertop material (granite, quartz, etc.) and edge profile. Simply Construction will sit down with you to discuss your vision, budget, and lifestyle to help you choose the perfect fit. This phase can take a few days to a couple of weeks, depending on how quickly you make decisions and material availability.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Precise Measurements and Templating. Once your cabinets are in place (or if you're keeping existing ones), accurate measurements are crucial. Our team will visit your home in Las Vegas or surrounding areas like Summerlin or Henderson to create a detailed template of your countertops. This step typically takes a few hours, ensuring a custom fit for your unique kitchen layout.",
+      "text": "Step 2: Precise Measurements and Templating. Once your cabinets are in place (or if you're keeping existing ones), accurate measurements are crucial. Our team will visit your home in Las Vegas or surrounding areas like Summerlin or Henderson to create a detailed template of your countertops. This step typically takes a few hours, ensuring a custom fit for your unique kitchen layout.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Fabrication of Your New Countertops. After templating, your chosen material goes to the fabrication shop. Skilled craftsmen will cut, polish, and finish your countertops according to the precise templates. This process usually takes about 1-3 weeks, depending on the material's complexity and the fabricator's schedule.",
+      "text": "Step 3: Fabrication of Your New Countertops. After templating, your chosen material goes to the fabrication shop. Skilled craftsmen will cut, polish, and finish your countertops according to the precise templates. This process usually takes about 1-3 weeks, depending on the material's complexity and the fabricator's schedule.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Removal of Old Countertops (if applicable). On installation day, our crew will carefully remove your old countertops, taking care to protect your cabinets and surrounding areas. This step is quick, usually taking just a few hours, and we handle the disposal of the old materials.",
+      "text": "Step 4: Removal of Old Countertops (if applicable). On installation day, our crew will carefully remove your old countertops, taking care to protect your cabinets and surrounding areas. This step is quick, usually taking just a few hours, and we handle the disposal of the old materials.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Installation of New Countertops. The main event! Your custom-fabricated countertops are brought in and meticulously installed. Our team ensures proper fit, leveling, and sealing. Any sink cutouts or appliance openings will be finalized on-site. This step typically takes a single day, transforming your kitchen almost instantly. We coordinate all the trade scheduling to make sure everything comes together seamlessly.",
+      "text": "Step 5: Installation of New Countertops. The main event! Your custom-fabricated countertops are brought in and meticulously installed. Our team ensures proper fit, leveling, and sealing. Any sink cutouts or appliance openings will be finalized on-site. This step typically takes a single day, transforming your kitchen almost instantly. We coordinate all the trade scheduling to make sure everything comes together seamlessly.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Material Selection and Design Consultation. This is where you decide on the countertop material (granite, quartz, etc.) and edge profile. Simply Construction will sit down with you to discuss "
+}

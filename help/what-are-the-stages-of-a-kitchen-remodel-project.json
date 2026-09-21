@@ -1,0 +1,149 @@
+{
+  "name": "What Are the Stages of a Kitchen Remodel Project?",
+  "step": [
+    {
+      "name": "Step 1: Planning & Design (2-6 weeks) — This is where we sit down, discuss your vision, budget, and functional needs. We'll help you choose materials, create a layout, and finalize all the details. This stage is crucial for getting it right and avoiding surprises later on.",
+      "text": "Step 1: Planning & Design (2-6 weeks) — This is where we sit down, discuss your vision, budget, and functional needs. We'll help you choose materials, create a layout, and finalize all the details. This stage is crucial for getting it right and avoiding surprises later on.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permitting & Ordering (2-8 weeks) — Once the design is locked, we'll handle securing any necessary permits from the local authorities in places like Henderson or North Las Vegas. At the same time, we'll order all your chosen materials, cabinets, and appliances. Lead times vary, so this can take a bit.",
+      "text": "Step 2: Permitting & Ordering (2-8 weeks) — Once the design is locked, we'll handle securing any necessary permits from the local authorities in places like Henderson or North Las Vegas. At the same time, we'll order all your chosen materials, cabinets, and appliances. Lead times vary, so this can take a bit.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition (1-3 days) — This is the exciting, messy part! We'll carefully remove old cabinets, countertops, flooring, and anything else being replaced. If structural changes like wall removal are happening, that's done here too.",
+      "text": "Step 3: Demolition (1-3 days) — This is the exciting, messy part! We'll carefully remove old cabinets, countertops, flooring, and anything else being replaced. If structural changes like wall removal are happening, that's done here too.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-Ins (1-2 weeks) — This stage involves updating plumbing, electrical, and HVAC systems behind the walls. New outlets, lighting, and appliance hookups are installed before anything gets covered up.",
+      "text": "Step 4: Rough-Ins (1-2 weeks) — This stage involves updating plumbing, electrical, and HVAC systems behind the walls. New outlets, lighting, and appliance hookups are installed before anything gets covered up.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Inspections & Drywall (1-2 weeks) — After rough-ins, local inspectors check everything to ensure it meets code. Once approved, new drywall is installed and prepped for paint. This is when your kitchen really starts taking shape!",
+      "text": "Step 5: Inspections & Drywall (1-2 weeks) — After rough-ins, local inspectors check everything to ensure it meets code. Once approved, new drywall is installed and prepped for paint. This is when your kitchen really starts taking shape!",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finishes (2-4 weeks) — Now for the fun stuff! Cabinets are installed, followed by countertops, flooring, and your chosen paint color. Plumbing fixtures, lighting, and appliances go in next, bringing your vision to life.",
+      "text": "Step 6: Finishes (2-4 weeks) — Now for the fun stuff! Cabinets are installed, followed by countertops, flooring, and your chosen paint color. Plumbing fixtures, lighting, and appliances go in next, bringing your vision to life.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Touches & Clean-up (1-3 days) — We'll complete any trim work, final adjustments, and a thorough clean-up. Then, it's time for your final walkthrough and to start enjoying your brand-new kitchen!",
+      "text": "Step 7: Final Touches & Clean-up (1-3 days) — We'll complete any trim work, final adjustments, and a thorough clean-up. Then, it's time for your final walkthrough and to start enjoying your brand-new kitchen!",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Planning & Design (2-6 weeks) — This is where we sit down, discuss your vision, budget, and functional needs. We'll help you choose materials, create a layout, and finalize all the details. Th"
+}

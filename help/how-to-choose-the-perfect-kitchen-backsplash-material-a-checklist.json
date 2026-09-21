@@ -1,0 +1,171 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to choose the perfect kitchen backsplash material: a checklist",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "How to choose the perfect kitchen backsplash material: a checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Consider durability and scratch resistance — why this matters: Your backsplash takes a beating from cooking…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Consider durability and scratch resistance — why this matters: Your backsplash takes a beating from cooking splatters and occasional bumps; choose a material like ceramic or porcelain that can stand up to daily kitchen life."
+      },
+      {
+        "name": "Evaluate stain resistance — why this matters: Cooking can be messy, so pick a material that won't easily ab…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Evaluate stain resistance — why this matters: Cooking can be messy, so pick a material that won't easily absorb grease, food dyes, or moisture, making cleanup much simpler."
+      },
+      {
+        "name": "Check ease of cleaning — why this matters: Smooth, non-porous surfaces are generally easier to wipe down th…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Check ease of cleaning — why this matters: Smooth, non-porous surfaces are generally easier to wipe down than textured or highly porous materials that can trap grime."
+      },
+      {
+        "name": "Think about heat tolerance — why this matters: Especially behind a range or cooktop, your backsplash will b…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Think about heat tolerance — why this matters: Especially behind a range or cooktop, your backsplash will be exposed to heat; ensure your chosen material can handle it without warping or degrading."
+      },
+      {
+        "name": "Assess maintenance requirements — why this matters: Some materials, like natural stone or certain grouts, r…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Assess maintenance requirements — why this matters: Some materials, like natural stone or certain grouts, require regular sealing to prevent staining and water damage, which adds to your ongoing chores."
+      },
+      {
+        "name": "Coordinate with existing elements — why this matters: Your backsplash should complement your cabinets, coun…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Coordinate with existing elements — why this matters: Your backsplash should complement your cabinets, countertops, and flooring, pulling the whole kitchen design together for a cohesive look."
+      },
+      {
+        "name": "Factor in budget and waste — why this matters: Tile costs vary wildly, and you'll need to purchase 10-15% e…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Factor in budget and waste — why this matters: Tile costs vary wildly, and you'll need to purchase 10-15% extra for cuts and mistakes; make sure the total cost fits your financial plan."
+      },
+      {
+        "name": "Request samples — why this matters: Seeing the material in your own kitchen's lighting, next to your cabine…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Request samples — why this matters: Seeing the material in your own kitchen's lighting, next to your cabinets and counters, helps you visualize the final result and confirm your choice."
+      }
+    ]
+  },
+  "articleBody": "When you're ready to pick out a new kitchen backsplash, it's easy to get overwhelmed by all the choices out there. This checklist will help you narrow down your options and ensure you select a material that's not only beautiful but also practical for your home.\n\n- [ ] **Consider durability and scratch resistance** — why this matters: Your backsplash takes a beating from cooking splatters and occasional bumps; choose a material like ceramic or porcelain that can stand up to daily kitchen life.\n- [ ] **Evaluate stain resistance** — why this matters: Cooking can be messy, so pick a material that won't easily absorb grease, food dyes, or moisture, making cleanup much simpler.\n- [ ] **Check ease of cleaning** — why this matters: Smooth, non-porous surfaces are generally easier to wipe down than textured or highly porous materials that can trap grime.\n- [ ] **Think about heat tolerance** — why this matters: Especially behind a range or cooktop, your backsplash will be exposed to heat; ensure your chosen material can handle it without warping or degrading.\n- [ ] **Assess maintenance requirements** — why this matters: Some materials, like natural stone or certain grouts, require regular sealing to prevent staining and water damage, which adds to your ongoing chores.\n- [ ] **Coordinate with existing elements** — why this matters: Your backsplash should complement your cabinets, countertops, and flooring, pulling the whole kitchen design together for a cohesive look.\n- [ ] **Factor in budget and waste** — why this matters: Tile costs vary wildly, and you'll need to purchase 10-15% extra for cuts and mistakes; make sure the total cost fits your financial plan.\n- [ ] **Request samples** — why this matters: Seeing the material in your own kitchen's lighting, next to your cabinets and counters, helps you visualize the final result and confirm your choice.\n\n**How to use this checklist:** Go through each item and mark it off as you research and consider your options. It's a great way to ensure you're making a well-informed decision that you'll love for years to come. If you're feeling unsure about materials or installation, getting a professional opinion from a licensed general contractor like Simply Construction in Las Vegas is always a smart move. We can help you navigate these choices and ensure a flawless installation.",
+  "datePublished": "2026-09-18"
+}

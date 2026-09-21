@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Diving into a Kitchen Remodel?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a kitchen remodel? That's exciting! It's one of the biggest investments you can make in your home, bringing both joy and value. Before you jump in, it's really smart to think through a few key things to make sure the project goes smoothly and you get the kitchen you're dreaming of.\n\nFirst, what are your main goals? Are you looking for a simple cosmetic refresh, or do you need a full gut and redesign to improve functionality? Defining this upfront sets the stage for everything else. Next, set a realistic budget, and seriously, always add a 10-20% contingency for those unexpected surprises that sometimes pop up. Don't forget about your desired timeline either; extensive work can take months, so plan accordingly. Consider your daily workflow – where do you prep food, cook, and clean? Good design should support these actions naturally. Finally, start thinking about appliances early, as their sizes and placements heavily influence your layout and cabinet choices. Getting these pieces in order from the start helps you avoid headaches down the line and ensures your new kitchen works for you.\n\nReady to explore the possibilities for your Las Vegas home? Simply Construction can help you sort through these initial considerations and kick off your remodel right. Contact us for a free, no-obligation estimate.",
+  "datePublished": "2026-09-18"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Removing a Kitchen Wall a Big Deal?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about knocking down a kitchen wall to create that open, airy feel in your Las Vegas home? It can definitely be a 'big deal,' but it's often a completely achievable and rewarding project when handled correctly. The main reason it's a significant undertaking is that not all walls are created equal. Some walls are just partitions, easily removed, while others are load-bearing, meaning they support the structure above them.\n\nIf you remove a load-bearing wall without proper support, you could compromise your home's structural integrity, which is a serious safety concern. That's why simply grabbing a sledgehammer isn't the way to go! You'll need an assessment from an experienced professional to determine if the wall is load-bearing. If it is, the process will involve installing a new structural beam to redistribute the weight, often a steel or laminated veneer lumber (LVL) beam. This requires careful engineering, precise installation, and often permits from local authorities in Las Vegas to ensure everything meets building codes.\n\nBeyond the structural aspect, removing a wall often involves rerouting electrical wiring, plumbing, and HVAC ducts that might be inside it. Then there's patching, painting, and blending the flooring. While it sounds like a lot, for a licensed general contractor like Simply Construction with over 30 years of experience, it’s a routine project. We manage all these complexities, from initial assessment and structural engineering to securing permits and coordinating all the necessary trades, ensuring your project is done safely, legally, and beautifully. So, while it's a big deal, it's a big deal we handle every day!",
+  "datePublished": "2026-09-18"
+}

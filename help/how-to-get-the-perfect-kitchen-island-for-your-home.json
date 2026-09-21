@@ -1,0 +1,137 @@
+{
+  "name": "How to Get the Perfect Kitchen Island for Your Home",
+  "step": [
+    {
+      "name": "Step 1: Planning and Layout — Start by looking at your kitchen's overall dimensions. The most important thing here is maintaining proper clearance around the island. Aim for at least 36 inches on all sides for comfortable movement, and ideally 42-48 inches in high-traffic or cooking zones. This initial layout helps determine the maximum size your island can be without feeling cramped.",
+      "text": "Step 1: Planning and Layout — Start by looking at your kitchen's overall dimensions. The most important thing here is maintaining proper clearance around the island. Aim for at least 36 inches on all sides for comfortable movement, and ideally 42-48 inches in high-traffic or cooking zones. This initial layout helps determine the maximum size your island can be without feeling cramped.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Functional Design Decisions — What do you want your island to do? Is it a primary prep space, a dining area, or will it house appliances like a sink or cooktop? These decisions will dictate its necessary length and depth. For example, if you want seating, you’ll need a deeper island with a sufficient overhang (around 12-15 inches) for comfort. This is where you think about outlets, too!",
+      "text": "Step 2: Functional Design Decisions — What do you want your island to do? Is it a primary prep space, a dining area, or will it house appliances like a sink or cooktop? These decisions will dictate its necessary length and depth. For example, if you want seating, you’ll need a deeper island with a sufficient overhang (around 12-15 inches) for comfort. This is where you think about outlets, too!",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Services Planning — If your island will include plumbing for a sink, gas for a cooktop, or electrical outlets, this step is crucial. You'll need to plan the routing for these services under your floor before any construction begins. This often requires professional expertise to ensure everything is up to code and safely installed, and might involve permits.",
+      "text": "Step 3: Services Planning — If your island will include plumbing for a sink, gas for a cooktop, or electrical outlets, this step is crucial. You'll need to plan the routing for these services under your floor before any construction begins. This often requires professional expertise to ensure everything is up to code and safely installed, and might involve permits.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Floor Fixing and Cabinet Installation — For a permanent island, it needs to be securely anchored to the floor. This could involve using cleats, screws into joists, or anchors into concrete. Once the base is secure, your island cabinets are installed and leveled. This foundation is key for a stable and long-lasting island.",
+      "text": "Step 4: Floor Fixing and Cabinet Installation — For a permanent island, it needs to be securely anchored to the floor. This could involve using cleats, screws into joists, or anchors into concrete. Once the base is secure, your island cabinets are installed and leveled. This foundation is key for a stable and long-lasting island.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Countertop Fitting and Final Connections — After the cabinets are in place, the countertop is fitted and installed, often by specialized fabricators. If your island has a sink or cooktop, these appliances are integrated into the counter. Finally, all plumbing, gas, and electrical connections are made, ensuring your island is fully functional and ready for use.",
+      "text": "Bringing a vision for a kitchen island to life often involves coordinating several trades and ensuring compliance with local codes. That's where a licensed general contractor like Simply Construction comes in handy, providing seamless project management from start to finish.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Planning and Layout — Start by looking at your kitchen's overall dimensions. The most important thing here is maintaining proper clearance around the island. Aim for at least 36 inches on all "
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What factors should I consider when choosing new kitchen cabinets?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing new kitchen cabinets is a massive decision for your Las Vegas home – they're not just storage, they're a huge part of your kitchen's look and feel! With so many options available in areas like Enterprise, Skye Canyon, or The Lakes, it can feel a bit overwhelming. But don't sweat it; focusing on a few key factors can really help narrow down your choices.\n\nFirst off, **budget** is always a big one. Cabinets can range from budget-friendly stock options to luxurious custom designs. Knowing your spending limit helps us guide you to the best options that won't break the bank. Next, think about **style and aesthetics**. Do you lean modern, traditional, or something in between? Shaker, flat-panel, or raised-panel? The style of your cabinets sets the tone for your entire kitchen, so pick something you’ll love for years.\n\n**Material and construction** are super important for durability. Solid wood, plywood, MDF – each has its pros and cons in terms of cost, weight, and resistance to moisture. Better construction (like dovetail joints for drawers) usually means they’ll last longer. Then there's **storage and functionality**. Are you craving more pantry space? Do you need specific organizers for pots and pans? Think about how you use your kitchen daily and what features would make your life easier.\n\nFinally, consider **installation**. While some might try DIY, expert installation ensures your cabinets are level, plumb, and properly secured, preventing future issues. We specialize in precise kitchen cabinet installation to make sure your investment looks fantastic and functions perfectly. It's a lot to consider, but we’re here to help you navigate these choices. Ready to pick out your perfect cabinets? Contact us for a free, no-obligation estimate!",
+  "datePublished": "2026-09-18"
+}

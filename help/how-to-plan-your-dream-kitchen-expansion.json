@@ -1,0 +1,149 @@
+{
+  "name": "How to Plan Your Dream Kitchen Expansion",
+  "step": [
+    {
+      "name": "Step 1: Define Your Vision and Scope — Before any demolition begins, sit down and clearly outline what you want to achieve. This includes layout changes, whether you'll remove walls, and if you're adding new square footage. Having a clear idea helps immensely in the next steps.",
+      "text": "Step 1: Define Your Vision and Scope — Before any demolition begins, sit down and clearly outline what you want to achieve. This includes layout changes, whether you'll remove walls, and if you're adding new square footage. Having a clear idea helps immensely in the next steps.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Design and Material Selection — Work with a designer or your contractor to create detailed drawings. This is also the time to finalize all your material choices, from cabinets and countertops to flooring and fixtures. Material lead times can impact your timeline, so deciding early is key.",
+      "text": "Step 2: Design and Material Selection — Work with a designer or your contractor to create detailed drawings. This is also the time to finalize all your material choices, from cabinets and countertops to flooring and fixtures. Material lead times can impact your timeline, so deciding early is key.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Secure Permits and Approvals — Your contractor will prepare and submit drawings and permit applications to the local authorities in Las Vegas. This step is crucial, especially for structural changes or utility relocations, and typically involves a review period of 1-4+ weeks. Don't start work until permits are issued!",
+      "text": "Step 3: Secure Permits and Approvals — Your contractor will prepare and submit drawings and permit applications to the local authorities in Las Vegas. This step is crucial, especially for structural changes or utility relocations, and typically involves a review period of 1-4+ weeks. Don't start work until permits are issued!",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition and Structural Modifications — Once permits are in hand, it's time to remove existing finishes and cabinetry. If you're altering or removing load-bearing walls, engineered beams will be installed at this stage. This sets the foundation for your new layout.",
+      "text": "Step 4: Demolition and Structural Modifications — Once permits are in hand, it's time to remove existing finishes and cabinetry. If you're altering or removing load-bearing walls, engineered beams will be installed at this stage. This sets the foundation for your new layout.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Rough Mechanicals and Inspections — This phase involves completing the rough plumbing, electrical, and HVAC work. After these systems are installed, they'll undergo rough inspections before insulation and drywall go up. Passing these inspections is mandatory before moving forward.",
+      "text": "Step 5: Rough Mechanicals and Inspections — This phase involves completing the rough plumbing, electrical, and HVAC work. After these systems are installed, they'll undergo rough inspections before insulation and drywall go up. Passing these inspections is mandatory before moving forward.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Finishes and Final Touches — With the rough work approved, cabinets, countertops, flooring, and tile are installed. Then, fixtures are connected, painting is completed, and trim work is done. Finally, a punch list is addressed, and a final inspection is passed, bringing your dream kitchen to life.",
+      "text": "Step 6: Finishes and Final Touches — With the rough work approved, cabinets, countertops, flooring, and tile are installed. Then, fixtures are connected, painting is completed, and trim work is done. Finally, a punch list is addressed, and a final inspection is passed, bringing your dream kitchen to life.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Enjoy Your Expanded Kitchen! — After all the hard work and careful planning, it's time to enjoy your newly expanded and functional kitchen. Celebrate your new space!",
+      "text": "Step 7: Enjoy Your Expanded Kitchen! — After all the hard work and careful planning, it's time to enjoy your newly expanded and functional kitchen. Celebrate your new space!",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Vision and Scope — Before any demolition begins, sit down and clearly outline what you want to achieve. This includes layout changes, whether you'll remove walls, and if you're add"
+}

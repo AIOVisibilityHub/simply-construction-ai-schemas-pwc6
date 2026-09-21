@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking of a Kitchen Island – Is It Right for My Space?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen island is practically a dream for many homeowners, adding tons of functionality and a real 'wow' factor. But before you dive in, it’s smart to consider if your kitchen layout can truly accommodate one. As Las Vegas general contractors, Simply Construction helps clients across the valley, from Henderson to Summerlin, figure out if an island is the right fit for their home.\n\nFirst, let's talk about space. You generally want at least 36 to 42 inches of clearance around all sides of your island. This ensures you can open appliance doors (like your dishwasher or oven), walk comfortably, and have enough room for multiple people to use the kitchen without bumping into each other. If your kitchen feels cramped already, forcing an island in might make it less functional, not more. We can assess your specific kitchen dimensions during a consultation.\n\nNext, think about what you want your island to *do*. Is it primarily for prep work and extra counter space? Do you need seating for casual meals? Will it house a sink, a cooktop, or perhaps a wine fridge? The island's function will dictate its size, shape, and necessary utilities. For example, if you want a sink or cooktop, you’ll need plumbing or electrical work, which adds to the project's complexity and needs to be factored into the design.\n\nConsider the flow of your kitchen. An island should enhance your ",
+  "datePublished": "2026-09-18"
+}
