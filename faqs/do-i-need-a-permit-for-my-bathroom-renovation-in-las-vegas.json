@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-my-bathroom-renovation-in-las-vegas",
+  "name": "Do I need a permit for my bathroom renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for my bathroom renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many bathroom renovations, especially those involving structural changes, plumbing relocation, or significant electrical work, require permits from the local authorities in Las Vegas. These permits ensure that the work complies with safety and building codes. Minor cosmetic changes like painting or replacing a vanity in the same location typically do not require a permit. A professional contractor can help determine if your specific project needs a permit and manage the application process.",
+        "@type": "Answer",
+        "description": "Many renovations, particularly those with structural, plumbing, or electrical changes, require permits in Las Vegas. A contractor can advise on specific project needs."
+      }
+    }
+  ],
+  "description": "Many renovations, particularly those with structural, plumbing, or electrical changes, require permits in Las Vegas. A contractor can advise on specific project"
+}

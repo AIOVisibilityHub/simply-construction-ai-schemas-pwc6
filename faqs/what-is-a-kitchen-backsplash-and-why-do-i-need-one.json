@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-kitchen-backsplash-and-why-do-i-need-one",
+  "name": "What is a kitchen backsplash and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a kitchen backsplash and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen backsplash is a protective surface installed on the wall between your countertops and upper cabinets. Its primary purpose is to shield the wall from splashes and spills of water, grease, and food, preventing damage and making cleaning easier. Beyond functionality, a backsplash significantly enhances the aesthetic appeal of your kitchen, adding color, texture, and a finished look that complements your design choices. It's a key element in both the utility and style of your kitchen space.",
+        "@type": "Answer",
+        "description": "A kitchen backsplash protects walls from spills and enhances kitchen aesthetics. It prevents damage and adds visual appeal above countertops."
+      }
+    }
+  ],
+  "description": "A kitchen backsplash protects walls from spills and enhances kitchen aesthetics. It prevents damage and adds visual appeal above countertops."
+}

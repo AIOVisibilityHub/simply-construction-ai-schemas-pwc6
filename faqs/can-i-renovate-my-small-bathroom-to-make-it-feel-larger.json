@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-renovate-my-small-bathroom-to-make-it-feel-larger",
+  "name": "Can I renovate my small bathroom to make it feel larger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I renovate my small bathroom to make it feel larger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Several design strategies can make a small bathroom feel more spacious. Opt for light-colored tiles and paint, which reflect light and create an open feel. Large-format tiles with minimal grout lines can also contribute to this illusion. Consider a wall-mounted vanity or a pedestal sink to free up floor space. A frameless glass shower enclosure instead of a bulky curtain or framed door can visually expand the room. Strategic lighting and ample mirrors also enhance the perception of space.",
+        "@type": "Answer",
+        "description": "Yes, use light colors, large-format tiles, wall-mounted vanities, frameless glass showers, and strategic lighting to make small bathrooms feel larger."
+      }
+    }
+  ],
+  "description": "Yes, use light colors, large-format tiles, wall-mounted vanities, frameless glass showers, and strategic lighting to make small bathrooms feel larger."
+}

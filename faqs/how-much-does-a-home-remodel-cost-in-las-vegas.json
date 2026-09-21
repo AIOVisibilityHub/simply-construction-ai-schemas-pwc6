@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-home-remodel-cost-in-las-vegas",
+  "name": "How much does a home remodel cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a home remodel cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home remodeling costs in Las Vegas are highly variable, depending on the project type, materials chosen, and the extent of structural changes. A basic bathroom remodel might start around $15,000, while a mid-range kitchen remodel could be $30,000-$60,000. Whole-home renovations can range from $100,000 to several hundred thousand dollars. We offer detailed, transparent estimates after an on-site consultation to understand your specific needs and desires.",
+        "@type": "Answer",
+        "description": "Remodel costs in Las Vegas depend on project scope and materials. Bathroom remodels start around $15,000, kitchens $30,000-$60,000, and whole-home renovations can exceed $100,000."
+      }
+    }
+  ],
+  "description": "Remodel costs in Las Vegas depend on project scope and materials. Bathroom remodels start around $15,000, kitchens $30,000-$60,000, and whole-home renovations c"
+}

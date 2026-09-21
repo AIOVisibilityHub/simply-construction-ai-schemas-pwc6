@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-bathroom-layout-redesign-project-take",
+  "name": "How long does a typical bathroom layout redesign project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom layout redesign project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom layout redesign varies significantly based on complexity. A minor cosmetic update might take 2-4 weeks, while a full gut renovation involving moving plumbing and electrical lines could take 6-12 weeks or longer. Factors like material availability, permit processing times, and unforeseen structural issues can also influence the project duration. We provide a detailed project schedule after initial design and planning.",
+        "@type": "Answer",
+        "description": "Project duration for a bathroom layout redesign varies; minor updates take weeks, while full renovations can take 6-12 weeks or more depending on complexity."
+      }
+    }
+  ],
+  "description": "Project duration for a bathroom layout redesign varies; minor updates take weeks, while full renovations can take 6-12 weeks or more depending on complexity."
+}

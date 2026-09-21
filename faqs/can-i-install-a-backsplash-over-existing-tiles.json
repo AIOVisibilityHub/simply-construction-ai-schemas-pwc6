@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-install-a-backsplash-over-existing-tiles",
+  "name": "Can I install a backsplash over existing tiles?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a backsplash over existing tiles?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is technically possible in some cases, installing a new backsplash over existing tiles is generally not recommended for optimal results. The added thickness can create an uneven surface, potentially interfere with outlets, and make the space feel cramped. More importantly, it may compromise the adhesion of the new tiles and hide underlying issues with the original installation or wall. For a durable, aesthetically pleasing, and long-lasting finish, Simply Construction advises removing the old backsplash and properly preparing the surface before installing the new one.",
+        "@type": "Answer",
+        "description": "Installing a new backsplash over existing tiles is generally not recommended due to potential thickness issues, compromised adhesion, and hiding underlying problems. Removal of old tiles is preferred for best results."
+      }
+    }
+  ],
+  "description": "Installing a new backsplash over existing tiles is generally not recommended due to potential thickness issues, compromised adhesion, and hiding underlying prob"
+}

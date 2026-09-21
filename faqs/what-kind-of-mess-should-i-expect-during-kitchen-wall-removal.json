@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-mess-should-i-expect-during-kitchen-wall-removal",
+  "name": "What kind of mess should I expect during kitchen wall removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of mess should I expect during kitchen wall removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen wall removal generates a significant amount of dust and debris. Expect fine dust to spread throughout adjacent areas, despite efforts to seal off the work zone. There will be drywall pieces, insulation, wood studs, and potentially plaster, all needing proper disposal. Your contractor will take measures like plastic sheeting, zippered enclosures, and dust extractors to minimize spread, but some level of mess is unavoidable. Protecting furniture and sensitive items beforehand is highly recommended.",
+        "@type": "Answer",
+        "description": "Expect significant dust from drywall and plaster, along with debris from insulation and studs. Contractors use measures to minimize spread, but some mess is unavoidable."
+      }
+    }
+  ],
+  "description": "Expect significant dust from drywall and plaster, along with debris from insulation and studs. Contractors use measures to minimize spread, but some mess is una"
+}

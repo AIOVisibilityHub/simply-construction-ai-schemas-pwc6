@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-trends-are-popular-for-primary-bathroom-remodels-in-the-las-vegas-area",
+  "name": "What trends are popular for primary bathroom remodels in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What trends are popular for primary bathroom remodels in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current trends for primary bathroom remodels in Las Vegas often include spa-like features such as large walk-in showers with multiple showerheads, freestanding soaking tubs, and smart technology like heated floors and integrated sound systems. Popular aesthetic choices involve natural materials like quartz or marble, minimalist designs, and neutral color palettes with touches of desert-inspired textures. Homeowners are also prioritizing increased natural light and efficient storage solutions to create a serene and functional retreat.",
+        "@type": "Answer",
+        "description": "Popular trends in Las Vegas primary bathroom remodels include spa-like walk-in showers, freestanding tubs, smart tech, natural materials, minimalist designs, and enhanced natural light."
+      }
+    }
+  ],
+  "description": "Popular trends in Las Vegas primary bathroom remodels include spa-like walk-in showers, freestanding tubs, smart tech, natural materials, minimalist designs, an"
+}

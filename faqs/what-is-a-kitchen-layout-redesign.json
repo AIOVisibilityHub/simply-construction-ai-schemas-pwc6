@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-kitchen-layout-redesign",
+  "name": "What is a kitchen layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a kitchen layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen layout redesign involves changing the fundamental arrangement of elements within your kitchen, such as appliances, cabinetry, and countertops. This differs from a simple remodel, which might update surfaces without altering the floor plan. Redesigning can improve functionality, flow, and aesthetics by optimizing the 'work triangle' or creating more open living spaces. It often includes moving plumbing or electrical lines to accommodate new positions for sinks, dishwashers, or ovens.",
+        "@type": "Answer",
+        "description": "A kitchen layout redesign changes the fundamental arrangement of appliances, cabinetry, and countertops to improve functionality and flow."
+      }
+    }
+  ],
+  "description": "A kitchen layout redesign changes the fundamental arrangement of appliances, cabinetry, and countertops to improve functionality and flow."
+}

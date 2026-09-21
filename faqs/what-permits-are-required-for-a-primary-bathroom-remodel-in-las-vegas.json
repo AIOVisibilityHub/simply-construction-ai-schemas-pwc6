@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-primary-bathroom-remodel-in-las-vegas",
+  "name": "What permits are required for a primary bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a primary bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a primary bathroom remodel in Las Vegas, permits are typically required for any structural changes, significant plumbing modifications (like moving a toilet or shower), or extensive electrical work. Minor cosmetic updates, such as replacing a vanity or painting, generally do not require permits. However, it's always best to consult with your contractor, who will assess your specific project scope and handle the necessary permit applications with the local building department in jurisdictions like Clark County or individual cities within the service area. This ensures compliance and safety.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural, plumbing, or extensive electrical changes in a primary bathroom remodel in Las Vegas; your contractor will manage this."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural, plumbing, or extensive electrical changes in a primary bathroom remodel in Las Vegas; your contractor will manage t"
+}

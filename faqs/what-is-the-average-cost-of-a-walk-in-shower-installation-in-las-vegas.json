@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-walk-in-shower-installation-in-las-vegas",
+  "name": "What is the average cost of a walk-in shower installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a walk-in shower installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a walk-in shower installation in the Las Vegas area can vary significantly based on factors like size, materials, plumbing modifications, and custom features. Basic installations might start around $5,000, while more luxurious designs with high-end tiles, frameless glass, and advanced fixtures can range from $10,000 to $20,000 or more. We provide detailed, transparent quotes after an on-site consultation to accurately assess your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs for walk-in shower installation in Las Vegas range from approximately $5,000 for basic setups to over $20,000 for custom, high-end designs."
+      }
+    }
+  ],
+  "description": "Costs for walk-in shower installation in Las Vegas range from approximately $5,000 for basic setups to over $20,000 for custom, high-end designs."
+}

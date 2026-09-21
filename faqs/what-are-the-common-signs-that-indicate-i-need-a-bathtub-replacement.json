@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-signs-that-indicate-i-need-a-bathtub-replacement",
+  "name": "What are the common signs that indicate I need a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that indicate I need a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider bathtub replacement if you notice significant cracks, persistent leaks, extensive mold or mildew that cannot be cleaned, or widespread discoloration and staining. Deterioration of the tub's surface, such as peeling or chipping, also indicates it's time for a new tub. Beyond aesthetics, an outdated or uncomfortable bathtub can significantly impact your bathroom's functionality and your daily routine. If your current tub no longer meets your accessibility needs or you're planning a complete bathroom remodel, replacement is often the best solution for long-term value and satisfaction.",
+        "@type": "Answer",
+        "description": "Common signs include cracks, persistent leaks, extensive mold, discoloration, chipping, or if the tub is outdated or no longer meets your needs."
+      }
+    }
+  ],
+  "description": "Common signs include cracks, persistent leaks, extensive mold, discoloration, chipping, or if the tub is outdated or no longer meets your needs."
+}

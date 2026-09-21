@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-to-replace-a-bathtub-in-las-vegas",
+  "name": "What is the average cost to replace a bathtub in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace a bathtub in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace a bathtub in the Las Vegas area varies widely based on several factors. These include the type of bathtub material (e.g., acrylic, cast iron), the complexity of the installation, any necessary plumbing modifications, and the need for new tile or wall surrounds. A basic drop-in acrylic tub replacement might start lower, while a custom-fit cast iron tub with extensive tile work will be significantly higher. Additional costs may arise from old tub removal and disposal. We recommend scheduling an on-site consultation for an accurate, personalized quote tailored to your specific bathroom and preferences.",
+        "@type": "Answer",
+        "description": "The cost varies significantly based on tub material, installation complexity, plumbing needs, and surrounding renovations. An on-site consultation provides an accurate quote for Las Vegas homes."
+      }
+    }
+  ],
+  "description": "The cost varies significantly based on tub material, installation complexity, plumbing needs, and surrounding renovations. An on-site consultation provides an a"
+}

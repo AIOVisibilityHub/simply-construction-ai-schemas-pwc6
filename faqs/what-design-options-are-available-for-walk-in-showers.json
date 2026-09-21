@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-options-are-available-for-walk-in-showers",
+  "name": "What design options are available for walk-in showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design options are available for walk-in showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in showers offer extensive design flexibility. You can choose from various shower pan types, including standard, low-threshold, or curbless for seamless entry. Wall materials range from economical acrylic to custom tile work, allowing for personalized aesthetics. Enclosure options include framed, semi-frameless, or frameless glass doors and panels. Fixtures like rain showerheads, body jets, and built-in benches or niches further enhance functionality and luxury.",
+        "@type": "Answer",
+        "description": "Design options include various shower pan types (curbless, low-threshold), wall materials like tile or acrylic, and glass enclosures (framed, frameless)."
+      }
+    }
+  ],
+  "description": "Design options include various shower pan types (curbless, low-threshold), wall materials like tile or acrylic, and glass enclosures (framed, frameless)."
+}

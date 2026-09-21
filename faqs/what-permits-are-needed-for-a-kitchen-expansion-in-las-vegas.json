@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-a-kitchen-expansion-in-las-vegas",
+  "name": "What permits are needed for a kitchen expansion in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a kitchen expansion in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen expansions in Las Vegas typically require permits for building, electrical, and plumbing work, especially if structural changes, significant layout modifications, or utility rerouting are involved. Depending on the scope, mechanical permits might also be necessary. Our team handles all necessary permit applications and ensures that your project complies with local building codes and regulations in Las Vegas, North Las Vegas, and Henderson jurisdictions.",
+        "@type": "Answer",
+        "description": "Kitchen expansions in Las Vegas usually require building, electrical, and plumbing permits. Our team manages all necessary permit applications to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Kitchen expansions in Las Vegas usually require building, electrical, and plumbing permits. Our team manages all necessary permit applications to ensure code co"
+}

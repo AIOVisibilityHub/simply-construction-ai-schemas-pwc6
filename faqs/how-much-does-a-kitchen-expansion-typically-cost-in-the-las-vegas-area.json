@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-kitchen-expansion-typically-cost-in-the-las-vegas-area",
+  "name": "How much does a kitchen expansion typically cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen expansion typically cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen expansion in the Las Vegas area varies significantly based on the project's complexity and scope. Factors include the extent of structural changes, quality of finishes, and new appliance selections. Projects can range from tens of thousands for minor bump-outs to well over $100,000 for major additions. We provide detailed, transparent estimates after an initial consultation to understand your specific needs and desires.",
+        "@type": "Answer",
+        "description": "Kitchen expansion costs in Las Vegas vary widely, from tens of thousands to over $100,000, depending on project complexity, finishes, and appliances. We provide detailed estimates after an initial consultation."
+      }
+    }
+  ],
+  "description": "Kitchen expansion costs in Las Vegas vary widely, from tens of thousands to over $100,000, depending on project complexity, finishes, and appliances. We provide"
+}

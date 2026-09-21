@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-to-install-a-new-bathroom-vanity-in-las-vegas",
+  "name": "What is the typical cost to install a new bathroom vanity in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to install a new bathroom vanity in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a new bathroom vanity in Las Vegas varies widely based on several factors. These include the size and style of the vanity, whether plumbing modifications are needed, and the complexity of the installation. For a basic replacement, costs might range from $300 to $800 for labor, not including the vanity itself. More complex installations involving custom cabinetry, extensive plumbing rerouting, or countertop fabrication can significantly increase the total cost. We provide detailed estimates after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "The typical cost for vanity installation in Las Vegas varies from $300 to $800 for labor, depending on size, style, plumbing needs, and complexity."
+      }
+    }
+  ],
+  "description": "The typical cost for vanity installation in Las Vegas varies from $300 to $800 for labor, depending on size, style, plumbing needs, and complexity."
+}

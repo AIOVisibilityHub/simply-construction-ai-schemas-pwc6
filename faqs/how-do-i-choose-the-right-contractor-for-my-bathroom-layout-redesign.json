@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-bathroom-layout-redesign",
+  "name": "How do I choose the right contractor for my bathroom layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my bathroom layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your bathroom layout redesign, look for experience with similar projects, valid licensing and insurance, and a strong portfolio. Check references and read reviews to assess their communication, reliability, and quality of work. Ensure they offer clear contracts, detailed estimates, and transparent project management. A good contractor will also help navigate local regulations in areas like Summerlin or Henderson.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, valid licenses, insurance, and good references. Ensure they offer clear contracts and project management."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, valid licenses, insurance, and good references. Ensure they offer clear contracts and project management."
+}

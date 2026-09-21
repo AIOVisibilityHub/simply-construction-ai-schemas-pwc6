@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-to-install-new-kitchen-flooring-in-las-vegas",
+  "name": "What is the average cost to install new kitchen flooring in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to install new kitchen flooring in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install new kitchen flooring in the Las Vegas area can vary significantly. Factors influencing price include the type of material chosen (e.g., vinyl, tile, wood), the total square footage, subfloor preparation needs, and labor rates. Budget-friendly options like laminate or basic vinyl might range from $3-$7 per square foot, while high-end tile or engineered wood can cost $8-$20+ per square foot, including installation. We offer free estimates to provide a precise cost for your specific project.",
+        "@type": "Answer",
+        "description": "The average cost for kitchen flooring installation in Las Vegas varies widely, typically ranging from $3 to $20+ per square foot, depending on the material and specific project requirements."
+      }
+    }
+  ],
+  "description": "The average cost for kitchen flooring installation in Las Vegas varies widely, typically ranging from $3 to $20+ per square foot, depending on the material and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-size-and-style-for-my-new-bathtub",
+  "name": "How do I choose the right size and style for my new bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and style for my new bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and style depends on your bathroom's dimensions, your personal preferences, and how you intend to use the tub. Measure your existing tub's footprint carefully to ensure the new tub will fit without extensive modifications. Consider the overall bathroom layout and available space. For style, think about your bathroom's aesthetic: traditional, modern, or contemporary. You might also consider features like depth for soaking, accessibility features like low thresholds, or integrated seating. Our designers can help you explore options that balance functionality with your desired aesthetic, ensuring it complements your home in Las Vegas.",
+        "@type": "Answer",
+        "description": "Consider your bathroom's dimensions, your intended use, and existing aesthetic. Measure carefully and think about features like depth or accessibility. Our designers can assist."
+      }
+    }
+  ],
+  "description": "Consider your bathroom's dimensions, your intended use, and existing aesthetic. Measure carefully and think about features like depth or accessibility. Our desi"
+}

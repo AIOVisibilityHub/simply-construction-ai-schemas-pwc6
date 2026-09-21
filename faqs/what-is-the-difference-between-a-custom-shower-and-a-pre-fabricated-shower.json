@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-custom-shower-and-a-pre-fabricated-shower",
+  "name": "What is the difference between a custom shower and a pre-fabricated shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom shower and a pre-fabricated shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom shower is built on-site, allowing for unique dimensions, tile patterns, and fixture placements, offering maximum personalization and design flexibility. This option is ideal for unusual spaces or specific aesthetic visions. Pre-fabricated showers, on the other hand, are manufactured off-site and installed as a single unit or a few large panels. They are typically more budget-friendly and quicker to install, but offer fewer design choices. Your choice depends on your budget, design preferences, and bathroom layout.",
+        "@type": "Answer",
+        "description": "Custom showers offer unique design flexibility built on-site, while pre-fabricated showers are budget-friendly, quicker to install units with fewer design options."
+      }
+    }
+  ],
+  "description": "Custom showers offer unique design flexibility built on-site, while pre-fabricated showers are budget-friendly, quicker to install units with fewer design optio"
+}

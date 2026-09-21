@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-converting-a-tub-to-a-shower",
+  "name": "What are the benefits of converting a tub to a shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of converting a tub to a shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a tub to a shower offers several advantages. It can significantly improve bathroom accessibility, especially for individuals with mobility challenges, making it safer to enter and exit. A walk-in shower often creates a more open and modern aesthetic, potentially increasing your home's appeal. Additionally, showers can be more water-efficient than baths, and easier to clean depending on the design and materials chosen.",
+        "@type": "Answer",
+        "description": "Benefits include improved accessibility, a modern bathroom aesthetic, and potentially better water efficiency. It can also make cleaning easier."
+      }
+    }
+  ],
+  "description": "Benefits include improved accessibility, a modern bathroom aesthetic, and potentially better water efficiency. It can also make cleaning easier."
+}

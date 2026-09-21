@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-aging-in-place-bathroom-remodeling",
+  "name": "What is aging-in-place bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is aging-in-place bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aging-in-place bathroom remodeling focuses on making a bathroom safe, accessible, and comfortable for individuals as they age, allowing them to remain in their homes independently for longer. This includes incorporating features like walk-in showers with low thresholds, grab bars, slip-resistant flooring, wider doorways, comfort-height toilets, and improved lighting. The goal is to prevent accidents and simplify daily routines without sacrificing aesthetics.",
+        "@type": "Answer",
+        "description": "Aging-in-place bathroom remodeling adapts bathrooms with features like walk-in showers, grab bars, and slip-resistant flooring to ensure safety and accessibility for older adults."
+      }
+    }
+  ],
+  "description": "Aging-in-place bathroom remodeling adapts bathrooms with features like walk-in showers, grab bars, and slip-resistant flooring to ensure safety and accessibilit"
+}

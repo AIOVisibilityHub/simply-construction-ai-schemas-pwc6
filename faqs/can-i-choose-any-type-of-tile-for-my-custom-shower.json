@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-choose-any-type-of-tile-for-my-custom-shower",
+  "name": "Can I choose any type of tile for my custom shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I choose any type of tile for my custom shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many tile types are suitable for showers, certain characteristics make some more appropriate than others. Porcelain and ceramic tiles are popular due to their low porosity and durability. Natural stone tiles like marble or travertine can be used but require sealing and more maintenance. Glass tiles are also an option for accent features. It's important to consider water absorption rates, slip resistance for floor tiles, and ease of cleaning. We can guide you in selecting tiles that meet both your aesthetic vision and functional requirements for a wet environment.",
+        "@type": "Answer",
+        "description": "You can choose various tiles, but porcelain and ceramic are most common due to low porosity. Natural stone and glass are also options, considering water absorption and maintenance."
+      }
+    }
+  ],
+  "description": "You can choose various tiles, but porcelain and ceramic are most common due to low porosity. Natural stone and glass are also options, considering water absorpt"
+}

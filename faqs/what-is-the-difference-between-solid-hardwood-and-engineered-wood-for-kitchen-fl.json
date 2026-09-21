@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-solid-hardwood-and-engineered-wood-for-kitchen-fl",
+  "name": "What is the difference between solid hardwood and engineered wood for kitchen floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between solid hardwood and engineered wood for kitchen floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Solid hardwood is made from a single piece of timber and offers excellent durability but is more susceptible to moisture damage and temperature changes, making it less ideal for kitchens. Engineered wood consists of multiple layers of wood, with a top layer of real hardwood and a core of plywood or HDF. This construction makes it more stable and resistant to moisture and temperature fluctuations than solid hardwood, making it a better, though not fully waterproof, option for kitchen environments.",
+        "@type": "Answer",
+        "description": "Solid hardwood is one piece of wood and less moisture-resistant; engineered wood has layers, making it more stable and better for kitchen environments."
+      }
+    }
+  ],
+  "description": "Solid hardwood is one piece of wood and less moisture-resistant; engineered wood has layers, making it more stable and better for kitchen environments."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-luxury-bathroom-remodel",
+  "name": "What is the typical timeline for a luxury bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a luxury bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a luxury bathroom remodel typically ranges from 4 to 12 weeks, though complex projects can take longer. This duration includes design consultation, material selection, demolition, plumbing and electrical rough-ins, installation of fixtures and finishes, and final inspections. Delays can occur due to custom order lead times for specialized materials or unexpected structural issues. We provide a detailed project schedule after the design and material selections are finalized.",
+        "@type": "Answer",
+        "description": "A luxury bathroom remodel usually takes 4 to 12 weeks, depending on design complexity, material availability, and the scope of work involved."
+      }
+    }
+  ],
+  "description": "A luxury bathroom remodel usually takes 4 to 12 weeks, depending on design complexity, material availability, and the scope of work involved."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-of-year-to-start-a-home-remodeling-project-in-las-vegas",
+  "name": "When is the best time of year to start a home remodeling project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to start a home remodeling project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, indoor remodeling projects like kitchens and bathrooms can be undertaken any time of year. For projects that involve significant exterior work, such as additions or outdoor living spaces, the milder temperatures of fall, winter, and spring are often preferred to avoid the intense summer heat. However, our team is equipped to work year-round, and project scheduling primarily depends on your availability and our current project pipeline.",
+        "@type": "Answer",
+        "description": "Indoor remodels can be done anytime in Las Vegas. For exterior work, fall, winter, and spring are often preferred to avoid summer heat, but we work year-round."
+      }
+    }
+  ],
+  "description": "Indoor remodels can be done anytime in Las Vegas. For exterior work, fall, winter, and spring are often preferred to avoid summer heat, but we work year-round."
+}

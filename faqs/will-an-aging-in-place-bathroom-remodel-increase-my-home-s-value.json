@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-an-aging-in-place-bathroom-remodel-increase-my-home-s-value",
+  "name": "Will an aging-in-place bathroom remodel increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an aging-in-place bathroom remodel increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While an aging-in-place remodel primarily serves the homeowner's long-term comfort and safety, it can add value by broadening the appeal of your home to a wider demographic, including multi-generational families or those planning for future needs. These upgrades are often viewed as significant improvements that enhance functionality and safety, which can be a strong selling point, particularly in communities with an aging population.",
+        "@type": "Answer",
+        "description": "An aging-in-place remodel can increase home value by appealing to a broader demographic, including multi-generational families, due to enhanced safety and functionality."
+      }
+    }
+  ],
+  "description": "An aging-in-place remodel can increase home value by appealing to a broader demographic, including multi-generational families, due to enhanced safety and funct"
+}

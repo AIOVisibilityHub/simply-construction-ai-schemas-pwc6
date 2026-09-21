@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-to-remove-a-kitchen-wall",
+  "name": "What is the typical cost to remove a kitchen wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to remove a kitchen wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove a kitchen wall varies significantly based on several factors. These include whether the wall is load-bearing, the presence of plumbing or electrical lines within the wall, the need for structural support like a header beam, and the extent of finish work required afterward. Non-load-bearing wall removal might range from $500 to $2,500, while a load-bearing wall could cost $4,000 to $10,000 or more, especially if complex structural changes are needed. A professional assessment is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Kitchen wall removal costs vary from $500 to over $10,000, depending on whether it's load-bearing, utilities present, and required structural work. A professional assessment provides the most accurate estimate."
+      }
+    }
+  ],
+  "description": "Kitchen wall removal costs vary from $500 to over $10,000, depending on whether it's load-bearing, utilities present, and required structural work. A profession"
+}

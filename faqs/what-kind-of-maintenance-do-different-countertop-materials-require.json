@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-maintenance-do-different-countertop-materials-require",
+  "name": "What kind of maintenance do different countertop materials require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance do different countertop materials require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance varies significantly by material. Natural stones like granite and marble require periodic sealing (typically annually) to maintain stain resistance, and should be cleaned with pH-neutral cleaners. Quartz and solid surface are non-porous and generally require only mild soap and water for cleaning, with no sealing needed. Laminate is also low maintenance but less resistant to heat and scratches. We provide detailed care guides for all materials.",
+        "@type": "Answer",
+        "description": "Maintenance varies: granite/marble need sealing; quartz/solid surface are low maintenance; laminate needs careful cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies: granite/marble need sealing; quartz/solid surface are low maintenance; laminate needs careful cleaning."
+}

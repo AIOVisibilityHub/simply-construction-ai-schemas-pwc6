@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-my-home-renovation-project-in-las-vegas",
+  "name": "Do I need permits for my home renovation project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my home renovation project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most significant home renovation projects in Las Vegas require permits from the local building department to ensure compliance with safety and zoning codes. This typically includes projects involving structural changes, plumbing, electrical, or significant alterations to the home's footprint. Smaller cosmetic updates, like painting or minor flooring, usually do not. Simply Construction handles all necessary permit applications as part of our service to ensure your project meets all regulatory requirements.",
+        "@type": "Answer",
+        "description": "Yes, most major renovations involving structural, plumbing, or electrical changes in Las Vegas require permits. Simply Construction manages permit applications for your project."
+      }
+    }
+  ],
+  "description": "Yes, most major renovations involving structural, plumbing, or electrical changes in Las Vegas require permits. Simply Construction manages permit applications"
+}

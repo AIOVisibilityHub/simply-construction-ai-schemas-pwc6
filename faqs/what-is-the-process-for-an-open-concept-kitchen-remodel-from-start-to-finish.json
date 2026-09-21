@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-an-open-concept-kitchen-remodel-from-start-to-finish",
+  "name": "What is the process for an open-concept kitchen remodel, from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an open-concept kitchen remodel, from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The remodel process begins with an initial consultation and design, followed by detailed planning, material selection, and obtaining necessary permits. Once permits are secured, demolition of existing structures occurs, including wall removal. This is followed by rough-in work for plumbing, electrical, and HVAC. Next are installations of drywall, flooring, cabinetry, countertops, and appliances. The final stage involves painting, lighting, and finishing touches.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, permitting, demolition, rough-ins for utilities, installation of finishes, and final touches."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, permitting, demolition, rough-ins for utilities, installation of finishes, and final touches."
+}

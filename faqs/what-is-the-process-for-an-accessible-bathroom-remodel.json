@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-an-accessible-bathroom-remodel",
+  "name": "What is the process for an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your specific needs and design preferences. This is followed by a site assessment and creation of a detailed design plan and proposal. Once approved, necessary permits are obtained. Construction then proceeds, involving demolition, structural changes if needed, plumbing and electrical work, installation of accessibility features, and finishing touches. Throughout, regular communication between client and contractor ensures the project stays on track and meets expectations.",
+        "@type": "Answer",
+        "description": "The remodel process involves consultation, design, permitting, demolition, construction of accessible features, and final installation."
+      }
+    }
+  ],
+  "description": "The remodel process involves consultation, design, permitting, demolition, construction of accessible features, and final installation."
+}

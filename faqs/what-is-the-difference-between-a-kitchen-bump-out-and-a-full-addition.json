@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-kitchen-bump-out-and-a-full-addition",
+  "name": "What is the difference between a kitchen bump-out and a full addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a kitchen bump-out and a full addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen bump-out is a small extension of an existing wall, typically cantilevered or built on a shallow foundation, to add a modest amount of space for features like a breakfast nook, a larger pantry, or a window seat. It usually doesn't involve significant structural changes or foundation work. A full addition involves building a completely new, larger space with a full foundation, walls, and roof, fundamentally increasing the kitchen's footprint and often reconfiguring the entire layout. Full additions are more complex and costly.",
+        "@type": "Answer",
+        "description": "A bump-out is a small, cantilevered extension for modest space, while a full addition builds a completely new, larger room with a full foundation, significantly expanding the kitchen footprint."
+      }
+    }
+  ],
+  "description": "A bump-out is a small, cantilevered extension for modest space, while a full addition builds a completely new, larger room with a full foundation, significantly"
+}

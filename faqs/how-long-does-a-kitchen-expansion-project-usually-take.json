@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-kitchen-expansion-project-usually-take",
+  "name": "How long does a kitchen expansion project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen expansion project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a kitchen expansion project can vary depending on its complexity and the extent of the structural work required. A minor expansion might take 8-12 weeks, while a more extensive project involving significant structural changes, foundation work, and utility rerouting could take 4-6 months or even longer. This timeframe includes design, permitting, demolition, construction, and finishing touches. We provide a detailed project schedule upfront.",
+        "@type": "Answer",
+        "description": "Kitchen expansion projects typically take 8-12 weeks for minor work, and 4-6 months or more for extensive structural changes. This includes design, permitting, construction, and finishing."
+      }
+    }
+  ],
+  "description": "Kitchen expansion projects typically take 8-12 weeks for minor work, and 4-6 months or more for extensive structural changes. This includes design, permitting,"
+}

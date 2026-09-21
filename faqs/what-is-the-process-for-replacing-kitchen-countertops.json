@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-kitchen-countertops",
+  "name": "What is the process for replacing kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and measurement of your existing countertops. Next, you select your preferred material, color, and edge profile. Once the material is ordered and fabricated, the old countertops are carefully removed. The new countertops are then installed, followed by sealing (if required for the material), and reconnecting plumbing fixtures. Final cleanup and inspection complete the project.",
+        "@type": "Answer",
+        "description": "The process involves consultation, material selection, measurement, old countertop removal, new countertop installation, sealing, and fixture reconnection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, material selection, measurement, old countertop removal, new countertop installation, sealing, and fixture reconnection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-kitchen-layout-redesign-in-henderson",
+  "name": "Do I need permits for a kitchen layout redesign in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen layout redesign in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a kitchen layout redesign in Henderson, like most municipalities, typically requires permits. This is especially true if the project involves altering the structural integrity of your home, moving walls, or making significant changes to plumbing or electrical systems. Permits ensure that the work complies with local building codes and safety standards. Simply Construction manages all necessary permit applications as part of our service, ensuring your project is compliant and worry-free.",
+        "@type": "Answer",
+        "description": "Yes, a kitchen layout redesign in Henderson usually requires permits, especially if walls, plumbing, or electrical systems are altered. We handle permit applications."
+      }
+    }
+  ],
+  "description": "Yes, a kitchen layout redesign in Henderson usually requires permits, especially if walls, plumbing, or electrical systems are altered. We handle permit applica"
+}

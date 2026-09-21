@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-considerations-are-there-for-electrical-and-plumbing-when-removing-a-kitche",
+  "name": "What considerations are there for electrical and plumbing when removing a kitchen wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are there for electrical and plumbing when removing a kitchen wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When removing a kitchen wall, it's critical to identify and address any existing electrical wiring or plumbing pipes within it. These utilities will need to be safely disconnected, rerouted, or capped off by licensed professionals. Electrical outlets, light switches, and light fixtures may need new locations or circuits. Plumbing lines for sinks, dishwashers, or ice makers will require careful planning for relocation if they were in the wall. This work adds complexity, cost, and requires adherence to local codes for safety and functionality.",
+        "@type": "Answer",
+        "description": "Electrical wiring and plumbing pipes in the wall must be safely disconnected, rerouted, or capped by licensed professionals, impacting project complexity and cost."
+      }
+    }
+  ],
+  "description": "Electrical wiring and plumbing pipes in the wall must be safely disconnected, rerouted, or capped by licensed professionals, impacting project complexity and co"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-aging-in-place-remodel-and-a-standard-bathroom",
+  "name": "What is the difference between an aging-in-place remodel and a standard bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an aging-in-place remodel and a standard bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard bathroom remodel often prioritizes aesthetics, property value, and general functionality. An aging-in-place remodel, while also considering aesthetics, primarily focuses on enhanced safety, accessibility, and long-term independence for individuals with evolving mobility needs. This involves specific design choices like zero-threshold showers, grab bars, and wider clearances that might not be standard in a typical renovation. The emphasis is on proactive prevention and comfort.",
+        "@type": "Answer",
+        "description": "Aging-in-place remodels prioritize safety, accessibility, and long-term independence with features like zero-threshold showers, whereas standard remodels focus more on aesthetics and general updates."
+      }
+    }
+  ],
+  "description": "Aging-in-place remodels prioritize safety, accessibility, and long-term independence with features like zero-threshold showers, whereas standard remodels focus"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-designing-a-custom-tile-shower",
+  "name": "What is the process for designing a custom tile shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing a custom tile shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom tile shower design process typically begins with an initial consultation to discuss your vision, preferences, and budget. We'll assess your existing bathroom space and provide design recommendations for layout, tile selection, waterproofing, and fixtures. Once a design is approved, detailed plans are drafted. This collaborative approach ensures the final product aligns perfectly with your expectations and integrates seamlessly with your home's aesthetic. We focus on both functionality and design, ensuring a beautiful and long-lasting result.",
+        "@type": "Answer",
+        "description": "The design process starts with a consultation to discuss your vision, budget, and space, followed by recommendations and detailed planning for layout and materials."
+      }
+    }
+  ],
+  "description": "The design process starts with a consultation to discuss your vision, budget, and space, followed by recommendations and detailed planning for layout and materi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-waterproofing-is-used-for-custom-tile-showers",
+  "name": "What kind of waterproofing is used for custom tile showers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of waterproofing is used for custom tile showers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper waterproofing is critical for custom tile showers to prevent leaks and mold growth. Common methods include liquid-applied membranes, sheet membranes, or cementitious backer boards with sealed seams. Liquid-applied membranes create a continuous, seamless barrier, while sheet membranes offer consistent thickness. Cementitious backer boards provide a stable substrate that resists moisture, but still require proper sealing at joints and fasteners. Our installations prioritize a multi-layered approach to ensure a durable and watertight system that protects your home's structure.",
+        "@type": "Answer",
+        "description": "Waterproofing for custom tile showers involves methods like liquid-applied membranes, sheet membranes, or cementitious backer boards with sealed seams to prevent leaks."
+      }
+    }
+  ],
+  "description": "Waterproofing for custom tile showers involves methods like liquid-applied membranes, sheet membranes, or cementitious backer boards with sealed seams to preven"
+}

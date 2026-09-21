@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-remodel-and-a-renovation",
+  "name": "What is the difference between a remodel and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a remodel and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'remodel' typically refers to changing the structure or layout of a space, like moving walls, reconfiguring a kitchen, or adding square footage. 'Renovation,' on the other hand, usually means restoring something to a good state of repair, often involving aesthetic updates like new paint, flooring, or fixtures without altering the room's function or structure. Simply Construction offers both comprehensive remodeling and renovation services.",
+        "@type": "Answer",
+        "description": "A remodel changes a space's structure or layout, while a renovation restores and updates aesthetics without altering the fundamental structure. We handle both types of projects."
+      }
+    }
+  ],
+  "description": "A remodel changes a space's structure or layout, while a renovation restores and updates aesthetics without altering the fundamental structure. We handle both t"
+}

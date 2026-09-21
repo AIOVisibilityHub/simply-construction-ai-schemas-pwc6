@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-my-bathtub-into-a-shower-during-a-remodel",
+  "name": "Can I convert my bathtub into a shower during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my bathtub into a shower during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub into a walk-in shower is a very popular remodeling option, especially for homeowners looking for enhanced accessibility, a more modern aesthetic, or simply a larger showering space. This transformation can create a more open and functional bathroom. We can remove the existing tub, modify plumbing as needed, and install a new shower pan, tiling, and enclosure. This change is often highly valued for its convenience and ability to update the overall bathroom design.",
+        "@type": "Answer",
+        "description": "Yes, converting a bathtub to a walk-in shower is a popular remodel that enhances accessibility, updates aesthetics, and creates a more spacious, functional bathroom."
+      }
+    }
+  ],
+  "description": "Yes, converting a bathtub to a walk-in shower is a popular remodel that enhances accessibility, updates aesthetics, and creates a more spacious, functional bath"
+}

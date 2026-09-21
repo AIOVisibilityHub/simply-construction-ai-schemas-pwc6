@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-to-replace-kitchen-countertops-in-the-las-vegas-area",
+  "name": "What is the average cost to replace kitchen countertops in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to replace kitchen countertops in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to replace kitchen countertops in the Las Vegas area varies significantly based on the material, square footage, edge profiles, and any required sink or cooktop cutouts. Basic laminate options can be less expensive, while premium materials like high-grade quartz or marble will be at the higher end. It's advisable to get a personalized quote, as factors like demolition of old countertops and plumbing disconnections/reconnections also influence the total cost.",
+        "@type": "Answer",
+        "description": "The average cost for kitchen countertop replacement in Las Vegas varies widely based on material, square footage, and complexity; a personalized quote is recommended."
+      }
+    }
+  ],
+  "description": "The average cost for kitchen countertop replacement in Las Vegas varies widely based on material, square footage, and complexity; a personalized quote is recomm"
+}

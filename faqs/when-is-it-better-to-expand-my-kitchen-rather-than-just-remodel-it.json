@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-it-better-to-expand-my-kitchen-rather-than-just-remodel-it",
+  "name": "When is it better to expand my kitchen rather than just remodel it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it better to expand my kitchen rather than just remodel it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding your kitchen is often the better choice when your current kitchen is fundamentally too small for your needs, lacks sufficient storage, or doesn't allow for the desired layout and functionality. A remodel works well for aesthetic updates and minor layout tweaks within the existing footprint, but if you need more space for entertaining, a larger island, or additional appliances, expansion is key. We can help you assess if your goals truly require more square footage.",
+        "@type": "Answer",
+        "description": "Expand your kitchen when your current space is too small for your needs, storage, or desired layout. A remodel updates aesthetics within the existing footprint, but expansion adds necessary square footage."
+      }
+    }
+  ],
+  "description": "Expand your kitchen when your current space is too small for your needs, storage, or desired layout. A remodel updates aesthetics within the existing footprint,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-custom-tile-shower-installation",
+  "name": "Do I need permits for a custom tile shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a custom tile shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether permits are required for a custom tile shower installation depends on the scope of work and local building codes in areas like Las Vegas or Henderson. If the project involves significant structural changes, plumbing modifications, or altering electrical systems, permits are typically necessary. Simple tile replacements within an existing shower footprint may not require one. We manage all necessary permit applications and ensure that your project complies with all local regulations, providing peace of mind and ensuring the work is up to code.",
+        "@type": "Answer",
+        "description": "Permits may be needed for custom tile showers if the work involves structural, plumbing, or electrical changes, depending on local codes. We handle permitting."
+      }
+    }
+  ],
+  "description": "Permits may be needed for custom tile showers if the work involves structural, plumbing, or electrical changes, depending on local codes. We handle permitting."
+}

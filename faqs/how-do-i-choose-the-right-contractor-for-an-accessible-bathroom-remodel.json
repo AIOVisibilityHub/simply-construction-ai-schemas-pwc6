@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-an-accessible-bathroom-remodel",
+  "name": "How do I choose the right contractor for an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for an accessible bathroom remodel, look for experience in accessible design and construction. Verify their licensing, insurance, and check references from previous clients. It's beneficial if they demonstrate an understanding of your specific needs and can offer tailored solutions. A good contractor will provide a clear contract, detailed timeline, and transparent cost breakdown, ensuring you feel comfortable and confident in their abilities.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in accessible design, check licenses and references, and ensure they understand your specific needs."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in accessible design, check licenses and references, and ensure they understand your specific needs."
+}

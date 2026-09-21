@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-most-popular-kitchen-countertop-materials-available",
+  "name": "What are the most popular kitchen countertop materials available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular kitchen countertop materials available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular kitchen countertop materials include granite, quartz, marble, and butcher block. Granite and quartz are highly durable and come in various colors and patterns, making them excellent choices for busy kitchens. Marble offers a luxurious aesthetic but requires more maintenance due to its porosity. Butcher block provides a warm, natural look and can be refinished, but needs regular sealing to prevent water damage.",
+        "@type": "Answer",
+        "description": "Granite, quartz, marble, and butcher block are popular choices, each offering different aesthetics and maintenance requirements."
+      }
+    }
+  ],
+  "description": "Granite, quartz, marble, and butcher block are popular choices, each offering different aesthetics and maintenance requirements."
+}

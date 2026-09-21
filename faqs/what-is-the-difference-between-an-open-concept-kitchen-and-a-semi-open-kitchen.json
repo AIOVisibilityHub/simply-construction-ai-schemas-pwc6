@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-open-concept-kitchen-and-a-semi-open-kitchen",
+  "name": "What is the difference between an open-concept kitchen and a semi-open kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an open-concept kitchen and a semi-open kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept kitchen fully integrates with adjacent living areas, typically by removing walls entirely to create one large, continuous space. A semi-open kitchen, however, maintains some degree of separation, perhaps through a large archway, half-wall, or a significant opening that provides connectivity without complete integration. Semi-open designs offer more defined zones while still promoting interaction and light flow, serving as a middle ground between traditional and fully open layouts.",
+        "@type": "Answer",
+        "description": "An open-concept kitchen fully integrates with living areas, while a semi-open kitchen provides partial separation, offering a middle ground between open and traditional layouts."
+      }
+    }
+  ],
+  "description": "An open-concept kitchen fully integrates with living areas, while a semi-open kitchen provides partial separation, offering a middle ground between open and tra"
+}

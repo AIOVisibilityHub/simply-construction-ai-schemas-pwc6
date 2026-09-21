@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-to-tile-a-bathroom-in-las-vegas",
+  "name": "What is the average cost to tile a bathroom in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to tile a bathroom in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to tile a bathroom in the Las Vegas area can vary significantly. Factors include the size of the area to be tiled, the type of tile chosen (e.g., ceramic, porcelain, natural stone), the complexity of the layout, and labor rates. On average, homeowners might expect to pay a certain range per square foot, which usually includes labor and materials. It's best to get a detailed quote for your specific project.",
+        "@type": "Answer",
+        "description": "The cost to tile a bathroom in Las Vegas varies based on size, tile type, and labor. Obtain a detailed quote for an accurate estimate."
+      }
+    }
+  ],
+  "description": "The cost to tile a bathroom in Las Vegas varies based on size, tile type, and labor. Obtain a detailed quote for an accurate estimate."
+}

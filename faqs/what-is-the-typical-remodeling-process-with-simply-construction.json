@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-remodeling-process-with-simply-construction",
+  "name": "What is the typical remodeling process with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical remodeling process with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our remodeling process begins with an initial consultation to discuss your vision and needs. Next, we move to design and planning, where we develop detailed plans, select materials, and provide a comprehensive estimate. After contract signing and permit acquisition, construction commences, managed with regular communication. The project concludes with a final walkthrough and your complete satisfaction. We aim for a smooth, transparent, and efficient remodeling experience.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design and planning, detailed estimates, permit acquisition, construction with ongoing communication, and a final walkthrough upon completion."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design and planning, detailed estimates, permit acquisition, construction with ongoing communication, and a final walkthrough"
+}

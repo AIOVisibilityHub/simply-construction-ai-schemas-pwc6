@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-problems-can-arise-from-removing-a-kitchen-wall",
+  "name": "What problems can arise from removing a kitchen wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What problems can arise from removing a kitchen wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a kitchen wall can present several challenges. If the wall is load-bearing, improper removal can compromise structural integrity, leading to sagging floors or roof damage. Hidden electrical wiring, plumbing pipes, or HVAC ducts within the wall require relocation, adding complexity and cost. Dust and debris are significant during demolition. Post-removal, you'll need to address flooring transitions, ceiling patching, and potential changes to lighting or ventilation systems, all of which require careful planning and execution.",
+        "@type": "Answer",
+        "description": "Problems include structural issues if load-bearing, relocating hidden utilities, significant dust, and needing to address flooring, ceiling, lighting, and ventilation after removal."
+      }
+    }
+  ],
+  "description": "Problems include structural issues if load-bearing, relocating hidden utilities, significant dust, and needing to address flooring, ceiling, lighting, and venti"
+}

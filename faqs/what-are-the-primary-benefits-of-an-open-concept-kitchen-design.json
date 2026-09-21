@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-primary-benefits-of-an-open-concept-kitchen-design",
+  "name": "What are the primary benefits of an open-concept kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the primary benefits of an open-concept kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-concept kitchen designs enhance the flow between living spaces, making your home feel larger and more connected. This layout is ideal for entertaining, as it allows hosts to interact with guests while preparing food. It also often increases natural light throughout the connected areas, improving the overall ambiance. Furthermore, it can improve supervision of children or pets while you're in the kitchen.",
+        "@type": "Answer",
+        "description": "Open-concept kitchens improve flow, increase natural light, and enhance social interaction by connecting living spaces."
+      }
+    }
+  ],
+  "description": "Open-concept kitchens improve flow, increase natural light, and enhance social interaction by connecting living spaces."
+}

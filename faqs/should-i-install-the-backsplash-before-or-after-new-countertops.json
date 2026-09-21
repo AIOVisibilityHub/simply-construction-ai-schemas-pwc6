@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-install-the-backsplash-before-or-after-new-countertops",
+  "name": "Should I install the backsplash before or after new countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I install the backsplash before or after new countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is generally recommended to install new countertops *before* the backsplash. This order ensures that the backsplash can be precisely fitted directly onto the finished countertop surface, creating a seamless and watertight seal. Installing the backsplash first can lead to gaps or misalignment if the new countertops aren't perfectly flush or if their thickness differs. This sequence also protects the new backsplash from potential damage during countertop installation. Simply Construction always follows this best practice for optimal results.",
+        "@type": "Answer",
+        "description": "Install new countertops before the backsplash. This allows for a precise fit, a seamless seal, and protects the backsplash from damage during countertop installation."
+      }
+    }
+  ],
+  "description": "Install new countertops before the backsplash. This allows for a precise fit, a seamless seal, and protects the backsplash from damage during countertop install"
+}

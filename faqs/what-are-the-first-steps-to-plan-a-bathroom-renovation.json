@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-first-steps-to-plan-a-bathroom-renovation",
+  "name": "What are the first steps to plan a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps involve defining your goals and budget. Consider what you dislike about your current bathroom and what you hope to achieve with the renovation – more space, modern aesthetics, improved functionality, or accessibility. Gather inspiration from magazines or online platforms to visualize your desired style. Next, set a realistic budget for materials, labor, and a contingency fund. Finally, research and contact reputable general contractors for consultations and estimates to discuss feasibility and design options.",
+        "@type": "Answer",
+        "description": "Start by defining your goals, setting a budget, gathering design inspiration, and then contacting contractors for consultations and estimates."
+      }
+    }
+  ],
+  "description": "Start by defining your goals, setting a budget, gathering design inspiration, and then contacting contractors for consultations and estimates."
+}

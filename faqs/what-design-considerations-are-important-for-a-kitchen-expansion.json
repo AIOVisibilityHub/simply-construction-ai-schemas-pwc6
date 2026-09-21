@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-are-important-for-a-kitchen-expansion",
+  "name": "What design considerations are important for a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Important design considerations for a kitchen expansion include maintaining a cohesive flow with the rest of your home, optimizing the kitchen 'work triangle' (sink, refrigerator, range) for efficiency, and ensuring adequate lighting and ventilation. You'll also need to consider cabinetry styles, countertop materials, appliance placement, and storage solutions to maximize functionality and aesthetics. Our design team helps integrate your vision with practical aspects, ensuring the new space is both beautiful and highly usable.",
+        "@type": "Answer",
+        "description": "Key design considerations for a kitchen expansion include maintaining home flow, optimizing the work triangle, ensuring lighting and ventilation, and selecting finishes that enhance functionality and aesthetics."
+      }
+    }
+  ],
+  "description": "Key design considerations for a kitchen expansion include maintaining home flow, optimizing the work triangle, ensuring lighting and ventilation, and selecting"
+}

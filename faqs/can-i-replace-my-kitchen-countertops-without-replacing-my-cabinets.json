@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-replace-my-kitchen-countertops-without-replacing-my-cabinets",
+  "name": "Can I replace my kitchen countertops without replacing my cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my kitchen countertops without replacing my cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to replace kitchen countertops without replacing your cabinets, provided your existing cabinets are structurally sound and in good condition. The old countertops will be carefully removed, and the new ones installed directly onto the existing cabinet bases. This can be a cost-effective way to refresh your kitchen's look. Your contractor will assess the cabinet integrity during the initial consultation.",
+        "@type": "Answer",
+        "description": "Yes, you can often replace countertops without replacing cabinets if the cabinets are structurally sound; it's a cost-effective update."
+      }
+    }
+  ],
+  "description": "Yes, you can often replace countertops without replacing cabinets if the cabinets are structurally sound; it's a cost-effective update."
+}

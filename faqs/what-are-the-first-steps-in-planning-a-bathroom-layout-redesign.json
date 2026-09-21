@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-first-steps-in-planning-a-bathroom-layout-redesign",
+  "name": "What are the first steps in planning a bathroom layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps in planning a bathroom layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps involve defining your needs, preferences, and budget. Consider what you dislike about your current bathroom and what you hope to achieve with the redesign, such as improved functionality, aesthetics, or accessibility. Gather inspiration from magazines or online resources. Next, schedule a consultation with a reputable general contractor like Simply Construction to discuss your vision, explore design possibilities, and receive a preliminary assessment.",
+        "@type": "Answer",
+        "description": "First steps include defining needs, budget, and design preferences. Then, consult with a general contractor to discuss your vision and possibilities."
+      }
+    }
+  ],
+  "description": "First steps include defining needs, budget, and design preferences. Then, consult with a general contractor to discuss your vision and possibilities."
+}

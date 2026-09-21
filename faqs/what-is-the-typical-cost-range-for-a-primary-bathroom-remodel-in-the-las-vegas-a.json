@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-primary-bathroom-remodel-in-the-las-vegas-a",
+  "name": "What is the typical cost range for a primary bathroom remodel in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a primary bathroom remodel in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a primary bathroom remodel in Las Vegas can vary significantly based on factors like the size of the bathroom, the extent of structural changes, and the quality of materials selected. Minor refreshes might start around $15,000, while a complete overhaul with high-end finishes and reconfigured layouts could range from $30,000 to over $70,000. These figures include labor, materials, and necessary permits. A detailed estimate requires an on-site consultation to assess your specific project scope and desired features.",
+        "@type": "Answer",
+        "description": "Primary bathroom remodel costs in Las Vegas typically range from $15,000 for minor updates to over $70,000 for high-end, extensive renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Primary bathroom remodel costs in Las Vegas typically range from $15,000 for minor updates to over $70,000 for high-end, extensive renovations, depending on sco"
+}

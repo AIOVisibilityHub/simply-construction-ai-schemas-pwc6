@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-tub-to-shower-conversion-increase-my-home-value",
+  "name": "Will a tub-to-shower conversion increase my home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a tub-to-shower conversion increase my home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion can positively impact your home's value, especially if it enhances accessibility or updates an outdated bathroom. Many homebuyers, particularly older individuals or those seeking modern design, prefer walk-in showers. While the exact return on investment varies by market and specific upgrades, a well-executed conversion by a professional contractor is generally considered a valuable home improvement.",
+        "@type": "Answer",
+        "description": "Yes, a tub-to-shower conversion can increase home value by enhancing accessibility and updating bathroom aesthetics, appealing to many homebuyers."
+      }
+    }
+  ],
+  "description": "Yes, a tub-to-shower conversion can increase home value by enhancing accessibility and updating bathroom aesthetics, appealing to many homebuyers."
+}

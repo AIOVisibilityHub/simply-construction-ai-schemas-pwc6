@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-a-sink-or-cooktop-to-an-existing-kitchen-island",
+  "name": "Can I add a sink or cooktop to an existing kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a sink or cooktop to an existing kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a sink or cooktop to an existing kitchen island is often possible, but it depends on the island's current structure and access to utilities. It typically requires running new plumbing lines for a sink or gas/electrical lines for a cooktop, which may involve cutting into the floor or walls. Proper ventilation is also crucial for cooktops. A professional assessment is necessary to determine feasibility and potential structural modifications. We can evaluate your island's suitability.",
+        "@type": "Answer",
+        "description": "Adding a sink or cooktop is possible, but requires utility access and potential structural changes, needing a professional assessment."
+      }
+    }
+  ],
+  "description": "Adding a sink or cooktop is possible, but requires utility access and potential structural changes, needing a professional assessment."
+}

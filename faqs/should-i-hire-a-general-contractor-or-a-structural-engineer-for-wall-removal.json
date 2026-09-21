@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-hire-a-general-contractor-or-a-structural-engineer-for-wall-removal",
+  "name": "Should I hire a general contractor or a structural engineer for wall removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or a structural engineer for wall removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen wall removal, you typically need both a general contractor and often a structural engineer. A structural engineer is crucial for assessing if a wall is load-bearing, designing appropriate support solutions (like beams or headers), and providing stamped drawings required for permits. A general contractor then manages the entire project, including obtaining permits, coordinating trades (demolition, plumbing, electrical, carpentry), executing the structural changes, and overseeing all construction and finishing work. The contractor ensures the engineer's plans are implemented correctly.",
+        "@type": "Answer",
+        "description": "You typically need a structural engineer to assess load-bearing walls and design supports, and a general contractor to manage and execute the entire wall removal project."
+      }
+    }
+  ],
+  "description": "You typically need a structural engineer to assess load-bearing walls and design supports, and a general contractor to manage and execute the entire wall remova"
+}

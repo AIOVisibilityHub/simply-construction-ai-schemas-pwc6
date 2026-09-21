@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-make-my-bathroom-more-energy-efficient",
+  "name": "How can I make my bathroom more energy-efficient?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my bathroom more energy-efficient?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To enhance energy efficiency, consider several upgrades during your renovation. Install low-flow toilets and showerheads to significantly reduce water consumption without sacrificing performance. Opt for LED lighting fixtures, which use less electricity and have a longer lifespan than traditional bulbs. Energy-efficient exhaust fans are crucial for removing moisture, preventing mold, and reducing the need for heating/cooling. Upgrading to an on-demand tankless water heater can also save energy by heating water only when needed, rather than continuously storing it.",
+        "@type": "Answer",
+        "description": "Install low-flow toilets and showerheads, LED lighting, energy-efficient exhaust fans, and potentially a tankless water heater to boost efficiency."
+      }
+    }
+  ],
+  "description": "Install low-flow toilets and showerheads, LED lighting, energy-efficient exhaust fans, and potentially a tankless water heater to boost efficiency."
+}

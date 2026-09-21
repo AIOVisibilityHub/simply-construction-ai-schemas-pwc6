@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-expand-my-bathroom-s-footprint-during-a-luxury-remodel",
+  "name": "Should I expand my bathroom's footprint during a luxury remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I expand my bathroom's footprint during a luxury remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expanding your bathroom's footprint during a luxury remodel depends on your goals, available space, and budget. An expansion can create a more spacious and open feel, allowing for larger fixtures like a freestanding tub, a walk-in shower, or a dual vanity. It can also accommodate additional features like a private water closet or a dedicated dressing area. However, expanding the footprint involves more extensive structural work, which increases costs and project duration. Consult with a designer to assess feasibility and impact on adjacent rooms.",
+        "@type": "Answer",
+        "description": "Expanding a bathroom's footprint allows for larger features and more space but increases costs and project duration; consider available space and goals."
+      }
+    }
+  ],
+  "description": "Expanding a bathroom's footprint allows for larger features and more space but increases costs and project duration; consider available space and goals."
+}

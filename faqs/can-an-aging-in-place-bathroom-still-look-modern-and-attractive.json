@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-an-aging-in-place-bathroom-still-look-modern-and-attractive",
+  "name": "Can an aging-in-place bathroom still look modern and attractive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an aging-in-place bathroom still look modern and attractive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Aging-in-place design has evolved significantly, integrating safety and accessibility features seamlessly into modern, attractive aesthetics. There's a wide range of stylish, slip-resistant tiles, elegant grab bars that double as towel bars, and contemporary fixtures that enhance both function and beauty. Our designers work to create a space that is safe, accessible, and aligns with your personal style.",
+        "@type": "Answer",
+        "description": "Yes, aging-in-place bathrooms can be modern and attractive. Contemporary designs integrate safety features like stylish grab bars and slip-resistant materials without sacrificing aesthetics."
+      }
+    }
+  ],
+  "description": "Yes, aging-in-place bathrooms can be modern and attractive. Contemporary designs integrate safety features like stylish grab bars and slip-resistant materials w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-bathtubs-are-available-for-replacement",
+  "name": "What types of bathtubs are available for replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of bathtubs are available for replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When replacing a bathtub, you have several material options, each with distinct benefits. Acrylic bathtubs are lightweight, durable, and retain heat well, offering a wide range of styles and colors. Cast iron tubs are exceptionally durable, heavy, and provide excellent heat retention but can be more expensive. Fiberglass is a cost-effective option, though less durable than acrylic or cast iron. Cultured marble offers a luxurious, seamless look. Other options include steel enamel, often found in budget-friendly installations, and stone resin for a premium, custom aesthetic. The best choice depends on your budget, aesthetic preferences, and desired durability.",
+        "@type": "Answer",
+        "description": "Common types include acrylic, cast iron, fiberglass, cultured marble, and steel enamel, each offering different benefits in terms of durability, heat retention, and cost."
+      }
+    }
+  ],
+  "description": "Common types include acrylic, cast iron, fiberglass, cultured marble, and steel enamel, each offering different benefits in terms of durability, heat retention,"
+}

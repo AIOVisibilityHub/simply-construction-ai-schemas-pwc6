@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-primary-bathroom-remodel-usually-take-from-start-to-finish",
+  "name": "How long does a primary bathroom remodel usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a primary bathroom remodel usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a primary bathroom remodel depends on its complexity. A basic cosmetic update, such as replacing fixtures and painting, might take 2-4 weeks. A more extensive renovation involving demolition, reconfiguring plumbing, electrical work, and custom installations typically requires 6-10 weeks. Factors like material availability, permit approvals, and unexpected discoveries during demolition can influence the timeline. We provide a detailed project schedule after the design and material selections are finalized.",
+        "@type": "Answer",
+        "description": "A primary bathroom remodel can take 2-4 weeks for minor updates or 6-10 weeks for extensive renovations, depending on project complexity and material availability."
+      }
+    }
+  ],
+  "description": "A primary bathroom remodel can take 2-4 weeks for minor updates or 6-10 weeks for extensive renovations, depending on project complexity and material availabili"
+}

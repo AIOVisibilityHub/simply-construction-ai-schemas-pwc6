@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-my-tub-into-a-walk-in-shower-without-moving-plumbing",
+  "name": "Can I convert my tub into a walk-in shower without moving plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my tub into a walk-in shower without moving plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many cases, it is possible to convert a tub into a walk-in shower without extensively relocating plumbing. The existing drain and water supply lines can often be adapted for the new shower setup. However, some adjustments or minor modifications to the rough-in plumbing may be necessary to ensure proper drainage and fixture placement. An on-site assessment helps determine the exact requirements for your bathroom.",
+        "@type": "Answer",
+        "description": "Often, a tub-to-shower conversion can use existing plumbing with minor modifications. An assessment determines exact needs for drain and supply lines."
+      }
+    }
+  ],
+  "description": "Often, a tub-to-shower conversion can use existing plumbing with minor modifications. An assessment determines exact needs for drain and supply lines."
+}

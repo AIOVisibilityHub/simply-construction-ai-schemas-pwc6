@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-features-are-essential-for-an-accessible-bathroom",
+  "name": "What features are essential for an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What features are essential for an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Essential features for an accessible bathroom often include a curbless or roll-in shower with a seat and grab bars, a comfort-height toilet, and a vanity that allows for wheelchair access underneath. Other important elements are non-slip flooring, wider doorways (at least 36 inches), and easily operable faucets and shower controls. Proper lighting and emergency call systems can also enhance safety and usability. The specific needs of the user will determine the most crucial features.",
+        "@type": "Answer",
+        "description": "Key features include roll-in showers, grab bars, comfort-height toilets, wheelchair-accessible vanities, and non-slip flooring."
+      }
+    }
+  ],
+  "description": "Key features include roll-in showers, grab bars, comfort-height toilets, wheelchair-accessible vanities, and non-slip flooring."
+}

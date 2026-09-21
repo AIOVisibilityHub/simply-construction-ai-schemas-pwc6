@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-best-for-a-tub-to-shower-conversion",
+  "name": "What materials are best for a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials depend on your budget, desired aesthetic, and maintenance preferences. Popular choices include acrylic or fiberglass surrounds for cost-effectiveness and ease of cleaning. For a more luxurious and customizable look, ceramic, porcelain, or natural stone tiles are excellent options. Glass enclosures come in various styles, from framed to frameless, adding to the modern feel. We help you choose materials suited for durability and your specific design.",
+        "@type": "Answer",
+        "description": "Material choices include acrylic/fiberglass for ease and budget, or ceramic/porcelain/stone tiles for luxury. Glass enclosures vary from framed to frameless."
+      }
+    }
+  ],
+  "description": "Material choices include acrylic/fiberglass for ease and budget, or ceramic/porcelain/stone tiles for luxury. Glass enclosures vary from framed to frameless."
+}

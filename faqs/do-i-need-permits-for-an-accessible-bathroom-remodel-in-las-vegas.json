@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-an-accessible-bathroom-remodel-in-las-vegas",
+  "name": "Do I need permits for an accessible bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an accessible bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, major accessible bathroom remodels in Las Vegas typically require permits, especially if they involve significant changes to plumbing, electrical systems, or structural elements like widening doorways. Even minor alterations might need permits depending on local regulations. Working with a licensed contractor like Simply Construction ensures that all necessary permits are obtained and that the work complies with local building codes, preventing potential issues during or after the project.",
+        "@type": "Answer",
+        "description": "Yes, major accessible bathroom remodels in Las Vegas often require permits for plumbing, electrical, or structural changes."
+      }
+    }
+  ],
+  "description": "Yes, major accessible bathroom remodels in Las Vegas often require permits for plumbing, electrical, or structural changes."
+}

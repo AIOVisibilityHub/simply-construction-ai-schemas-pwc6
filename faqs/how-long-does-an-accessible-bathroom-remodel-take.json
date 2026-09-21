@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-an-accessible-bathroom-remodel-take",
+  "name": "How long does an accessible bathroom remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an accessible bathroom remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an accessible bathroom remodel depends on the complexity and extent of the renovation. A simple upgrade might take a few days, while a full gut and remodel with structural modifications could take several weeks, potentially four to six weeks or more. Factors like material availability, unforeseen issues, and the contractor's schedule can also influence the timeline. Your contractor should provide a detailed project schedule during the planning phase.",
+        "@type": "Answer",
+        "description": "Remodel times vary from a few days for minor upgrades to several weeks for full renovations, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Remodel times vary from a few days for minor upgrades to several weeks for full renovations, depending on project complexity."
+}

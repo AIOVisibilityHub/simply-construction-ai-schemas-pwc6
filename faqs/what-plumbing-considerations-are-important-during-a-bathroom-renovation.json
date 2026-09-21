@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-plumbing-considerations-are-important-during-a-bathroom-renovation",
+  "name": "What plumbing considerations are important during a bathroom renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plumbing considerations are important during a bathroom renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Plumbing is a critical aspect of any bathroom renovation. Consider the condition of existing pipes, especially in older homes, as this might be an opportunity to upgrade to more durable materials like PEX. If you plan to move the toilet, shower, or sink, this will involve relocating drain and supply lines, which adds to complexity and cost. Ensure adequate water pressure for new fixtures, especially if installing rain showerheads or multiple sprayers. Proper ventilation is also crucial to prevent moisture buildup and mold.",
+        "@type": "Answer",
+        "description": "Consider pipe condition, plan for drain/supply line relocation if changing layout, ensure adequate water pressure, and install proper ventilation to prevent issues."
+      }
+    }
+  ],
+  "description": "Consider pipe condition, plan for drain/supply line relocation if changing layout, ensure adequate water pressure, and install proper ventilation to prevent iss"
+}

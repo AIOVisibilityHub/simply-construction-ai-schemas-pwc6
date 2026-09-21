@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-building-permit-for-kitchen-island-installation-in-las-vegas",
+  "name": "Do I need a building permit for kitchen island installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a building permit for kitchen island installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen island installations in Las Vegas, a building permit is generally required if the project involves significant structural changes, or modifications to plumbing or electrical systems. Adding an island with a new sink or cooktop, or moving load-bearing walls, will typically necessitate a permit to ensure compliance with local building codes. Our team can help determine permit requirements and assist with the application process.",
+        "@type": "Answer",
+        "description": "A building permit is usually required in Las Vegas if your kitchen island installation involves new plumbing, electrical, or structural changes."
+      }
+    }
+  ],
+  "description": "A building permit is usually required in Las Vegas if your kitchen island installation involves new plumbing, electrical, or structural changes."
+}

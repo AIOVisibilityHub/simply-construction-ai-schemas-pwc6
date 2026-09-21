@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-install-tile-over-a-heated-floor-system-in-my-bathroom",
+  "name": "Can I install tile over a heated floor system in my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install tile over a heated floor system in my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, tile is an excellent choice for installation over a heated floor system. Tile conducts and retains heat very well, making it an efficient covering for radiant heating. It's important to ensure the heating system is properly installed and tested before tiling. The tile adhesive and grout used must be compatible with the heated subfloor to prevent cracking or delamination due to expansion and contraction.",
+        "@type": "Answer",
+        "description": "Yes, tile works well over heated floors due to its heat retention. Ensure the heating system is correctly installed and compatible adhesives are used."
+      }
+    }
+  ],
+  "description": "Yes, tile works well over heated floors due to its heat retention. Ensure the heating system is correctly installed and compatible adhesives are used."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-materials-are-best-for-a-shower-remodel",
+  "name": "What types of materials are best for a shower remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best for a shower remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best materials for a shower remodel combine durability, water resistance, and aesthetic appeal. Popular choices include ceramic, porcelain, and natural stone tiles for walls and floors, offering various looks and textures. For shower pans, pre-fabricated acrylic or custom tiled bases are common. Fixtures can range from chrome to brushed nickel, while glass enclosures provide a modern, open feel. Your material choices should align with your budget, design preferences, and long-term maintenance expectations.",
+        "@type": "Answer",
+        "description": "Ideal shower remodel materials are durable and water-resistant, including ceramic/porcelain/natural stone tiles, acrylic/tiled pans, and various fixture finishes."
+      }
+    }
+  ],
+  "description": "Ideal shower remodel materials are durable and water-resistant, including ceramic/porcelain/natural stone tiles, acrylic/tiled pans, and various fixture finishe"
+}

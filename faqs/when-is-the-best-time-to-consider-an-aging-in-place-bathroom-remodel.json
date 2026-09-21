@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-to-consider-an-aging-in-place-bathroom-remodel",
+  "name": "When is the best time to consider an aging-in-place bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider an aging-in-place bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to consider an aging-in-place bathroom remodel is proactively, before mobility challenges or a specific incident necessitates urgent changes. Planning ahead allows for thoughtful design, integration with your home's aesthetics, and a less stressful transition. However, remodeling can be done at any stage, whether you're planning for the future or addressing immediate accessibility needs.",
+        "@type": "Answer",
+        "description": "The best time for an aging-in-place bathroom remodel is often proactively, before urgent needs arise, to allow for thoughtful planning and design."
+      }
+    }
+  ],
+  "description": "The best time for an aging-in-place bathroom remodel is often proactively, before urgent needs arise, to allow for thoughtful planning and design."
+}

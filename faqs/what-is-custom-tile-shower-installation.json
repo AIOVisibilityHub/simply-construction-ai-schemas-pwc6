@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-custom-tile-shower-installation",
+  "name": "What is custom tile shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom tile shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tile shower installation involves designing and building a shower enclosure with personalized tile selections, layouts, and features. Unlike pre-fabricated units, custom showers allow for unique sizes, shapes, and integrated elements such as niches, benches, and specific waterproofing systems. This process typically includes substrate preparation, waterproofing, tile setting, grouting, and sealing, all tailored to the homeowner's preferences and the bathroom's dimensions. It provides a durable and aesthetically pleasing result that enhances the bathroom's overall design.",
+        "@type": "Answer",
+        "description": "Custom tile shower installation creates a personalized shower enclosure using unique tile designs, sizes, and integrated features tailored to your space."
+      }
+    }
+  ],
+  "description": "Custom tile shower installation creates a personalized shower enclosure using unique tile designs, sizes, and integrated features tailored to your space."
+}

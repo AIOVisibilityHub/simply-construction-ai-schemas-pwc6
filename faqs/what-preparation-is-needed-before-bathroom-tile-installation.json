@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-preparation-is-needed-before-bathroom-tile-installation",
+  "name": "What preparation is needed before bathroom tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before bathroom tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper preparation is critical for a lasting tile installation. This typically includes ensuring the subfloor or wall surface is clean, dry, level, and structurally sound. Any necessary repairs to the subfloor or drywall should be completed. Waterproofing membrane installation is essential for shower areas and often recommended for bathroom floors to protect against moisture. Measurements and layout planning are also part of the preparation.",
+        "@type": "Answer",
+        "description": "Preparation involves ensuring surfaces are clean, dry, level, and structurally sound. Waterproofing is crucial for shower areas and often recommended for floors."
+      }
+    }
+  ],
+  "description": "Preparation involves ensuring surfaces are clean, dry, level, and structurally sound. Waterproofing is crucial for shower areas and often recommended for floors"
+}

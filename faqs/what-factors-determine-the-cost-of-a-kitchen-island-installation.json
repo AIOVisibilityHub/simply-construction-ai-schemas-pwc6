@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-determine-the-cost-of-a-kitchen-island-installation",
+  "name": "What factors determine the cost of a kitchen island installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors determine the cost of a kitchen island installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a kitchen island varies based on several factors, including the island's size and materials, whether plumbing or electrical work is required, and the complexity of the design. Countertop choice, cabinet finishes, and built-in appliances also impact the final price. Custom designs or specialty features will naturally increase the overall investment compared to a pre-fabricated unit. We provide detailed estimates after an on-site consultation to account for all these variables.",
+        "@type": "Answer",
+        "description": "Key cost factors include island size, materials, utility hookups (plumbing/electrical), and design complexity."
+      }
+    }
+  ],
+  "description": "Key cost factors include island size, materials, utility hookups (plumbing/electrical), and design complexity."
+}

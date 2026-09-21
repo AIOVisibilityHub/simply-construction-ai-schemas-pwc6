@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-tub-to-shower-conversion-cost-in-las-vegas",
+  "name": "How much does a tub-to-shower conversion cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a tub-to-shower conversion cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a tub-to-shower conversion in the Las Vegas area can vary significantly, typically ranging from $5,000 to $15,000 or more. This range depends on factors such as the size of the shower, the type of materials selected (e.g., acrylic, tile, glass), plumbing alterations, and the complexity of the design. We provide detailed, transparent quotes after an on-site consultation to accurately assess your specific needs.",
+        "@type": "Answer",
+        "description": "Costs for tub-to-shower conversions in Las Vegas generally range from $5,000 to $15,000+. Price depends on shower size, materials, and plumbing changes."
+      }
+    }
+  ],
+  "description": "Costs for tub-to-shower conversions in Las Vegas generally range from $5,000 to $15,000+. Price depends on shower size, materials, and plumbing changes."
+}

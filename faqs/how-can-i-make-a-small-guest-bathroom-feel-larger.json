@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-make-a-small-guest-bathroom-feel-larger",
+  "name": "How can I make a small guest bathroom feel larger?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make a small guest bathroom feel larger?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make a small guest bathroom feel larger, consider using light-colored paint and tiles, which reflect light and create an open feel. Incorporate a wall-mounted or pedestal sink instead of a bulky vanity to free up floor space. Large mirrors can visually expand the room, and strategic lighting, such as recessed fixtures, can eliminate shadows. Opt for a glass shower enclosure over a curtain to maintain an unobstructed view and a sense of continuity.",
+        "@type": "Answer",
+        "description": "Use light colors, wall-mounted sinks, large mirrors, recessed lighting, and glass shower enclosures to make a small guest bathroom feel larger."
+      }
+    }
+  ],
+  "description": "Use light colors, wall-mounted sinks, large mirrors, recessed lighting, and glass shower enclosures to make a small guest bathroom feel larger."
+}

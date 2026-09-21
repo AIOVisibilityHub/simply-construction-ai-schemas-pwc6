@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-install-a-kitchen-island",
+  "name": "How long does it typically take to install a kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to install a kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a kitchen island can vary significantly. A simple, pre-fabricated island without utility connections might take only a day or two. However, custom islands involving plumbing for sinks, electrical for outlets or appliances, or complex structural modifications could extend the process to several days or even a week. We provide a detailed project schedule outlining each phase, from demolition (if needed) to final installation, during the planning stage.",
+        "@type": "Answer",
+        "description": "Installation time ranges from a day for simple islands to several days or a week for custom designs with utility connections."
+      }
+    }
+  ],
+  "description": "Installation time ranges from a day for simple islands to several days or a week for custom designs with utility connections."
+}

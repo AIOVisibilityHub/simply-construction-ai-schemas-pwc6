@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-installing-a-walk-in-shower",
+  "name": "What are the benefits of installing a walk-in shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a walk-in shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Walk-in showers offer several advantages, including improved accessibility for individuals with mobility challenges, a more spacious and open feel in the bathroom, and easier cleaning due to fewer nooks and crannies. They also provide a modern aesthetic that can enhance your home's resale value. With various design options, you can customize a walk-in shower to fit your specific needs and personal style, creating a spa-like experience in your own home.",
+        "@type": "Answer",
+        "description": "Walk-in showers offer improved accessibility, a spacious feel, easier cleaning, and a modern aesthetic that can increase home value."
+      }
+    }
+  ],
+  "description": "Walk-in showers offer improved accessibility, a spacious feel, easier cleaning, and a modern aesthetic that can increase home value."
+}

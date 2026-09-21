@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-bathroom-vanity",
+  "name": "How long does it take to install a bathroom vanity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a bathroom vanity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom vanity installation depends on the project's scope. A straightforward replacement of an existing vanity, where plumbing connections are already in place and no significant modifications are required, can typically be completed in 4 to 8 hours. However, if the installation involves reconfiguring plumbing lines, electrical work for new lighting, tiling, or custom countertop fabrication, the process could extend over several days. We provide a projected timeline after evaluating your specific renovation plans.",
+        "@type": "Answer",
+        "description": "A basic bathroom vanity installation takes 4-8 hours, but complex projects with plumbing or electrical modifications may take several days."
+      }
+    }
+  ],
+  "description": "A basic bathroom vanity installation takes 4-8 hours, but complex projects with plumbing or electrical modifications may take several days."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-bathroom-remodeling-project-usually-take",
+  "name": "How long does a bathroom remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a bathroom remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom remodeling project depends on its complexity and the extent of the work. A small, cosmetic update might be completed in 1-2 weeks. A mid-range remodel involving new fixtures, flooring, and some light plumbing or electrical work typically takes 2-4 weeks. Extensive renovations, including structural changes, custom elements, or significant layout modifications, can extend to 4-8 weeks or longer. Unexpected issues, material delays, or changes during the project can also affect the timeline.",
+        "@type": "Answer",
+        "description": "Bathroom remodels typically take 1-2 weeks for minor updates, 2-4 weeks for mid-range projects, and 4-8+ weeks for extensive renovations, depending on complexity."
+      }
+    }
+  ],
+  "description": "Bathroom remodels typically take 1-2 weeks for minor updates, 2-4 weeks for mid-range projects, and 4-8+ weeks for extensive renovations, depending on complexit"
+}

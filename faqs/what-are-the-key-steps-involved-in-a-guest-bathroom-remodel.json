@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-key-steps-involved-in-a-guest-bathroom-remodel",
+  "name": "What are the key steps involved in a guest bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps involved in a guest bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A guest bathroom remodel typically begins with an initial consultation and design planning, where we discuss your vision, budget, and material preferences. Following design approval, permits are secured if necessary. Demolition of old fixtures and finishes comes next, followed by rough-ins for plumbing and electrical. Then, new installations like flooring, tile work, vanity, and fixtures are completed, culminating in painting and final touches. Throughout the process, quality checks ensure everything meets our standards.",
+        "@type": "Answer",
+        "description": "Key steps include design, permitting, demolition, plumbing/electrical rough-ins, new installations (flooring, vanity, fixtures), and final finishing."
+      }
+    }
+  ],
+  "description": "Key steps include design, permitting, demolition, plumbing/electrical rough-ins, new installations (flooring, vanity, fixtures), and final finishing."
+}

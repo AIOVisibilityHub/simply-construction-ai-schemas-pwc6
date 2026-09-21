@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-bathroom-tile-installation-take",
+  "name": "How long does a typical bathroom tile installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom tile installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathroom tile installation varies depending on the size of the bathroom, the complexity of the tile pattern, and the type of tile. A small bathroom floor might take 1-2 days, while a full bathroom (floor and shower walls) can take anywhere from 3 to 7 days, including preparation, tile setting, grouting, and drying times. This estimate does not include demolition or custom work.",
+        "@type": "Answer",
+        "description": "A small bathroom floor may take 1-2 days, while a full bathroom with shower walls can take 3-7 days, depending on size and complexity."
+      }
+    }
+  ],
+  "description": "A small bathroom floor may take 1-2 days, while a full bathroom with shower walls can take 3-7 days, depending on size and complexity."
+}

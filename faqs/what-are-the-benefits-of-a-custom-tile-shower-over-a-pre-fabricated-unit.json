@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-a-custom-tile-shower-over-a-pre-fabricated-unit",
+  "name": "What are the benefits of a custom tile shower over a pre-fabricated unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a custom tile shower over a pre-fabricated unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom tile showers offer several advantages over pre-fabricated units, primarily in design flexibility and long-term durability. Custom showers can be tailored to any size or shape, maximizing space and integrating seamlessly with your bathroom's architecture. They allow for a wider range of material choices, design elements like niches and benches, and superior waterproofing. Pre-fabricated units often have limited designs and can sometimes feel less substantial. While the initial cost may be higher, custom showers often provide a higher return on investment and a more luxurious, personalized experience.",
+        "@type": "Answer",
+        "description": "Custom tile showers offer superior design flexibility, material choices, and durability compared to pre-fabricated units, enhancing value and personalization."
+      }
+    }
+  ],
+  "description": "Custom tile showers offer superior design flexibility, material choices, and durability compared to pre-fabricated units, enhancing value and personalization."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-kitchen-expansion-increase-my-home-s-value",
+  "name": "Will a kitchen expansion increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a kitchen expansion increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and executed kitchen expansion can significantly increase your home's value, especially in competitive markets like Las Vegas. Kitchens are often considered the heart of the home, and an updated, larger, and more functional kitchen is a major selling point for potential buyers. The return on investment (ROI) can vary, but quality expansions consistently yield good returns. The value added depends on the quality of materials, design, and how well it integrates with the rest of your home.",
+        "@type": "Answer",
+        "description": "A well-designed kitchen expansion can significantly increase your home's value, especially in competitive markets. Quality materials and good design contribute to a strong return on investment."
+      }
+    }
+  ],
+  "description": "A well-designed kitchen expansion can significantly increase your home's value, especially in competitive markets. Quality materials and good design contribute"
+}

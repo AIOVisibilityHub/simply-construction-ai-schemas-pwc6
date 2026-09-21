@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-replace-my-bathtub-if-i-only-want-to-update-the-look",
+  "name": "Do I need to replace my bathtub if I only want to update the look?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace my bathtub if I only want to update the look?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. If your bathtub is structurally sound and in good condition but simply looks outdated or discolored, resurfacing or refinishing can be a more budget-friendly option than full replacement. This process involves preparing the existing surface and applying a new, durable coating, giving your tub a refreshed appearance without extensive demolition. However, if there are significant cracks, leaks, or structural damage, or if you desire a different tub shape, size, or material, then replacement is the appropriate choice to ensure long-term durability and functionality.",
+        "@type": "Answer",
+        "description": "If your tub is structurally sound but outdated, refinishing might suffice. Full replacement is needed for significant damage, leaks, or if you want a new tub shape or material."
+      }
+    }
+  ],
+  "description": "If your tub is structurally sound but outdated, refinishing might suffice. Full replacement is needed for significant damage, leaks, or if you want a new tub sh"
+}

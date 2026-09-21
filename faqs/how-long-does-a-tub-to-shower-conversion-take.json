@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-tub-to-shower-conversion-take",
+  "name": "How long does a tub-to-shower conversion take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tub-to-shower conversion take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most tub-to-shower conversions can be completed within 2 to 5 days, depending on the complexity of the project and any necessary plumbing modifications. Factors like the condition of the existing space, the materials chosen, and whether custom work is involved can influence the timeline. Our team in Las Vegas aims to minimize disruption and complete your project efficiently.",
+        "@type": "Answer",
+        "description": "Most tub-to-shower conversions take 2 to 5 days. Project complexity, material choices, and plumbing adjustments can influence the exact timeline."
+      }
+    }
+  ],
+  "description": "Most tub-to-shower conversions take 2 to 5 days. Project complexity, material choices, and plumbing adjustments can influence the exact timeline."
+}

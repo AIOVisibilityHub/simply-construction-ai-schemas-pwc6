@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-kitchen-lighting-upgrades-in-las-vegas",
+  "name": "What permits are needed for kitchen lighting upgrades in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for kitchen lighting upgrades in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For basic kitchen lighting upgrades involving only the replacement of existing fixtures, permits are generally not required in Las Vegas. However, if your upgrade involves significant electrical work, such as adding new circuits, moving outlets, installing new recessed lighting where none existed, or altering the existing electrical system, a permit from the local building authority (e.g., Clark County Department of Building and Fire Prevention) will likely be necessary. A professional contractor like Simply Construction will handle all necessary permits to ensure compliance with local codes.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for simple fixture replacements. However, significant electrical work, like new circuits or adding recessed lights, typically requires permits from local Las Vegas building authorities."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for simple fixture replacements. However, significant electrical work, like new circuits or adding recessed lights, typically req"
+}

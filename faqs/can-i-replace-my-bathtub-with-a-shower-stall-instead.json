@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-replace-my-bathtub-with-a-shower-stall-instead",
+  "name": "Can I replace my bathtub with a shower stall instead?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my bathtub with a shower stall instead?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a bathtub into a shower stall is a very common and popular remodeling project, especially for those looking to improve accessibility or optimize space. This involves removing the existing tub, modifying the plumbing to accommodate a shower valve and head, installing a new shower pan, and then finishing with new wall surrounds, a shower door, and other fixtures. It can significantly update the look and functionality of your bathroom. The complexity and cost will depend on the existing layout and the materials chosen for the new shower. Our team can help assess your bathroom and provide design options.",
+        "@type": "Answer",
+        "description": "Yes, converting a bathtub to a shower stall is a common remodel. It involves removing the tub, modifying plumbing, installing a shower pan, and finishing with new surrounds and fixtures."
+      }
+    }
+  ],
+  "description": "Yes, converting a bathtub to a shower stall is a common remodel. It involves removing the tub, modifying plumbing, installing a shower pan, and finishing with n"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-edge-profiles-are-available-for-kitchen-countertops",
+  "name": "What types of edge profiles are available for kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of edge profiles are available for kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is a wide variety of edge profiles available to customize the look of your kitchen countertops. Common options include the eased edge, which is slightly rounded for a clean, simple look; the bullnose, which is completely rounded; and the ogee, a more decorative, S-shaped curve. Other choices like bevel, half bullnose, or waterfall edges also exist, allowing you to match the profile to your kitchen's overall design aesthetic and safety preferences.",
+        "@type": "Answer",
+        "description": "Common countertop edge profiles include eased, bullnose, and ogee, with various other options available to customize your kitchen's aesthetic."
+      }
+    }
+  ],
+  "description": "Common countertop edge profiles include eased, bullnose, and ogee, with various other options available to customize your kitchen's aesthetic."
+}

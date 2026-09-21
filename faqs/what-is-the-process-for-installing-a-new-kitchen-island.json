@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-new-kitchen-island",
+  "name": "What is the process for installing a new kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with a consultation and design phase, where we finalize the island's layout, materials, and features. Next, any necessary demolition and utility rough-ins (electrical, plumbing) are completed. The island's base cabinets are then installed, followed by countertop templating and installation. Finally, appliances are integrated, and finishing touches, such as trim and hardware, are added. We ensure quality checks at each stage.",
+        "@type": "Answer",
+        "description": "The process involves design, utility rough-ins, cabinet installation, countertop placement, appliance integration, and final finishing."
+      }
+    }
+  ],
+  "description": "The process involves design, utility rough-ins, cabinet installation, countertop placement, appliance integration, and final finishing."
+}

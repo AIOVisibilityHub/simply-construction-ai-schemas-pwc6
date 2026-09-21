@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-hire-a-plumber-or-electrician-separately-for-countertop-replacement",
+  "name": "Do I need to hire a plumber or electrician separately for countertop replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a plumber or electrician separately for countertop replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, a full-service general contractor will manage all necessary trades, including plumbers and electricians, as part of the countertop replacement project. This means you generally won't need to hire them separately. The scope of work might involve disconnecting and reconnecting sinks, faucets, and potentially cooktops. It's always best to clarify with your contractor what services are included in their quote to avoid unexpected costs or coordination efforts.",
+        "@type": "Answer",
+        "description": "A full-service general contractor usually handles plumbing and electrical needs, so you typically won't need to hire them separately."
+      }
+    }
+  ],
+  "description": "A full-service general contractor usually handles plumbing and electrical needs, so you typically won't need to hire them separately."
+}

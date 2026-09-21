@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeframe-for-a-home-remodeling-project",
+  "name": "What is the typical timeframe for a home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home remodeling project varies significantly based on its scope and complexity. Small projects, like a bathroom refresh, might take 3-6 weeks. Larger renovations, such as a full kitchen remodel or multiple room additions, can extend to 3-6 months or more. Factors like material availability, permit approvals, and unforeseen structural issues can also influence the timeline. We provide a detailed project schedule after the initial design and planning phases.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small remodels take 3-6 weeks, while larger ones can be 3-6 months or longer. Factors like scope, materials, and permits affect duration."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small remodels take 3-6 weeks, while larger ones can be 3-6 months or longer. Factors like scope, materials, and permits affect duration"
+}

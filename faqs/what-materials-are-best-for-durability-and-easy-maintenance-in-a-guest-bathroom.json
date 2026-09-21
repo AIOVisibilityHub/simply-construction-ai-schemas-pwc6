@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-best-for-durability-and-easy-maintenance-in-a-guest-bathroom",
+  "name": "What materials are best for durability and easy maintenance in a guest bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for durability and easy maintenance in a guest bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For durability and easy maintenance in a guest bathroom, consider materials like porcelain or ceramic tile for flooring and shower surrounds, as they are water-resistant and hard-wearing. Quartz countertops offer excellent stain and scratch resistance without needing sealing. Solid surface materials for vanities are also durable and non-porous. Opt for quality, corrosion-resistant fixtures and finishes that withstand frequent cleaning and use over time.",
+        "@type": "Answer",
+        "description": "Durable guest bathroom materials include porcelain/ceramic tile, quartz countertops, solid surface vanities, and corrosion-resistant fixtures for easy maintenance."
+      }
+    }
+  ],
+  "description": "Durable guest bathroom materials include porcelain/ceramic tile, quartz countertops, solid surface vanities, and corrosion-resistant fixtures for easy maintenan"
+}

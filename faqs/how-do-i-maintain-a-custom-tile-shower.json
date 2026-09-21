@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-maintain-a-custom-tile-shower",
+  "name": "How do I maintain a custom tile shower?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain a custom tile shower?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a custom tile shower involves regular cleaning and occasional sealing, especially for natural stone or cementitious grout. For daily cleaning, use pH-neutral cleaners and a soft cloth or sponge to prevent soap scum and mildew buildup. Avoid abrasive cleaners or harsh chemicals that can damage grout or tile surfaces. For natural stone or unsealed grout, periodic sealing, typically every 1-3 years, helps protect against moisture penetration and staining. Proper ventilation after each use also significantly helps in reducing moisture.",
+        "@type": "Answer",
+        "description": "Maintain a custom tile shower with regular cleaning using pH-neutral cleaners and occasional sealing, especially for natural stone or unsealed grout. Ensure good ventilation."
+      }
+    }
+  ],
+  "description": "Maintain a custom tile shower with regular cleaning using pH-neutral cleaners and occasional sealing, especially for natural stone or unsealed grout. Ensure goo"
+}

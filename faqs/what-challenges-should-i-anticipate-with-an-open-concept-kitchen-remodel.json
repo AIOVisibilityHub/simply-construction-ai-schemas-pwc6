@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-challenges-should-i-anticipate-with-an-open-concept-kitchen-remodel",
+  "name": "What challenges should I anticipate with an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What challenges should I anticipate with an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Anticipate challenges such as unexpected structural issues behind walls, which can impact timelines and costs. Noise and odors can travel more easily in an open layout, requiring careful consideration of ventilation and appliance choices. Also, maintaining a consistently tidy appearance becomes more critical as the kitchen is always visible from adjacent living areas. Ensuring adequate storage solutions is essential to avoid clutter.",
+        "@type": "Answer",
+        "description": "Challenges include potential structural surprises, increased noise and odor travel, and the need for consistent tidiness in a visible kitchen."
+      }
+    }
+  ],
+  "description": "Challenges include potential structural surprises, increased noise and odor travel, and the need for consistent tidiness in a visible kitchen."
+}

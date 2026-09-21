@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-bathroom-vanity-installation-in-henderson",
+  "name": "What permits are needed for bathroom vanity installation in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for bathroom vanity installation in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Henderson, minor bathroom vanity replacements typically do not require a permit if the existing plumbing configuration remains unchanged. However, if your vanity installation involves significant plumbing alterations, such as moving drain lines or water supply lines, or if it's part of a larger bathroom renovation project that includes structural changes or electrical work, you will likely need to obtain a permit from the City of Henderson Building Division. It's always best to consult with your contractor or the local building authority to confirm specific permit requirements for your project.",
+        "@type": "Answer",
+        "description": "Permits in Henderson are usually not needed for minor vanity replacements, but are required for significant plumbing alterations or larger renovation projects."
+      }
+    }
+  ],
+  "description": "Permits in Henderson are usually not needed for minor vanity replacements, but are required for significant plumbing alterations or larger renovation projects."
+}

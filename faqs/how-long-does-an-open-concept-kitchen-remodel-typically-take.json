@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-an-open-concept-kitchen-remodel-typically-take",
+  "name": "How long does an open-concept kitchen remodel typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an open-concept kitchen remodel typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an open-concept kitchen remodel varies based on the scope of work, including structural changes like wall removal, plumbing, and electrical reconfigurations. Generally, a complete remodel can take anywhere from 8 to 16 weeks from demolition to final touches. This timeline includes planning, obtaining permits, demolition, construction, installation of new fixtures, and finishing work. Unexpected issues can sometimes extend the project.",
+        "@type": "Answer",
+        "description": "An open-concept kitchen remodel typically takes 8 to 16 weeks, depending on the scope and structural changes involved."
+      }
+    }
+  ],
+  "description": "An open-concept kitchen remodel typically takes 8 to 16 weeks, depending on the scope and structural changes involved."
+}

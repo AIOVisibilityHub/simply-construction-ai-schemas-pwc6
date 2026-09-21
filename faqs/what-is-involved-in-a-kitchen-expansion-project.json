@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-kitchen-expansion-project",
+  "name": "What is involved in a kitchen expansion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a kitchen expansion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen expansion typically involves increasing the physical footprint of your kitchen, which can include structural modifications to interior or exterior walls, reconfiguring plumbing and electrical systems, and installing new flooring, cabinetry, countertops, and appliances. The specific scope depends on whether you're extending into an adjacent room, adding a new bump-out, or completely remodeling the space to accommodate a larger layout. Our team will assess your home's structure and your vision to create a detailed plan.",
+        "@type": "Answer",
+        "description": "A kitchen expansion involves increasing kitchen size, often requiring structural changes, utility reconfigurations, and new finishes. The scope varies based on whether you're extending into another room or adding new space."
+      }
+    }
+  ],
+  "description": "A kitchen expansion involves increasing kitchen size, often requiring structural changes, utility reconfigurations, and new finishes. The scope varies based on"
+}

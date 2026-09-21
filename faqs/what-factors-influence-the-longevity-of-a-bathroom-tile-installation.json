@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-longevity-of-a-bathroom-tile-installation",
+  "name": "What factors influence the longevity of a bathroom tile installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the longevity of a bathroom tile installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors contribute to how long a bathroom tile installation will last. Proper subfloor preparation, including waterproofing in wet areas, is paramount. The quality of materials, such as tiles, adhesive, and grout, also plays a significant role. Correct installation techniques, including proper spacing and leveling, are crucial. Finally, ongoing maintenance and cleaning help preserve the appearance and integrity of the tiles and grout over time.",
+        "@type": "Answer",
+        "description": "Longevity depends on proper subfloor preparation, quality materials, correct installation techniques, and consistent maintenance. Waterproofing in wet areas is key."
+      }
+    }
+  ],
+  "description": "Longevity depends on proper subfloor preparation, quality materials, correct installation techniques, and consistent maintenance. Waterproofing in wet areas is"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-luxury-bathroom-remodel-in-las-vegas",
+  "name": "Do I need permits for a luxury bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a luxury bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most luxury bathroom remodels in Las Vegas require permits, especially if the project involves significant changes to plumbing, electrical, or structural elements. This includes moving walls, altering the layout, or installing new fixtures that require updated wiring or piping. Permits ensure that the work complies with local building codes and safety standards. Simply Construction handles the permit application process on your behalf, ensuring all necessary approvals are obtained before construction begins, allowing for a smooth and compliant remodel.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for luxury bathroom remodels in Las Vegas, particularly for changes to plumbing, electrical, or structural elements, to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for luxury bathroom remodels in Las Vegas, particularly for changes to plumbing, electrical, or structural elements, to ensu"
+}

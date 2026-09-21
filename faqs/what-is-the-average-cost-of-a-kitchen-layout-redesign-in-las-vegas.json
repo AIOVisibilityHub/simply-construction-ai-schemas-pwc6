@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-kitchen-layout-redesign-in-las-vegas",
+  "name": "What is the average cost of a kitchen layout redesign in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a kitchen layout redesign in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen layout redesign in the Las Vegas area can vary widely, typically ranging from $25,000 to over $75,000, or even more for high-end projects. Factors influencing cost include the size of your kitchen, the quality of materials chosen (cabinets, countertops, appliances), the extent of structural modifications, and the need to relocate plumbing or electrical lines. Professional design fees, permits, and labor also contribute significantly to the overall budget. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "In Las Vegas, a kitchen layout redesign can cost from $25,000 to over $75,000, depending on size, materials, and complexity."
+      }
+    }
+  ],
+  "description": "In Las Vegas, a kitchen layout redesign can cost from $25,000 to over $75,000, depending on size, materials, and complexity."
+}

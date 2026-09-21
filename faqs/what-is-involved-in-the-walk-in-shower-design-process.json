@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-walk-in-shower-design-process",
+  "name": "What is involved in the walk-in shower design process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the walk-in shower design process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design process begins with a consultation to understand your vision, needs, and budget. We'll discuss layout options, materials like tile, glass, and fixtures, and consider accessibility features. Our team then creates a detailed plan, including 3D renderings if applicable, for your review and approval. This collaborative approach ensures the final design perfectly matches your expectations before any construction begins. We guide you through material selection to ensure durability and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "The design process involves understanding your vision, selecting materials and features, and creating a detailed plan for your approval."
+      }
+    }
+  ],
+  "description": "The design process involves understanding your vision, selecting materials and features, and creating a detailed plan for your approval."
+}

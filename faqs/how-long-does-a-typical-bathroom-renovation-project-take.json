@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-bathroom-renovation-project-take",
+  "name": "How long does a typical bathroom renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathroom renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom renovation depends on its complexity. A basic cosmetic update, involving paint, new fixtures, and minor tile work, might be completed in 1-3 weeks. A more extensive remodel that includes changing the layout, relocating plumbing, or custom tile work usually takes 3-6 weeks. Larger, luxury renovations with custom cabinetry and complex installations could extend to 6-10 weeks or more. We aim to provide a realistic timeline upfront and minimize disruption during the process.",
+        "@type": "Answer",
+        "description": "Project timelines range from 1-3 weeks for minor updates to 6-10+ weeks for extensive or luxury renovations, depending on complexity."
+      }
+    }
+  ],
+  "description": "Project timelines range from 1-3 weeks for minor updates to 6-10+ weeks for extensive or luxury renovations, depending on complexity."
+}

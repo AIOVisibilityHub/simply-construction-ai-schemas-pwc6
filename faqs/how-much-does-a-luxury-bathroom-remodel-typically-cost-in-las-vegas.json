@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-luxury-bathroom-remodel-typically-cost-in-las-vegas",
+  "name": "How much does a luxury bathroom remodel typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a luxury bathroom remodel typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury bathroom remodel in Las Vegas varies significantly based on the size of the bathroom, the materials chosen, the complexity of the design, and the fixtures installed. While a basic remodel might start lower, a luxury project can range from $25,000 to over $100,000. Factors like custom tile work, high-end fixtures, extensive plumbing changes, and smart home integrations contribute to the higher end of this spectrum. A detailed quote requires a consultation to assess specific project needs.",
+        "@type": "Answer",
+        "description": "Luxury bathroom remodels in Las Vegas typically range from $25,000 to over $100,000, depending on materials, design complexity, and chosen features."
+      }
+    }
+  ],
+  "description": "Luxury bathroom remodels in Las Vegas typically range from $25,000 to over $100,000, depending on materials, design complexity, and chosen features."
+}

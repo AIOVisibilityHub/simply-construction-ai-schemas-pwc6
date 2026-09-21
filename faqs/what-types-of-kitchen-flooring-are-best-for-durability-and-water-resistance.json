@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-kitchen-flooring-are-best-for-durability-and-water-resistance",
+  "name": "What types of kitchen flooring are best for durability and water resistance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of kitchen flooring are best for durability and water resistance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For kitchen flooring, materials known for durability and water resistance include luxury vinyl plank (LVP), porcelain tile, and certain types of engineered wood. LVP is highly resilient, resists scratches, and is waterproof. Porcelain tile is extremely hard-wearing, water-impermeable, and available in many styles. While not fully waterproof, engineered wood offers better moisture resistance than solid hardwood and can be a good option if properly maintained. These materials stand up well to spills, heavy foot traffic, and the general demands of a busy kitchen environment.",
+        "@type": "Answer",
+        "description": "Luxury vinyl plank (LVP), porcelain tile, and engineered wood are excellent choices for durable and water-resistant kitchen flooring."
+      }
+    }
+  ],
+  "description": "Luxury vinyl plank (LVP), porcelain tile, and engineered wood are excellent choices for durable and water-resistant kitchen flooring."
+}

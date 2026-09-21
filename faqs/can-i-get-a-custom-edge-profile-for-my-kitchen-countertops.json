@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-get-a-custom-edge-profile-for-my-kitchen-countertops",
+  "name": "Can I get a custom edge profile for my kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a custom edge profile for my kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom edge profiles are available for most countertop materials to personalize the look of your kitchen. Popular options include eased, beveled, bullnose, ogee, and waterfall edges. The choice of edge profile can significantly impact the aesthetic and feel of your countertops, from sleek and modern to classic and ornate. Our design team can show you samples and help you select the best edge for your style.",
+        "@type": "Answer",
+        "description": "Yes, custom edge profiles like eased, beveled, or ogee are available for most materials to personalize your countertops."
+      }
+    }
+  ],
+  "description": "Yes, custom edge profiles like eased, beveled, or ogee are available for most materials to personalize your countertops."
+}

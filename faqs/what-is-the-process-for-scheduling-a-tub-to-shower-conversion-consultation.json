@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-scheduling-a-tub-to-shower-conversion-consultation",
+  "name": "What is the process for scheduling a tub-to-shower conversion consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a tub-to-shower conversion consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Scheduling a consultation for your tub-to-shower conversion is straightforward. You can contact us via phone or our website to arrange an initial visit. During this appointment, our team will assess your current bathroom, discuss your vision and specific needs, explore material options, and answer any questions you may have. Following the consultation, we provide a detailed proposal and transparent estimate for your project.",
+        "@type": "Answer",
+        "description": "Schedule a consultation by phone or website. We'll assess your bathroom, discuss your vision, and provide a detailed proposal and estimate."
+      }
+    }
+  ],
+  "description": "Schedule a consultation by phone or website. We'll assess your bathroom, discuss your vision, and provide a detailed proposal and estimate."
+}

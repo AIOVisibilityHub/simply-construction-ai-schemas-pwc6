@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-do-i-need-to-wait-after-grouting-before-using-my-new-tiled-bathroom",
+  "name": "How long do I need to wait after grouting before using my new tiled bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I need to wait after grouting before using my new tiled bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After grouting, it's typically recommended to wait at least 24 to 72 hours before allowing light foot traffic or exposing the area to moisture. The exact drying time depends on the type of grout used, humidity levels, and temperature. Always consult the grout manufacturer's specific instructions. Full curing can take longer, sometimes up to a week, during which heavy use or harsh cleaners should be avoided.",
+        "@type": "Answer",
+        "description": "Wait 24 to 72 hours after grouting before light foot traffic or moisture exposure. Full curing can take up to a week; consult manufacturer instructions."
+      }
+    }
+  ],
+  "description": "Wait 24 to 72 hours after grouting before light foot traffic or moisture exposure. Full curing can take up to a week; consult manufacturer instructions."
+}

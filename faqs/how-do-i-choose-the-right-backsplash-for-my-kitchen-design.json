@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-backsplash-for-my-kitchen-design",
+  "name": "How do I choose the right backsplash for my kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right backsplash for my kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right backsplash involves considering your kitchen's overall aesthetic, existing colors, and materials. Start by looking at your countertops, cabinets, and flooring to identify dominant colors and styles. Decide if you want the backsplash to be a focal point or a subtle accent. Consider material durability, maintenance, and your budget. Bring samples home to see them in your kitchen's lighting. Simply Construction can offer design advice and material recommendations during your consultation to help you make an informed decision that complements your home.",
+        "@type": "Answer",
+        "description": "Choose a backsplash that complements your kitchen's existing colors, materials, and overall style. Consider durability, maintenance, and budget, and view samples in your home's lighting."
+      }
+    }
+  ],
+  "description": "Choose a backsplash that complements your kitchen's existing colors, materials, and overall style. Consider durability, maintenance, and budget, and view sample"
+}

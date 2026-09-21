@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-minor-bathroom-refresh-and-a-full-remodel",
+  "name": "What is the difference between a minor bathroom refresh and a full remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor bathroom refresh and a full remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor bathroom refresh typically involves cosmetic updates without changing the layout or major plumbing/electrical. This might include painting, replacing fixtures like faucets or lighting, updating a vanity, or resurfacing a tub. A full remodel, however, often entails demolition, reconfiguring the layout, moving plumbing and electrical lines, replacing flooring, showers, tubs, and vanities entirely. Full remodels address underlying issues and transform the space comprehensively, while refreshes are more superficial updates to aesthetics.",
+        "@type": "Answer",
+        "description": "A refresh updates cosmetics without changing layout, while a full remodel involves demolition, reconfiguring layout, and replacing major components like plumbing and electrical."
+      }
+    }
+  ],
+  "description": "A refresh updates cosmetics without changing layout, while a full remodel involves demolition, reconfiguring layout, and replacing major components like plumbin"
+}

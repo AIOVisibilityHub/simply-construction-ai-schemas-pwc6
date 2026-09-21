@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-accessible-bathroom-remodeling",
+  "name": "What is accessible bathroom remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is accessible bathroom remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accessible bathroom remodeling involves modifying a bathroom to be usable by individuals with disabilities or limited mobility. This can include wider doorways, grab bars, roll-in showers, comfort-height toilets, and accessible sink areas. The goal is to create a safe, functional, and independent bathing environment. These renovations prioritize ease of use and safety features tailored to individual needs, often going beyond basic code requirements to enhance quality of life.",
+        "@type": "Answer",
+        "description": "Accessible bathroom remodeling adapts bathrooms for individuals with disabilities or limited mobility, incorporating features like grab bars and roll-in showers."
+      }
+    }
+  ],
+  "description": "Accessible bathroom remodeling adapts bathrooms for individuals with disabilities or limited mobility, incorporating features like grab bars and roll-in showers"
+}

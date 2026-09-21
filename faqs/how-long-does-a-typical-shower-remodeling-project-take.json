@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-shower-remodeling-project-take",
+  "name": "How long does a typical shower remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical shower remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard shower remodeling project typically takes between one to three weeks from start to finish. This timeline can vary depending on the scope of work. Simple upgrades like replacing fixtures and re-tiling might be quicker, while projects involving plumbing relocation, custom glass enclosures, or extensive structural changes will require more time. We provide a detailed project schedule at the outset, keeping you informed about each phase and expected completion date for your remodel in areas like Summerlin or Henderson.",
+        "@type": "Answer",
+        "description": "A typical shower remodel takes 1-3 weeks. The duration depends on the project's scope, with simpler upgrades being quicker than complex structural changes."
+      }
+    }
+  ],
+  "description": "A typical shower remodel takes 1-3 weeks. The duration depends on the project's scope, with simpler upgrades being quicker than complex structural changes."
+}

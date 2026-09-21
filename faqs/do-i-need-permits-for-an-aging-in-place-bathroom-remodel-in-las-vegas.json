@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-an-aging-in-place-bathroom-remodel-in-las-vegas",
+  "name": "Do I need permits for an aging-in-place bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an aging-in-place bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many aging-in-place bathroom remodels, especially those involving structural changes, plumbing modifications, or electrical work, require permits from the local building department in Las Vegas, Henderson, or your specific municipality. Minor cosmetic changes typically do not. Simply Construction manages all necessary permits for your project to ensure compliance with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Remodels involving structural, plumbing, or electrical changes often require permits in Las Vegas and surrounding areas. Simply Construction handles this process."
+      }
+    }
+  ],
+  "description": "Remodels involving structural, plumbing, or electrical changes often require permits in Las Vegas and surrounding areas. Simply Construction handles this proces"
+}

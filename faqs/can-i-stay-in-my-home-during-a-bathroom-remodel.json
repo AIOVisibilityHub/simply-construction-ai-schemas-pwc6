@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-stay-in-my-home-during-a-bathroom-remodel",
+  "name": "Can I stay in my home during a bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a bathroom remodel largely depends on the scope of the project and if you have other functional bathrooms. For minor updates, staying at home is usually not an issue, though there will be some noise and dust. If it's a full renovation, especially of the only bathroom in the house, it can be disruptive. There will be periods without water access, and significant dust and debris. Many homeowners choose to stay with family, friends, or in temporary lodging during extensive renovations of their main bathroom.",
+        "@type": "Answer",
+        "description": "You can often stay home during minor remodels, but extensive renovations of your main bathroom may require temporary relocation due to disruption and lack of facilities."
+      }
+    }
+  ],
+  "description": "You can often stay home during minor remodels, but extensive renovations of your main bathroom may require temporary relocation due to disruption and lack of fa"
+}

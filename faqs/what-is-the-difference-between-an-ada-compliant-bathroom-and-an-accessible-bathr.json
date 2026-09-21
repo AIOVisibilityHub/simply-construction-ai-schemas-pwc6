@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-ada-compliant-bathroom-and-an-accessible-bathr",
+  "name": "What is the difference between an ADA-compliant bathroom and an accessible bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an ADA-compliant bathroom and an accessible bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA (Americans with Disabilities Act) compliance refers to specific federal guidelines for public and commercial spaces, ensuring accessibility for people with disabilities. While these standards provide excellent benchmarks, an accessible bathroom for a private residence focuses on meeting the unique needs of the individual user, which may go beyond or differ from strict ADA dimensions. A residential accessible bathroom prioritizes personalized comfort, safety, and independence within a private home context.",
+        "@type": "Answer",
+        "description": "ADA compliance sets public accessibility standards, while an accessible bathroom for a home is customized to individual user needs, potentially differing from strict ADA rules."
+      }
+    }
+  ],
+  "description": "ADA compliance sets public accessibility standards, while an accessible bathroom for a home is customized to individual user needs, potentially differing from s"
+}

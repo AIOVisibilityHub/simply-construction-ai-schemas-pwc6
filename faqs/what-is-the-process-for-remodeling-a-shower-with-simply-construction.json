@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-remodeling-a-shower-with-simply-construction",
+  "name": "What is the process for remodeling a shower with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for remodeling a shower with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our shower remodeling process begins with a free initial consultation to discuss your vision, needs, and budget. Next, we provide a detailed, transparent estimate. Once approved, our team assists with material selection, ensuring quality and style alignment. We then schedule the demolition and construction phases, carefully managing the project to minimize disruption. Throughout the remodel, we maintain clear communication and conduct regular site clean-ups. The project concludes with a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, detailed estimate, material selection, scheduled demolition and construction, ongoing communication, and a final walkthrough for your satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, detailed estimate, material selection, scheduled demolition and construction, ongoing communication, and a final w"
+}

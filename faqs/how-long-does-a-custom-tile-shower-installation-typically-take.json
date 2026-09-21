@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-custom-tile-shower-installation-typically-take",
+  "name": "How long does a custom tile shower installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom tile shower installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom tile shower installation can vary based on complexity, size, and material choices. Generally, a standard custom tile shower project takes approximately 1 to 3 weeks from start to finish. This timeframe includes demolition (if applicable), preparation of the sub-structure, comprehensive waterproofing, tile setting, grouting, and final sealing. Factors like custom design elements, intricate tile patterns, and the need for structural modifications can extend the timeline. We provide a detailed project schedule after the initial consultation.",
+        "@type": "Answer",
+        "description": "A custom tile shower installation typically takes 1 to 3 weeks, depending on the project's complexity, size, and specific design elements."
+      }
+    }
+  ],
+  "description": "A custom tile shower installation typically takes 1 to 3 weeks, depending on the project's complexity, size, and specific design elements."
+}

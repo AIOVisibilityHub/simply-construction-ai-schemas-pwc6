@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-size-and-style-for-my-kitchen-island",
+  "name": "How do I choose the right size and style for my kitchen island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and style for my kitchen island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and style for your kitchen island depends on your kitchen's dimensions, traffic flow, and functional needs. Measure your kitchen carefully, ensuring at least 36-42 inches of clearance around the island for comfortable movement. Consider how you intend to use the island – for dining, prep, storage, or all three. The style should complement your existing cabinetry and overall home aesthetic. Our designers can help optimize space and match your desired look.",
+        "@type": "Answer",
+        "description": "Select island size based on kitchen dimensions and clearance, and style based on intended use and existing decor."
+      }
+    }
+  ],
+  "description": "Select island size based on kitchen dimensions and clearance, and style based on intended use and existing decor."
+}

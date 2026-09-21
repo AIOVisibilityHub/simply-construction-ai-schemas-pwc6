@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-stay-in-my-home-during-a-kitchen-expansion",
+  "name": "Can I stay in my home during a kitchen expansion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a kitchen expansion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Staying in your home during a kitchen expansion depends on the project's scope and your tolerance for disruption. While minor expansions might allow it, major projects involving extensive demolition, dust, noise, and temporary loss of essential utilities (water, gas, electricity) often make it impractical or uncomfortable. We work to minimize disruption and will discuss temporary living arrangements, such as setting up a temporary kitchenette, or advise if off-site accommodation is recommended for certain phases.",
+        "@type": "Answer",
+        "description": "Staying home during an expansion depends on the project scope and your comfort with disruption. Major projects may make it impractical due to demolition, noise, and utility outages."
+      }
+    }
+  ],
+  "description": "Staying home during an expansion depends on the project scope and your comfort with disruption. Major projects may make it impractical due to demolition, noise,"
+}

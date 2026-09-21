@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-remove-old-tiles-before-installing-new-ones",
+  "name": "Do I need to remove old tiles before installing new ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove old tiles before installing new ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, it is highly recommended to remove old tiles before installing new ones. This ensures a clean, level, and stable subfloor or wall surface, which is crucial for the longevity and quality of the new tile installation. Installing over existing tile can lead to an uneven finish, cracking, or adhesion issues over time. While possible in very specific scenarios, it's generally avoided.",
+        "@type": "Answer",
+        "description": "Yes, it is generally recommended to remove old tiles to ensure a stable and level surface for the new installation, preventing future issues."
+      }
+    }
+  ],
+  "description": "Yes, it is generally recommended to remove old tiles to ensure a stable and level surface for the new installation, preventing future issues."
+}

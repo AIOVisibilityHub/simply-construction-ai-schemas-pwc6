@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-a-kitchen-layout-redesign-with-simply-construction",
+  "name": "What is the process for a kitchen layout redesign with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a kitchen layout redesign with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our kitchen layout redesign process begins with an initial consultation to discuss your vision, needs, and budget. Next, we develop preliminary designs and floor plans, incorporating your feedback until a final design is approved. We then assist with material selections and secure necessary permits. Construction starts with demolition, followed by structural changes, utility rough-ins, and installation of cabinets, countertops, and appliances. The project concludes with finishing touches and a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design, material selection, permitting, construction (demolition, rough-ins, installation), and a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design, material selection, permitting, construction (demolition, rough-ins, installation), and a final walkthrough."
+}

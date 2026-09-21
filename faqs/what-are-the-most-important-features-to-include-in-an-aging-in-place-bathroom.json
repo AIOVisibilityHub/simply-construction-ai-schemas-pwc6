@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-most-important-features-to-include-in-an-aging-in-place-bathroom",
+  "name": "What are the most important features to include in an aging-in-place bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most important features to include in an aging-in-place bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key features for an aging-in-place bathroom include a zero-threshold or low-threshold walk-in shower with a built-in bench and grab bars. Slip-resistant flooring is crucial throughout the space. Other important additions are comfort-height toilets, wider doorways for wheelchair or walker access, lever-handle faucets, and good task lighting. These elements enhance safety, accessibility, and comfort for long-term independent living.",
+        "@type": "Answer",
+        "description": "Essential features include zero-threshold showers, grab bars, slip-resistant flooring, comfort-height toilets, wider doorways, and lever-handle faucets for safety and accessibility."
+      }
+    }
+  ],
+  "description": "Essential features include zero-threshold showers, grab bars, slip-resistant flooring, comfort-height toilets, wider doorways, and lever-handle faucets for safe"
+}

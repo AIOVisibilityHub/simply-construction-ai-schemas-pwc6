@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-bathroom-vanity-installation-process",
+  "name": "What is involved in the bathroom vanity installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the bathroom vanity installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The bathroom vanity installation process typically begins with the removal of the old vanity and necessary plumbing shut-off. This is followed by preparing the wall and floor surfaces, which may involve minor repairs or reinforcement. The new vanity cabinet is then positioned and secured. Plumbing rough-ins are adjusted or installed as needed for the new sink and faucet. The countertop is set and sealed, followed by the installation of the sink, faucet, and drain. Finally, all plumbing connections are made, tested for leaks, and any finishing touches like hardware or trim are added.",
+        "@type": "Answer",
+        "description": "The installation process involves removing the old vanity, preparing the area, installing the new cabinet, adjusting plumbing, setting the countertop and sink, and making final connections."
+      }
+    }
+  ],
+  "description": "The installation process involves removing the old vanity, preparing the area, installing the new cabinet, adjusting plumbing, setting the countertop and sink,"
+}

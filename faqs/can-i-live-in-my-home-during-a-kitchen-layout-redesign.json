@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-a-kitchen-layout-redesign",
+  "name": "Can I live in my home during a kitchen layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a kitchen layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it is possible to remain in your home during a kitchen layout redesign, it requires careful planning and can involve some inconvenience. Your kitchen will be a construction zone, meaning no access to cooking facilities, sink, or often, running water in that area. We strive to minimize disruption by setting up temporary cooking stations if feasible and maintaining a clean work environment. Many clients opt to create a temporary kitchen elsewhere in the house or utilize dining out options for the duration of the project.",
+        "@type": "Answer",
+        "description": "Yes, but expect inconveniences as the kitchen will be a construction zone without access to cooking or water. Temporary solutions are often needed."
+      }
+    }
+  ],
+  "description": "Yes, but expect inconveniences as the kitchen will be a construction zone without access to cooking or water. Temporary solutions are often needed."
+}

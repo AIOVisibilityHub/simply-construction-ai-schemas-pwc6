@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-approximate-cost-of-a-custom-tile-shower-in-las-vegas",
+  "name": "What is the approximate cost of a custom tile shower in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the approximate cost of a custom tile shower in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom tile shower in Las Vegas varies significantly based on several factors, including the size of the shower, the type and complexity of tile chosen, waterproofing methods, and additional features like niches, benches, or custom glass enclosures. Basic custom tile showers might start from a few thousand dollars, while more elaborate designs with premium materials and advanced features can be considerably higher. We provide detailed, transparent quotes after an on-site assessment to understand your specific requirements and preferences.",
+        "@type": "Answer",
+        "description": "The cost of a custom tile shower in Las Vegas varies widely, depending on size, tile choice, features, and overall design complexity."
+      }
+    }
+  ],
+  "description": "The cost of a custom tile shower in Las Vegas varies widely, depending on size, tile choice, features, and overall design complexity."
+}

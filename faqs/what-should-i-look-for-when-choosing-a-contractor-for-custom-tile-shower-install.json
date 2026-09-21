@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-when-choosing-a-contractor-for-custom-tile-shower-install",
+  "name": "What should I look for when choosing a contractor for custom tile shower installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a contractor for custom tile shower installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for a custom tile shower, look for experience in tile installation and waterproofing, especially with local building codes. Verify they are licensed and insured in your area, such as Las Vegas. Review their portfolio of past shower projects to assess their quality and style. Check references or online reviews for reliability and customer satisfaction. A reputable contractor will provide a detailed proposal, clearly outlining the scope of work, materials, timeline, and warranty information, ensuring transparency and professional execution of your project.",
+        "@type": "Answer",
+        "description": "Choose a contractor with proven experience, proper licensing and insurance, a strong portfolio, and positive reviews. Ensure they provide detailed proposals and warranties."
+      }
+    }
+  ],
+  "description": "Choose a contractor with proven experience, proper licensing and insurance, a strong portfolio, and positive reviews. Ensure they provide detailed proposals and"
+}

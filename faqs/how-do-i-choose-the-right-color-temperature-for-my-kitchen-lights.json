@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-color-temperature-for-my-kitchen-lights",
+  "name": "How do I choose the right color temperature for my kitchen lights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right color temperature for my kitchen lights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right color temperature for your kitchen lights depends on the desired ambiance and functionality. Color temperature is measured in Kelvin (K). Lower Kelvin values (2700K-3000K) produce a warm, yellowish light, similar to traditional incandescent bulbs, ideal for a cozy, inviting atmosphere. Higher Kelvin values (3500K-5000K) produce a cooler, whiter light that mimics natural daylight, which is excellent for task-oriented areas like food preparation. Many modern LED fixtures offer adjustable color temperatures, allowing you to switch between warm and cool light as needed.",
+        "@type": "Answer",
+        "description": "Select color temperature based on desired ambiance: warm (2700K-3000K) for a cozy feel, or cool white (3500K-5000K) for task lighting. Adjustable options are also available."
+      }
+    }
+  ],
+  "description": "Select color temperature based on desired ambiance: warm (2700K-3000K) for a cozy feel, or cool white (3500K-5000K) for task lighting. Adjustable options are al"
+}

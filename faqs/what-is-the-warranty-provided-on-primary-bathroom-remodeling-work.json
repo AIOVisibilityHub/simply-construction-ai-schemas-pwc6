@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-warranty-provided-on-primary-bathroom-remodeling-work",
+  "name": "What is the warranty provided on primary bathroom remodeling work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty provided on primary bathroom remodeling work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Simply Construction provides a warranty on all primary bathroom remodeling work, covering both labor and materials installed by our team. The specific terms and duration of the warranty will be clearly outlined in your remodeling contract. We stand behind the quality of our craftsmanship and the durability of the products we use. Should any issues arise that are covered under the warranty, we will address them promptly and professionally to ensure your satisfaction and the longevity of your newly remodeled bathroom.",
+        "@type": "Answer",
+        "description": "Simply Construction provides a warranty covering both labor and materials for primary bathroom remodeling work, with terms detailed in your contract."
+      }
+    }
+  ],
+  "description": "Simply Construction provides a warranty covering both labor and materials for primary bathroom remodeling work, with terms detailed in your contract."
+}

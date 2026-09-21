@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-a-kitchen-wall-is-load-bearing",
+  "name": "How do I know if a kitchen wall is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a kitchen wall is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a kitchen wall is load-bearing requires professional assessment. Load-bearing walls support the weight of floors or the roof above, distributing it to the foundation. Signs that a wall might be load-bearing include being perpendicular to the floor joists, having another wall directly above it on an upper floor, or being located near the center of the house. However, these are indicators, not definitive proof. A structural engineer or experienced general contractor can accurately identify load-bearing walls.",
+        "@type": "Answer",
+        "description": "A load-bearing wall supports weight from above. While indicators exist, only a structural engineer or experienced contractor can definitively determine if a kitchen wall is load-bearing."
+      }
+    }
+  ],
+  "description": "A load-bearing wall supports weight from above. While indicators exist, only a structural engineer or experienced contractor can definitively determine if a kit"
+}

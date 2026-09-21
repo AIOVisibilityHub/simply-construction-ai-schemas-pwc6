@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-removing-a-kitchen-wall",
+  "name": "What is the process for removing a kitchen wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for removing a kitchen wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for kitchen wall removal typically begins with a consultation and structural assessment to determine if the wall is load-bearing and identify any utilities. Next, permits are secured. Demolition involves protecting surrounding areas, shutting off utilities, carefully removing drywall and studs, and dealing with any discovered electrical or plumbing. If load-bearing, temporary supports are installed, followed by permanent structural headers. Finally, debris is removed, and the area is prepared for finishing work like patching drywall, flooring, and painting.",
+        "@type": "Answer",
+        "description": "The process involves assessment, permitting, utility disconnection, demolition, installing structural supports if needed, and cleanup. Finishing work follows."
+      }
+    }
+  ],
+  "description": "The process involves assessment, permitting, utility disconnection, demolition, installing structural supports if needed, and cleanup. Finishing work follows."
+}

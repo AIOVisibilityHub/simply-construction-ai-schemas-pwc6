@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-under-cabinet-lighting-and-is-it-worth-it-for-my-kitchen",
+  "name": "What is under-cabinet lighting and is it worth it for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is under-cabinet lighting and is it worth it for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Under-cabinet lighting involves installing fixtures beneath upper kitchen cabinets to illuminate the countertops directly below. It is highly recommended because it eliminates shadows cast by overhead lighting, providing excellent task lighting for food preparation and cooking. It also adds a soft ambient glow, enhancing the kitchen's atmosphere. Available in various forms like LED strips, puck lights, or linear fixtures, it's an energy-efficient and visually appealing upgrade that significantly improves kitchen functionality and aesthetics.",
+        "@type": "Answer",
+        "description": "Under-cabinet lighting illuminates countertops, eliminates shadows, and improves aesthetics and functionality, making it a highly recommended and energy-efficient upgrade."
+      }
+    }
+  ],
+  "description": "Under-cabinet lighting illuminates countertops, eliminates shadows, and improves aesthetics and functionality, making it a highly recommended and energy-efficie"
+}

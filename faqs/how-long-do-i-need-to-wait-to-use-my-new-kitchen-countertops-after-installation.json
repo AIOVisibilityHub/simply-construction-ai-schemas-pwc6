@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-do-i-need-to-wait-to-use-my-new-kitchen-countertops-after-installation",
+  "name": "How long do I need to wait to use my new kitchen countertops after installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I need to wait to use my new kitchen countertops after installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you can start lightly using your new kitchen countertops immediately after installation. However, for materials requiring sealing, it's advisable to wait 24-48 hours before exposing them to liquids or heavy use to allow the sealant to fully cure. Your installers will provide specific care instructions and recommendations tailored to your chosen material upon completion.",
+        "@type": "Answer",
+        "description": "Light use is typically fine immediately, but wait 24-48 hours for full sealant curing if applicable, before heavy use or liquids."
+      }
+    }
+  ],
+  "description": "Light use is typically fine immediately, but wait 24-48 hours for full sealant curing if applicable, before heavy use or liquids."
+}

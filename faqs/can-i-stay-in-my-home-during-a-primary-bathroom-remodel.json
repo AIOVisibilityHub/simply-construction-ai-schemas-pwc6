@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-stay-in-my-home-during-a-primary-bathroom-remodel",
+  "name": "Can I stay in my home during a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, you can stay in your home during a primary bathroom remodel. However, expect some disruption, noise, and dust. Your contractor will take measures to minimize inconvenience, such as sealing off the work area. If your primary bathroom is the only full bathroom in the house, or if the project involves significant dust or noise for an extended period, you might consider alternative arrangements or temporary solutions. We aim to keep you informed of daily progress and potential impacts on your living situation.",
+        "@type": "Answer",
+        "description": "Yes, you can typically stay home during a primary bathroom remodel, but expect noise and dust; your contractor will minimize disruption."
+      }
+    }
+  ],
+  "description": "Yes, you can typically stay home during a primary bathroom remodel, but expect noise and dust; your contractor will minimize disruption."
+}

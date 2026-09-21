@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-guest-bathroom-remodel-in-the-las-vegas-area",
+  "name": "What permits are required for a guest bathroom remodel in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a guest bathroom remodel in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, permits are generally required for guest bathroom remodels that involve altering the existing plumbing or electrical systems, moving walls, or making significant structural changes. Minor cosmetic updates like painting or replacing fixtures in their current locations may not require permits. We handle all necessary permit applications and ensure your remodel complies with local building codes and regulations specific to Las Vegas, North Las Vegas, Henderson, or Paradise.",
+        "@type": "Answer",
+        "description": "Permits are typically needed for guest bathroom remodels involving plumbing, electrical, or structural changes in the Las Vegas area. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are typically needed for guest bathroom remodels involving plumbing, electrical, or structural changes in the Las Vegas area. We manage the permitting p"
+}

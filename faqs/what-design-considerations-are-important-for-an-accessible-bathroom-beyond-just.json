@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-are-important-for-an-accessible-bathroom-beyond-just",
+  "name": "What design considerations are important for an accessible bathroom beyond just safety features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for an accessible bathroom beyond just safety features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond essential safety features, thoughtful design in an accessible bathroom enhances comfort and aesthetics. Consider ample clear floor space for maneuverability, good lighting to reduce shadows, and storage solutions that are easily reachable from a seated position. The choice of colors, textures, and fixtures can also contribute to a calming and inviting atmosphere. Integrating these elements ensures the bathroom is not only functional but also a pleasant and dignified space for the user.",
+        "@type": "Answer",
+        "description": "Beyond safety, consider clear floor space, good lighting, accessible storage, and aesthetic choices to create a comfortable and inviting space."
+      }
+    }
+  ],
+  "description": "Beyond safety, consider clear floor space, good lighting, accessible storage, and aesthetic choices to create a comfortable and inviting space."
+}

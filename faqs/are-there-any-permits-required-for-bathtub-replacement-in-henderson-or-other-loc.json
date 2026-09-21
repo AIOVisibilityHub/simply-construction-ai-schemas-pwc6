@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-there-any-permits-required-for-bathtub-replacement-in-henderson-or-other-loc",
+  "name": "Are there any permits required for bathtub replacement in Henderson or other local areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any permits required for bathtub replacement in Henderson or other local areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including Henderson, Las Vegas, and surrounding municipalities, a permit may be required for bathtub replacement, especially if the project involves altering existing plumbing, changing the layout, or performing significant structural work. This ensures that the work complies with local building codes and safety standards. Simply Construction handles all necessary permit applications on behalf of our clients to ensure your project is fully compliant. We will determine if a permit is needed based on the scope of your specific bathtub replacement project and manage the application process for you.",
+        "@type": "Answer",
+        "description": "Permits may be required in areas like Henderson and Las Vegas, especially if plumbing or structural changes are involved. Simply Construction manages all necessary permit applications."
+      }
+    }
+  ],
+  "description": "Permits may be required in areas like Henderson and Las Vegas, especially if plumbing or structural changes are involved. Simply Construction manages all necess"
+}

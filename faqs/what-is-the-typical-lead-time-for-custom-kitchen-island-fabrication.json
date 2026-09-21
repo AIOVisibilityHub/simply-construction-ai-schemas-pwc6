@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-lead-time-for-custom-kitchen-island-fabrication",
+  "name": "What is the typical lead time for custom kitchen island fabrication?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lead time for custom kitchen island fabrication?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lead time for custom kitchen island fabrication varies depending on the complexity of the design, the specific materials chosen, and the current production schedule. Generally, custom islands can take anywhere from 4 to 8 weeks from the final design approval to completion. This timeline includes ordering specialty materials, fabrication, and finishing. We communicate estimated lead times upfront and keep you informed throughout the production process to manage expectations effectively.",
+        "@type": "Answer",
+        "description": "Custom kitchen island fabrication typically takes 4 to 8 weeks, depending on design complexity and material availability."
+      }
+    }
+  ],
+  "description": "Custom kitchen island fabrication typically takes 4 to 8 weeks, depending on design complexity and material availability."
+}

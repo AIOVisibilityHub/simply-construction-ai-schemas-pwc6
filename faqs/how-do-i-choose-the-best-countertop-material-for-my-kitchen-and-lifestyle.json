@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-best-countertop-material-for-my-kitchen-and-lifestyle",
+  "name": "How do I choose the best countertop material for my kitchen and lifestyle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best countertop material for my kitchen and lifestyle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best countertop material involves balancing durability, aesthetics, maintenance, and budget. Consider your cooking habits: if you're a heavy cook, a heat-resistant and non-porous material like quartz or granite might be ideal. For a less frequently used kitchen, marble or butcher block could be an option. Think about your desired look, color scheme, and how much time you're willing to dedicate to maintenance.",
+        "@type": "Answer",
+        "description": "Select a countertop material by considering durability, appearance, maintenance needs, budget, and your cooking habits."
+      }
+    }
+  ],
+  "description": "Select a countertop material by considering durability, appearance, maintenance needs, budget, and your cooking habits."
+}

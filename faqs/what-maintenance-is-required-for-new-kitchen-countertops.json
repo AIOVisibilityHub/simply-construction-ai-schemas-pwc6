@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-new-kitchen-countertops",
+  "name": "What maintenance is required for new kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for new kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the material. Granite and marble typically require periodic sealing to protect against stains, usually once every 1-3 years. Quartz is non-porous and does not require sealing, making it low-maintenance. All materials benefit from daily cleaning with mild soap and water, avoiding abrasive cleaners or harsh chemicals. Wiping up spills promptly is crucial for preventing damage and maintaining appearance.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material; granite and marble need periodic sealing, while quartz is low-maintenance. All require prompt spill cleanup and gentle cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material; granite and marble need periodic sealing, while quartz is low-maintenance. All require prompt spill cleanup and gentle cleaning."
+}

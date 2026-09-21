@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-a-professional-for-my-kitchen-lighting-upgrade",
+  "name": "When should I consider a professional for my kitchen lighting upgrade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a professional for my kitchen lighting upgrade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a professional for kitchen lighting upgrades whenever the project involves electrical work beyond simple fixture replacements. This includes installing new circuits, moving existing wiring, adding recessed lighting, or integrating smart home systems. Professionals ensure that all work complies with local electrical codes and safety standards, preventing potential hazards and ensuring proper functionality. A professional general contractor can also help with design choices and project coordination.",
+        "@type": "Answer",
+        "description": "Hire a professional for any work beyond simple fixture replacement, such as new wiring, recessed lighting, or smart home integration, to ensure safety and code compliance."
+      }
+    }
+  ],
+  "description": "Hire a professional for any work beyond simple fixture replacement, such as new wiring, recessed lighting, or smart home integration, to ensure safety and code"
+}

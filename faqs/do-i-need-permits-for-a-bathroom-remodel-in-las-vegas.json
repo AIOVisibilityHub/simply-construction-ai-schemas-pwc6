@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-bathroom-remodel-in-las-vegas",
+  "name": "Do I need permits for a bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for bathroom remodels in Las Vegas, especially if the project involves altering the existing plumbing, electrical, or structural components. This includes moving walls, changing the layout, or replacing major fixtures like tubs, showers, or toilets if it requires modifying the rough-in plumbing. Cosmetic updates like painting or replacing a vanity in the same location usually do not require permits. Your general contractor can help determine specific permit needs and manage the application process with the local authorities.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for bathroom remodels in Las Vegas if plumbing, electrical, or structural components are altered. Your contractor can assist with this."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for bathroom remodels in Las Vegas if plumbing, electrical, or structural components are altered. Your contractor can assist with thi"
+}

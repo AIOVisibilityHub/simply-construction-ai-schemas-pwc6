@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-relocate-my-toilet-and-shower-during-a-bathroom-redesign",
+  "name": "Can I relocate my toilet and shower during a bathroom redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I relocate my toilet and shower during a bathroom redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Relocating toilets and showers is possible during a bathroom redesign, but it is often the most complex and costly part of the project. It requires rerouting plumbing lines (water supply and drainage) and potentially modifying the subfloor and concrete slab, especially for drainage. This work requires professional expertise and adherence to local building codes to ensure proper functionality and prevent future issues. This impacts both cost and timeline.",
+        "@type": "Answer",
+        "description": "Yes, but relocating toilets and showers is complex and costly, requiring rerouting plumbing and potentially modifying the subfloor, impacting budget and timeline."
+      }
+    }
+  ],
+  "description": "Yes, but relocating toilets and showers is complex and costly, requiring rerouting plumbing and potentially modifying the subfloor, impacting budget and timelin"
+}

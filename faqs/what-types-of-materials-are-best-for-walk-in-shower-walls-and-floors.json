@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-materials-are-best-for-walk-in-shower-walls-and-floors",
+  "name": "What types of materials are best for walk-in shower walls and floors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are best for walk-in shower walls and floors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For walk-in shower walls and floors, durable and waterproof materials are crucial. Popular choices include ceramic, porcelain, and natural stone tiles, which offer extensive design versatility. Large-format tiles can minimize grout lines, making cleaning easier. Acrylic or solid surface panels are also excellent options for a seamless, low-maintenance finish. For flooring, consider slip-resistant options like textured tiles or mosaic patterns for added safety. We can guide you through material selection based on your budget and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Durable, waterproof materials like ceramic, porcelain, natural stone tiles, or solid surface panels are best for walk-in shower walls and floors."
+      }
+    }
+  ],
+  "description": "Durable, waterproof materials like ceramic, porcelain, natural stone tiles, or solid surface panels are best for walk-in shower walls and floors."
+}

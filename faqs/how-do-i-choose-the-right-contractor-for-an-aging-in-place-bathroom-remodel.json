@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-an-aging-in-place-bathroom-remodel",
+  "name": "How do I choose the right contractor for an aging-in-place bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for an aging-in-place bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, look for one with specific experience in aging-in-place design and remodeling. Verify their licensing and insurance, and check references from previous clients who have had similar work completed. A reputable contractor will conduct a thorough assessment of your needs, provide a detailed proposal, and communicate clearly throughout the project. Prioritize those familiar with local building codes.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific aging-in-place experience, verify their license and insurance, check references, and ensure clear communication and local code familiarity."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific aging-in-place experience, verify their license and insurance, check references, and ensure clear communication and local code"
+}

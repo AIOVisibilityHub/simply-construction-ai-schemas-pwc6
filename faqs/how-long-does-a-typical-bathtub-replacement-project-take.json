@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-bathtub-replacement-project-take",
+  "name": "How long does a typical bathtub replacement project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical bathtub replacement project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a bathtub replacement project can vary depending on the complexity of the job. A straightforward swap, where the new tub fits the existing space and plumbing, might take 1 to 3 days. However, if plumbing modifications are needed, tiling needs to be replaced, or the surrounding area requires significant repairs or structural changes, the project could extend to 5 to 7 days or even longer. Factors like the type of tub, site conditions, and any unforeseen issues can also influence the timeline. We will provide a more precise estimate after a site assessment.",
+        "@type": "Answer",
+        "description": "A straightforward replacement typically takes 1 to 3 days. Projects involving plumbing changes or significant renovations can take 5 to 7 days or more."
+      }
+    }
+  ],
+  "description": "A straightforward replacement typically takes 1 to 3 days. Projects involving plumbing changes or significant renovations can take 5 to 7 days or more."
+}

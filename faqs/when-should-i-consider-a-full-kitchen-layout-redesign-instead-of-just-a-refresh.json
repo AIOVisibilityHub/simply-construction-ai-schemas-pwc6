@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-a-full-kitchen-layout-redesign-instead-of-just-a-refresh",
+  "name": "When should I consider a full kitchen layout redesign instead of just a refresh?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full kitchen layout redesign instead of just a refresh?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full kitchen layout redesign if your current kitchen suffers from poor functionality, an inefficient work triangle, or insufficient space that a cosmetic refresh cannot fix. If you need to move major appliances, add an island, or open up the kitchen to another room, a redesign is necessary. A redesign is also beneficial if your family's needs have changed significantly, or if you're looking to substantially increase your home's value and appeal through a more modern or functional layout.",
+        "@type": "Answer",
+        "description": "Opt for a full redesign when your kitchen has poor functionality, an inefficient layout, or when you need to move major elements or expand the space."
+      }
+    }
+  ],
+  "description": "Opt for a full redesign when your kitchen has poor functionality, an inefficient layout, or when you need to move major elements or expand the space."
+}

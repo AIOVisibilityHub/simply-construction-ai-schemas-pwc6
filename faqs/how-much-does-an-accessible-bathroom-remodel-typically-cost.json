@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-an-accessible-bathroom-remodel-typically-cost",
+  "name": "How much does an accessible bathroom remodel typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an accessible bathroom remodel typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an accessible bathroom remodel varies significantly depending on the scope of work, materials chosen, and specific accessibility features installed. Minor updates like grab bars and a raised toilet might cost less, while a complete renovation with a roll-in shower, wider doorways, and extensive structural changes can be a more substantial investment. It's best to get a detailed quote from a contractor after an on-site assessment to understand the costs for your specific project.",
+        "@type": "Answer",
+        "description": "Costs for an accessible bathroom remodel vary based on project scope and materials. A detailed quote from a contractor is recommended."
+      }
+    }
+  ],
+  "description": "Costs for an accessible bathroom remodel vary based on project scope and materials. A detailed quote from a contractor is recommended."
+}

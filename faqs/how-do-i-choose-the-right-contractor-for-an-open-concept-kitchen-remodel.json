@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-an-open-concept-kitchen-remodel",
+  "name": "How do I choose the right contractor for an open-concept kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for an open-concept kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for one with extensive experience in open-concept kitchen remodels, especially those involving structural modifications. Verify their licensing, insurance, and ask for references from previous clients. Review their portfolio for similar projects and ensure they provide clear, detailed proposals that outline the scope of work, timeline, and costs. Effective communication and a strong understanding of local building codes are also crucial.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in open-concept remodels, verify their license and insurance, check references, and ensure clear communication and proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in open-concept remodels, verify their license and insurance, check references, and ensure clear communication and proposals"
+}

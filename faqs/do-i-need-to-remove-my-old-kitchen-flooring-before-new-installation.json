@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-remove-my-old-kitchen-flooring-before-new-installation",
+  "name": "Do I need to remove my old kitchen flooring before new installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to remove my old kitchen flooring before new installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In most cases, yes, it is recommended to remove your old kitchen flooring before installing a new one. This ensures a proper, level subfloor, which is crucial for the longevity and performance of your new floor. Installing over existing flooring can lead to an uneven surface, compromised adhesion, and potential issues with appliance heights or door clearances. There are some exceptions, such as installing certain thin LVP over existing, well-secured vinyl, but professional assessment is always advised to prevent future problems.",
+        "@type": "Answer",
+        "description": "Yes, usually you need to remove old kitchen flooring to ensure a proper subfloor and prevent issues with the new installation."
+      }
+    }
+  ],
+  "description": "Yes, usually you need to remove old kitchen flooring to ensure a proper subfloor and prevent issues with the new installation."
+}

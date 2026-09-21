@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-size-and-shape-of-tile-for-my-bathroom",
+  "name": "How do I choose the right size and shape of tile for my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and shape of tile for my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing tile size and shape depends on your bathroom's dimensions and desired aesthetic. Larger tiles can make a small bathroom feel more spacious by reducing grout lines, while smaller tiles can create intricate patterns or define specific areas. Rectangular tiles can be laid in various patterns to create visual interest. Consider the scale of your bathroom and personal style. It's often helpful to view samples in your space.",
+        "@type": "Answer",
+        "description": "Tile size and shape depend on bathroom dimensions and desired look. Larger tiles can make small spaces feel bigger; consider patterns for visual interest."
+      }
+    }
+  ],
+  "description": "Tile size and shape depend on bathroom dimensions and desired look. Larger tiles can make small spaces feel bigger; consider patterns for visual interest."
+}

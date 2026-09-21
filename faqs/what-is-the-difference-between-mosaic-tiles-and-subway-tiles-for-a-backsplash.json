@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-mosaic-tiles-and-subway-tiles-for-a-backsplash",
+  "name": "What is the difference between mosaic tiles and subway tiles for a backsplash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between mosaic tiles and subway tiles for a backsplash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mosaic tiles are small, often less than 2x2 inches, and come pre-mounted on a mesh backing for easier installation, creating intricate patterns or varied textures. Subway tiles, traditionally 3x6 inches and rectangular, are laid in a brick-like pattern, offering a classic, clean, and versatile look. While both are popular choices for backsplashes, mosaics provide more detailed design opportunities and can be bolder, whereas subway tiles are known for their timeless simplicity and ability to suit a wide range of kitchen styles, from traditional to modern.",
+        "@type": "Answer",
+        "description": "Mosaic tiles are small, often patterned, and come on mesh backing; subway tiles are rectangular (e.g., 3x6 inches) laid in a brick pattern, offering a classic look. Mosaics are more intricate, subway tiles are simpler."
+      }
+    }
+  ],
+  "description": "Mosaic tiles are small, often patterned, and come on mesh backing; subway tiles are rectangular (e.g., 3x6 inches) laid in a brick pattern, offering a classic l"
+}

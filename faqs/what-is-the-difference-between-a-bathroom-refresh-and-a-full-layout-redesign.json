@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-bathroom-refresh-and-a-full-layout-redesign",
+  "name": "What is the difference between a bathroom refresh and a full layout redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bathroom refresh and a full layout redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bathroom refresh typically involves cosmetic updates without changing the existing layout or plumbing, such as painting, new fixtures, vanity replacement, or regrouting tiles. A full layout redesign, conversely, involves significant changes to the bathroom's footprint, including relocating major fixtures like the toilet, shower, or sink, and potentially altering walls. This type of project requires more extensive planning, permits, and a longer construction timeline due to structural and utility work.",
+        "@type": "Answer",
+        "description": "A refresh updates cosmetics without changing layout; a full redesign alters the footprint, relocating fixtures and potentially walls, requiring more extensive work."
+      }
+    }
+  ],
+  "description": "A refresh updates cosmetics without changing layout; a full redesign alters the footprint, relocating fixtures and potentially walls, requiring more extensive w"
+}

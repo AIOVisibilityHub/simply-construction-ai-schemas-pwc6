@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-an-aging-in-place-bathroom-remodeling-project-take",
+  "name": "How long does an aging-in-place bathroom remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does an aging-in-place bathroom remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an aging-in-place bathroom remodeling project depends on its complexity and the extent of changes. A minor update, like installing grab bars and a new toilet, might take a few days. A more comprehensive remodel involving a shower conversion, plumbing adjustments, and new flooring could take several weeks. We provide a project timeline during the planning phase, ensuring clear communication throughout the process.",
+        "@type": "Answer",
+        "description": "Project duration varies by complexity; minor updates may take days, while comprehensive remodels can take several weeks. A timeline is provided during planning."
+      }
+    }
+  ],
+  "description": "Project duration varies by complexity; minor updates may take days, while comprehensive remodels can take several weeks. A timeline is provided during planning."
+}

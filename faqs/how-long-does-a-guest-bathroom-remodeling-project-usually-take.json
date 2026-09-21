@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-guest-bathroom-remodeling-project-usually-take",
+  "name": "How long does a guest bathroom remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a guest bathroom remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard guest bathroom remodel generally takes about 2 to 4 weeks from demolition to completion, assuming no major structural issues or unexpected delays with material deliveries. The timeline can be influenced by the scope of work, the availability of specialized tradespeople, and the complexity of custom installations. We work to establish a clear project schedule and communicate any potential adjustments proactively to minimize disruption.",
+        "@type": "Answer",
+        "description": "Most guest bathroom remodels take 2-4 weeks. The timeline depends on the project's scope, material availability, and complexity."
+      }
+    }
+  ],
+  "description": "Most guest bathroom remodels take 2-4 weeks. The timeline depends on the project's scope, material availability, and complexity."
+}

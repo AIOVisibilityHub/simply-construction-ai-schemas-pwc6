@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-walk-in-shower-installation-in-las-vegas",
+  "name": "Do I need a permit for a walk-in shower installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a walk-in shower installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, a permit is required for walk-in shower installations in Las Vegas and surrounding areas, especially if the project involves plumbing alterations, structural changes, or significant electrical work. These permits ensure that the installation complies with local building codes and safety standards, protecting your home and investment. Simply Construction handles all necessary permit applications as part of our service, ensuring your project meets all regulatory requirements.",
+        "@type": "Answer",
+        "description": "A permit is often required for walk-in shower installations in Las Vegas, particularly for plumbing or structural changes. We manage the permit process."
+      }
+    }
+  ],
+  "description": "A permit is often required for walk-in shower installations in Las Vegas, particularly for plumbing or structural changes. We manage the permit process."
+}

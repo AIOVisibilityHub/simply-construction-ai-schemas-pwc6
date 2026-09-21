@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-remove-a-kitchen-wall-in-las-vegas",
+  "name": "Do I need a permit to remove a kitchen wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remove a kitchen wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for kitchen wall removal in Las Vegas, especially if the wall is structural or if the project involves altering electrical, plumbing, or HVAC systems. The City of Las Vegas Department of Building and Safety, or the relevant county authority, requires permits to ensure the work meets safety and building codes. Failing to obtain necessary permits can lead to fines, project delays, or requiring work to be redone. Your contractor can guide you through the permitting process.",
+        "@type": "Answer",
+        "description": "Yes, a permit is usually required to remove a kitchen wall in Las Vegas, particularly for structural changes or utility alterations. This ensures compliance with local building codes."
+      }
+    }
+  ],
+  "description": "Yes, a permit is usually required to remove a kitchen wall in Las Vegas, particularly for structural changes or utility alterations. This ensures compliance wit"
+}

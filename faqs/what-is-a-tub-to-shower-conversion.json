@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-tub-to-shower-conversion",
+  "name": "What is a tub-to-shower conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tub-to-shower conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tub-to-shower conversion transforms an existing bathtub and shower combination into a dedicated shower space. This typically involves removing the bathtub, modifying plumbing as needed, and installing a new shower pan, walls, and fixtures. It's a popular remodeling project for homeowners seeking a more accessible bathroom or a modern aesthetic. The process can often be completed efficiently, minimizing disruption to your home.",
+        "@type": "Answer",
+        "description": "A tub-to-shower conversion remodels an existing tub and shower into a dedicated walk-in shower. It's common for accessibility or modernizing a bathroom."
+      }
+    }
+  ],
+  "description": "A tub-to-shower conversion remodels an existing tub and shower into a dedicated walk-in shower. It's common for accessibility or modernizing a bathroom."
+}

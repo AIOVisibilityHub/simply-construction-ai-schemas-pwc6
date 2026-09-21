@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-install-a-larger-vanity-than-my-current-one",
+  "name": "Can I install a larger vanity than my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a larger vanity than my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a larger vanity than your current one is often possible, but it requires careful planning and consideration. You need to ensure there's adequate physical space for the new vanity without obstructing doors, showers, or toilets. Additionally, a larger vanity might necessitate relocating or modifying existing plumbing lines, which can add to the complexity and cost of the installation. It's also important to consider if the existing flooring or wall finishes will be affected by the size change and if any repairs or replacements will be needed.",
+        "@type": "Answer",
+        "description": "Yes, but it requires careful planning for space, potential plumbing relocation, and possible modifications to flooring or walls."
+      }
+    }
+  ],
+  "description": "Yes, but it requires careful planning for space, potential plumbing relocation, and possible modifications to flooring or walls."
+}

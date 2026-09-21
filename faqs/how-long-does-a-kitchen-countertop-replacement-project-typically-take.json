@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-kitchen-countertop-replacement-project-typically-take",
+  "name": "How long does a kitchen countertop replacement project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen countertop replacement project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen countertop replacement project depends on several factors, including the material chosen, the complexity of the kitchen layout, and whether any demolition or structural adjustments are needed. Generally, once the material is selected and fabricated, the installation itself can take one to three days. The overall process, from initial consultation to final installation, usually spans a few weeks to ensure proper material sourcing and scheduling.",
+        "@type": "Answer",
+        "description": "A kitchen countertop replacement project typically takes one to three days for installation, with the overall process spanning a few weeks from consultation to completion."
+      }
+    }
+  ],
+  "description": "A kitchen countertop replacement project typically takes one to three days for installation, with the overall process spanning a few weeks from consultation to"
+}

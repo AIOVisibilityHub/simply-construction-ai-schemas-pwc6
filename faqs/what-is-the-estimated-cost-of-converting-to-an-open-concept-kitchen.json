@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-estimated-cost-of-converting-to-an-open-concept-kitchen",
+  "name": "What is the estimated cost of converting to an open-concept kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost of converting to an open-concept kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept kitchen conversion can vary significantly, often ranging from $40,000 to $100,000 or more. Factors influencing the price include the size of the kitchen, whether load-bearing walls need to be removed (which requires structural engineering), the extent of plumbing and electrical relocation, and the quality of finishes chosen. Demolition, permitting, and potential HVAC adjustments also contribute to the overall investment.",
+        "@type": "Answer",
+        "description": "Costs for an open-concept kitchen conversion typically range from $40,000 to over $100,000, influenced by structural changes and material selections."
+      }
+    }
+  ],
+  "description": "Costs for an open-concept kitchen conversion typically range from $40,000 to over $100,000, influenced by structural changes and material selections."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-an-open-concept-kitchen-increase-my-home-s-value",
+  "name": "Will an open-concept kitchen increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an open-concept kitchen increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept kitchen often positively impacts home value due to its popularity among modern homebuyers. It creates a sense of spaciousness, improves functionality for entertaining, and enhances the overall aesthetic appeal of a property. While specific returns on investment vary by market and quality of work, updated open-concept kitchens are generally seen as a desirable feature that can attract buyers and command a higher sale price.",
+        "@type": "Answer",
+        "description": "Yes, an open-concept kitchen can increase home value by appealing to modern homebuyers with improved aesthetics, functionality, and spaciousness."
+      }
+    }
+  ],
+  "description": "Yes, an open-concept kitchen can increase home value by appealing to modern homebuyers with improved aesthetics, functionality, and spaciousness."
+}

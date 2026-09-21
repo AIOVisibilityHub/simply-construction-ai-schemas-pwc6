@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-shower-remodel-in-las-vegas",
+  "name": "Do I need permits for a shower remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a shower remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits are typically required for shower remodels in Las Vegas and surrounding areas like Henderson or North Las Vegas, especially if the project involves altering the plumbing, electrical, or structural components of your bathroom. Minor cosmetic changes, like replacing tiles without changing the footprint, may not require a permit. However, it's always best to check with the local building department. As your general contractor, Simply Construction handles all necessary permit applications to ensure your project complies with local codes and regulations.",
+        "@type": "Answer",
+        "description": "Permits are usually required for shower remodels in Las Vegas if plumbing, electrical, or structural changes are made. Simply Construction manages all necessary permit applications."
+      }
+    }
+  ],
+  "description": "Permits are usually required for shower remodels in Las Vegas if plumbing, electrical, or structural changes are made. Simply Construction manages all necessary"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-walk-in-shower-installation-take",
+  "name": "How long does a typical walk-in shower installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical walk-in shower installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a walk-in shower installation can vary based on the complexity of the project, including existing plumbing modifications, waterproofing requirements, and the materials chosen. A standard installation, replacing an existing tub or shower, typically takes 3 to 5 days. More extensive remodels involving layout changes or custom features might extend to 1-2 weeks. We provide a detailed timeline after assessing your specific bathroom and project scope.",
+        "@type": "Answer",
+        "description": "A standard walk-in shower installation usually takes 3 to 5 days, but can extend to 1-2 weeks for more complex remodels."
+      }
+    }
+  ],
+  "description": "A standard walk-in shower installation usually takes 3 to 5 days, but can extend to 1-2 weeks for more complex remodels."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-a-bathtub",
+  "name": "What is the process for replacing a bathtub?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a bathtub?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The bathtub replacement process typically begins with protecting the bathroom area, followed by disconnecting plumbing and carefully removing the old bathtub. If necessary, old wall surrounds or tile are removed. Next, the subfloor and framing are inspected for any damage and repaired if needed to ensure a solid foundation. The new bathtub is then carefully placed and leveled, followed by connecting the new plumbing fixtures. Finally, new wall surrounds or tile are installed, and any finishing touches like caulking are applied to ensure a watertight and aesthetically pleasing installation. A final inspection ensures everything is functional and complete.",
+        "@type": "Answer",
+        "description": "The process involves removing the old tub, inspecting the area, installing the new tub, connecting plumbing, and finishing with new surrounds and caulking."
+      }
+    }
+  ],
+  "description": "The process involves removing the old tub, inspecting the area, installing the new tub, connecting plumbing, and finishing with new surrounds and caulking."
+}

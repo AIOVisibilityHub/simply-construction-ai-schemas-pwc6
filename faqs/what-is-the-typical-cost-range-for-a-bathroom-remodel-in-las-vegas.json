@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-bathroom-remodel-in-las-vegas",
+  "name": "What is the typical cost range for a bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom remodel in Las Vegas can vary significantly based on size, scope, and materials. A minor cosmetic update might range from $5,000 to $15,000. A mid-range remodel, including new fixtures, flooring, and some layout changes, could be $15,000 to $30,000. For a complete luxury renovation with high-end finishes, custom cabinetry, and significant layout alterations, costs can exceed $30,000, sometimes reaching $50,000 or more. These figures are estimates, and a detailed quote requires a consultation.",
+        "@type": "Answer",
+        "description": "Bathroom remodel costs in Las Vegas typically range from $5,000 for minor updates to over $30,000 for luxury renovations, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Bathroom remodel costs in Las Vegas typically range from $5,000 for minor updates to over $30,000 for luxury renovations, depending on scope and materials."
+}

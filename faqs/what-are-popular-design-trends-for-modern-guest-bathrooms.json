@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-popular-design-trends-for-modern-guest-bathrooms",
+  "name": "What are popular design trends for modern guest bathrooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are popular design trends for modern guest bathrooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular design trends for modern guest bathrooms include minimalist aesthetics with clean lines, floating vanities to enhance space, and a focus on natural materials like wood or stone accents. Large-format tiles create a seamless look, while strategically placed lighting can brighten the room. Smart storage solutions, water-efficient fixtures, and a subtle color palette often contribute to a sophisticated and welcoming guest experience.",
+        "@type": "Answer",
+        "description": "Popular modern guest bathroom trends include minimalist designs, floating vanities, natural materials, large-format tiles, strategic lighting, and smart storage."
+      }
+    }
+  ],
+  "description": "Popular modern guest bathroom trends include minimalist designs, floating vanities, natural materials, large-format tiles, strategic lighting, and smart storage"
+}

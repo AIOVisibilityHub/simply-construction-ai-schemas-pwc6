@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-tile-are-best-for-a-bathroom",
+  "name": "What types of tile are best for a bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of tile are best for a bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For bathroom floors, porcelain and ceramic tiles are highly recommended due to their durability, water resistance, and low maintenance. Porcelain is particularly dense and less porous than ceramic, making it ideal for high-moisture areas. For walls, ceramic, porcelain, and natural stone can be excellent choices, offering a wide range of aesthetics. Consider factors like slip resistance for flooring and overall design when making your selection.",
+        "@type": "Answer",
+        "description": "Porcelain and ceramic are excellent choices for bathroom floors due to their water resistance and durability. For walls, ceramic, porcelain, and natural stone are popular."
+      }
+    }
+  ],
+  "description": "Porcelain and ceramic are excellent choices for bathroom floors due to their water resistance and durability. For walls, ceramic, porcelain, and natural stone a"
+}

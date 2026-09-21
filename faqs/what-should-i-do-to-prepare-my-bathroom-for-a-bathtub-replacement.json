@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-do-to-prepare-my-bathroom-for-a-bathtub-replacement",
+  "name": "What should I do to prepare my bathroom for a bathtub replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my bathroom for a bathtub replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your bathtub replacement project begins, it's helpful to clear out the bathroom as much as possible. Remove all personal items from cabinets, shelves, and countertops, as well as any decorative items or rugs. If possible, clear a pathway from the bathroom to an exterior door to facilitate the removal of the old tub and delivery of the new one. Ensure there is adequate access to the bathroom for our team and their tools. Protecting adjacent flooring and furniture in nearby areas can also be beneficial, although our team will take precautions to minimize dust and debris.",
+        "@type": "Answer",
+        "description": "Clear all personal items from the bathroom, ensure a clear path for workers and materials, and protect nearby flooring and furniture."
+      }
+    }
+  ],
+  "description": "Clear all personal items from the bathroom, ensure a clear path for workers and materials, and protect nearby flooring and furniture."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-grout-and-caulk-and-where-are-they-used",
+  "name": "What is the difference between grout and caulk, and where are they used?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between grout and caulk, and where are they used?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Grout is a cement-based mixture used to fill the spaces between tiles, providing structural integrity and preventing dirt accumulation. It comes in sanded and unsanded varieties, chosen based on joint width. Caulk, on the other hand, is a flexible, waterproof sealant used in change-of-plane areas like corners, around tubs, and where tile meets other surfaces. It accommodates movement and prevents water penetration in areas where grout would crack.",
+        "@type": "Answer",
+        "description": "Grout fills spaces between tiles for structural integrity. Caulk is a flexible, waterproof sealant used in corners and around fixtures to prevent water entry."
+      }
+    }
+  ],
+  "description": "Grout fills spaces between tiles for structural integrity. Caulk is a flexible, waterproof sealant used in corners and around fixtures to prevent water entry."
+}

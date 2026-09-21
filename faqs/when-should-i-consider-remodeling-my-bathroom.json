@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-remodeling-my-bathroom",
+  "name": "When should I consider remodeling my bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider remodeling my bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider remodeling your bathroom if it no longer meets your functional needs, such as insufficient storage or outdated fixtures. A remodel is also warranted if there are persistent issues like leaks, mold, or damaged surfaces. Aesthetic reasons, such as an outdated design or a desire for a more modern look, are also common triggers. Additionally, if you're looking to increase your home's value before selling or to improve accessibility for future needs, a bathroom remodel is a worthwhile investment.",
+        "@type": "Answer",
+        "description": "Consider remodeling if your bathroom has functional issues, looks outdated, has persistent problems like leaks or mold, or if you want to increase home value."
+      }
+    }
+  ],
+  "description": "Consider remodeling if your bathroom has functional issues, looks outdated, has persistent problems like leaks or mold, or if you want to increase home value."
+}

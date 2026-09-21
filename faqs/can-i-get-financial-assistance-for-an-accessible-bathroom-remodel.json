@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-get-financial-assistance-for-an-accessible-bathroom-remodel",
+  "name": "Can I get financial assistance for an accessible bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get financial assistance for an accessible bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are various programs that may offer financial assistance for accessible home modifications, though availability and eligibility vary. Options could include government grants, Veterans Affairs (VA) programs for eligible veterans, state or local disability services, or non-profit organizations. Some homeowners' insurance policies or medical savings accounts might also cover certain modifications. It's advisable to research local and federal resources or consult with a financial advisor.",
+        "@type": "Answer",
+        "description": "Financial assistance for accessible remodels may be available through government grants, VA programs, or non-profit organizations, depending on eligibility."
+      }
+    }
+  ],
+  "description": "Financial assistance for accessible remodels may be available through government grants, VA programs, or non-profit organizations, depending on eligibility."
+}
