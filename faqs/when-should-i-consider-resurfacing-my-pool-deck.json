@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-resurfacing-my-pool-deck",
+  "name": "When should I consider resurfacing my pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider resurfacing my pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider resurfacing your pool deck if you notice visible cracks, spalling, discoloration, or a rough, uneven surface that could pose a tripping hazard. Also, if your deck is consistently hot to the touch, or if you simply want to update its aesthetic appeal and increase your property value, resurfacing is a good option. Addressing these issues early can prevent more extensive and costly repairs later.",
+        "@type": "Answer",
+        "description": "Consider resurfacing if you see cracks, discoloration, an uneven surface, or if you want to improve appearance and safety."
+      }
+    }
+  ],
+  "description": "Consider resurfacing if you see cracks, discoloration, an uneven surface, or if you want to improve appearance and safety."
+}

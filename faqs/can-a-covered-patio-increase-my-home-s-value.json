@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-covered-patio-increase-my-home-s-value",
+  "name": "Can a covered patio increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a covered patio increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and properly constructed covered patio can increase your home's value, particularly in areas like Las Vegas where outdoor living spaces are highly valued. It expands usable square footage, enhances curb appeal, and provides an attractive outdoor entertainment area. Potential buyers often view these additions as desirable amenities, making your home more competitive in the market. The return on investment depends on the quality of construction, design integration with the existing home, and local market trends.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed covered patio can increase home value by expanding usable space and enhancing curb appeal, especially in desirable outdoor living markets."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed covered patio can increase home value by expanding usable space and enhancing curb appeal, especially in desirable outdoor living markets."
+}

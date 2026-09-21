@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-security-door-installation-in-las-vegas",
+  "name": "Do I need a permit for security door installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for security door installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including Las Vegas and its surrounding communities, installing a standard pre-hung security door that replaces an existing door within the same opening generally does not require a separate building permit. However, if the installation involves altering the structural opening, modifying the wall, or expanding the entryway, a permit may be necessary. It is always recommended to consult with our team or your local building department to confirm specific permit requirements for your project to ensure compliance with local codes and regulations before starting any work.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for standard security door replacements in Las Vegas, but may be required if structural changes to the opening are involved. Always confirm with local authorities."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for standard security door replacements in Las Vegas, but may be required if structural changes to the opening are involved. Alwa"
+}

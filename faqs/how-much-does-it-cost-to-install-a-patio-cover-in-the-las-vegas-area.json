@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-install-a-patio-cover-in-the-las-vegas-area",
+  "name": "How much does it cost to install a patio cover in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a patio cover in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of patio cover installation in Las Vegas varies significantly based on material, size, design complexity, and any additional features like lighting or fans. Basic aluminum covers can be more budget-friendly, while custom wood structures or insulated covers with specialized finishes will be at the higher end. Permits are typically required and factor into the overall cost. For an accurate estimate tailored to your specific needs and property, it's best to schedule a consultation with a local contractor who can assess your space and discuss material options.",
+        "@type": "Answer",
+        "description": "Patio cover costs in Las Vegas vary by material, size, design, and features. A consultation provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Patio cover costs in Las Vegas vary by material, size, design, and features. A consultation provides an accurate estimate."
+}

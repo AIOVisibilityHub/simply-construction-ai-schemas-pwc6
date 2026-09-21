@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-size-and-style-of-pergola-for-my-backyard",
+  "name": "How do I choose the right size and style of pergola for my backyard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and style of pergola for my backyard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right pergola involves considering your outdoor space's size, your intended use, and your home's architectural style. For example, a dining area may require a larger pergola than a small seating nook. Measure your available space and consider the desired level of shade. For style, aim for a design that complements your home’s existing aesthetic, whether modern, traditional, or rustic. Our design team can provide recommendations based on your property layout and preferences.",
+        "@type": "Answer",
+        "description": "Consider your outdoor space's size, intended use, and home's architectural style when choosing a pergola. Our design team can help with recommendations."
+      }
+    }
+  ],
+  "description": "Consider your outdoor space's size, intended use, and home's architectural style when choosing a pergola. Our design team can help with recommendations."
+}

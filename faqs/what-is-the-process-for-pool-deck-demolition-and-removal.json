@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-pool-deck-demolition-and-removal",
+  "name": "What is the process for pool deck demolition and removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for pool deck demolition and removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with securing the area and disconnecting any utilities beneath the deck. Demolition involves breaking up the existing material, typically using jackhammers or other heavy equipment, depending on the material. Once broken, the debris is loaded and hauled away from the site for proper disposal. This phase requires careful planning to minimize impact on surrounding landscaping and pool structures. Post-demolition, the site is prepared for the new deck installation.",
+        "@type": "Answer",
+        "description": "Pool deck demolition involves securing the area, breaking up the existing material with equipment, hauling away debris, and preparing the site for new construction, while minimizing impact on surrounding areas."
+      }
+    }
+  ],
+  "description": "Pool deck demolition involves securing the area, breaking up the existing material with equipment, hauling away debris, and preparing the site for new construct"
+}

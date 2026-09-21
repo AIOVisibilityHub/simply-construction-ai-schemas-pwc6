@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-built-in-bbq-grill",
+  "name": "What factors should I consider when choosing a built-in BBQ grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a built-in BBQ grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a built-in BBQ grill, consider several key factors to ensure it meets your needs. Think about the primary fuel source (natural gas or propane), the size and number of burners suitable for your cooking habits, and the quality of materials for durability in the Las Vegas climate. Features like BTU output, sear burners, rotisserie kits, and precise temperature control can enhance functionality. Also, consider the brand's reputation for reliability and warranty support. We can help guide you through these choices.",
+        "@type": "Answer",
+        "description": "Consider fuel type, size, burner count, material quality, BTU output, desired features, and brand reputation when choosing a built-in BBQ grill."
+      }
+    }
+  ],
+  "description": "Consider fuel type, size, burner count, material quality, BTU output, desired features, and brand reputation when choosing a built-in BBQ grill."
+}

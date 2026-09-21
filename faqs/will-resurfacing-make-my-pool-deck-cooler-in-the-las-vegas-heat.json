@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-resurfacing-make-my-pool-deck-cooler-in-the-las-vegas-heat",
+  "name": "Will resurfacing make my pool deck cooler in the Las Vegas heat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will resurfacing make my pool deck cooler in the Las Vegas heat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many modern pool deck resurfacing materials, particularly certain acrylics and specialized coatings, are designed to reflect more sunlight and absorb less heat than traditional concrete. This can significantly lower the surface temperature of your deck, making it more comfortable to walk on during hot Las Vegas summers. Ask about 'cool deck' options or materials with high solar reflectance when discussing your project.",
+        "@type": "Answer",
+        "description": "Yes, many modern resurfacing materials can reflect sunlight and absorb less heat, making your pool deck cooler in the Las Vegas heat."
+      }
+    }
+  ],
+  "description": "Yes, many modern resurfacing materials can reflect sunlight and absorb less heat, making your pool deck cooler in the Las Vegas heat."
+}

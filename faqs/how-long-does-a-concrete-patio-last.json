@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-concrete-patio-last",
+  "name": "How long does a concrete patio last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a concrete patio last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly installed and well-maintained concrete patio can last for 20 to 30 years or even longer. Its lifespan depends on several factors, including the quality of the concrete mix, the expertise of the installation, the stability of the sub-base, and the climate conditions. Regular cleaning and occasional sealing can significantly extend its durability and appearance. Proper drainage around the patio also helps prevent issues that could shorten its life.",
+        "@type": "Answer",
+        "description": "A concrete patio can last 20-30 years or more with proper installation and maintenance, influenced by concrete quality and climate."
+      }
+    }
+  ],
+  "description": "A concrete patio can last 20-30 years or more with proper installation and maintenance, influenced by concrete quality and climate."
+}

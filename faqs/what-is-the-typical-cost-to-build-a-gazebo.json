@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-to-build-a-gazebo",
+  "name": "What is the typical cost to build a gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build a gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a gazebo varies significantly based on several factors, including size, materials (wood, vinyl, metal), design complexity, and any custom features like built-in seating or electrical wiring. A basic, pre-fabricated gazebo might start around $3,000 to $5,000 for materials and installation. Custom-built gazebos with high-quality materials and unique designs can range from $10,000 to $30,000 or more. Obtaining a detailed quote that outlines all expenses, including labor and permits, is essential for an accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Gazebo construction costs vary widely based on size, materials, and design, typically ranging from $3,000 for basic models to over $30,000 for custom builds."
+      }
+    }
+  ],
+  "description": "Gazebo construction costs vary widely based on size, materials, and design, typically ranging from $3,000 for basic models to over $30,000 for custom builds."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-security-doors-be-customized-to-match-my-home-s-style",
+  "name": "Can security doors be customized to match my home's style?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can security doors be customized to match my home's style?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, security doors can be highly customized to match and even enhance your home's architectural style. Options include various materials like wrought iron or steel, a wide range of colors and finishes, and decorative elements such as scrollwork, glass inserts (often reinforced or impact-resistant), and custom panel designs. You don't have to sacrifice aesthetics for security. Our team can work with you to design a security door that provides maximum protection while seamlessly blending with your home's existing look or creating a distinctive focal point for your entryway.",
+        "@type": "Answer",
+        "description": "Absolutely, security doors offer extensive customization in materials, colors, finishes, and decorative elements like scrollwork or glass, allowing them to perfectly match or enhance your home's aesthetic."
+      }
+    }
+  ],
+  "description": "Absolutely, security doors offer extensive customization in materials, colors, finishes, and decorative elements like scrollwork or glass, allowing them to perf"
+}

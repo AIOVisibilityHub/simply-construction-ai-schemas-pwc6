@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-of-working-with-a-general-contractor-for-pool-landscaping",
+  "name": "What is the process of working with a general contractor for pool landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process of working with a general contractor for pool landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation where you discuss your vision, budget, and needs. Next, the contractor will develop a preliminary design and provide a detailed proposal. Once approved, the design is finalized, and any necessary permits are secured. Construction then commences, involving site preparation, installation of hardscaping, irrigation, lighting, and finally softscaping. Throughout the project, the contractor manages timelines, materials, and subcontractors. Regular communication ensures the project aligns with your expectations, culminating in a final walk-through upon completion.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design and proposal, permitting, construction (hardscaping, irrigation, lighting, softscaping), and project management, ending with a final walk-through."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design and proposal, permitting, construction (hardscaping, irrigation, lighting, softscaping), and project management, endin"
+}

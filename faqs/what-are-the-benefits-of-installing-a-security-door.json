@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-installing-a-security-door",
+  "name": "What are the benefits of installing a security door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a security door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a security door significantly enhances your home's protection against forced entry, acts as a visual deterrent to potential intruders, and improves overall peace of mind. Modern security doors are built with reinforced frames, strong locking mechanisms, and durable materials like steel, making them much harder to breach than standard residential doors. They can also offer additional insulation, potentially reducing energy costs, and some designs allow for increased ventilation while maintaining security. This upgrade contributes to the safety of your family and valuables.",
+        "@type": "Answer",
+        "description": "Security doors enhance home protection against forced entry, deter intruders, and improve peace of mind with reinforced construction and strong locks."
+      }
+    }
+  ],
+  "description": "Security doors enhance home protection against forced entry, deter intruders, and improve peace of mind with reinforced construction and strong locks."
+}

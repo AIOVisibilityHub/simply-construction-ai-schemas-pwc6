@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-an-outdoor-fireplace",
+  "name": "How long does it take to install an outdoor fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install an outdoor fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for outdoor fireplace installation can vary based on complexity, materials, and local permitting requirements. A simpler, pre-fabricated unit might take a few days once permits are approved. A custom-built masonry fireplace, however, could take several weeks from start to finish, including design, material sourcing, foundation work, and construction. Weather conditions can also influence the schedule. We provide an estimated timeline after the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies, from a few days for pre-fabricated units to several weeks for custom masonry fireplaces, depending on complexity and permits."
+      }
+    }
+  ],
+  "description": "Installation time varies, from a few days for pre-fabricated units to several weeks for custom masonry fireplaces, depending on complexity and permits."
+}

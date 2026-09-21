@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-design-process-for-an-outdoor-kitchen",
+  "name": "What is the design process for an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the design process for an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The outdoor kitchen design process typically starts with a consultation to understand your vision, needs, and budget. Next, a designer develops initial concepts and layouts, which are refined based on your feedback. Once a design is approved, detailed plans and material selections are finalized. This collaborative approach ensures the final kitchen meets your aesthetic preferences and functional requirements while adhering to site constraints and local regulations.",
+        "@type": "Answer",
+        "description": "The design process involves an initial consultation, concept development, revisions, and finalization of plans and materials."
+      }
+    }
+  ],
+  "description": "The design process involves an initial consultation, concept development, revisions, and finalization of plans and materials."
+}

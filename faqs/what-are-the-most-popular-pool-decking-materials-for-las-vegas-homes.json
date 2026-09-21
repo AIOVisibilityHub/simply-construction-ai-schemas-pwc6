@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-most-popular-pool-decking-materials-for-las-vegas-homes",
+  "name": "What are the most popular pool decking materials for Las Vegas homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most popular pool decking materials for Las Vegas homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Las Vegas homes, popular pool decking materials balance aesthetics, durability, and heat resistance. Travertine pavers are highly favored for their luxurious look and ability to stay cooler underfoot. Concrete, especially stamped or colored varieties, offers versatility and affordability. Synthetic decking options are gaining popularity for low maintenance. Other choices include natural stone like flagstone or slate, which provide a unique, natural aesthetic.",
+        "@type": "Answer",
+        "description": "Popular pool decking materials in Las Vegas include travertine pavers for their cool touch, versatile stamped concrete, and low-maintenance synthetic options."
+      }
+    }
+  ],
+  "description": "Popular pool decking materials in Las Vegas include travertine pavers for their cool touch, versatile stamped concrete, and low-maintenance synthetic options."
+}

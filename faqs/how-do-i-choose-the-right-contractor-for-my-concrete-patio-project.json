@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-concrete-patio-project",
+  "name": "How do I choose the right contractor for my concrete patio project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my concrete patio project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your concrete patio, look for one with a strong local reputation, relevant experience in patio installation, and proper licensing and insurance for the Las Vegas area. Review their portfolio of past work and ask for references. Ensure they provide a clear, detailed written estimate that outlines all costs and project specifics. Good communication and transparency throughout the process are also key indicators of a reliable contractor.",
+        "@type": "Answer",
+        "description": "Choose a contractor with a strong local reputation, experience, proper licensing, and clear communication. Review their portfolio and references."
+      }
+    }
+  ],
+  "description": "Choose a contractor with a strong local reputation, experience, proper licensing, and clear communication. Review their portfolio and references."
+}

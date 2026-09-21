@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-pergolas-differ-from-patio-covers",
+  "name": "How do pergolas differ from patio covers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do pergolas differ from patio covers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pergolas and patio covers both offer shade, but they differ significantly in design and function. Pergolas typically feature an open-lattice roof, providing partial shade and allowing some sunlight through, creating a dappled light effect. They are often freestanding but can also be attached. Patio covers, on the other hand, usually have a solid, fully covered roof, offering complete protection from sun and rain. They are almost always attached to the house, extending the living space outdoors. The choice depends on your desired level of shade and integration with your home.",
+        "@type": "Answer",
+        "description": "Pergolas have open-lattice roofs for partial shade, while patio covers feature solid roofs for complete sun and rain protection, usually attached to the house."
+      }
+    }
+  ],
+  "description": "Pergolas have open-lattice roofs for partial shade, while patio covers feature solid roofs for complete sun and rain protection, usually attached to the house."
+}

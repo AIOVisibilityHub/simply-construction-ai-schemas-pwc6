@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-a-backyard-remodeling-project-with-your-company",
+  "name": "What is the process for starting a backyard remodeling project with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a backyard remodeling project with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, needs, and budget. We'll assess your existing backyard space and offer preliminary ideas. Following this, we develop a detailed design proposal, incorporating your feedback, and provide a transparent estimate. Once the design and budget are approved, we handle all necessary permitting. Our experienced team then proceeds with the construction phase, keeping you informed of progress and milestones. We ensure quality craftsmanship and a smooth project completion, culminating in your dream backyard.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation, followed by a detailed design proposal and estimate. Once approved, we handle permits and begin construction, keeping you updated until completion."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation, followed by a detailed design proposal and estimate. Once approved, we handle permits and begin construction, keeping yo"
+}

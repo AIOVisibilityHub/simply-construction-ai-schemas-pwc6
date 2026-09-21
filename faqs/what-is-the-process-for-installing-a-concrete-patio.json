@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-concrete-patio",
+  "name": "What is the process for installing a concrete patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a concrete patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The concrete patio installation process generally begins with site preparation, which involves clearing the area, grading the ground for proper drainage, and compacting the soil. Next, forms are set up to define the patio's shape and size, and a base material, such as gravel, may be laid down. Reinforcement, like rebar or wire mesh, is then placed. The concrete is poured, leveled, and finished according to the desired aesthetic. Finally, control joints are cut to prevent cracking, and the concrete is allowed to cure.",
+        "@type": "Answer",
+        "description": "The process involves site preparation, grading, setting forms, laying reinforcement, pouring, finishing, and curing the concrete."
+      }
+    }
+  ],
+  "description": "The process involves site preparation, grading, setting forms, laying reinforcement, pouring, finishing, and curing the concrete."
+}

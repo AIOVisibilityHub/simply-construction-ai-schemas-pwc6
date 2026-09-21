@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-features-like-electricity-lighting-or-heating-to-my-custom-gazebo",
+  "name": "Can I add features like electricity, lighting, or heating to my custom gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add features like electricity, lighting, or heating to my custom gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, custom gazebos offer significant flexibility for integrating various features. We can incorporate electrical wiring for lighting, ceiling fans, power outlets, and even heating elements like infrared heaters or fire pits. These additions enhance the functionality and comfort of your gazebo, allowing for extended use into the evenings or cooler months. Such features are typically planned during the initial design phase to ensure proper installation and safety.",
+        "@type": "Answer",
+        "description": "Yes, custom gazebos can integrate electricity for lighting, fans, outlets, and heating, enhancing functionality and comfort."
+      }
+    }
+  ],
+  "description": "Yes, custom gazebos can integrate electricity for lighting, fans, outlets, and heating, enhancing functionality and comfort."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-custom-pergola",
+  "name": "What maintenance is required for a custom pergola?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom pergola?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements for a custom pergola depend heavily on the materials used. Wooden pergolas (like cedar or redwood) typically need periodic cleaning, sealing, or staining every few years to protect them from weathering and pests. Aluminum and vinyl pergolas are generally low-maintenance, usually only requiring occasional washing with soap and water to remove dirt or debris. We will provide specific care instructions based on your chosen materials to ensure longevity and beauty.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material. Wooden pergolas need periodic cleaning, sealing, or staining. Aluminum and vinyl options are low-maintenance, requiring only occasional cleaning."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material. Wooden pergolas need periodic cleaning, sealing, or staining. Aluminum and vinyl options are low-maintenance, requiring only occ"
+}

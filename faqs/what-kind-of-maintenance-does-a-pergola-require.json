@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-maintenance-does-a-pergola-require",
+  "name": "What kind of maintenance does a pergola require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a pergola require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pergola maintenance varies by material. Wooden pergolas typically require more upkeep, including periodic cleaning, staining, or sealing every few years to protect against weathering, UV damage, and pests. Aluminum and vinyl pergolas are much lower maintenance, usually only needing occasional cleaning with soap and water to remove dirt or debris. Regular inspections for any signs of wear, especially after significant weather events, are advisable for all material types to ensure longevity.",
+        "@type": "Answer",
+        "description": "Wooden pergolas need regular staining or sealing, while aluminum and vinyl require only occasional cleaning. All materials benefit from regular inspections."
+      }
+    }
+  ],
+  "description": "Wooden pergolas need regular staining or sealing, while aluminum and vinyl require only occasional cleaning. All materials benefit from regular inspections."
+}

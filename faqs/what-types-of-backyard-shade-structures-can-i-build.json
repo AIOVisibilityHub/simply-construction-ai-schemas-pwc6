@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-backyard-shade-structures-can-i-build",
+  "name": "What types of backyard shade structures can I build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of backyard shade structures can I build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There's a wide variety of shade structures available for backyards. Common options include pergolas, which offer partial shade with open lattice roofs, and gazebos, which are typically freestanding, roofed structures providing more complete shade. Other choices include patio covers, often attached to the house for seamless indoor-outdoor living, and carports, which can double as multi-purpose shade areas. The best type depends on your specific needs for sun protection, aesthetic preferences, and budget. Each style offers unique benefits in terms of shade coverage and design.",
+        "@type": "Answer",
+        "description": "Common backyard shade structures include pergolas, gazebos, patio covers, and carports, each offering different levels of shade and design styles."
+      }
+    }
+  ],
+  "description": "Common backyard shade structures include pergolas, gazebos, patio covers, and carports, each offering different levels of shade and design styles."
+}

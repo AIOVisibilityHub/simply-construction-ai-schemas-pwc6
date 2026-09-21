@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-an-outdoor-living-space-increase-my-home-s-value",
+  "name": "How can an outdoor living space increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can an outdoor living space increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed outdoor living space can significantly increase your home's value by expanding usable square footage and enhancing curb appeal. Features like custom patios, outdoor kitchens, fire pits, and appealing landscaping are highly sought after by homebuyers, particularly in areas like Las Vegas where outdoor entertaining is popular. It transforms your backyard into an additional functional room, offering a strong return on investment and making your property more attractive and competitive in the real estate market.",
+        "@type": "Answer",
+        "description": "A well-designed outdoor living space increases home value by expanding usable area and enhancing curb appeal. Features like patios and outdoor kitchens are desirable to buyers, offering a strong return on investment."
+      }
+    }
+  ],
+  "description": "A well-designed outdoor living space increases home value by expanding usable area and enhancing curb appeal. Features like patios and outdoor kitchens are desi"
+}

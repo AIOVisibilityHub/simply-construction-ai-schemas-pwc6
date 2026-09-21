@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-pool-deck-remodeling-in-las-vegas",
+  "name": "Do I need permits for pool deck remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for pool deck remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for pool deck remodeling in Las Vegas can vary. Minor cosmetic updates, such as resurfacing or applying a new coating, typically do not require a permit. However, if your project involves significant structural changes, altering the deck's footprint, adding or moving drainage systems, or substantial electrical work (e.g., for lighting or features), you likely will need to obtain local building permits. It's always best to consult with your contractor or local building department to confirm specific requirements for your project.",
+        "@type": "Answer",
+        "description": "Minor pool deck remodels in Las Vegas usually don't need permits, but structural changes, footprint alterations, or significant electrical work likely do. Always confirm with your contractor or local building department."
+      }
+    }
+  ],
+  "description": "Minor pool deck remodels in Las Vegas usually don't need permits, but structural changes, footprint alterations, or significant electrical work likely do. Alway"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-french-doors-require-a-special-type-of-frame-or-opening",
+  "name": "Do French doors require a special type of frame or opening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do French doors require a special type of frame or opening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, French doors typically require a wider opening than a standard single door because they consist of two panels that swing open. If you are replacing an existing single door, the opening may need to be expanded, which involves structural work to the wall. For new installations, the rough opening must be precisely measured to ensure proper fit and operation. Our team will assess your current opening and advise on any necessary modifications.",
+        "@type": "Answer",
+        "description": "French doors need a wider opening than single doors, often requiring structural modifications if replacing an existing single door. Proper framing is crucial for installation."
+      }
+    }
+  ],
+  "description": "French doors need a wider opening than single doors, often requiring structural modifications if replacing an existing single door. Proper framing is crucial fo"
+}

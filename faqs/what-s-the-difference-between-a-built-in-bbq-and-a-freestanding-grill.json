@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-a-built-in-bbq-and-a-freestanding-grill",
+  "name": "What's the difference between a built-in BBQ and a freestanding grill?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a built-in BBQ and a freestanding grill?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in BBQ is permanently integrated into an outdoor kitchen island or custom structure, becoming a fixed part of your outdoor living space. It typically requires professional installation for utility connections and custom enclosure construction. In contrast, a freestanding grill is a self-contained, portable unit that can be moved. Built-in units offer a more custom, aesthetic, and often more robust outdoor cooking experience, while freestanding grills prioritize flexibility and simpler setup.",
+        "@type": "Answer",
+        "description": "A built-in BBQ is permanently integrated into an outdoor kitchen, while a freestanding grill is a portable, self-contained unit. Built-ins offer a custom aesthetic; freestanding offers flexibility."
+      }
+    }
+  ],
+  "description": "A built-in BBQ is permanently integrated into an outdoor kitchen, while a freestanding grill is a portable, self-contained unit. Built-ins offer a custom aesthe"
+}

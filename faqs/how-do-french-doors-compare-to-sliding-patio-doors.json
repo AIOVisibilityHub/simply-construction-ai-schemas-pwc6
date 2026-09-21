@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-french-doors-compare-to-sliding-patio-doors",
+  "name": "How do French doors compare to sliding patio doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do French doors compare to sliding patio doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "French doors open on hinges, offering a classic, elegant appearance and creating a wide, unobstructed opening when both panels are open. They require adequate swing space, either inward or outward. Sliding patio doors operate on a track, making them ideal for spaces where swing clearance is limited. While they typically offer less unobstructed opening space, they are highly functional and modern. The choice often comes down to aesthetic preference and available space.",
+        "@type": "Answer",
+        "description": "French doors are hinged, offering a classic look and wide opening but require swing space. Sliding doors save space, operating on a track, and are more modern."
+      }
+    }
+  ],
+  "description": "French doors are hinged, offering a classic look and wide opening but require swing space. Sliding doors save space, operating on a track, and are more modern."
+}

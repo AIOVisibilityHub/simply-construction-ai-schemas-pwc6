@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-build-a-pergola-in-las-vegas",
+  "name": "Do I need a permit to build a pergola in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build a pergola in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas of Las Vegas and surrounding communities like Henderson or Summerlin, a building permit may be required for pergola installations, especially if the structure is attached to your home, exceeds a certain size, or includes electrical components. Permit requirements are in place to ensure structures meet local building codes and safety standards. Simply Construction can assist in determining if a permit is needed for your specific project and guide you through the application process.",
+        "@type": "Answer",
+        "description": "A building permit may be required for pergola installation in Las Vegas, especially for attached or larger structures. Simply Construction can help determine if a permit is needed."
+      }
+    }
+  ],
+  "description": "A building permit may be required for pergola installation in Las Vegas, especially for attached or larger structures. Simply Construction can help determine if"
+}

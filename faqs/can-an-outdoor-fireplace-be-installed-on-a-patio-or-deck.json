@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-an-outdoor-fireplace-be-installed-on-a-patio-or-deck",
+  "name": "Can an outdoor fireplace be installed on a patio or deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an outdoor fireplace be installed on a patio or deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An outdoor fireplace can often be installed on a patio or deck, but specific considerations are necessary. For patios, a solid, level concrete foundation is typically required to support the weight. For decks, the structure must be adequately reinforced to bear the substantial weight of the fireplace, and fire-resistant materials must be used. Proper clearances from combustible materials are also crucial for safety. A site assessment is essential to determine feasibility and specific requirements.",
+        "@type": "Answer",
+        "description": "Yes, but it requires a solid foundation for patios or reinforced decks, along with appropriate fire-resistant materials and safety clearances."
+      }
+    }
+  ],
+  "description": "Yes, but it requires a solid foundation for patios or reinforced decks, along with appropriate fire-resistant materials and safety clearances."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-backyard-remodeling-in-las-vegas",
+  "name": "What is the average cost of backyard remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of backyard remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of backyard remodeling in Las Vegas can vary widely due to several factors, including the size of your yard, the materials chosen, and the complexity of the design. Basic landscaping updates might start in the low thousands, while comprehensive remodels with features like outdoor kitchens, custom hardscaping, and intricate water features can range significantly higher. We provide detailed estimates after an initial consultation to understand your specific goals and budget. Our team focuses on delivering value and quality within your financial parameters.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on size, materials, and complexity. Basic updates are less, while comprehensive remodels with custom features are more. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on size, materials, and complexity. Basic updates are less, while comprehensive remodels with custom features are more. We provide detai"
+}

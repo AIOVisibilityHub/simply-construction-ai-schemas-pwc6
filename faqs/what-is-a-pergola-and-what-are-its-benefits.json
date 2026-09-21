@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-pergola-and-what-are-its-benefits",
+  "name": "What is a pergola and what are its benefits?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pergola and what are its benefits?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pergola is an outdoor garden feature forming a shaded walkway, passageway, or sitting area of vertical posts or pillars that usually support cross-beams and a sturdy open lattice. They are commonly used to define outdoor living spaces, provide partial shade, and enhance the aesthetic appeal of a home. Benefits include creating an inviting outdoor entertainment area, increasing property value, and offering a framework for climbing plants to grow, adding natural beauty and additional shade.",
+        "@type": "Answer",
+        "description": "A pergola is an outdoor structure with posts supporting an open lattice, providing partial shade and defining outdoor living spaces. Benefits include enhancing aesthetics, increasing property value, and supporting climbing plants."
+      }
+    }
+  ],
+  "description": "A pergola is an outdoor structure with posts supporting an open lattice, providing partial shade and defining outdoor living spaces. Benefits include enhancing"
+}

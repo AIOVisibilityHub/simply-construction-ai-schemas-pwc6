@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-foundation-options-are-available-for-a-gazebo",
+  "name": "What foundation options are available for a gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What foundation options are available for a gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gazebo foundations vary based on size, weight, local soil conditions, and permanence. Common options include concrete slabs, which offer a very stable and long-lasting base, suitable for larger or heavier structures. Pier and beam foundations, using concrete footings and support posts, allow for air circulation underneath and are good for uneven terrain. Gravel pads are a simpler, less permanent option for lighter gazebos, providing drainage and a level surface. The best choice depends on your specific gazebo design and how the structure will be anchored.",
+        "@type": "Answer",
+        "description": "Gazebo foundations include concrete slabs, pier and beam systems, or gravel pads, chosen based on gazebo size, weight, and site conditions."
+      }
+    }
+  ],
+  "description": "Gazebo foundations include concrete slabs, pier and beam systems, or gravel pads, chosen based on gazebo size, weight, and site conditions."
+}

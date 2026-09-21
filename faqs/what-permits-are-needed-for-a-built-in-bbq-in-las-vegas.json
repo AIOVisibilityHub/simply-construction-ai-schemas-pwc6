@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-a-built-in-bbq-in-las-vegas",
+  "name": "What permits are needed for a built-in BBQ in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a built-in BBQ in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, permits may be required for built-in BBQ installations, especially if the project involves new gas lines, significant electrical work, or substantial structural changes to your outdoor living space. The specific permits needed depend on the scope of work and local municipal codes, which can vary slightly between Las Vegas, Henderson, or North Las Vegas. Simply Construction handles the necessary permit applications and ensures all installations comply with local building and safety regulations to avoid issues.",
+        "@type": "Answer",
+        "description": "Permits may be required in Las Vegas for built-in BBQs, especially for new gas or electrical lines, or structural changes. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permits may be required in Las Vegas for built-in BBQs, especially for new gas or electrical lines, or structural changes. We manage the permitting process."
+}

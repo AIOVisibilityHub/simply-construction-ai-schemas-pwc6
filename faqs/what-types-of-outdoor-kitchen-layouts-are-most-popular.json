@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-outdoor-kitchen-layouts-are-most-popular",
+  "name": "What types of outdoor kitchen layouts are most popular?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of outdoor kitchen layouts are most popular?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular outdoor kitchen layouts often mirror indoor kitchen designs, adapted for outdoor living. The straight-line layout is simple and efficient, ideal for smaller spaces or alongside a wall. L-shaped kitchens offer more counter space and can define an outdoor dining area. U-shaped designs provide the most extensive workspace and storage, often incorporating a central island. Galley-style layouts create a compact, functional cooking zone. The best layout depends on the size and shape of your outdoor area, as well as your desired functionality and flow for entertaining. We design layouts that maximize your space.",
+        "@type": "Answer",
+        "description": "Popular outdoor kitchen layouts include straight-line, L-shaped, U-shaped, and galley styles, chosen based on space, functionality, and entertainment needs."
+      }
+    }
+  ],
+  "description": "Popular outdoor kitchen layouts include straight-line, L-shaped, U-shaped, and galley styles, chosen based on space, functionality, and entertainment needs."
+}

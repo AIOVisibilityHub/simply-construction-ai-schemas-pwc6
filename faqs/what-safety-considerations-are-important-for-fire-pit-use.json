@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-safety-considerations-are-important-for-fire-pit-use",
+  "name": "What safety considerations are important for fire pit use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for fire pit use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key fire pit safety considerations include maintaining a clear area of at least 10 feet around the pit, using a spark screen for wood-burning pits, and keeping a water source or extinguisher nearby. Always supervise children and pets, and never use flammable liquids to start a fire. Ensure the fire is completely extinguished before leaving it unattended. For gas fire pits, regularly check for gas leaks and ensure proper ventilation.",
+        "@type": "Answer",
+        "description": "Maintain a clear area around the fire pit, use spark screens, have water/extinguisher ready, and supervise children/pets. Ensure the fire is completely out when finished."
+      }
+    }
+  ],
+  "description": "Maintain a clear area around the fire pit, use spark screens, have water/extinguisher ready, and supervise children/pets. Ensure the fire is completely out when"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-does-a-typical-pool-area-renovation-involve",
+  "name": "What does a typical pool area renovation involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a typical pool area renovation involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical pool area renovation can range from minor cosmetic updates to a complete overhaul. Common elements include replastering or resurfacing the pool, updating pool decking materials like pavers, concrete, or stone, adding new features such as water features, lighting, or a spa, and enhancing surrounding landscaping or hardscaping. It might also involve upgrading pool equipment, repairing structural issues, or redesigning the entire outdoor living space to better suit current needs and aesthetics.",
+        "@type": "Answer",
+        "description": "A pool area renovation can involve replastering, new decking, adding features like water elements or lighting, and updating landscaping or equipment."
+      }
+    }
+  ],
+  "description": "A pool area renovation can involve replastering, new decking, adding features like water elements or lighting, and updating landscaping or equipment."
+}

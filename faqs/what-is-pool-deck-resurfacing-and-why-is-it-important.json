@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-pool-deck-resurfacing-and-why-is-it-important",
+  "name": "What is pool deck resurfacing and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pool deck resurfacing and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool deck resurfacing involves applying a new layer of material over your existing concrete pool deck. This process improves the appearance by covering cracks, stains, and imperfections, and enhances safety by creating a slip-resistant surface. It also extends the lifespan of your deck by protecting it from weathering, UV rays, and chemical exposure common in the Las Vegas climate, ultimately preventing costly full deck replacements.",
+        "@type": "Answer",
+        "description": "Pool deck resurfacing applies a new surface layer to improve appearance, enhance safety, and extend the deck's lifespan by protecting it from wear and tear."
+      }
+    }
+  ],
+  "description": "Pool deck resurfacing applies a new surface layer to improve appearance, enhance safety, and extend the deck's lifespan by protecting it from wear and tear."
+}

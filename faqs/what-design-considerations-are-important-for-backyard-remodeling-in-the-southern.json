@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-are-important-for-backyard-remodeling-in-the-southern",
+  "name": "What design considerations are important for backyard remodeling in the Southern Nevada climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for backyard remodeling in the Southern Nevada climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Designing a backyard for Southern Nevada's climate means prioritizing drought-tolerant plants (xeriscaping), efficient irrigation systems, and materials that withstand intense sun and heat. Shade structures like pergolas or awnings are crucial for comfort. Consider hardscaping materials that don't absorb excessive heat and can handle temperature fluctuations. Incorporating water-efficient features, smart landscaping design for natural cooling, and outdoor lighting for evening enjoyment are also important. We specialize in creating beautiful, functional, and sustainable outdoor spaces tailored to our desert environment.",
+        "@type": "Answer",
+        "description": "In Southern Nevada, prioritize drought-tolerant plants, efficient irrigation, shade structures, and heat-resistant materials. Design for water efficiency, natural cooling, and evening use."
+      }
+    }
+  ],
+  "description": "In Southern Nevada, prioritize drought-tolerant plants, efficient irrigation, shade structures, and heat-resistant materials. Design for water efficiency, natur"
+}

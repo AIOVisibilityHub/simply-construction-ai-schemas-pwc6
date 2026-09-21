@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-security-door-and-a-regular-exterior-door",
+  "name": "What is the difference between a security door and a regular exterior door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a security door and a regular exterior door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A regular exterior door primarily focuses on aesthetics and basic weather protection, typically constructed from wood, fiberglass, or thin steel, with standard locking hardware. In contrast, a security door is engineered specifically for forced entry resistance. It features a reinforced steel or iron frame, heavy-duty hinges, multi-point locking systems, and often uses thicker gauge materials. The core difference lies in their construction and purpose: one provides general access and weather sealing, while the other offers a robust barrier against intrusion, prioritizing safety and durability.",
+        "@type": "Answer",
+        "description": "Security doors are built with reinforced frames, heavy-duty hinges, and multi-point locks for forced entry resistance, unlike regular exterior doors focused on aesthetics and basic protection."
+      }
+    }
+  ],
+  "description": "Security doors are built with reinforced frames, heavy-duty hinges, and multi-point locks for forced entry resistance, unlike regular exterior doors focused on"
+}

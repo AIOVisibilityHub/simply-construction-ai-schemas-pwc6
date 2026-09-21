@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-french-doors-typically-made-from",
+  "name": "What materials are French doors typically made from?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are French doors typically made from?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "French doors are available in a variety of materials, each offering distinct advantages. Common options include wood (for a classic look, offering good insulation but requiring maintenance), fiberglass (durable, energy-efficient, low maintenance, and can mimic wood grain), and vinyl (cost-effective, good insulation, and low maintenance). Aluminum is also an option for modern designs or commercial applications. Your choice will depend on your budget, aesthetic preferences, and desired level of durability.",
+        "@type": "Answer",
+        "description": "French doors come in materials like wood, fiberglass, and vinyl, each offering different benefits in terms of aesthetics, durability, and maintenance. Your choice depends on budget and preference."
+      }
+    }
+  ],
+  "description": "French doors come in materials like wood, fiberglass, and vinyl, each offering different benefits in terms of aesthetics, durability, and maintenance. Your choi"
+}

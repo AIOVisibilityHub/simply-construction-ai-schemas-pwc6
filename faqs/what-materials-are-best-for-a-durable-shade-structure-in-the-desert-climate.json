@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-best-for-a-durable-shade-structure-in-the-desert-climate",
+  "name": "What materials are best for a durable shade structure in the desert climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best for a durable shade structure in the desert climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the desert climate of Las Vegas, durable materials that can withstand intense sun, heat, and occasional high winds are crucial. Alumawood, a composite material that looks like wood but is made from embossed aluminum, is highly popular due to its low maintenance and resistance to rot, termites, and fading. Other excellent options include powder-coated steel for its strength and weather resistance, and certain treated woods like cedar or redwood, which offer natural beauty but require more maintenance. Choosing materials resistant to UV damage and warping is key.",
+        "@type": "Answer",
+        "description": "In desert climates, Alumawood, powder-coated steel, and treated woods like cedar are excellent, durable choices for shade structures due to their resistance to sun, heat, and wind."
+      }
+    }
+  ],
+  "description": "In desert climates, Alumawood, powder-coated steel, and treated woods like cedar are excellent, durable choices for shade structures due to their resistance to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-custom-patio",
+  "name": "What maintenance is required for a custom patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a custom patio depends largely on the materials chosen. Generally, regular cleaning to remove dirt, leaves, and debris is essential. This might involve sweeping, hosing down, or occasional power washing. For specific materials like pavers, periodic sealing can protect against stains and weather elements. Wood components may require staining or sealing. During your project consultation, we will provide detailed maintenance recommendations tailored to your chosen materials, helping you preserve your patio's beauty and longevity for years to come.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material but generally includes regular cleaning, and sometimes sealing or re-staining, to preserve longevity."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material but generally includes regular cleaning, and sometimes sealing or re-staining, to preserve longevity."
+}

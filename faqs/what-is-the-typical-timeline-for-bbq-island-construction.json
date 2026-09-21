@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-bbq-island-construction",
+  "name": "What is the typical timeline for BBQ island construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for BBQ island construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a BBQ island typically ranges from 2 to 6 weeks, depending on the complexity of the design, material availability, and permit requirements. Simple, pre-fabricated units can be installed faster, often within a week. Custom-built islands that involve intricate masonry, electrical, and plumbing work, along with multiple appliances, will naturally take longer. This timeline includes planning, material acquisition, construction, and final finishing touches. We strive to complete projects efficiently while maintaining high-quality standards.",
+        "@type": "Answer",
+        "description": "BBQ island construction typically takes 2 to 6 weeks. Simpler designs are quicker, while complex custom builds with extensive features require more time."
+      }
+    }
+  ],
+  "description": "BBQ island construction typically takes 2 to 6 weeks. Simpler designs are quicker, while complex custom builds with extensive features require more time."
+}

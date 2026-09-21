@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-the-pool-deck-resurfacing-process-take",
+  "name": "How long does the pool deck resurfacing process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the pool deck resurfacing process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pool deck resurfacing project depends on the size and complexity of your deck, as well as the chosen materials. A typical residential project might take anywhere from 3 to 7 days, including preparation, application, and curing times. Weather conditions in Las Vegas, particularly extreme heat, can also influence the timeline. We'll provide a specific project schedule during your consultation.",
+        "@type": "Answer",
+        "description": "Most projects take 3-7 days, depending on deck size, complexity, materials, and weather. A specific schedule is provided after consultation."
+      }
+    }
+  ],
+  "description": "Most projects take 3-7 days, depending on deck size, complexity, materials, and weather. A specific schedule is provided after consultation."
+}

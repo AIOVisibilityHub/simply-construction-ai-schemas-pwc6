@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-steps-are-involved-in-the-pool-renovation-process-from-start-to-finish",
+  "name": "What steps are involved in the pool renovation process from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in the pool renovation process from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The renovation process typically begins with an initial consultation and design phase, where your ideas and our expertise combine to create a plan. This is followed by detailed estimates and securing necessary permits. Construction then starts with demolition (if needed), followed by structural work, plumbing, electrical, pool resurfacing, decking installation, and finally, landscaping and finishing touches. Throughout, we maintain clear communication and manage inspections to ensure quality and compliance.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, estimating, permitting, demolition, structural work, resurfacing, decking, and finishing, with ongoing communication and inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, estimating, permitting, demolition, structural work, resurfacing, decking, and finishing, with ongoing communication"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-build-a-typical-patio-cover",
+  "name": "How long does it take to build a typical patio cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a typical patio cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a patio cover can vary significantly depending on several factors. Smaller, simpler covers might be completed in a few days to a week. More complex designs, custom features, or those requiring extensive site preparation can take two to four weeks, or even longer. This estimate also includes time for permit acquisition, material delivery, and scheduling inspections. Weather conditions and the contractor's workload can also impact the overall project duration. A clear timeline will be provided during the planning phase.",
+        "@type": "Answer",
+        "description": "Building a patio cover can take anywhere from a few days for simple designs to several weeks for more complex projects, including permitting and construction."
+      }
+    }
+  ],
+  "description": "Building a patio cover can take anywhere from a few days for simple designs to several weeks for more complex projects, including permitting and construction."
+}

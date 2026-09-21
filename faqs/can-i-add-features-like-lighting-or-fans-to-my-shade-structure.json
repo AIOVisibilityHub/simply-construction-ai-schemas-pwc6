@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-features-like-lighting-or-fans-to-my-shade-structure",
+  "name": "Can I add features like lighting or fans to my shade structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add features like lighting or fans to my shade structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Integrating features like lighting and ceiling fans is a popular way to enhance the functionality and comfort of your shade structure. Recessed LED lighting can extend the usability of your outdoor space into the evening, while outdoor-rated ceiling fans can provide much-needed air circulation during warm weather, common in Las Vegas. Other possible additions include misters for cooling, outdoor audio systems, or even integrated heaters for cooler evenings. These elements require proper electrical installation to ensure safety and performance.",
+        "@type": "Answer",
+        "description": "Yes, you can add features like integrated lighting, ceiling fans, misters, or outdoor audio systems to enhance the comfort and usability of your shade structure."
+      }
+    }
+  ],
+  "description": "Yes, you can add features like integrated lighting, ceiling fans, misters, or outdoor audio systems to enhance the comfort and usability of your shade structure"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-an-outdoor-fire-pit",
+  "name": "What maintenance is required for an outdoor fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for an outdoor fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for an outdoor fire pit depends on its type. Wood-burning fire pits require regular ash removal and occasional cleaning of the firebox. Gas fire pits need periodic checks of gas lines and igniters, and keeping burners clear of debris. Both types benefit from covers when not in use to protect against weather and debris, extending their lifespan and ensuring consistent performance. Always refer to the manufacturer's guidelines for specific care.",
+        "@type": "Answer",
+        "description": "Wood-burning fire pits need ash removal, while gas fire pits require checking lines and burners. Both benefit from covers to protect against weather and debris."
+      }
+    }
+  ],
+  "description": "Wood-burning fire pits need ash removal, while gas fire pits require checking lines and burners. Both benefit from covers to protect against weather and debris."
+}

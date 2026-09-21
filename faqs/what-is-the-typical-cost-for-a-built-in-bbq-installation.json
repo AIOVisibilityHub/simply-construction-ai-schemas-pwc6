@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-for-a-built-in-bbq-installation",
+  "name": "What is the typical cost for a built-in BBQ installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for a built-in BBQ installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a built-in BBQ installation varies significantly depending on several factors. These include the size and type of grill, the materials chosen for the island (e.g., stucco, stone, tile), the complexity of the design, and whether new gas or electrical lines need to be run. Additional features like refrigerators, sinks, or storage also impact the price. A basic installation might start at a few thousand dollars, while elaborate custom outdoor kitchens can range much higher. We provide detailed quotes after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Costs vary based on grill type, island materials, design complexity, and additional features. Basic installations start at a few thousand dollars, with custom kitchens costing more."
+      }
+    }
+  ],
+  "description": "Costs vary based on grill type, island materials, design complexity, and additional features. Basic installations start at a few thousand dollars, with custom k"
+}

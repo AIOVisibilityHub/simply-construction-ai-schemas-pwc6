@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-pool-landscaping-project",
+  "name": "What is the typical timeline for a pool landscaping project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a pool landscaping project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a pool landscaping project can range from a few weeks to several months, depending on its complexity and scale. Smaller projects involving only planting or minor hardscaping might be completed in 2-4 weeks. More extensive projects, which include significant demolition, new patio installation, outdoor kitchens, or custom water features, could take 6-12 weeks or longer. Design and permitting (if required) can add several weeks before physical work begins. Weather conditions, especially extreme heat in Las Vegas, can also influence the schedule.",
+        "@type": "Answer",
+        "description": "A pool landscaping project can take anywhere from a few weeks for minor updates to several months for complex designs, with additional time for design and permitting."
+      }
+    }
+  ],
+  "description": "A pool landscaping project can take anywhere from a few weeks for minor updates to several months for complex designs, with additional time for design and permi"
+}

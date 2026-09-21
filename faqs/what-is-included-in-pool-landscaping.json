@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-included-in-pool-landscaping",
+  "name": "What is included in pool landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in pool landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pool landscaping involves designing and installing elements around your swimming pool to enhance its appearance and functionality. This can include hardscaping features like patios, walkways, and retaining walls, as well as softscaping elements such as plants, trees, and artificial turf. Other common additions are outdoor lighting, water features, shade structures like pergolas, and fire pits. The goal is to create a cohesive and enjoyable outdoor living space that complements your pool and home architecture.",
+        "@type": "Answer",
+        "description": "Pool landscaping includes hardscaping (patios, walkways), softscaping (plants, turf), lighting, water features, and shade structures to enhance your outdoor living space."
+      }
+    }
+  ],
+  "description": "Pool landscaping includes hardscaping (patios, walkways), softscaping (plants, turf), lighting, water features, and shade structures to enhance your outdoor liv"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-maintenance-required-for-a-resurfaced-pool-deck",
+  "name": "What is the maintenance required for a resurfaced pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the maintenance required for a resurfaced pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a resurfaced pool deck is generally straightforward. Regular cleaning with a mild detergent and water is usually sufficient to remove dirt and debris. Avoid using harsh chemicals or abrasive cleaners that could damage the surface. It's also advisable to periodically check for any minor cracks or wear and address them promptly to prevent larger issues. Proper maintenance helps preserve its appearance and extends its lifespan.",
+        "@type": "Answer",
+        "description": "Maintenance involves regular cleaning with mild soap and water. Avoid harsh chemicals and address minor issues promptly to preserve its lifespan."
+      }
+    }
+  ],
+  "description": "Maintenance involves regular cleaning with mild soap and water. Avoid harsh chemicals and address minor issues promptly to preserve its lifespan."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-different-types-of-materials-used-for-pool-deck-resurfacing",
+  "name": "What are the different types of materials used for pool deck resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the different types of materials used for pool deck resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials include acrylic overlays, spray-down textures, and stamped concrete overlays. Acrylics offer durability and a cooler surface, while spray-down textures provide a slip-resistant finish with various color options. Stamped concrete can mimic the look of natural stone, brick, or tile. Each material offers different aesthetic and functional benefits, suitable for various budgets and design preferences.",
+        "@type": "Answer",
+        "description": "Materials include acrylic overlays, spray-down textures, and stamped concrete, each offering different aesthetics and functional benefits."
+      }
+    }
+  ],
+  "description": "Materials include acrylic overlays, spray-down textures, and stamped concrete, each offering different aesthetics and functional benefits."
+}

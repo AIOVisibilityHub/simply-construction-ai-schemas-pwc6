@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-a-pergola-and-a-gazebo",
+  "name": "What's the difference between a pergola and a gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a pergola and a gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both pergolas and gazebos provide outdoor shade, they differ in structure and coverage. A pergola features an open roof with a lattice or cross-beams, offering partial shade and an open, airy feel. They are often rectangular and define a specific area. A gazebo, on the other hand, typically has a fully covered, solid roof and often a more enclosed, octagonal or round shape. Gazebos provide more complete protection from sun and rain, creating a more defined outdoor room.",
+        "@type": "Answer",
+        "description": "Pergolas have an open, latticed roof offering partial shade, while gazebos have a fully covered, solid roof for more complete protection."
+      }
+    }
+  ],
+  "description": "Pergolas have an open, latticed roof offering partial shade, while gazebos have a fully covered, solid roof for more complete protection."
+}

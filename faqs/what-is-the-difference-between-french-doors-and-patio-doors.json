@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-french-doors-and-patio-doors",
+  "name": "What is the difference between French doors and patio doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between French doors and patio doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, 'patio doors' is a broader term that can include sliding glass doors, bifold doors, and French doors. French doors specifically refer to a pair of hinged doors, usually with glass panes extending their full length, that open from the center. Sliding patio doors glide along a track, and bifold doors fold inward or outward. French doors offer a classic aesthetic and a wider open entryway compared to sliding options.",
+        "@type": "Answer",
+        "description": "French doors are a specific type of hinged patio door with full-length glass panes that open from the center. Patio doors is a broader term including sliding or bifold options."
+      }
+    }
+  ],
+  "description": "French doors are a specific type of hinged patio door with full-length glass panes that open from the center. Patio doors is a broader term including sliding or"
+}

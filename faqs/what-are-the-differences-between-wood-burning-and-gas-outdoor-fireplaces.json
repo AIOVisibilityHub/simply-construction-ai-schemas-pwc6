@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-differences-between-wood-burning-and-gas-outdoor-fireplaces",
+  "name": "What are the differences between wood-burning and gas outdoor fireplaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between wood-burning and gas outdoor fireplaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Wood-burning outdoor fireplaces offer the traditional crackle, aroma, and large flame of a natural fire, but require stocking wood, cleaning ash, and can produce smoke. Gas fireplaces, conversely, offer instant on/off convenience, clean burning with no ash or smoke, and precise heat control. However, they may require a gas line installation, and the flame appearance can differ. Your choice depends on aesthetic preference, convenience needs, and available fuel sources.",
+        "@type": "Answer",
+        "description": "Wood-burning offers traditional ambiance but requires more maintenance. Gas provides convenience, cleanliness, and instant heat with less effort."
+      }
+    }
+  ],
+  "description": "Wood-burning offers traditional ambiance but requires more maintenance. Gas provides convenience, cleanliness, and instant heat with less effort."
+}

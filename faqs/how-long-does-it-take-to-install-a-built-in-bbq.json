@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-built-in-bbq",
+  "name": "How long does it take to install a built-in BBQ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a built-in BBQ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a built-in BBQ installation varies based on the project's complexity and scope. A basic installation with a pre-fabricated island might take a few days. However, a custom-designed outdoor kitchen with extensive masonry, utility extensions, and multiple appliances could take several weeks from initial design to final completion. Factors like material availability, weather conditions, and permit requirements can also influence the overall duration. We provide a detailed project timeline after the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation time varies; a basic setup might take days, while a complex custom outdoor kitchen can take several weeks, depending on design and scope."
+      }
+    }
+  ],
+  "description": "Installation time varies; a basic setup might take days, while a complex custom outdoor kitchen can take several weeks, depending on design and scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-installing-a-paver-patio",
+  "name": "What is the typical process for installing a paver patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing a paver patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The paver patio installation process generally begins with site preparation, which involves excavating the area to the correct depth and ensuring proper grading for drainage. Next, a robust base layer of compacted gravel is laid, followed by a layer of bedding sand. Pavers are then carefully placed according to the design, ensuring they are level and properly spaced. Edge restraints are installed to hold the pavers in place. Finally, jointing sand is swept into the gaps between pavers and compacted, often followed by sealing to enhance durability and appearance.",
+        "@type": "Answer",
+        "description": "The process involves site preparation, laying a compacted base, sand, placing pavers, installing edge restraints, and filling joints with sand."
+      }
+    }
+  ],
+  "description": "The process involves site preparation, laying a compacted base, sand, placing pavers, installing edge restraints, and filling joints with sand."
+}

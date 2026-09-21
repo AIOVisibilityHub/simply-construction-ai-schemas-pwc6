@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-size-and-style-for-my-outdoor-fireplace",
+  "name": "How do I choose the right size and style for my outdoor fireplace?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and style for my outdoor fireplace?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and style involves considering your outdoor living space dimensions, existing landscaping, and overall home architectural style. A fireplace should be proportionate to the area, neither overwhelming nor undersized. Consider how you plan to use the space: for large gatherings or intimate settings. Style choices range from rustic and traditional to modern and minimalist. We can help assess your space and preferences during a consultation to recommend suitable options.",
+        "@type": "Answer",
+        "description": "Consider your outdoor space size, existing landscape, and home's style to choose a proportionate fireplace that fits your aesthetic and functional needs."
+      }
+    }
+  ],
+  "description": "Consider your outdoor space size, existing landscape, and home's style to choose a proportionate fireplace that fits your aesthetic and functional needs."
+}

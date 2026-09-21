@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-new-pool-deck",
+  "name": "What maintenance is required for a new pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for a new pool deck depends on the material chosen. Generally, regular sweeping or blowing to remove debris is recommended. Most materials benefit from occasional cleaning with a mild detergent and water, particularly in areas prone to spills or staining. Pavers and natural stone may require periodic sealing to protect against stains and weather elements. Promptly addressing any cracks or minor damage can prevent larger, more costly repairs down the line. Your contractor can provide specific maintenance guidelines for your chosen material.",
+        "@type": "Answer",
+        "description": "New pool deck maintenance typically involves regular cleaning and occasional sealing, depending on the material, to prevent stains and damage."
+      }
+    }
+  ],
+  "description": "New pool deck maintenance typically involves regular cleaning and occasional sealing, depending on the material, to prevent stains and damage."
+}

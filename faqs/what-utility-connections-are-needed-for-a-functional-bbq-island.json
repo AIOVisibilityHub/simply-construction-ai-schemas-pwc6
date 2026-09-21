@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-utility-connections-are-needed-for-a-functional-bbq-island",
+  "name": "What utility connections are needed for a functional BBQ island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What utility connections are needed for a functional BBQ island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A functional BBQ island typically requires several utility connections. The primary connection is for gas, either natural gas routed from your home's main line or a propane tank connection. For islands with a sink or refrigerator, a water line and drainage will be necessary. Electrical outlets are essential for powering a refrigerator, lighting, rotisserie motors, and other small appliances. It's crucial that all these connections are installed by licensed professionals to ensure safety and compliance with local building codes. Our team can manage the coordination of all required utility hookups.",
+        "@type": "Answer",
+        "description": "A functional BBQ island needs gas (natural or propane), water and drainage for sinks/refrigerators, and electricity for appliances and lighting. All connections must be done by licensed professionals."
+      }
+    }
+  ],
+  "description": "A functional BBQ island needs gas (natural or propane), water and drainage for sinks/refrigerators, and electricity for appliances and lighting. All connections"
+}

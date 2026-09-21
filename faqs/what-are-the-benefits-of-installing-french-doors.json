@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-installing-french-doors",
+  "name": "What are the benefits of installing French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "French doors enhance natural light and improve the aesthetic appeal of a home. They offer a wider opening compared to standard doors, which is beneficial for entertaining or moving large items. Their design can also contribute to a sense of openness and connect indoor spaces with outdoor areas, making them a popular choice for patios and balconies. Additionally, modern French doors come with energy-efficient options to help with temperature regulation.",
+        "@type": "Answer",
+        "description": "French doors increase natural light, offer wider openings, and enhance home aesthetics. They can also improve the connection between indoor and outdoor living spaces."
+      }
+    }
+  ],
+  "description": "French doors increase natural light, offer wider openings, and enhance home aesthetics. They can also improve the connection between indoor and outdoor living s"
+}

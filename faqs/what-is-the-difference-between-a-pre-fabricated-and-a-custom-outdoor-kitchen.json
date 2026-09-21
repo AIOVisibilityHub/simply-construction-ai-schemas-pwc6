@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-pre-fabricated-and-a-custom-outdoor-kitchen",
+  "name": "What is the difference between a pre-fabricated and a custom outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pre-fabricated and a custom outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-fabricated outdoor kitchen typically consists of modular units that are pre-built and then assembled on-site. These are generally more cost-effective and quicker to install, offering limited customization options in terms of layout, materials, and appliances. A custom outdoor kitchen, conversely, is designed and built from scratch to perfectly fit your space, style, and functional requirements. This allows for unique layouts, specific material choices, and integration of specialized appliances, though it usually involves a higher cost and longer construction period. Simply Construction specializes in custom designs tailored to your vision.",
+        "@type": "Answer",
+        "description": "Pre-fabricated outdoor kitchens are modular, quicker, and less customizable, while custom kitchens are built from scratch to unique specifications, offering full personalization."
+      }
+    }
+  ],
+  "description": "Pre-fabricated outdoor kitchens are modular, quicker, and less customizable, while custom kitchens are built from scratch to unique specifications, offering ful"
+}

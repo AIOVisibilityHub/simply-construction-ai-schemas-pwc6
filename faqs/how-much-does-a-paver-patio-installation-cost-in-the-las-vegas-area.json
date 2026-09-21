@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-paver-patio-installation-cost-in-the-las-vegas-area",
+  "name": "How much does a paver patio installation cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a paver patio installation cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of paver patio installation in the Las Vegas area varies significantly based on several factors. These include the size and complexity of the design, the type and quality of pavers selected, site preparation requirements, and accessibility. Additional features like retaining walls, steps, or integrated lighting will also impact the total cost. It's best to obtain a detailed estimate from a local contractor after a site visit to get an accurate price for your specific project.",
+        "@type": "Answer",
+        "description": "Paver patio costs in Las Vegas vary based on size, paver type, design complexity, and site preparation. A detailed estimate from a local contractor is recommended."
+      }
+    }
+  ],
+  "description": "Paver patio costs in Las Vegas vary based on size, paver type, design complexity, and site preparation. A detailed estimate from a local contractor is recommend"
+}

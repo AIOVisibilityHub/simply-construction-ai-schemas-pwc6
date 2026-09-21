@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-building-an-outdoor-kitchen-in-the-las-vegas-area",
+  "name": "What permits are required for building an outdoor kitchen in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for building an outdoor kitchen in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an outdoor kitchen in the Las Vegas area typically requires permits to ensure compliance with local building codes and safety regulations. This often includes permits for electrical work, gas lines, and plumbing, depending on the appliances and utilities you plan to include. Structural permits may also be necessary for permanent structures or larger constructions. Simply Construction handles all necessary permit applications and ensures your outdoor kitchen project meets all local zoning and construction requirements in jurisdictions like Las Vegas, Henderson, and North Las Vegas.",
+        "@type": "Answer",
+        "description": "Permits for outdoor kitchens in the Las Vegas area are usually required for electrical, gas, and plumbing work, as well as structural elements."
+      }
+    }
+  ],
+  "description": "Permits for outdoor kitchens in the Las Vegas area are usually required for electrical, gas, and plumbing work, as well as structural elements."
+}

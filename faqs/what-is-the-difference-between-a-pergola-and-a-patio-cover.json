@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-pergola-and-a-patio-cover",
+  "name": "What is the difference between a pergola and a patio cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pergola and a patio cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both pergolas and patio covers enhance outdoor spaces, their primary functions differ. A pergola typically features an open, slatted roof design that provides partial shade and defines an outdoor area without fully enclosing it. A patio cover, on the other hand, usually has a solid, impermeable roof designed to offer complete protection from sun, rain, and other elements. Custom designs for both allow for tailored aesthetics and functionality to suit your specific needs.",
+        "@type": "Answer",
+        "description": "A pergola has an open, slatted roof for partial shade and definition, while a patio cover features a solid roof for full protection from sun and rain."
+      }
+    }
+  ],
+  "description": "A pergola has an open, slatted roof for partial shade and definition, while a patio cover features a solid roof for full protection from sun and rain."
+}

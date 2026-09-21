@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-options-are-available-for-shading-a-custom-patio-in-the-desert-climate",
+  "name": "What options are available for shading a custom patio in the desert climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What options are available for shading a custom patio in the desert climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Shading is crucial for a comfortable custom patio in the desert climate. Several effective options are available. Pergolas, either open or covered with shade sails or retractable canopies, provide architectural interest and sun protection. Solid patio covers or alumawood covers offer more complete shade and can protect against occasional rain. Retractable awnings provide flexible shade on demand. We can help you choose the best shading solution that complements your patio design, provides adequate relief from the sun, and fits within your budget and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Options for patio shading in the desert include pergolas, solid covers, alumawood covers, and retractable awnings, depending on your needs."
+      }
+    }
+  ],
+  "description": "Options for patio shading in the desert include pergolas, solid covers, alumawood covers, and retractable awnings, depending on your needs."
+}

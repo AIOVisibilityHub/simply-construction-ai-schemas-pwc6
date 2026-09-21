@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-french-doors-offer-good-security-for-a-home",
+  "name": "Do French doors offer good security for a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do French doors offer good security for a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern French doors can offer excellent security, though older models sometimes had a reputation for being less secure. Contemporary French doors feature multi-point locking systems that engage at several points along the frame, making them much more resistant to forced entry. Additionally, options like tempered or laminated safety glass and robust frame materials enhance security. We prioritize installing secure French door systems that meet current safety standards.",
+        "@type": "Answer",
+        "description": "Modern French doors offer good security with multi-point locking systems and strong glass options like tempered or laminated safety glass. Older models may be less secure."
+      }
+    }
+  ],
+  "description": "Modern French doors offer good security with multi-point locking systems and strong glass options like tempered or laminated safety glass. Older models may be l"
+}

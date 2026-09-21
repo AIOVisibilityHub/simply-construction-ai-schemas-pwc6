@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-make-my-outdoor-living-space-more-sustainable",
+  "name": "How can I make my outdoor living space more sustainable?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my outdoor living space more sustainable?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To enhance sustainability, consider drought-tolerant landscaping suitable for the Las Vegas climate, such as native plants and xeriscaping, to reduce water consumption. Incorporate permeable paving materials to minimize runoff and recharge groundwater. Utilize energy-efficient LED lighting for ambiance and safety. Opt for recycled or responsibly sourced building materials where possible, and integrate smart irrigation systems. These choices reduce environmental impact and often lower maintenance costs.",
+        "@type": "Answer",
+        "description": "Increase sustainability by using drought-tolerant landscaping, permeable paving, energy-efficient LED lighting, recycled materials, and smart irrigation. These choices reduce environmental impact and maintenance."
+      }
+    }
+  ],
+  "description": "Increase sustainability by using drought-tolerant landscaping, permeable paving, energy-efficient LED lighting, recycled materials, and smart irrigation. These"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-custom-patio-construction-project",
+  "name": "What is the typical timeline for a custom patio construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a custom patio construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom patio construction project can range from a few weeks to several months, depending on its complexity and scale. Smaller, simpler patios might be completed relatively quickly, while larger projects involving intricate designs, multiple features, and extensive site work will require more time. Factors such as material availability, permitting processes, and weather conditions can also influence the schedule. We establish a clear project timeline during the planning phase and keep you informed of progress at every stage.",
+        "@type": "Answer",
+        "description": "Project timelines vary from weeks to months, depending on design complexity, size, materials, and permitting."
+      }
+    }
+  ],
+  "description": "Project timelines vary from weeks to months, depending on design complexity, size, materials, and permitting."
+}

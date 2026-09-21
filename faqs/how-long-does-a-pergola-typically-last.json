@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-pergola-typically-last",
+  "name": "How long does a pergola typically last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a pergola typically last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of a pergola largely depends on its material, the quality of installation, and how well it is maintained. High-quality wooden pergolas, especially those made from naturally rot-resistant woods like cedar or redwood and properly sealed, can last 10-20 years or more. Aluminum and vinyl pergolas are known for their exceptional durability and can often last 25 years or even longer with minimal maintenance, making them a long-term investment for your outdoor space.",
+        "@type": "Answer",
+        "description": "Pergola lifespan varies by material; wood can last 10-20+ years, while aluminum and vinyl often last 25+ years with good maintenance."
+      }
+    }
+  ],
+  "description": "Pergola lifespan varies by material; wood can last 10-20+ years, while aluminum and vinyl often last 25+ years with good maintenance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-bbq-island-and-what-does-it-typically-include",
+  "name": "What is a BBQ island and what does it typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a BBQ island and what does it typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A BBQ island is an outdoor kitchen unit designed to house grilling equipment and often includes additional features for food preparation and entertainment. Typically, it comprises a built-in grill, countertops, storage cabinets, and sometimes a sink, refrigerator, or side burner. The structure is usually made from durable materials like stucco, stone, or tile over a steel frame, built to withstand outdoor elements. It enhances your outdoor living space by creating a dedicated area for cooking and socializing, often becoming the focal point of a backyard.",
+        "@type": "Answer",
+        "description": "A BBQ island is an outdoor kitchen unit with a built-in grill, countertops, and storage. It creates a dedicated outdoor cooking and entertaining space."
+      }
+    }
+  ],
+  "description": "A BBQ island is an outdoor kitchen unit with a built-in grill, countertops, and storage. It creates a dedicated outdoor cooking and entertaining space."
+}

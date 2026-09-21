@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-bbq-island",
+  "name": "What maintenance is required for a BBQ island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a BBQ island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a BBQ island involves regular cleaning of the grill and surrounding surfaces to ensure longevity and hygiene. Wipe down countertops and cabinet exteriors frequently to remove food spills and dust. Periodically clean the grill grates and interior components as per the manufacturer's instructions. In the Las Vegas climate, inspect the island's exterior for any signs of weathering, such as cracks in stucco or grout, and address them promptly. Covering your BBQ island when not in use can significantly protect it from sun, dust, and debris, extending its lifespan.",
+        "@type": "Answer",
+        "description": "Regular maintenance includes cleaning the grill and surfaces, wiping down countertops, and inspecting the exterior for weathering. Covering the island protects it from elements."
+      }
+    }
+  ],
+  "description": "Regular maintenance includes cleaning the grill and surfaces, wiping down countertops, and inspecting the exterior for weathering. Covering the island protects"
+}

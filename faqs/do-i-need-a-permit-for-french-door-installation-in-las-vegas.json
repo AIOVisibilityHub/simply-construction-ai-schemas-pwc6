@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-french-door-installation-in-las-vegas",
+  "name": "Do I need a permit for French door installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for French door installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for French door installation in Las Vegas depend on the scope of the project. If the installation involves altering the structural opening of your home, such as widening a doorway or creating a new opening, a building permit is typically required by the city or county. Simple replacements where the new doors fit the existing frame usually do not require a permit. Simply Construction is knowledgeable about local regulations and will advise if a permit is necessary for your project.",
+        "@type": "Answer",
+        "description": "A permit for French door installation in Las Vegas is needed if structural changes to the opening are involved. Simple replacements usually do not require one."
+      }
+    }
+  ],
+  "description": "A permit for French door installation in Las Vegas is needed if structural changes to the opening are involved. Simple replacements usually do not require one."
+}

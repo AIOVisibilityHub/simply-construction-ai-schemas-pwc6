@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-to-build-a-backyard-shade-structure",
+  "name": "What is the average cost to build a backyard shade structure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to build a backyard shade structure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a backyard shade structure varies widely based on its type, size, materials, and complexity. A basic aluminum pergola might start from a few thousand dollars, while a custom-designed, large wooden patio cover with integrated lighting and fans could range from ten thousand to upwards of thirty thousand dollars. Factors like foundation work, electrical wiring, and chosen finishes also influence the final price. We provide detailed estimates after an on-site consultation to accurately assess your specific project.",
+        "@type": "Answer",
+        "description": "Costs for backyard shade structures vary greatly, from a few thousand for basic options to over thirty thousand for custom designs, depending on type, size, and materials."
+      }
+    }
+  ],
+  "description": "Costs for backyard shade structures vary greatly, from a few thousand for basic options to over thirty thousand for custom designs, depending on type, size, and"
+}

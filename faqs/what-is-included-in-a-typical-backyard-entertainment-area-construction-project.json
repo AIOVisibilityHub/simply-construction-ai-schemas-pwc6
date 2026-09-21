@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-included-in-a-typical-backyard-entertainment-area-construction-project",
+  "name": "What is included in a typical backyard entertainment area construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a typical backyard entertainment area construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A backyard entertainment area can include a variety of features tailored to your preferences. Common elements are patios, pergolas, outdoor kitchens, fire pits, and seating areas. Some projects also incorporate water features like spas or small pools, as well as specialized lighting and landscaping. The scope depends on your vision, space available, and budget, with each component designed to enhance outdoor living and entertaining.",
+        "@type": "Answer",
+        "description": "Typical projects include patios, pergolas, outdoor kitchens, fire pits, and seating. Features like water elements, lighting, and landscaping are also common additions."
+      }
+    }
+  ],
+  "description": "Typical projects include patios, pergolas, outdoor kitchens, fire pits, and seating. Features like water elements, lighting, and landscaping are also common add"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-fire-pit-installation-take-from-design-to-completion",
+  "name": "How long does a fire pit installation take from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a fire pit installation take from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The overall timeframe from initial design to the completed installation of a fire pit can vary significantly. Simple, pre-designed installations might be completed within a few days to a week after planning. More complex, custom-built fire pits that require extensive design work, material sourcing, permitting, and gas line installation could take several weeks, or even a couple of months, depending on the scope and coordination required. Clear communication with your contractor throughout the process is key.",
+        "@type": "Answer",
+        "description": "Fire pit installation from design to completion can take days for simple projects, or several weeks to a few months for complex, custom-built designs requiring permits and utility work."
+      }
+    }
+  ],
+  "description": "Fire pit installation from design to completion can take days for simple projects, or several weeks to a few months for complex, custom-built designs requiring"
+}

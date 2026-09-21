@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-pool-landscaping-improve-home-value",
+  "name": "How can pool landscaping improve home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can pool landscaping improve home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Well-designed pool landscaping can significantly enhance your home's curb appeal and overall value, especially in a market like Las Vegas where outdoor living is highly prized. A beautiful and functional outdoor space creates a desirable extension of your home, making it more attractive to potential buyers. Features like appealing patios, drought-tolerant plants, efficient lighting, and integrated outdoor living areas can transform a simple pool into a resort-like oasis. This increased appeal often translates into a higher resale value and quicker sale times.",
+        "@type": "Answer",
+        "description": "Effective pool landscaping boosts curb appeal, creates a desirable outdoor living space, and can increase home value, especially in markets where outdoor amenities are highly valued."
+      }
+    }
+  ],
+  "description": "Effective pool landscaping boosts curb appeal, creates a desirable outdoor living space, and can increase home value, especially in markets where outdoor amenit"
+}

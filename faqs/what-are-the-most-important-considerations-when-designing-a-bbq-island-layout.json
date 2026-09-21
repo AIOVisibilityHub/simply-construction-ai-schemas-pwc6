@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-most-important-considerations-when-designing-a-bbq-island-layout",
+  "name": "What are the most important considerations when designing a BBQ island layout?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most important considerations when designing a BBQ island layout?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a BBQ island layout, consider the 'work triangle' principle for efficiency, placing the grill, preparation space, and sink (if included) in a convenient arrangement. Ensure adequate counter space for food prep and serving. Think about the flow of traffic in your outdoor area to avoid bottlenecks. Appliance placement is key; ensure proper ventilation for the grill and access to utilities like gas, water, and electricity. Finally, consider integration with existing landscaping and seating areas to create a cohesive outdoor living space.",
+        "@type": "Answer",
+        "description": "Key design considerations include an efficient work triangle, adequate counter space, traffic flow, proper appliance placement, and integration with your overall outdoor area."
+      }
+    }
+  ],
+  "description": "Key design considerations include an efficient work triangle, adequate counter space, traffic flow, proper appliance placement, and integration with your overal"
+}

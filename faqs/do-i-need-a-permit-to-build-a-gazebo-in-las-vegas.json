@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-build-a-gazebo-in-las-vegas",
+  "name": "Do I need a permit to build a gazebo in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build a gazebo in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many cases, building a gazebo in Las Vegas and the surrounding areas like Henderson or Summerlin requires a permit. The specific requirements depend on the gazebo's size, height, foundation type, and proximity to property lines. Structures exceeding certain dimensions, or those involving electrical work or permanent foundations, almost always need a permit. It's crucial to check with the local building department (e.g., Clark County Department of Building and Fire Prevention for unincorporated areas, or city-specific departments) to ensure compliance and avoid potential issues. We assist with the permit application process.",
+        "@type": "Answer",
+        "description": "A permit is often required to build a gazebo in Las Vegas and surrounding areas, especially for larger structures or those with utilities. We help navigate local permitting."
+      }
+    }
+  ],
+  "description": "A permit is often required to build a gazebo in Las Vegas and surrounding areas, especially for larger structures or those with utilities. We help navigate loca"
+}

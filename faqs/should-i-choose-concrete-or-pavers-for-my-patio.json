@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-choose-concrete-or-pavers-for-my-patio",
+  "name": "Should I choose concrete or pavers for my patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose concrete or pavers for my patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between concrete and pavers for a patio depends on your priorities. Concrete offers a smooth, monolithic surface and can be more budget-friendly upfront. However, it is prone to cracking over time, and repairs can be noticeable. Pavers, while potentially costing more initially, offer greater flexibility in design, superior durability, and easier, less visible repairs if individual units get damaged. They also allow for better drainage and a wider range of aesthetic finishes. Consider your desired look, long-term maintenance, and budget when deciding.",
+        "@type": "Answer",
+        "description": "Concrete is often cheaper and monolithic, but pavers offer better durability, design flexibility, and easier repairs. Consider budget, aesthetics, and long-term maintenance."
+      }
+    }
+  ],
+  "description": "Concrete is often cheaper and monolithic, but pavers offer better durability, design flexibility, and easier repairs. Consider budget, aesthetics, and long-term"
+}

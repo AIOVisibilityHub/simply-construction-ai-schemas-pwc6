@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-security-door",
+  "name": "What factors should I consider when choosing a security door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a security door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a security door, consider the material (steel or iron are strongest), the locking system (multi-point locks offer superior security), the frame construction (look for reinforced steel), and the hinges (non-removable pin or continuous hinges are ideal). Also, evaluate the door's design to ensure it complements your home's aesthetic, as security doesn't mean sacrificing curb appeal. Lastly, consider professional installation, as even the strongest door can be compromised if not properly fitted. Think about any specific threat levels or vulnerabilities you are trying to address.",
+        "@type": "Answer",
+        "description": "Consider material (steel, iron), locking system (multi-point), frame construction, hinges, aesthetic design, and professional installation for optimal security and integration with your home."
+      }
+    }
+  ],
+  "description": "Consider material (steel, iron), locking system (multi-point), frame construction, hinges, aesthetic design, and professional installation for optimal security"
+}

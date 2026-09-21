@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-included-in-outdoor-living-design",
+  "name": "What is included in outdoor living design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in outdoor living design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Outdoor living design encompasses the planning and creation of functional and aesthetic spaces outside your home. This can include elements like custom patios, pergolas, outdoor kitchens, fire pits, water features, landscaping, and integrated lighting. The goal is to extend your usable living space, enhance property value, and create an environment tailored to your lifestyle and preferences, considering factors like climate and existing architecture.",
+        "@type": "Answer",
+        "description": "Outdoor living design involves planning and creating functional and aesthetic exterior spaces, such as patios, kitchens, fire pits, and landscaping, to extend your home's usable area and enhance property value."
+      }
+    }
+  ],
+  "description": "Outdoor living design involves planning and creating functional and aesthetic exterior spaces, such as patios, kitchens, fire pits, and landscaping, to extend y"
+}

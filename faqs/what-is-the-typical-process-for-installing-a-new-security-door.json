@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-installing-a-new-security-door",
+  "name": "What is the typical process for installing a new security door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing a new security door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation where we discuss your security needs, assess your current entryway, and help you select the appropriate door style and features. Once the door is ordered and arrives, our team will schedule the installation. This typically involves removing your existing door and frame, preparing the opening, installing the new security door and its frame, ensuring it is plumb and level, and then fitting the locking mechanisms. Finally, we conduct a thorough test of the door's function and ensure a clean finish, demonstrating its operation to you before completion.",
+        "@type": "Answer",
+        "description": "Installation involves a consultation to choose the door, removal of the old door, precise fitting of the new security door and frame, installation of locks, and a final function test."
+      }
+    }
+  ],
+  "description": "Installation involves a consultation to choose the door, removal of the old door, precise fitting of the new security door and frame, installation of locks, and"
+}

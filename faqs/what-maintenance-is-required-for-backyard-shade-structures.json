@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-backyard-shade-structures",
+  "name": "What maintenance is required for backyard shade structures?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for backyard shade structures?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements depend heavily on the material chosen for your shade structure. Low-maintenance options like Alumawood or powder-coated steel typically only need occasional cleaning with soap and water to remove dust and debris. Wooden structures, especially those exposed to the elements, may require more regular attention, such as re-staining or sealing every few years to protect against weathering and rot. Regardless of material, it's a good practice to periodically check for any loose fasteners or damage and address them promptly to ensure longevity.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: Alumawood and steel need occasional cleaning, while wood may require regular staining or sealing. Periodically check for damage regardless of material."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: Alumawood and steel need occasional cleaning, while wood may require regular staining or sealing. Periodically check for damage"
+}

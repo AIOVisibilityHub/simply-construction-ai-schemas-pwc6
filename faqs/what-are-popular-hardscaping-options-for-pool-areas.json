@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-popular-hardscaping-options-for-pool-areas",
+  "name": "What are popular hardscaping options for pool areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are popular hardscaping options for pool areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular hardscaping options for pool areas include a variety of materials designed for durability, safety, and aesthetics. Pavers, concrete, natural stone (like travertine or flagstone), and stamped concrete are common choices for pool decks and patios, offering slip resistance and heat reflection. Retaining walls can create terraced gardens or define spaces. Other elements often incorporated are outdoor kitchens, fire pits, seating walls, and decorative pathways. These elements help define the outdoor living space and enhance the functionality around the pool.",
+        "@type": "Answer",
+        "description": "Popular hardscaping options for pool areas include pavers, concrete, and natural stone for decks, along with retaining walls, outdoor kitchens, fire pits, and seating walls."
+      }
+    }
+  ],
+  "description": "Popular hardscaping options for pool areas include pavers, concrete, and natural stone for decks, along with retaining walls, outdoor kitchens, fire pits, and s"
+}

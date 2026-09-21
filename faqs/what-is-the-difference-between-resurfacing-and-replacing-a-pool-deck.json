@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-resurfacing-and-replacing-a-pool-deck",
+  "name": "What is the difference between resurfacing and replacing a pool deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between resurfacing and replacing a pool deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Resurfacing involves applying a new layer or coating over the existing pool deck, often used to cover minor cracks, stains, or update its appearance without full demolition. This is typically a more cost-effective and quicker option. Replacing a pool deck involves complete demolition and removal of the old deck, followed by the installation of a brand-new one. Replacement is necessary when the existing deck has significant structural damage, extensive cracking, or if you desire a completely different material or layout that cannot be achieved through resurfacing.",
+        "@type": "Answer",
+        "description": "Resurfacing adds a new layer over an existing deck for cosmetic fixes, while replacing involves full demolition and new installation for significant damage or major design changes."
+      }
+    }
+  ],
+  "description": "Resurfacing adds a new layer over an existing deck for cosmetic fixes, while replacing involves full demolition and new installation for significant damage or m"
+}

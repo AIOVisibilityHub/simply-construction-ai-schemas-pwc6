@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-typical-backyard-remodeling-project",
+  "name": "What is involved in a typical backyard remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical backyard remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical backyard remodeling project can encompass various improvements depending on your vision and property. This often includes hardscaping elements like patios, walkways, and retaining walls, as well as softscaping such as new planting beds, artificial turf, or trees. Other common additions are outdoor kitchens, fire pits, water features, lighting systems, and pergolas or gazebos. The scope is tailored to your specific needs, whether it's enhancing curb appeal, creating functional entertainment spaces, or improving outdoor living comfort. We work with you to design a plan that maximizes your backyard's potential.",
+        "@type": "Answer",
+        "description": "Backyard remodeling can involve hardscaping, softscaping, outdoor kitchens, fire pits, water features, lighting, and pergolas to enhance outdoor living spaces."
+      }
+    }
+  ],
+  "description": "Backyard remodeling can involve hardscaping, softscaping, outdoor kitchens, fire pits, water features, lighting, and pergolas to enhance outdoor living spaces."
+}

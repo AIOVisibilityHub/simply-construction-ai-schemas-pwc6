@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-pergola-be-customized-with-additional-features",
+  "name": "Can a pergola be customized with additional features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a pergola be customized with additional features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pergolas can be highly customized to enhance functionality and comfort. Popular additions include retractable canopies or shades for adjustable sun protection, integrated lighting to extend usability into the evening, and ceiling fans for improved airflow. Other options include built-in heaters, outdoor curtains for added privacy, and even misters for cooling in the Las Vegas heat. Discuss your desired features with our design team to incorporate them into your custom pergola plan.",
+        "@type": "Answer",
+        "description": "Pergolas can be customized with features like retractable shades, lighting, ceiling fans, and misters. Discuss your options with our design team."
+      }
+    }
+  ],
+  "description": "Pergolas can be customized with features like retractable shades, lighting, ceiling fans, and misters. Discuss your options with our design team."
+}

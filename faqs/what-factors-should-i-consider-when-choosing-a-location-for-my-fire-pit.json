@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-location-for-my-fire-pit",
+  "name": "What factors should I consider when choosing a location for my fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a location for my fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a fire pit location, prioritize safety and accessibility. Ensure it's a safe distance from structures, overhanging trees, and flammable materials, typically at least 10 feet. Consider wind patterns, ground stability, and proximity to seating areas. For gas fire pits, consider the practicality of running a gas line. The location should complement your outdoor living space and adhere to any local setback or zone regulations.",
+        "@type": "Answer",
+        "description": "Choose a fire pit location at a safe distance from structures and flammable items, considering wind, ground stability, and accessibility. Local regulations and gas line access are also important factors."
+      }
+    }
+  ],
+  "description": "Choose a fire pit location at a safe distance from structures and flammable items, considering wind, ground stability, and accessibility. Local regulations and"
+}

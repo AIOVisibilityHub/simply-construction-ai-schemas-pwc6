@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-construct-a-covered-patio",
+  "name": "How long does it typically take to construct a covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to construct a covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a covered patio can vary significantly based on its size, complexity, materials, and whether permits are required. Generally, once permits are approved and materials are on-site, the physical construction can take anywhere from two to six weeks. This estimate does not include the design, planning, and permitting phases, which can add several more weeks or months. Your contractor can provide a more precise timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Construction of a covered patio typically takes 2-6 weeks, not including design and permitting phases, which can add more time."
+      }
+    }
+  ],
+  "description": "Construction of a covered patio typically takes 2-6 weeks, not including design and permitting phases, which can add more time."
+}

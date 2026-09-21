@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-an-outdoor-kitchen-in-the-las-vegas-area",
+  "name": "What is the typical cost range for an outdoor kitchen in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for an outdoor kitchen in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an outdoor kitchen in the Las Vegas area varies significantly based on size, materials, and features. A basic setup with a built-in grill and some counter space might start around $8,000 to $15,000. More elaborate designs incorporating advanced appliances, custom cabinetry, and extensive finishes can range from $20,000 to over $50,000. It's best to discuss your vision with a contractor for a precise estimate.",
+        "@type": "Answer",
+        "description": "Costs for outdoor kitchens in Las Vegas typically range from $8,000 for basic setups to over $50,000 for elaborate designs, depending on features and materials."
+      }
+    }
+  ],
+  "description": "Costs for outdoor kitchens in Las Vegas typically range from $8,000 for basic setups to over $50,000 for elaborate designs, depending on features and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-considerations-are-important-when-renovating-a-pool-area-for-energy-efficie",
+  "name": "What considerations are important when renovating a pool area for energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are important when renovating a pool area for energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When renovating for energy efficiency, consider upgrading to a variable-speed pump, which can significantly reduce electricity consumption compared to single-speed models. Installing energy-efficient LED lighting for the pool and surrounding area is also beneficial. Options like solar heating or a high-efficiency heat pump can drastically cut heating costs. Additionally, choosing lighter-colored pool surfaces can help reflect heat and keep the water cooler, reducing the need for cooling if desired.",
+        "@type": "Answer",
+        "description": "Consider upgrading to variable-speed pumps and LED lighting for energy efficiency. Solar or high-efficiency heat pumps reduce heating costs, and lighter pool surfaces can help regulate water temperature."
+      }
+    }
+  ],
+  "description": "Consider upgrading to variable-speed pumps and LED lighting for energy efficiency. Solar or high-efficiency heat pumps reduce heating costs, and lighter pool su"
+}

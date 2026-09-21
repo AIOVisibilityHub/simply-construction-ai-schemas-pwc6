@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-covered-patio",
+  "name": "What maintenance is required for a covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance requirements for a covered patio depend largely on the materials used. Wood patios may require periodic cleaning, staining, or sealing to protect against weathering and pests. Aluminum or steel patios are generally low-maintenance, typically only needing occasional cleaning with soap and water to remove dirt and debris. Regular inspections of the roofing, supports, and fasteners are recommended for all types to identify and address any potential issues early, ensuring longevity and safety. Clear gutters if present to prevent water buildup.",
+        "@type": "Answer",
+        "description": "Maintenance varies by material: wood needs periodic staining/sealing, while aluminum/steel require occasional cleaning. Regular inspections are recommended for all types."
+      }
+    }
+  ],
+  "description": "Maintenance varies by material: wood needs periodic staining/sealing, while aluminum/steel require occasional cleaning. Regular inspections are recommended for"
+}

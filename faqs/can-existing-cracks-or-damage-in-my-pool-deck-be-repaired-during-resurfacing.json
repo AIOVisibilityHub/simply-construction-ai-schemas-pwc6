@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-existing-cracks-or-damage-in-my-pool-deck-be-repaired-during-resurfacing",
+  "name": "Can existing cracks or damage in my pool deck be repaired during resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can existing cracks or damage in my pool deck be repaired during resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a significant advantage of pool deck resurfacing is its ability to address existing damage. Before the new surface is applied, our process includes cleaning, repairing cracks, filling divots, and leveling uneven areas of the original concrete deck. This preparation ensures a smooth, stable base for the new coating, preventing future issues and improving the overall integrity and appearance of your deck.",
+        "@type": "Answer",
+        "description": "Yes, existing cracks, divots, and uneven areas are repaired during the preparation phase of resurfacing, creating a smooth, stable base."
+      }
+    }
+  ],
+  "description": "Yes, existing cracks, divots, and uneven areas are repaired during the preparation phase of resurfacing, creating a smooth, stable base."
+}

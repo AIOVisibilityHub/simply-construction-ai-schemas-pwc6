@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-replace-my-sliding-glass-door-with-french-doors",
+  "name": "Can I replace my sliding glass door with French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace my sliding glass door with French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, replacing a sliding glass door with French doors is a common renovation project. Since sliding glass doors already provide a wide opening, the structural changes needed are often minimal compared to converting a standard single door. The main considerations include ensuring the new French doors fit precisely into the existing rough opening and that the new threshold is properly sealed and weatherproofed. This upgrade can significantly enhance the look and functionality of your space.",
+        "@type": "Answer",
+        "description": "You can replace a sliding glass door with French doors, often with minimal structural changes due to the existing wide opening. It's a common and beneficial upgrade."
+      }
+    }
+  ],
+  "description": "You can replace a sliding glass door with French doors, often with minimal structural changes due to the existing wide opening. It's a common and beneficial upg"
+}

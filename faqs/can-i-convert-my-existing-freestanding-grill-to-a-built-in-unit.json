@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-my-existing-freestanding-grill-to-a-built-in-unit",
+  "name": "Can I convert my existing freestanding grill to a built-in unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert my existing freestanding grill to a built-in unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a freestanding grill into a built-in unit is generally not recommended. Freestanding grills are designed with specific ventilation and heat dissipation characteristics that differ from those required for built-in models. Placing a freestanding grill into an enclosed island can create fire hazards due to inadequate airflow and heat buildup. It's safer and more effective to purchase a grill specifically designed for built-in applications, which are engineered to operate safely within an enclosure.",
+        "@type": "Answer",
+        "description": "No, converting a freestanding grill to a built-in unit is unsafe due to differing ventilation and heat dissipation requirements. Use a grill designed for built-in applications."
+      }
+    }
+  ],
+  "description": "No, converting a freestanding grill to a built-in unit is unsafe due to differing ventilation and heat dissipation requirements. Use a grill designed for built-"
+}

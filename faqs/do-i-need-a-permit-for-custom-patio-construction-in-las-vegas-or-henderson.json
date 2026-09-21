@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-custom-patio-construction-in-las-vegas-or-henderson",
+  "name": "Do I need a permit for custom patio construction in Las Vegas or Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for custom patio construction in Las Vegas or Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for custom patio construction depend on the scope of the project and local regulations in Las Vegas or Henderson. Simple ground-level patios may not require a permit, but structures like covered patios, pergolas, or those involving significant electrical, plumbing, or structural changes typically do. Our team is experienced with local building codes and can help determine if your specific patio design requires a permit. We can also assist with the application process to ensure compliance and a smooth project start.",
+        "@type": "Answer",
+        "description": "Permit needs depend on your patio's scope and local rules in Las Vegas or Henderson; our team can advise and assist."
+      }
+    }
+  ],
+  "description": "Permit needs depend on your patio's scope and local rules in Las Vegas or Henderson; our team can advise and assist."
+}

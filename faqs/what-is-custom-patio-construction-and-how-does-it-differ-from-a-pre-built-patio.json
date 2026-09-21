@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-custom-patio-construction-and-how-does-it-differ-from-a-pre-built-patio",
+  "name": "What is custom patio construction and how does it differ from a pre-built patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom patio construction and how does it differ from a pre-built patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom patio construction involves designing and building a patio tailored to your specific needs, preferences, and property layout. This includes choices in materials, size, shape, features like built-in seating or fire pits, and integration with your home's architecture. Unlike pre-built or modular patios, a custom patio offers unique design flexibility, ensuring it perfectly fits your lifestyle and enhances your outdoor space. It allows for personalized aesthetics and functionality that off-the-shelf options cannot match, providing a truly bespoke outdoor living area.",
+        "@type": "Answer",
+        "description": "Custom patio construction creates a unique outdoor space designed specifically for your home, unlike standard pre-built options."
+      }
+    }
+  ],
+  "description": "Custom patio construction creates a unique outdoor space designed specifically for your home, unlike standard pre-built options."
+}

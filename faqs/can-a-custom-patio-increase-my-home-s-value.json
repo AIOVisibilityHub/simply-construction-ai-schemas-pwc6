@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-custom-patio-increase-my-home-s-value",
+  "name": "Can a custom patio increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a custom patio increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed custom patio can significantly increase your home's value, especially in desirable markets like Las Vegas. It expands usable living space, enhances curb appeal, and provides an attractive outdoor entertainment area, all of which are highly appealing to potential buyers. The return on investment often depends on the quality of materials, the professionalism of the installation, and how well the patio integrates with the overall style and landscaping of your home. It transforms a backyard into a functional extension of your living space.",
+        "@type": "Answer",
+        "description": "A quality custom patio can increase home value by expanding living space and enhancing curb appeal."
+      }
+    }
+  ],
+  "description": "A quality custom patio can increase home value by expanding living space and enhancing curb appeal."
+}

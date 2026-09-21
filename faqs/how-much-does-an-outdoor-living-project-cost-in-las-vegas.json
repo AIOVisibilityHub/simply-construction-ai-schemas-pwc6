@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-an-outdoor-living-project-cost-in-las-vegas",
+  "name": "How much does an outdoor living project cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an outdoor living project cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an outdoor living project in the Las Vegas area varies significantly based on its scope, materials selected, and features included. A basic patio might start at a few thousand dollars, while a comprehensive outdoor kitchen, custom pool deck, or elaborate landscaping design could range from tens of thousands to over a hundred thousand dollars. Factors like permits, site preparation, and utility extensions also influence the final investment. It's best to discuss your vision for a tailored estimate.",
+        "@type": "Answer",
+        "description": "Costs for outdoor living projects in Las Vegas vary greatly by scope, materials, and features. A basic patio can be a few thousand, while complex projects can be tens to hundreds of thousands. A detailed estimate is recommended."
+      }
+    }
+  ],
+  "description": "Costs for outdoor living projects in Las Vegas vary greatly by scope, materials, and features. A basic patio can be a few thousand, while complex projects can b"
+}

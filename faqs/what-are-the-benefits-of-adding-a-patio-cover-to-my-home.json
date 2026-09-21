@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-adding-a-patio-cover-to-my-home",
+  "name": "What are the benefits of adding a patio cover to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a patio cover to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a patio cover provides numerous benefits, especially in the intense Las Vegas climate. It offers significant shade, making your outdoor living space more comfortable and usable year-round, even during peak summer heat. It can also protect your outdoor furniture from sun damage and extend its lifespan. Furthermore, a well-designed patio cover enhances your home's aesthetic appeal and can increase its overall property value. It creates an ideal environment for relaxation, entertaining, and enjoying the outdoors without direct sun exposure.",
+        "@type": "Answer",
+        "description": "A patio cover provides shade, protects outdoor furniture, enhances aesthetics, and increases home value, making outdoor spaces more enjoyable."
+      }
+    }
+  ],
+  "description": "A patio cover provides shade, protects outdoor furniture, enhances aesthetics, and increases home value, making outdoor spaces more enjoyable."
+}

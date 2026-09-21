@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-new-patio-cover",
+  "name": "What is the process for installing a new patio cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new patio cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The patio cover installation process typically begins with a consultation to discuss your design preferences, materials, and budget. Next, measurements are taken, and a detailed proposal is provided. Once approved, necessary permits are secured, which can take several weeks in Las Vegas. Construction then involves preparing the site, pouring footings if required, assembling the frame, attaching the roofing material, and completing any finishing touches. The entire process, from initial design to completion, can range from a few weeks to a couple of months depending on complexity and permit timelines.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, site preparation, construction, and finishing. Permitting can affect overall timing."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, site preparation, construction, and finishing. Permitting can affect overall timing."
+}

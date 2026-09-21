@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-patio-and-a-deck",
+  "name": "What is the difference between a patio and a deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a patio and a deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A patio is typically a paved area built directly on the ground, usually made of concrete, pavers, bricks, or stone. It often extends from the house or stands alone in the yard. Decks, on the other hand, are raised structures made of wood or composite materials, typically elevated above the ground and often attached to the house. Patios are generally more low-maintenance and heat-retentive, while decks can be built on uneven terrain and offer a different aesthetic. Your choice depends on ground elevation, desired aesthetics, and budget.",
+        "@type": "Answer",
+        "description": "Patios are ground-level, paved surfaces, while decks are raised structures made of wood or composite. The choice depends on elevation, aesthetics, and maintenance preferences."
+      }
+    }
+  ],
+  "description": "Patios are ground-level, paved surfaces, while decks are raised structures made of wood or composite. The choice depends on elevation, aesthetics, and maintenan"
+}

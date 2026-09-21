@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-build-an-outdoor-kitchen-in-henderson-or-las-vegas",
+  "name": "Do I need a permit to build an outdoor kitchen in Henderson or Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build an outdoor kitchen in Henderson or Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an outdoor kitchen in Henderson, Las Vegas, or surrounding areas typically requires permits. This is especially true if the project involves plumbing, electrical, or gas lines, or if it impacts existing structures or property setbacks. Permit requirements ensure the construction meets local safety and building codes. Your contractor can help navigate the specific permitting process with the relevant city or county planning departments.",
+        "@type": "Answer",
+        "description": "Yes, permits are usually required for outdoor kitchens in Henderson and Las Vegas, especially if they involve plumbing, electrical, or gas lines."
+      }
+    }
+  ],
+  "description": "Yes, permits are usually required for outdoor kitchens in Henderson and Las Vegas, especially if they involve plumbing, electrical, or gas lines."
+}

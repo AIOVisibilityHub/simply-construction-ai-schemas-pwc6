@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-materials-used-for-custom-gazebos",
+  "name": "What are the common materials used for custom gazebos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common materials used for custom gazebos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom gazebos can be constructed from a variety of materials, each offering distinct aesthetics and durability. Popular choices include cedar, redwood, and pressure-treated pine for wood gazebos, known for their natural beauty and versatility. Vinyl and aluminum gazebos offer low-maintenance alternatives with excellent weather resistance. Roofing options range from asphalt shingles and metal to fabric canopies and polycarbonate, depending on desired style, protection, and longevity.",
+        "@type": "Answer",
+        "description": "Common materials include various woods (cedar, redwood), vinyl, and aluminum for the structure, with roofing options like shingles, metal, or fabric."
+      }
+    }
+  ],
+  "description": "Common materials include various woods (cedar, redwood), vinyl, and aluminum for the structure, with roofing options like shingles, metal, or fabric."
+}

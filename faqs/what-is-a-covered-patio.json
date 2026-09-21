@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-covered-patio",
+  "name": "What is a covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A covered patio is an outdoor living space, typically attached to a house, that is protected from the elements by a roof. This roof can be an extension of the existing home's roofline or a standalone structure. Covered patios enhance outdoor enjoyment by providing shade from the sun and shelter from rain, making the space usable in various weather conditions. They can be designed with various materials and styles to complement your home's aesthetics and extend your living area outdoors.",
+        "@type": "Answer",
+        "description": "A covered patio is an outdoor living space with a roof, protecting it from sun and rain. It extends your home's usable area and enhances outdoor enjoyment."
+      }
+    }
+  ],
+  "description": "A covered patio is an outdoor living space with a roof, protecting it from sun and rain. It extends your home's usable area and enhances outdoor enjoyment."
+}

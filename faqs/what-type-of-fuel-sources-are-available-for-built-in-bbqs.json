@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-type-of-fuel-sources-are-available-for-built-in-bbqs",
+  "name": "What type of fuel sources are available for built-in BBQs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of fuel sources are available for built-in BBQs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Built-in BBQs primarily use natural gas (NG) or liquid propane (LP) as fuel sources. Natural gas is supplied directly from your home's main line, offering continuous fuel without needing to refill tanks. Liquid propane grills use refillable tanks, providing flexibility in placement where natural gas lines are unavailable or cost-prohibitive to extend. The choice often depends on existing utility access, desired convenience, and budget. Some high-end models also offer charcoal or electric options, though gas is most common.",
+        "@type": "Answer",
+        "description": "Built-in BBQs typically use natural gas (NG) for a continuous supply or liquid propane (LP) from refillable tanks, depending on utility access and preference."
+      }
+    }
+  ],
+  "description": "Built-in BBQs typically use natural gas (NG) for a continuous supply or liquid propane (LP) from refillable tanks, depending on utility access and preference."
+}

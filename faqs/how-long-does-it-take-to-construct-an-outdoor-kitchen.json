@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-construct-an-outdoor-kitchen",
+  "name": "How long does it take to construct an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for an outdoor kitchen varies based on its complexity, size, and chosen features. A simple outdoor kitchen with basic appliances might take 2-4 weeks from groundbreaking to completion. More elaborate designs involving extensive masonry work, custom cabinetry, plumbing, and multiple appliances can extend the timeline to 6-12 weeks. Factors like weather conditions, material availability, and permit approvals can also influence the overall duration. We provide a detailed project schedule during the planning phase.",
+        "@type": "Answer",
+        "description": "Construction time for an outdoor kitchen typically ranges from 2-4 weeks for simple designs to 6-12 weeks for complex projects, depending on features and approvals."
+      }
+    }
+  ],
+  "description": "Construction time for an outdoor kitchen typically ranges from 2-4 weeks for simple designs to 6-12 weeks for complex projects, depending on features and approv"
+}

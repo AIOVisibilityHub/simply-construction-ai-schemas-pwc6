@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-essential-components-of-an-outdoor-kitchen",
+  "name": "What are the essential components of an outdoor kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the essential components of an outdoor kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An outdoor kitchen typically includes key elements like a grill or cooking appliance, countertop space for prep, and storage cabinets. Depending on your needs and budget, you might also consider a refrigerator, sink, bar area, or pizza oven. The essential components are chosen based on how you plan to use the space and the types of meals you'll be preparing outdoors.",
+        "@type": "Answer",
+        "description": "Essential components include a grill, countertop space, and storage. Additional features like a refrigerator or sink can be added."
+      }
+    }
+  ],
+  "description": "Essential components include a grill, countertop space, and storage. Additional features like a refrigerator or sink can be added."
+}

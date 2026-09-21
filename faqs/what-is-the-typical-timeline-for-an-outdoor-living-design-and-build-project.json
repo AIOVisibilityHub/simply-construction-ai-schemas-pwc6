@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-an-outdoor-living-design-and-build-project",
+  "name": "What is the typical timeline for an outdoor living design and build project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for an outdoor living design and build project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an outdoor living project varies based on its complexity and size. Design phases can take a few weeks to a couple of months, depending on revisions. Construction, for a straightforward project like a patio or pergola, might be completed in 4-8 weeks. Larger projects involving extensive landscaping, outdoor kitchens, or multiple structures could extend to several months. Factors like permit acquisition, material availability, and weather conditions can also impact the overall schedule.",
+        "@type": "Answer",
+        "description": "Design phases typically take weeks to months. Construction for simple projects may be 4-8 weeks, while larger projects can take several months. Factors like permits and material availability influence the timeline."
+      }
+    }
+  ],
+  "description": "Design phases typically take weeks to months. Construction for simple projects may be 4-8 weeks, while larger projects can take several months. Factors like per"
+}

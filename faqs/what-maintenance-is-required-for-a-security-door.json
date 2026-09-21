@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-security-door",
+  "name": "What maintenance is required for a security door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a security door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Security doors generally require minimal maintenance to retain their functionality and appearance. Regular cleaning with mild soap and water is recommended to remove dirt and grime from the door surface and frame. For metal doors, inspecting for any signs of rust or corrosion, especially in the Las Vegas climate, and applying touch-up paint if needed, can prolong their life. Periodically lubricating hinges and locking mechanisms with a silicone-based spray will ensure smooth operation and prevent sticking. It's also wise to check all screws and hardware for tightness annually.",
+        "@type": "Answer",
+        "description": "Security doors require minimal maintenance, including regular cleaning, checking for rust on metal doors, lubricating hinges and locks, and ensuring all hardware remains tight for smooth operation."
+      }
+    }
+  ],
+  "description": "Security doors require minimal maintenance, including regular cleaning, checking for rust on metal doors, lubricating hinges and locks, and ensuring all hardwar"
+}

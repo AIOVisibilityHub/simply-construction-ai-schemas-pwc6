@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-size-and-location-for-my-new-gazebo",
+  "name": "How do I choose the right size and location for my new gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right size and location for my new gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right size and location for your gazebo involves considering its intended use and your yard's characteristics. For dining, ensure enough space for a table and chairs, plus comfortable circulation. For relaxation, factor in seating and perhaps a small side table. Measure your available space carefully. Location-wise, consider sun exposure throughout the day for optimal shade, proximity to the house for convenience, and views. Also, check for underground utilities, overhead lines, and setback requirements from property lines. A well-placed gazebo enhances both functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Select gazebo size based on intended use and choose a location considering sun exposure, proximity to your home, and adherence to property setbacks."
+      }
+    }
+  ],
+  "description": "Select gazebo size based on intended use and choose a location considering sun exposure, proximity to your home, and adherence to property setbacks."
+}

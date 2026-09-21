@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-you-offer-custom-outdoor-kitchen-designs-with-built-in-bbqs",
+  "name": "Do you offer custom outdoor kitchen designs with built-in BBQs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer custom outdoor kitchen designs with built-in BBQs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Simply Construction specializes in designing and building custom outdoor kitchens that feature integrated built-in BBQs. We work with clients to create a functional and aesthetically pleasing outdoor cooking and entertainment space tailored to their specific needs and property. Our services include planning the layout, selecting materials for the island and countertops, integrating appliances like grills, side burners, refrigerators, and sinks, and managing all utility connections and construction phases. We handle the entire project from concept to completion.",
+        "@type": "Answer",
+        "description": "Yes, we design and build custom outdoor kitchens with integrated built-in BBQs, including layout planning, material selection, appliance integration, and full construction management."
+      }
+    }
+  ],
+  "description": "Yes, we design and build custom outdoor kitchens with integrated built-in BBQs, including layout planning, material selection, appliance integration, and full c"
+}

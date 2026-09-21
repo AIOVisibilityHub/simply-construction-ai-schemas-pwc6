@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-make-my-backyard-more-eco-friendly-during-a-remodel",
+  "name": "How can I make my backyard more eco-friendly during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my backyard more eco-friendly during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To make your backyard more eco-friendly, consider incorporating native and drought-tolerant plants (xeriscaping) to significantly reduce water consumption, which is especially important in Southern Nevada. Install a smart irrigation system that adjusts watering schedules based on weather and soil moisture. Utilize permeable paving materials for patios and walkways to help with water runoff management. Opt for recycled or sustainable building materials where possible, and integrate energy-efficient outdoor lighting, such as LED or solar-powered options. Composting and rainwater harvesting are also excellent eco-conscious additions.",
+        "@type": "Answer",
+        "description": "Enhance eco-friendliness with xeriscaping, smart irrigation, permeable paving, sustainable materials, and energy-efficient lighting. Consider composting and rainwater harvesting."
+      }
+    }
+  ],
+  "description": "Enhance eco-friendliness with xeriscaping, smart irrigation, permeable paving, sustainable materials, and energy-efficient lighting. Consider composting and rai"
+}

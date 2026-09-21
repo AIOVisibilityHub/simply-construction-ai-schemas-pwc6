@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-popular-features-for-outdoor-kitchens-in-las-vegas",
+  "name": "What are popular features for outdoor kitchens in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are popular features for outdoor kitchens in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular outdoor kitchen features in Las Vegas often include high-performance grills, refrigerators, sinks, and ample counter space for food preparation and serving. Many homeowners also opt for pizza ovens, side burners, ice makers, and storage cabinetry. Integrating shaded dining areas, bar seating, and durable, heat-resistant materials like granite or stainless steel is common to withstand the desert climate and enhance usability and entertainment value.",
+        "@type": "Answer",
+        "description": "Popular outdoor kitchen features in Las Vegas include high-performance grills, refrigerators, sinks, counter space, pizza ovens, and shaded dining areas. Durable, heat-resistant materials are preferred."
+      }
+    }
+  ],
+  "description": "Popular outdoor kitchen features in Las Vegas include high-performance grills, refrigerators, sinks, counter space, pizza ovens, and shaded dining areas. Durabl"
+}

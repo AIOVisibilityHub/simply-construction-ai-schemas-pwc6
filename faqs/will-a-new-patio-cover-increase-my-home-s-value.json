@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-new-patio-cover-increase-my-home-s-value",
+  "name": "Will a new patio cover increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a new patio cover increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and properly installed patio cover can significantly enhance your home's appeal and potentially increase its market value, especially in a climate like Las Vegas where outdoor living is highly valued. It expands usable living space, offers protection from the elements, and can improve energy efficiency by shading windows. Potential buyers often see an attractive and functional patio cover as a desirable amenity, contributing to a higher perceived value and potentially a faster sale. The return on investment can vary based on material quality and design integration with the existing home.",
+        "@type": "Answer",
+        "description": "Yes, a quality patio cover can increase home value by expanding usable space, offering protection, and enhancing curb appeal, especially in Las Vegas."
+      }
+    }
+  ],
+  "description": "Yes, a quality patio cover can increase home value by expanding usable space, offering protection, and enhancing curb appeal, especially in Las Vegas."
+}

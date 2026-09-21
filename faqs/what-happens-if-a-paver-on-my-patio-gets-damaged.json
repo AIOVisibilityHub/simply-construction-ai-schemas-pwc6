@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-happens-if-a-paver-on-my-patio-gets-damaged",
+  "name": "What happens if a paver on my patio gets damaged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a paver on my patio gets damaged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "One of the significant advantages of a paver patio is the ease of repair if an individual paver gets damaged. Unlike a solid concrete slab where a crack often requires extensive repair or replacement of a large section, a damaged paver can typically be removed and replaced with a new one. This process usually involves carefully extracting the affected paver, cleaning the bedding sand, inserting a new paver, and then refilling the joints with sand. This localized repair helps maintain the patio's integrity and appearance without major disruption.",
+        "@type": "Answer",
+        "description": "If a paver gets damaged, it can usually be individually removed and replaced without affecting the rest of the patio, making repairs easy."
+      }
+    }
+  ],
+  "description": "If a paver gets damaged, it can usually be individually removed and replaced without affecting the rest of the patio, making repairs easy."
+}

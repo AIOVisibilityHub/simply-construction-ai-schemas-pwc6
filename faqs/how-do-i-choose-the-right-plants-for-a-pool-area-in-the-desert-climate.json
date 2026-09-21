@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-plants-for-a-pool-area-in-the-desert-climate",
+  "name": "How do I choose the right plants for a pool area in the desert climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right plants for a pool area in the desert climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right plants for a desert pool area is crucial for water conservation and longevity. Opt for drought-tolerant and heat-resistant species native to or well-adapted to the Las Vegas climate. Consider plants with minimal shedding to keep your pool clean and avoid varieties with thorns or messy fruits. Examples include various succulents, desert grasses, certain palm trees, and specified shrubs. It's also wise to select plants that won't attract excessive insects to the pool area. Consulting with a local landscaper can help you make the best selections.",
+        "@type": "Answer",
+        "description": "Select drought-tolerant, heat-resistant, and low-shedding plants suitable for the desert climate, avoiding thorny or messy varieties that attract insects. Local landscapers can provide specific recommendations."
+      }
+    }
+  ],
+  "description": "Select drought-tolerant, heat-resistant, and low-shedding plants suitable for the desert climate, avoiding thorny or messy varieties that attract insects. Local"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-in-energy-efficient-patio-doors-for-the-las-vegas-climate",
+  "name": "What should I look for in energy-efficient patio doors for the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in energy-efficient patio doors for the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the Las Vegas climate, look for patio doors with good insulation properties and advanced glass technology. Key metrics include a low U-factor for better insulation against heat transfer and a low Solar Heat Gain Coefficient (SHGC) to reduce heat gain from direct sunlight. Double-pane or triple-pane glass with low-emissivity (Low-E) coatings and argon gas fills are highly effective. These features help keep your home cooler in summer and warmer in winter, reducing energy consumption.",
+        "@type": "Answer",
+        "description": "Look for low U-factor, low SHGC, double or triple-pane glass, Low-E coatings, and argon gas fills to improve energy efficiency in Las Vegas."
+      }
+    }
+  ],
+  "description": "Look for low U-factor, low SHGC, double or triple-pane glass, Low-E coatings, and argon gas fills to improve energy efficiency in Las Vegas."
+}

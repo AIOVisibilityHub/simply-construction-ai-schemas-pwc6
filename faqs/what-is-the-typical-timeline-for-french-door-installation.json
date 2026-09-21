@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-french-door-installation",
+  "name": "What is the typical timeline for French door installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for French door installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for French doors generally ranges from one to three days. This includes removing existing doors or windows, preparing the opening, installing the new French doors, and completing trim and sealing work. Factors that can extend this timeline include custom door orders, significant structural alterations to the wall, or unexpected issues with the existing frame. We will provide a detailed project schedule after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Most French door installations take 1-3 days, depending on factors like structural changes and custom door orders. A detailed schedule will be provided during your consultation."
+      }
+    }
+  ],
+  "description": "Most French door installations take 1-3 days, depending on factors like structural changes and custom door orders. A detailed schedule will be provided during y"
+}

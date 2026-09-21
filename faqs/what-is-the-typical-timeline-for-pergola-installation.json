@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-pergola-installation",
+  "name": "What is the typical timeline for pergola installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for pergola installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for pergola installation depends on several factors, including the project's complexity, material availability, and weather conditions. A standard, pre-fabricated pergola might be installed within a few days once preparations are complete. Custom-designed pergolas, which require more detailed planning, material sourcing, and construction, can take anywhere from one to two weeks, or even longer for very elaborate designs. Our team will provide a clear project schedule after the initial design and material selection.",
+        "@type": "Answer",
+        "description": "Typical pergola installation can range from a few days for standard designs to one to two weeks or more for custom projects, depending on complexity and materials."
+      }
+    }
+  ],
+  "description": "Typical pergola installation can range from a few days for standard designs to one to two weeks or more for custom projects, depending on complexity and materia"
+}

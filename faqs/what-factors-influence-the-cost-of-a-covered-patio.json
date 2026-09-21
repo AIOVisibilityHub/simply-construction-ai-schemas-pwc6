@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-covered-patio",
+  "name": "What factors influence the cost of a covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors impact the total cost of a covered patio. These include the size and complexity of the design, the type of materials chosen (e.g., aluminum, wood, steel), the roofing material, foundation requirements, and any additional features like lighting, ceiling fans, or electrical outlets. Site preparation, such as grading or existing structure modifications, can also influence the price. Costs also vary based on local labor rates and permit fees. Obtaining detailed quotes based on your specific project is recommended.",
+        "@type": "Answer",
+        "description": "Cost factors for a covered patio include size, complexity, material choices, additional features, site preparation, and local labor rates."
+      }
+    }
+  ],
+  "description": "Cost factors for a covered patio include size, complexity, material choices, additional features, site preparation, and local labor rates."
+}

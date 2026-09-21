@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-custom-patio-project",
+  "name": "How do I choose the right contractor for my custom patio project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my custom patio project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your custom patio project, look for experience, strong references, and proper licensing and insurance. Review their portfolio to see examples of their work and ensure their style aligns with your vision. It's also important to get detailed, written estimates that clearly outline costs, materials, and timelines. A reliable contractor should offer transparent communication, be responsive to your questions, and demonstrate a clear understanding of your project's unique requirements and local building codes.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, references, licensing, portfolio, detailed estimates, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, references, licensing, portfolio, detailed estimates, and clear communication."
+}

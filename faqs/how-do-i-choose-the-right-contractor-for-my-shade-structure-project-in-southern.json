@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-shade-structure-project-in-southern",
+  "name": "How do I choose the right contractor for my shade structure project in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my shade structure project in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful shade structure project. Look for a licensed and insured general contractor with specific experience in outdoor living spaces and shade structures in Southern Nevada. Review their portfolio, check references, and read online reviews. Ensure they provide a detailed, transparent proposal outlining materials, timeline, and costs. A good contractor will also be knowledgeable about local building codes and permit requirements, offering design expertise and clear communication throughout the project.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with local experience in shade structures, a strong portfolio, good references, and who provides detailed proposals and understands local codes."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with local experience in shade structures, a strong portfolio, good references, and who provides detailed proposals and un"
+}

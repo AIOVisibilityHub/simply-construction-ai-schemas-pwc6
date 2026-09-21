@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-a-concrete-patio",
+  "name": "What are the benefits of a concrete patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of a concrete patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete patios offer durability and require minimal maintenance, making them a practical choice for outdoor living spaces. They can be customized with various finishes, colors, and textures to match your home's aesthetic. Concrete is also resistant to rot, pests, and fire. Its solid surface provides a stable foundation for outdoor furniture and activities, and it can increase your property's value. In the Las Vegas climate, concrete performs well by offering a cool surface option when lighter colors are used.",
+        "@type": "Answer",
+        "description": "Concrete patios are durable, low-maintenance, and customizable, offering a practical and attractive outdoor living solution."
+      }
+    }
+  ],
+  "description": "Concrete patios are durable, low-maintenance, and customizable, offering a practical and attractive outdoor living solution."
+}

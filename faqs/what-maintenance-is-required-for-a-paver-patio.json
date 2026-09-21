@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-paver-patio",
+  "name": "What maintenance is required for a paver patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a paver patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining a paver patio is relatively straightforward. Regular sweeping helps remove debris. Occasional rinsing with water or a mild detergent solution can clean off dirt and stains. It's important to monitor the jointing sand and replenish it if it erodes, especially after heavy rains or pressure washing, to maintain paver stability. Weeds can sometimes grow in the joints; these can be removed manually or with appropriate weed control products. Sealing the patio periodically, typically every 2-5 years, can protect it from stains and enhance its color.",
+        "@type": "Answer",
+        "description": "Paver patio maintenance involves regular sweeping, occasional cleaning, replenishing joint sand, weed removal, and optional periodic sealing to protect and enhance."
+      }
+    }
+  ],
+  "description": "Paver patio maintenance involves regular sweeping, occasional cleaning, replenishing joint sand, weed removal, and optional periodic sealing to protect and enha"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-construct-a-gazebo",
+  "name": "How long does it take to construct a gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a gazebo depends on its complexity and whether it's a pre-fabricated kit or a custom build. A simple kit can often be assembled and installed within a few days to a week. Custom-designed and built gazebos, which involve more intricate carpentry, foundation work, and potential utility connections, may take anywhere from two to four weeks, or even longer for very large or elaborate structures. Weather conditions and permit approval times can also influence the overall project duration. We provide a detailed project schedule upfront.",
+        "@type": "Answer",
+        "description": "Gazebo construction typically takes a few days for kits to several weeks for custom builds, depending on complexity and design."
+      }
+    }
+  ],
+  "description": "Gazebo construction typically takes a few days for kits to several weeks for custom builds, depending on complexity and design."
+}

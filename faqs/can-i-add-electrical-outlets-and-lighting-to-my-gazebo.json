@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-electrical-outlets-and-lighting-to-my-gazebo",
+  "name": "Can I add electrical outlets and lighting to my gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add electrical outlets and lighting to my gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding electrical outlets and lighting to your gazebo is a common request and significantly enhances its functionality and usability, especially for evening enjoyment. This typically involves running underground electrical conduit from your main power supply to the gazebo's location. Options include ceiling fans with lights, recessed lighting, string lights, and conveniently placed outlets for charging devices or powering small appliances. Any electrical work must be performed by a licensed electrician and comply with local electrical codes and safety standards, often requiring specific permits.",
+        "@type": "Answer",
+        "description": "Yes, electrical outlets and lighting can be added to a gazebo by a licensed electrician, requiring proper permits and adherence to safety codes."
+      }
+    }
+  ],
+  "description": "Yes, electrical outlets and lighting can be added to a gazebo by a licensed electrician, requiring proper permits and adherence to safety codes."
+}

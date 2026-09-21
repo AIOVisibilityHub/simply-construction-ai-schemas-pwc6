@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-design-and-build-a-custom-gazebo",
+  "name": "How long does it take to design and build a custom gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to design and build a custom gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom gazebo project varies depending on its complexity, material availability, and permit acquisition. Design can take a few weeks, while permitting in areas like Las Vegas, Henderson, or Summerlin might add several weeks to a few months. Construction typically ranges from 2 to 6 weeks for standard designs, but larger or more intricate gazebos could take longer. We provide an estimated timeline during the initial planning phase.",
+        "@type": "Answer",
+        "description": "Design and build times vary, with design taking weeks, permitting adding several weeks to months, and construction typically lasting 2 to 6 weeks."
+      }
+    }
+  ],
+  "description": "Design and build times vary, with design taking weeks, permitting adding several weeks to months, and construction typically lasting 2 to 6 weeks."
+}

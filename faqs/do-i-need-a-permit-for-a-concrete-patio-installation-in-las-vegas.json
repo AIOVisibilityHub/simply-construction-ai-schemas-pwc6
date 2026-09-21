@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-concrete-patio-installation-in-las-vegas",
+  "name": "Do I need a permit for a concrete patio installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a concrete patio installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including parts of Las Vegas, a building permit may be required for concrete patio installations, especially if the patio is attached to the house, over a certain size, or involves significant excavation or changes to drainage. Permit requirements vary by specific jurisdiction (e.g., City of Las Vegas, Henderson, Clark County). It is crucial to check with your local planning or building department before starting any project to ensure compliance with local codes and regulations. Your contractor can often assist with this process.",
+        "@type": "Answer",
+        "description": "A permit may be required for concrete patio installation in Las Vegas, especially for larger or attached patios. Check with your local building department."
+      }
+    }
+  ],
+  "description": "A permit may be required for concrete patio installation in Las Vegas, especially for larger or attached patios. Check with your local building department."
+}

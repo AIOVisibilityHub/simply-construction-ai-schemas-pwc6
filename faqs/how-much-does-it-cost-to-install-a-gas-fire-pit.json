@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-install-a-gas-fire-pit",
+  "name": "How much does it cost to install a gas fire pit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a gas fire pit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to install a gas fire pit varies significantly based on several factors. These include the size and materials of the fire pit, whether a new gas line needs to be run, the complexity of the design, and site preparation. Custom built-in gas fire pits with extensive hardscaping will be more expensive than simpler, pre-fabricated options. For an accurate estimate, it's best to have a contractor assess your specific project needs.",
+        "@type": "Answer",
+        "description": "The cost of gas fire pit installation depends on size, materials, gas line requirements, design complexity, and site preparation. Custom options are generally more expensive."
+      }
+    }
+  ],
+  "description": "The cost of gas fire pit installation depends on size, materials, gas line requirements, design complexity, and site preparation. Custom options are generally m"
+}

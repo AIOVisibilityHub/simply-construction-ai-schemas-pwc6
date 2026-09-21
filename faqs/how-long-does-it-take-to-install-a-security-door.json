@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-security-door",
+  "name": "How long does it take to install a security door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a security door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The actual installation of a standard security door typically takes between half a day to a full day, depending on the complexity of the project and any necessary frame adjustments. Custom installations or those requiring significant structural modifications might take longer. However, the overall timeline from initial consultation to final installation also includes the time required for door selection, manufacturing (especially for custom doors), and delivery, which can range from a few weeks to several months. We provide an estimated timeline during your initial consultation.",
+        "@type": "Answer",
+        "description": "Actual installation usually takes half a day to a full day, but the total project timeline, including selection and manufacturing, can range from a few weeks to several months."
+      }
+    }
+  ],
+  "description": "Actual installation usually takes half a day to a full day, but the total project timeline, including selection and manufacturing, can range from a few weeks to"
+}

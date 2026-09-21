@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-patio-cover",
+  "name": "How long does it take to install a patio cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a patio cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a patio cover can vary based on its size, complexity, and the materials used. Generally, after permits are secured, the actual construction phase for a standard patio cover can take anywhere from a few days to two weeks. However, the overall project duration, including design, material selection, and particularly the permitting process with local authorities in Las Vegas, can extend to several weeks or even a couple of months. We aim to complete projects efficiently while ensuring quality and compliance.",
+        "@type": "Answer",
+        "description": "Actual construction takes a few days to two weeks. The full project, including permitting, can extend to several weeks or months."
+      }
+    }
+  ],
+  "description": "Actual construction takes a few days to two weeks. The full project, including permitting, can extend to several weeks or months."
+}

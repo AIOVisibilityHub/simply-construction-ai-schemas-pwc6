@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-renovating-a-pool-area-in-the-las-vegas-area",
+  "name": "What is the average cost of renovating a pool area in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of renovating a pool area in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a pool area renovation in the Las Vegas area depends on many factors, including the size of your pool, the materials chosen, and the extent of the work. Basic updates like resurfacing and minor decking improvements might start from $15,000 to $30,000. Comprehensive renovations, adding features like spas, extensive hardscaping, or high-end materials, can range from $50,000 to over $100,000. We provide detailed, transparent quotes after assessing your specific project requirements.",
+        "@type": "Answer",
+        "description": "Average costs vary widely, from $15,000 for basic updates to over $100,000 for comprehensive renovations in Las Vegas, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Average costs vary widely, from $15,000 for basic updates to over $100,000 for comprehensive renovations in Las Vegas, depending on scope and materials."
+}

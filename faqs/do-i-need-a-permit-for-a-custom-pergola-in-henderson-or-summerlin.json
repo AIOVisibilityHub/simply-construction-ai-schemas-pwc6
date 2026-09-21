@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-custom-pergola-in-henderson-or-summerlin",
+  "name": "Do I need a permit for a custom pergola in Henderson or Summerlin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a custom pergola in Henderson or Summerlin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for your custom pergola depends on its size, height, and specific location within municipalities like Henderson or Summerlin. Many larger or attached structures require permits to ensure compliance with local building codes and zoning regulations. Our team will assist you in determining if a permit is necessary for your specific project and guide you through the application process to ensure all local requirements are met before construction begins.",
+        "@type": "Answer",
+        "description": "Permit requirements for a custom pergola depend on its size, height, and location in cities like Henderson or Summerlin. Our team will help you determine necessity and navigate the application process."
+      }
+    }
+  ],
+  "description": "Permit requirements for a custom pergola depend on its size, height, and location in cities like Henderson or Summerlin. Our team will help you determine necess"
+}

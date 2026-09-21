@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-build-a-shade-structure-in-las-vegas",
+  "name": "Do I need a permit to build a shade structure in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build a shade structure in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas and surrounding areas like Henderson or North Las Vegas, permits are often required for backyard shade structures. The specific requirements can vary based on the size, height, and attachment method of the structure. For instance, larger or attached patio covers usually require a permit to ensure they meet local building codes and zoning ordinances. It's always best to check with the local building department in your specific city or county before starting any construction to understand the exact regulations and avoid potential issues.",
+        "@type": "Answer",
+        "description": "Yes, permits are often required for backyard shade structures in the Las Vegas area, depending on size and type. Always check with your local building department."
+      }
+    }
+  ],
+  "description": "Yes, permits are often required for backyard shade structures in the Las Vegas area, depending on size and type. Always check with your local building departmen"
+}

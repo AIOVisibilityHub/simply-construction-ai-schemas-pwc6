@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-pool-deck-remodeling-project-take",
+  "name": "How long does a typical pool deck remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical pool deck remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pool deck remodeling project varies based on its scope, material choice, and the size of the deck. A smaller project involving resurfacing might take a few days, while a complete demolition and new installation of a larger deck can take two to four weeks. Factors like weather conditions, material availability, and unforeseen repairs to the underlying structure can also influence the timeline. Your contractor will provide a more accurate estimate after assessing your specific project.",
+        "@type": "Answer",
+        "description": "A typical pool deck remodel can take anywhere from a few days for resurfacing to two to four weeks for a full demolition and new installation, depending on the project's scope and materials."
+      }
+    }
+  ],
+  "description": "A typical pool deck remodel can take anywhere from a few days for resurfacing to two to four weeks for a full demolition and new installation, depending on the"
+}

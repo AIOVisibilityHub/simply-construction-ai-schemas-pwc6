@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-does-a-concrete-patio-require",
+  "name": "What maintenance does a concrete patio require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance does a concrete patio require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete patios require relatively low maintenance. Regular cleaning with a broom or hose to remove dirt and debris is usually sufficient. For tougher stains, a mild detergent and brush can be used. It's also recommended to seal the patio every 2-5 years to protect it from moisture, stains, and UV damage, which helps preserve its appearance and extend its lifespan. Promptly address any cracks or damage to prevent further deterioration.",
+        "@type": "Answer",
+        "description": "Concrete patios need regular cleaning and should be sealed every 2-5 years to protect against stains, moisture, and UV damage."
+      }
+    }
+  ],
+  "description": "Concrete patios need regular cleaning and should be sealed every 2-5 years to protect against stains, moisture, and UV damage."
+}

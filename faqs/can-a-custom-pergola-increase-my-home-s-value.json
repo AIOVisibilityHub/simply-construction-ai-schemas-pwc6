@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-custom-pergola-increase-my-home-s-value",
+  "name": "Can a custom pergola increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a custom pergola increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and professionally installed custom pergola can enhance your home's value and curb appeal. By creating an attractive and functional outdoor living space, it adds usable square footage and improves the overall aesthetic of your property. Potential buyers often appreciate additional amenities that enhance lifestyle, making a high-quality pergola a worthwhile investment that differentiates your home in the competitive Las Vegas real estate market.",
+        "@type": "Answer",
+        "description": "A custom pergola can increase home value by adding an attractive and functional outdoor living space, boosting curb appeal and making your property more desirable to buyers."
+      }
+    }
+  ],
+  "description": "A custom pergola can increase home value by adding an attractive and functional outdoor living space, boosting curb appeal and making your property more desirab"
+}

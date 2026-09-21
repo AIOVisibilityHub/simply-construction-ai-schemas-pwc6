@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-concrete-patio",
+  "name": "How long does it take to install a concrete patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a concrete patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a concrete patio typically ranges from 3 to 7 days, depending on the patio's size, design complexity, and site conditions. This includes preparation, forming, pouring, and initial curing. Weather conditions, especially extreme heat or rain, can also influence the schedule. While the concrete is usable within a few days, it reaches its full strength after about 28 days. Your contractor will provide a more precise timeline after a site assessment.",
+        "@type": "Answer",
+        "description": "Installation usually takes 3 to 7 days, varying with size and complexity. Full strength is achieved in about 28 days."
+      }
+    }
+  ],
+  "description": "Installation usually takes 3 to 7 days, varying with size and complexity. Full strength is achieved in about 28 days."
+}

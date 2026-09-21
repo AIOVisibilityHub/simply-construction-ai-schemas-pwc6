@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-custom-pergola-and-how-does-it-differ-from-a-standard-pergola",
+  "name": "What is a custom pergola and how does it differ from a standard pergola?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a custom pergola and how does it differ from a standard pergola?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom pergola is designed and built specifically for your outdoor space, taking into account unique dimensions, desired aesthetics, and specific functional needs. Unlike standard, pre-fabricated pergolas, a custom design allows for personalized material choices, custom shapes, integrated features like lighting or heaters, and precise integration with your home's architecture. This ensures a perfect fit and a unique outdoor living experience tailored to your lifestyle in areas like Las Vegas, Henderson, or Summerlin.",
+        "@type": "Answer",
+        "description": "A custom pergola is uniquely designed for your space, unlike standard pre-fabricated options. It allows for personalized materials, shapes, and features to perfectly match your home and lifestyle."
+      }
+    }
+  ],
+  "description": "A custom pergola is uniquely designed for your space, unlike standard pre-fabricated options. It allows for personalized materials, shapes, and features to perf"
+}

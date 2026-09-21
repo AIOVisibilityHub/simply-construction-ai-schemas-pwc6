@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-design-for-my-backyard-entertainment-area",
+  "name": "How do I choose the right design for my backyard entertainment area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right design for my backyard entertainment area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right design involves considering your lifestyle, how you plan to use the space, and your home's architectural style. Think about whether you primarily want to relax, entertain guests, cook outdoors, or a combination. Consider the size and shape of your backyard, existing landscaping, and sun exposure. Browsing inspiration photos, creating a wish list, and discussing your preferences with our design team can help clarify your vision and ensure the final design meets your needs and complements your home.",
+        "@type": "Answer",
+        "description": "Consider your lifestyle, how you'll use the space, and your home's style. Review inspiration and discuss with our designers to create a functional and aesthetic plan."
+      }
+    }
+  ],
+  "description": "Consider your lifestyle, how you'll use the space, and your home's style. Review inspiration and discuss with our designers to create a functional and aesthetic"
+}

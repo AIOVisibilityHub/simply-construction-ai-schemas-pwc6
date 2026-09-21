@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-start-the-process-of-designing-a-custom-pergola-with-simply-constructio",
+  "name": "How do I start the process of designing a custom pergola with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the process of designing a custom pergola with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting your custom pergola project is simple. Contact Simply Construction to schedule an initial consultation. During this meeting, we'll discuss your vision, outdoor space, functional needs, and budget. We'll assess your property, offer design ideas, and explain the various material and feature options. From there, we'll develop a detailed proposal and design plan, working closely with you through each step until your dream pergola comes to life.",
+        "@type": "Answer",
+        "description": "Begin by contacting Simply Construction for a consultation. We'll discuss your vision, assess your space, and create a detailed design plan and proposal together."
+      }
+    }
+  ],
+  "description": "Begin by contacting Simply Construction for a consultation. We'll discuss your vision, assess your space, and create a detailed design plan and proposal togethe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-the-custom-pergola-design-and-installation-process-typically-take",
+  "name": "How long does the custom pergola design and installation process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the custom pergola design and installation process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom pergola project varies based on its complexity and material availability. Generally, the design phase can take a few weeks, involving initial consultations, revisions, and final approvals. Once the design is finalized and permits (if needed in your Las Vegas area municipality) are secured, fabrication and installation typically range from 2 to 6 weeks. We work efficiently to minimize disruption and ensure timely completion of your outdoor living space.",
+        "@type": "Answer",
+        "description": "The process from design to installation usually takes 4 to 12 weeks, depending on complexity and material availability. Design can take weeks, followed by 2-6 weeks for fabrication and installation after permits."
+      }
+    }
+  ],
+  "description": "The process from design to installation usually takes 4 to 12 weeks, depending on complexity and material availability. Design can take weeks, followed by 2-6 w"
+}

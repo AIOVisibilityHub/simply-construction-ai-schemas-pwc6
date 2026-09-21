@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-maintain-my-built-in-bbq",
+  "name": "How do I maintain my built-in BBQ?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I maintain my built-in BBQ?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintaining your built-in BBQ involves regular cleaning and occasional inspections. After each use, clean the grates to prevent food buildup. Periodically, clean the interior components like burner covers, burners, and drip trays. Inspect gas lines for leaks and connections for tightness. Check igniters and ensure proper airflow. For the exterior, clean according to the island material (e.g., wiping down stucco, cleaning stone). Regular maintenance ensures longevity, optimal performance, and safe operation of your outdoor kitchen.",
+        "@type": "Answer",
+        "description": "Maintain your built-in BBQ by regularly cleaning grates and interior components, inspecting gas lines and igniters, and cleaning the exterior according to its material."
+      }
+    }
+  ],
+  "description": "Maintain your built-in BBQ by regularly cleaning grates and interior components, inspecting gas lines and igniters, and cleaning the exterior according to its m"
+}

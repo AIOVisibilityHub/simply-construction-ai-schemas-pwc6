@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-commonly-used-for-outdoor-fireplaces",
+  "name": "What materials are commonly used for outdoor fireplaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for outdoor fireplaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for outdoor fireplaces include natural stone (like flagstone, ledger stone, or river rock), brick, stucco, concrete blocks, and cultured stone. Each material offers different aesthetic qualities, durability, and cost implications. For example, natural stone provides a rustic or elegant look, while stucco offers a smooth, contemporary finish. The choice of material often depends on your home's existing style, desired appearance, and budget.",
+        "@type": "Answer",
+        "description": "Common materials include natural stone, brick, stucco, and concrete blocks, each offering different aesthetics and durability."
+      }
+    }
+  ],
+  "description": "Common materials include natural stone, brick, stucco, and concrete blocks, each offering different aesthetics and durability."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-best-suited-for-a-custom-pergola-in-the-las-vegas-climate",
+  "name": "What materials are best suited for a custom pergola in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are best suited for a custom pergola in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the Las Vegas climate, materials that can withstand intense sun, heat, and occasional high winds are ideal. Popular choices include aluminum, which is durable, low-maintenance, and resistant to rust and pests. Treated lumber like cedar or redwood offers natural beauty but requires more maintenance to prevent weathering. Vinyl is another low-maintenance option that resists fading and warping. We help you select materials that balance aesthetics, durability, and your maintenance preferences.",
+        "@type": "Answer",
+        "description": "In Las Vegas, durable materials like aluminum, treated lumber (cedar, redwood), or vinyl are best. Aluminum is low-maintenance, while wood offers natural beauty but requires upkeep."
+      }
+    }
+  ],
+  "description": "In Las Vegas, durable materials like aluminum, treated lumber (cedar, redwood), or vinyl are best. Aluminum is low-maintenance, while wood offers natural beauty"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/is-pool-deck-resurfacing-a-diy-project-or-should-i-hire-a-professional",
+  "name": "Is pool deck resurfacing a DIY project or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is pool deck resurfacing a DIY project or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While some minor repairs can be DIY, professional installation is strongly recommended for pool deck resurfacing. This ensures proper surface preparation, correct material application, and adequate curing, which are crucial for durability and a lasting finish. Mistakes can lead to premature failure, requiring costly re-dos. Professionals have the specialized equipment and experience to handle the complexities, especially in the unique Las Vegas climate.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended for pool deck resurfacing to ensure proper application, durability, and a lasting finish, avoiding costly errors."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended for pool deck resurfacing to ensure proper application, durability, and a lasting finish, avoiding costly errors."
+}

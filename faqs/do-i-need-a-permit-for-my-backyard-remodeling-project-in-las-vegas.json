@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-my-backyard-remodeling-project-in-las-vegas",
+  "name": "Do I need a permit for my backyard remodeling project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for my backyard remodeling project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for backyard remodeling in Las Vegas depend on the scope of work. Minor landscaping, such as planting new shrubs or installing artificial turf, typically does not require a permit. However, projects involving structural changes, new electrical or plumbing work for outdoor kitchens or water features, significant grading changes, or building structures like pergolas or detached sheds often do require permits from the local jurisdiction (e.g., City of Las Vegas, Clark County). We handle all necessary permit applications as part of our service to ensure your project complies with local regulations.",
+        "@type": "Answer",
+        "description": "Permit needs depend on the project scope. Minor landscaping usually doesn't need one, but structural, electrical, plumbing, or significant grading changes often do. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permit needs depend on the project scope. Minor landscaping usually doesn't need one, but structural, electrical, plumbing, or significant grading changes often"
+}

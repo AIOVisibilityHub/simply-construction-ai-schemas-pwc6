@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-commonly-used-for-pergolas-and-which-is-best-for-the-las-vega",
+  "name": "What materials are commonly used for pergolas and which is best for the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for pergolas and which is best for the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pergola materials include wood (cedar, redwood, pressure-treated pine) and aluminum. Wood offers a classic, natural aesthetic but requires more maintenance, especially in the dry Las Vegas climate, to prevent warping and cracking. Aluminum is a popular choice for its durability, low maintenance, and resistance to pests and rot, making it well-suited for the desert environment. Vinyl pergolas are also available, offering a maintenance-free option with a clean look.",
+        "@type": "Answer",
+        "description": "Wood and aluminum are common pergola materials. Aluminum is often preferred for the Las Vegas climate due to its durability and low maintenance, resisting pests and rot."
+      }
+    }
+  ],
+  "description": "Wood and aluminum are common pergola materials. Aluminum is often preferred for the Las Vegas climate due to its durability and low maintenance, resisting pests"
+}

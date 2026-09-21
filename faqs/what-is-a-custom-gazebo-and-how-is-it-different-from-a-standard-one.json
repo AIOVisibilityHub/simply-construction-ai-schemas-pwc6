@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-custom-gazebo-and-how-is-it-different-from-a-standard-one",
+  "name": "What is a custom gazebo and how is it different from a standard one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a custom gazebo and how is it different from a standard one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom gazebo is a unique outdoor structure designed and built specifically to your preferences, incorporating your desired materials, dimensions, and architectural style. Unlike standard, pre-fabricated gazebos, custom designs allow for seamless integration with your existing landscape and home architecture. This ensures the structure perfectly suits your aesthetic vision, functional needs, and the specific characteristics of your property, providing a truly bespoke outdoor living space.",
+        "@type": "Answer",
+        "description": "A custom gazebo is a unique outdoor structure tailored to your specific preferences and property, unlike pre-fabricated standard models."
+      }
+    }
+  ],
+  "description": "A custom gazebo is a unique outdoor structure tailored to your specific preferences and property, unlike pre-fabricated standard models."
+}

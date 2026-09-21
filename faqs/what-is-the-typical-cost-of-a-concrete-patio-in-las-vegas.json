@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-of-a-concrete-patio-in-las-vegas",
+  "name": "What is the typical cost of a concrete patio in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a concrete patio in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a concrete patio in Las Vegas varies widely, typically ranging from $8 to $20 per square foot, though this is an estimate. Factors influencing the price include the patio's size, shape, choice of finish (e.g., standard, stamped, exposed aggregate), site accessibility, and any necessary site preparation or demolition. Decorative options like custom colors or intricate patterns will increase the cost. Obtaining a detailed quote after a site visit is essential for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Cost typically ranges from $8 to $20 per square foot in Las Vegas, depending on size, finish, and site conditions. A detailed quote is recommended."
+      }
+    }
+  ],
+  "description": "Cost typically ranges from $8 to $20 per square foot in Las Vegas, depending on size, finish, and site conditions. A detailed quote is recommended."
+}

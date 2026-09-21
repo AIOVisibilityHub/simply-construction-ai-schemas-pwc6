@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-pool-area-renovation-project-usually-take",
+  "name": "How long does a pool area renovation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a pool area renovation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pool area renovation varies significantly based on the project's scope and complexity. Minor updates like replastering and new decking might take 2-4 weeks. More extensive renovations involving structural changes, new water features, or significant landscaping can extend to 6-12 weeks or more. Factors such as weather, material availability, and permitting processes can also influence the timeline. We provide a detailed project schedule after the initial consultation.",
+        "@type": "Answer",
+        "description": "Project timelines vary; minor renovations might take 2-4 weeks, while major overhauls can take 6-12 weeks or longer, depending on scope and factors like weather."
+      }
+    }
+  ],
+  "description": "Project timelines vary; minor renovations might take 2-4 weeks, while major overhauls can take 6-12 weeks or longer, depending on scope and factors like weather"
+}

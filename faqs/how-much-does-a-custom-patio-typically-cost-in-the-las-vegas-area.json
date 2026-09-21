@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-custom-patio-typically-cost-in-the-las-vegas-area",
+  "name": "How much does a custom patio typically cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a custom patio typically cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom patio in the Las Vegas area varies significantly based on several factors. These include the size and complexity of the design, the type of materials chosen (e.g., concrete, pavers, natural stone), integrated features like pergolas or outdoor kitchens, and site preparation requirements. A basic concrete patio will be less expensive than one with intricate paver designs and additional amenities. We provide detailed estimates after an on-site consultation to understand your vision and assess the specific conditions of your property.",
+        "@type": "Answer",
+        "description": "Custom patio costs in Las Vegas vary based on size, materials, design complexity, and added features. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Custom patio costs in Las Vegas vary based on size, materials, design complexity, and added features. We provide detailed estimates."
+}

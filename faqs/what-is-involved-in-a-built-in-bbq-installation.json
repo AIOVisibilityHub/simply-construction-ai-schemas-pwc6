@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-built-in-bbq-installation",
+  "name": "What is involved in a built-in BBQ installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a built-in BBQ installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A built-in BBQ installation typically involves several key steps. First, we plan the location and design, considering gas lines, electrical needs, and counter space. A custom island or enclosure is then constructed to house the grill and any desired accessories like refrigerators or side burners. This often requires masonry, stucco, or tile work. Finally, the grill unit and other components are installed, connected to utilities, and tested to ensure safe and proper operation. This process creates a permanent, integrated outdoor cooking station.",
+        "@type": "Answer",
+        "description": "Built-in BBQ installation involves design, custom island construction, utility connections, and final grill placement to create a permanent outdoor cooking area."
+      }
+    }
+  ],
+  "description": "Built-in BBQ installation involves design, custom island construction, utility connections, and final grill placement to create a permanent outdoor cooking area"
+}

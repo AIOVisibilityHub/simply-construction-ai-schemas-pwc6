@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-pool-deck-remodeling",
+  "name": "What is the average cost of pool deck remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of pool deck remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pool deck remodeling varies significantly based on factors like the deck's size, chosen materials, necessary demolition, and any special features or repairs. Basic resurfacing can be less expensive, while installing premium materials like natural stone or complex paver designs will increase the cost. Project costs also include labor, site preparation, and debris removal. A detailed estimate from a contractor is essential to understand the specific costs for your desired remodel.",
+        "@type": "Answer",
+        "description": "The average cost of pool deck remodeling varies widely depending on the deck size, material choice, scope of work, and any special features, requiring a detailed estimate for accuracy."
+      }
+    }
+  ],
+  "description": "The average cost of pool deck remodeling varies widely depending on the deck size, material choice, scope of work, and any special features, requiring a detaile"
+}

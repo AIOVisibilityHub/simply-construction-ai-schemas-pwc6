@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-fire-pit-installation-in-las-vegas",
+  "name": "What permits are required for fire pit installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for fire pit installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas and surrounding areas, fire pit installation often requires permits to ensure compliance with local safety and building codes. Requirements can vary based on the type, size, and location of the fire pit, whether it's wood-burning or gas, and if it's a permanent structure. It's crucial to check with the local building department in your specific municipality (e.g., Las Vegas, Henderson, North Las Vegas) before starting any work. A licensed contractor like Simply Construction can help navigate these permit processes for you.",
+        "@type": "Answer",
+        "description": "Permits are often required for fire pit installation in the Las Vegas area, depending on the type and location. A licensed contractor can assist with understanding and obtaining necessary permits."
+      }
+    }
+  ],
+  "description": "Permits are often required for fire pit installation in the Las Vegas area, depending on the type and location. A licensed contractor can assist with understand"
+}

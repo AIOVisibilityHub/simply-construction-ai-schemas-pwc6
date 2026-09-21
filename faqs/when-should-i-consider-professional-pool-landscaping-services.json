@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-professional-pool-landscaping-services",
+  "name": "When should I consider professional pool landscaping services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional pool landscaping services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider professional pool landscaping services when you want to achieve a cohesive, functional, and aesthetically pleasing outdoor space around your pool. This is especially true for complex designs, integrating various elements like water features, elaborate hardscaping, or outdoor living areas. Professionals can ensure proper drainage, material selection suitable for the climate, and adherence to local regulations. They can also provide expert advice on plant selection and lighting design, saving you time and potential costly mistakes in the long run.",
+        "@type": "Answer",
+        "description": "Consider professional pool landscaping for complex designs, integrating various elements, or when you need expert advice on drainage, materials, plant selection, and local regulations."
+      }
+    }
+  ],
+  "description": "Consider professional pool landscaping for complex designs, integrating various elements, or when you need expert advice on drainage, materials, plant selection"
+}

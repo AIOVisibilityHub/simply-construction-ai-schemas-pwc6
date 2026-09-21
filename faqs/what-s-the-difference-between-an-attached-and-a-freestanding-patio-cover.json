@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-an-attached-and-a-freestanding-patio-cover",
+  "name": "What's the difference between an attached and a freestanding patio cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an attached and a freestanding patio cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached patio cover is directly connected to your home, typically supported by ledger boards fastened to the house wall and posts on the outer edge. This option often creates a seamless extension of your indoor living space and can sometimes be more cost-effective due to fewer support requirements. A freestanding patio cover, on the other hand, is a completely independent structure supported by four or more posts, allowing it to be placed anywhere in your yard. Freestanding covers offer more flexibility in placement and design but generally require more structural support.",
+        "@type": "Answer",
+        "description": "Attached covers connect to your home, extending living space. Freestanding covers are independent structures, offering flexible placement."
+      }
+    }
+  ],
+  "description": "Attached covers connect to your home, extending living space. Freestanding covers are independent structures, offering flexible placement."
+}

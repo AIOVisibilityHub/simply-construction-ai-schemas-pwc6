@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-an-existing-wood-burning-fire-pit-to-gas",
+  "name": "Can I convert an existing wood-burning fire pit to gas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing wood-burning fire pit to gas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to convert an existing wood-burning fire pit to gas, but it requires careful planning and professional execution. This process typically involves installing a gas burner, a new gas line, and ensuring proper ventilation and drainage. It's crucial to consult with a qualified contractor and obtain any necessary permits, as gas line work must comply with strict safety codes. Not all wood-burning pits are suitable for conversion.",
+        "@type": "Answer",
+        "description": "Converting a wood-burning fire pit to gas is often possible but requires professional installation of a gas burner and line, plus necessary permits to ensure safety and compliance."
+      }
+    }
+  ],
+  "description": "Converting a wood-burning fire pit to gas is often possible but requires professional installation of a gas burner and line, plus necessary permits to ensure sa"
+}

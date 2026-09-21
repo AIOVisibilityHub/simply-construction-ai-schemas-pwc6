@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-locks-are-best-for-security-doors",
+  "name": "What types of locks are best for security doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of locks are best for security doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For optimal security, multi-point locking systems are highly recommended for security doors. These systems engage at multiple points along the door frame (top, bottom, and side), making it significantly harder for intruders to pry open the door. In addition to multi-point locks, consider doors equipped with heavy-duty deadbolts, often with a 1-inch throw or more. High-quality cylinder locks that are pick-resistant and drill-resistant further enhance protection. A combination of robust locking hardware designed specifically for security applications offers the best defense against forced entry.",
+        "@type": "Answer",
+        "description": "Multi-point locking systems are best for security doors, engaging at several points for superior forced entry resistance. Supplement with heavy-duty, pick-resistant deadbolts for enhanced protection."
+      }
+    }
+  ],
+  "description": "Multi-point locking systems are best for security doors, engaging at several points for superior forced entry resistance. Supplement with heavy-duty, pick-resis"
+}

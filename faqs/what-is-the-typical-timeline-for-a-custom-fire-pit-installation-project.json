@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-custom-fire-pit-installation-project",
+  "name": "What is the typical timeline for a custom fire pit installation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a custom fire pit installation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom fire pit installation project can range from a few days to several weeks. This depends on factors such as the design's complexity, material availability, the need for new utility lines (gas or electrical), permit acquisition time, and existing site conditions. Simple installations might be quicker, while elaborate custom designs involving extensive masonry or landscaping will take longer. Your contractor can provide a detailed timeline after initial planning.",
+        "@type": "Answer",
+        "description": "A custom fire pit installation can take anywhere from a few days to several weeks. Complexity, material availability, and permit timing are key factors influencing the duration."
+      }
+    }
+  ],
+  "description": "A custom fire pit installation can take anywhere from a few days to several weeks. Complexity, material availability, and permit timing are key factors influenc"
+}

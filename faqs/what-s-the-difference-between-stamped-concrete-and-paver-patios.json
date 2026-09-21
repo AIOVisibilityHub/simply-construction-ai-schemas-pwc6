@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-stamped-concrete-and-paver-patios",
+  "name": "What's the difference between stamped concrete and paver patios?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between stamped concrete and paver patios?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stamped concrete is a single slab poured and then textured to mimic natural stone, brick, or wood, offering a cohesive surface. Paver patios are constructed from individual interlocking units, creating a segmented surface. Stamped concrete often provides more design flexibility and can be more cost-effective upfront, while pavers offer easier repair for individual sections and better drainage between units. Both offer durable and attractive outdoor surfaces, but their installation, aesthetics, and long-term maintenance differ.",
+        "@type": "Answer",
+        "description": "Stamped concrete is a continuous slab with a textured finish, mimicking other materials. Pavers are individual units laid to form a patio. Differences lie in cost, repairability, and aesthetic."
+      }
+    }
+  ],
+  "description": "Stamped concrete is a continuous slab with a textured finish, mimicking other materials. Pavers are individual units laid to form a patio. Differences lie in co"
+}

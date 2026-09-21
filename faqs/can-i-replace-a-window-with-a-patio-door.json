@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-replace-a-window-with-a-patio-door",
+  "name": "Can I replace a window with a patio door?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace a window with a patio door?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to replace an existing window with a patio door, but this is a more complex project than a direct door replacement. It typically involves enlarging the wall opening, which requires structural modifications, new framing, and potentially re-routing electrical or plumbing lines. This type of project will require a building permit and professional assessment to ensure structural integrity and compliance with local codes. We can evaluate your specific situation and provide a detailed plan.",
+        "@type": "Answer",
+        "description": "Yes, but it's more complex, requiring structural changes, new framing, and a building permit. Professional assessment is necessary."
+      }
+    }
+  ],
+  "description": "Yes, but it's more complex, requiring structural changes, new framing, and a building permit. Professional assessment is necessary."
+}

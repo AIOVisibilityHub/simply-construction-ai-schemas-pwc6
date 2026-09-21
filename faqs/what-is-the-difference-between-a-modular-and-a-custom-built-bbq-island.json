@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-modular-and-a-custom-built-bbq-island",
+  "name": "What is the difference between a modular and a custom-built BBQ island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a modular and a custom-built BBQ island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A modular BBQ island consists of pre-fabricated sections or components that are assembled on-site. These are often more cost-effective and have a quicker installation time. They offer limited customization in terms of size, shape, and finishes. A custom-built BBQ island, on the other hand, is designed and constructed specifically for your space and preferences. This allows for complete flexibility in layout, materials, appliance integration, and unique aesthetic features. While custom builds take longer and are typically more expensive, they offer unparalleled personalization and integration into your outdoor living area.",
+        "@type": "Answer",
+        "description": "Modular BBQ islands use pre-fabricated sections for quicker, more affordable installation with limited customization. Custom-built islands are designed specifically for your space, offering full flexibility in design, materials, and features."
+      }
+    }
+  ],
+  "description": "Modular BBQ islands use pre-fabricated sections for quicker, more affordable installation with limited customization. Custom-built islands are designed specific"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-backyard-entertainment-area-construction-in-las-vega",
+  "name": "What permits are needed for backyard entertainment area construction in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for backyard entertainment area construction in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Construction of backyard entertainment areas in Las Vegas typically requires permits from the local building department, such as Clark County Department of Building and Fire Prevention, or specific city departments like the City of Las Vegas or Henderson. Permits are often needed for structures like pergolas, patio covers, outdoor kitchens with gas or plumbing, electrical work, and certain hardscaping. Our team manages the permitting process, ensuring compliance with all local codes and regulations before construction begins.",
+        "@type": "Answer",
+        "description": "Permits from local building departments like Clark County or specific cities are needed for structures, outdoor kitchens, and electrical work. We handle the permitting process for you."
+      }
+    }
+  ],
+  "description": "Permits from local building departments like Clark County or specific cities are needed for structures, outdoor kitchens, and electrical work. We handle the per"
+}

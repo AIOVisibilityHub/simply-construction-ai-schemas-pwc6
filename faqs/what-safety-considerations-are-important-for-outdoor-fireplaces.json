@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-safety-considerations-are-important-for-outdoor-fireplaces",
+  "name": "What safety considerations are important for outdoor fireplaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What safety considerations are important for outdoor fireplaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key safety considerations for outdoor fireplaces include ensuring adequate clearance from combustible materials like walls, roofs, trees, and furniture, as specified by local codes and manufacturer guidelines. Proper ventilation is crucial for wood-burning units. For gas fireplaces, regular inspection of gas lines for leaks is vital. Always ensure children and pets are kept at a safe distance, and never leave a fire unattended. Using a spark arrestor is also recommended to prevent embers from escaping.",
+        "@type": "Answer",
+        "description": "Ensure proper clearances from combustibles, good ventilation, gas line inspections, supervision of children/pets, and never leave fires unattended. Use a spark arrestor."
+      }
+    }
+  ],
+  "description": "Ensure proper clearances from combustibles, good ventilation, gas line inspections, supervision of children/pets, and never leave fires unattended. Use a spark"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-grill-for-my-bbq-island",
+  "name": "How do I choose the right grill for my BBQ island?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right grill for my BBQ island?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right grill involves assessing your cooking habits, budget, and fuel preference. Consider the size of your entertaining space and the number of people you typically cook for, which dictates the grill's cooking area. Fuel options include natural gas (if available), propane, or charcoal. Look for durable materials like 304-grade stainless steel for longevity in outdoor conditions. Key features to consider are BTU output, side burners, rotisserie kits, and infrared searing zones. Investing in a high-quality, built-in grill ensures optimal performance and aesthetic integration with your island.",
+        "@type": "Answer",
+        "description": "Choose a grill based on your cooking habits, budget, fuel type (natural gas, propane, charcoal), and the size of your entertaining space. Look for durable materials like 304-grade stainless steel."
+      }
+    }
+  ],
+  "description": "Choose a grill based on your cooking habits, budget, fuel type (natural gas, propane, charcoal), and the size of your entertaining space. Look for durable mater"
+}

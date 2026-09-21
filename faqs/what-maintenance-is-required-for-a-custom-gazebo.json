@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-custom-gazebo",
+  "name": "What maintenance is required for a custom gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a custom gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance depends on the materials chosen. Wood gazebos typically require periodic cleaning, staining, or sealing every few years to protect against weathering and maintain their appearance. Vinyl and aluminum gazebos are largely low-maintenance, needing only occasional washing with soap and water to remove dirt. Regular inspection for any loose fasteners or signs of wear, regardless of material, helps ensure the longevity and safety of your structure.",
+        "@type": "Answer",
+        "description": "Wood gazebos need periodic cleaning and sealing; vinyl and aluminum require only occasional washing. All materials benefit from regular inspection."
+      }
+    }
+  ],
+  "description": "Wood gazebos need periodic cleaning and sealing; vinyl and aluminum require only occasional washing. All materials benefit from regular inspection."
+}

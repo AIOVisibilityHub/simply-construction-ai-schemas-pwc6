@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-outdoor-fireplace-installation-process",
+  "name": "What is involved in the outdoor fireplace installation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the outdoor fireplace installation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The outdoor fireplace installation process typically begins with a site assessment and design consultation to determine placement, size, and style. Next, necessary permits are secured. The foundation is then prepared, followed by the construction of the fireplace structure, including the firebox, chimney, and any surrounding masonry or stonework. Finally, finishing touches like mantels, hearths, and fuel lines are installed, and a final inspection ensures everything is up to code and ready for use. This process ensures safety and durability.",
+        "@type": "Answer",
+        "description": "The process involves site assessment, design, permitting, foundation preparation, construction of the fireplace and chimney, and final finishing."
+      }
+    }
+  ],
+  "description": "The process involves site assessment, design, permitting, foundation preparation, construction of the fireplace and chimney, and final finishing."
+}

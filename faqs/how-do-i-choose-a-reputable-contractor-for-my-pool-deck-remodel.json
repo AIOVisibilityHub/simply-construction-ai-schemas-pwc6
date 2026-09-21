@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-reputable-contractor-for-my-pool-deck-remodel",
+  "name": "How do I choose a reputable contractor for my pool deck remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable contractor for my pool deck remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your pool deck remodel, look for companies with relevant experience in similar projects and a strong local presence. Check their licensing and insurance to ensure they are properly credentialed and protected. Review their portfolio of past work and read customer testimonials or online reviews. Request detailed written estimates from multiple contractors, comparing not just price but also scope of work, materials specified, and warranty information. A reputable contractor will communicate clearly and answer all your questions thoroughly.",
+        "@type": "Answer",
+        "description": "To choose a reputable pool deck contractor, verify licenses and insurance, check portfolios and reviews, and compare detailed estimates from multiple companies."
+      }
+    }
+  ],
+  "description": "To choose a reputable pool deck contractor, verify licenses and insurance, check portfolios and reviews, and compare detailed estimates from multiple companies."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-designing-and-building-a-custom-gazebo",
+  "name": "What is the process for designing and building a custom gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and building a custom gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a custom gazebo typically begins with an initial consultation to discuss your vision, desired features, and budget. Next, our designers create preliminary sketches and 3D renderings for your review and approval. Once the design is finalized, we assist with obtaining necessary permits. Construction then involves site preparation, foundation installation, framing, roofing, and adding any custom elements like lighting or built-in seating. Throughout the process, we maintain open communication and conduct quality checks to ensure the gazebo meets your specifications and local building codes.",
+        "@type": "Answer",
+        "description": "Custom gazebo construction involves consultation, design, permit acquisition, site preparation, foundation, framing, roofing, and finishing, with continuous client communication."
+      }
+    }
+  ],
+  "description": "Custom gazebo construction involves consultation, design, permit acquisition, site preparation, foundation, framing, roofing, and finishing, with continuous cli"
+}

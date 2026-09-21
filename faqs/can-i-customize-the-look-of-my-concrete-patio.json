@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-customize-the-look-of-my-concrete-patio",
+  "name": "Can I customize the look of my concrete patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the look of my concrete patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, concrete patios are highly customizable. You can choose from various finishes, including smooth, broom finish, exposed aggregate, or stamped concrete, which can mimic materials like stone, brick, or wood. A wide range of integral colors can be added to the concrete mix, and surface stains can create unique effects. Decorative saw cuts or borders can also enhance the design. These options allow you to create a patio that perfectly complements your home's style.",
+        "@type": "Answer",
+        "description": "Concrete patios are highly customizable with various finishes, colors, and decorative options like stamping or staining."
+      }
+    }
+  ],
+  "description": "Concrete patios are highly customizable with various finishes, colors, and decorative options like stamping or staining."
+}

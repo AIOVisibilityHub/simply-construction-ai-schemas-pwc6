@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-install-a-pergola-in-the-las-vegas-area",
+  "name": "How much does it cost to install a pergola in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a pergola in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pergola installation in Las Vegas varies significantly based on material, size, design complexity, and any additional features like electrical wiring or retractable shades. Common materials include wood (cedar, redwood, pressure-treated pine) and aluminum, each with different price points. A basic, smaller aluminum pergola might start around a few thousand dollars, while a large, custom-designed wooden pergola with advanced features could be substantially more. For an accurate estimate, a site visit and detailed consultation are recommended.",
+        "@type": "Answer",
+        "description": "Pergola installation costs in Las Vegas vary widely based on material, size, and design. A basic aluminum pergola starts at a few thousand dollars, with custom options costing more."
+      }
+    }
+  ],
+  "description": "Pergola installation costs in Las Vegas vary widely based on material, size, and design. A basic aluminum pergola starts at a few thousand dollars, with custom"
+}

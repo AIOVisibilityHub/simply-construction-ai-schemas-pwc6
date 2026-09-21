@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-paver-patio",
+  "name": "How long does it take to install a paver patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a paver patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a paver patio installation depends on its size, complexity, and site conditions. A smaller, straightforward patio might take 2-5 days to complete. Larger or more intricate designs, such as those with multiple levels, curves, or integrated features, could extend the timeline to one to two weeks or even longer. Weather conditions, particularly rain or extreme heat, can also affect the schedule. Your contractor will provide a more precise timeline after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Installation time for a paver patio typically ranges from a few days for small projects to one to two weeks for larger, more complex designs."
+      }
+    }
+  ],
+  "description": "Installation time for a paver patio typically ranges from a few days for small projects to one to two weeks for larger, more complex designs."
+}

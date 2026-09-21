@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-features-like-fire-pits-or-built-in-seating-during-a-pool-deck-remodel",
+  "name": "Can I add features like fire pits or built-in seating during a pool deck remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add features like fire pits or built-in seating during a pool deck remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a pool deck remodel is an excellent opportunity to incorporate new features like fire pits, built-in seating, pergolas, or even outdoor kitchen components. Integrating these elements during the remodeling process often streamlines construction and ensures a cohesive design with your new deck. Discuss your desired additions with your contractor early in the planning phase to ensure structural feasibility, proper permitting, and seamless integration into the overall project design and budget.",
+        "@type": "Answer",
+        "description": "Yes, a pool deck remodel is an ideal time to add features like fire pits, built-in seating, or outdoor kitchen elements, which should be discussed early with your contractor."
+      }
+    }
+  ],
+  "description": "Yes, a pool deck remodel is an ideal time to add features like fire pits, built-in seating, or outdoor kitchen elements, which should be discussed early with yo"
+}

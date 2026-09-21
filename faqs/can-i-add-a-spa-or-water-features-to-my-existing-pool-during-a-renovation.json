@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-a-spa-or-water-features-to-my-existing-pool-during-a-renovation",
+  "name": "Can I add a spa or water features to my existing pool during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a spa or water features to my existing pool during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a spa or various water features like waterfalls, laminar jets, or deck jets is a common request during a pool renovation. Integrating a spa requires careful planning for plumbing, heating, and structural support, often involving excavation and concrete work. Water features can be incorporated relatively easily, enhancing the pool's aesthetics and ambiance. Our design team can help you select features that complement your pool and backyard, ensuring seamless integration.",
+        "@type": "Answer",
+        "description": "Yes, adding a spa or water features is common during renovation, requiring careful planning for plumbing, heating, and structural integration. Our team can help design the best additions."
+      }
+    }
+  ],
+  "description": "Yes, adding a spa or water features is common during renovation, requiring careful planning for plumbing, heating, and structural integration. Our team can help"
+}

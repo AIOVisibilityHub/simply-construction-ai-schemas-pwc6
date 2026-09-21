@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-custom-pergola-be-integrated-with-existing-landscape-features",
+  "name": "Can a custom pergola be integrated with existing landscape features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a custom pergola be integrated with existing landscape features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. One of the key advantages of a custom pergola is its ability to be seamlessly integrated with your existing landscape and home architecture. Our designers can create a pergola that complements your current patio, pool area, garden, or outdoor kitchen. This integration ensures a cohesive look, maximizing the functionality and aesthetic appeal of your entire outdoor living environment, creating a harmonious extension of your home.",
+        "@type": "Answer",
+        "description": "Yes, a custom pergola can be seamlessly integrated with existing landscape features like patios, pools, or gardens. This ensures a cohesive look and enhances your entire outdoor living space."
+      }
+    }
+  ],
+  "description": "Yes, a custom pergola can be seamlessly integrated with existing landscape features like patios, pools, or gardens. This ensures a cohesive look and enhances yo"
+}

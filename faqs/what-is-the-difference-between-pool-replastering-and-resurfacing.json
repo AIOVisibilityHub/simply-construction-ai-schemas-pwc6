@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-pool-replastering-and-resurfacing",
+  "name": "What is the difference between pool replastering and resurfacing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between pool replastering and resurfacing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Replastering refers specifically to applying a new coat of plaster to the interior surface of a concrete pool. This is typically done when the existing plaster is stained, rough, or developing small cracks. Resurfacing is a broader term that can include replastering but also encompasses other interior finishes like pebble tec, quartz, or tile, which offer different aesthetics and durability. While replastering is a type of resurfacing, not all resurfacing involves only plaster.",
+        "@type": "Answer",
+        "description": "Replastering specifically applies new plaster to a concrete pool's interior. Resurfacing is a broader term, including plaster and other finishes like pebble or tile."
+      }
+    }
+  ],
+  "description": "Replastering specifically applies new plaster to a concrete pool's interior. Resurfacing is a broader term, including plaster and other finishes like pebble or"
+}

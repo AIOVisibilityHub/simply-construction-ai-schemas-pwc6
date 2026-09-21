@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-the-best-location-for-my-custom-gaz",
+  "name": "What factors should I consider when choosing the best location for my custom gazebo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing the best location for my custom gazebo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a location, consider sun exposure throughout the day, prevailing wind patterns for comfort, and proximity to utilities if you plan for lighting or fans. Evaluate how the gazebo will integrate with existing landscaping, views from your home, and accessibility from various areas of your yard. Also, consider privacy from neighbors and any local setback regulations to ensure compliance.",
+        "@type": "Answer",
+        "description": "Consider sun exposure, wind, utility access, integration with landscaping, views, privacy, and local setback regulations when choosing a location."
+      }
+    }
+  ],
+  "description": "Consider sun exposure, wind, utility access, integration with landscaping, views, privacy, and local setback regulations when choosing a location."
+}

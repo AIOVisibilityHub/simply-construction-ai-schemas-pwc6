@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-consider-when-choosing-new-french-doors",
+  "name": "What should I consider when choosing new French doors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when choosing new French doors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting new French doors, consider the material (wood, fiberglass, vinyl) for durability and aesthetic. Evaluate the glass type for energy efficiency, security, and privacy, such as double-pane, low-E coatings, or obscure glass. Think about the swing direction (inward or outward) based on your space. Also, factor in hardware finishes and security features. Our experts can help you navigate these choices to find the best fit for your home and lifestyle.",
+        "@type": "Answer",
+        "description": "Consider material, glass type, swing direction, hardware, and security features when choosing French doors. Our experts can assist you with these selections."
+      }
+    }
+  ],
+  "description": "Consider material, glass type, swing direction, hardware, and security features when choosing French doors. Our experts can assist you with these selections."
+}

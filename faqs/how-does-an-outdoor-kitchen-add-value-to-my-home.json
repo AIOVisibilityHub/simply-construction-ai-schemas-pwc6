@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-does-an-outdoor-kitchen-add-value-to-my-home",
+  "name": "How does an outdoor kitchen add value to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an outdoor kitchen add value to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An outdoor kitchen can significantly enhance your home's value and appeal. It transforms an outdoor space into a functional extension of your living area, making the property more attractive to potential buyers. Beyond increasing resale value, it offers practical benefits by expanding entertaining possibilities and allowing you to enjoy the Las Vegas climate more fully. The added utility and luxury contribute to a higher perceived and actual property value.",
+        "@type": "Answer",
+        "description": "An outdoor kitchen adds value by extending living space, enhancing entertainment options, and making your home more appealing to buyers."
+      }
+    }
+  ],
+  "description": "An outdoor kitchen adds value by extending living space, enhancing entertainment options, and making your home more appealing to buyers."
+}

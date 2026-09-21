@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-custom-pergola-design",
+  "name": "What factors influence the cost of a custom pergola design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a custom pergola design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom pergola is primarily influenced by several factors. These include the size and complexity of the design, the type of materials chosen (e.g., wood, aluminum, steel, vinyl), any additional features like built-in lighting, retractable canopies, or privacy screens, and the site preparation required. High-quality, durable materials and intricate designs will generally increase the overall investment, but also provide long-lasting value and enhanced aesthetics.",
+        "@type": "Answer",
+        "description": "Cost factors include size, design complexity, material choice, added features like lighting or retractable canopies, and site preparation. Durable materials and intricate designs typically raise the investment."
+      }
+    }
+  ],
+  "description": "Cost factors include size, design complexity, material choice, added features like lighting or retractable canopies, and site preparation. Durable materials and"
+}

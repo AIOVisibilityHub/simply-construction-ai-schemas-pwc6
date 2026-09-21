@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-designing-and-building-a-custom-patio",
+  "name": "What is the process for designing and building a custom patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for designing and building a custom patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The custom patio construction process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, our designers create a detailed plan, including layouts, material selections, and features, often using 3D renderings. Once the design is approved, we handle necessary permits. Construction then proceeds, involving site preparation, foundation work, material installation, and any finishing touches. Throughout the project, we maintain clear communication, ensuring your custom patio is built to your exact specifications and satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, site preparation, construction, and finishing, with continuous communication."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, site preparation, construction, and finishing, with continuous communication."
+}

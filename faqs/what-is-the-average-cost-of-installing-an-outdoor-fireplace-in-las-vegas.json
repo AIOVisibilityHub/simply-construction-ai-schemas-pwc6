@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-installing-an-outdoor-fireplace-in-las-vegas",
+  "name": "What is the average cost of installing an outdoor fireplace in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of installing an outdoor fireplace in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing an outdoor fireplace in Las Vegas varies significantly based on several factors. These include the size and complexity of the design, chosen materials (e.g., stone, brick, stucco), fuel type (wood-burning or gas), and any additional features like built-in seating or hearth extensions. Pre-fabricated units are generally less expensive than custom-built masonry fireplaces. We provide detailed estimates after an on-site consultation to understand your specific needs and preferences.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on size, materials, fuel type, and custom features. Pre-fabricated units are generally more affordable than custom builds. Obtain an estimate for specifics."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on size, materials, fuel type, and custom features. Pre-fabricated units are generally more affordable than custom builds. Obtain an est"
+}

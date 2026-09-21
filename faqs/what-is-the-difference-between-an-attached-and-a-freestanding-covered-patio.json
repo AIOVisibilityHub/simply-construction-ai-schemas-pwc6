@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-attached-and-a-freestanding-covered-patio",
+  "name": "What is the difference between an attached and a freestanding covered patio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an attached and a freestanding covered patio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached covered patio shares one or more walls with your existing home, often using the house structure for support. This design typically offers a seamless transition from indoor to outdoor living and can be more cost-effective due to shared structural elements. A freestanding covered patio, also known as a pergola or gazebo with a solid roof, is a separate structure built away from the main house. Freestanding patios offer flexibility in placement and can create a distinct outdoor zone, but may require more extensive foundation work.",
+        "@type": "Answer",
+        "description": "An attached covered patio connects to your home, while a freestanding one is a separate structure. Attached offers seamless integration; freestanding offers flexible placement."
+      }
+    }
+  ],
+  "description": "An attached covered patio connects to your home, while a freestanding one is a separate structure. Attached offers seamless integration; freestanding offers fle"
+}

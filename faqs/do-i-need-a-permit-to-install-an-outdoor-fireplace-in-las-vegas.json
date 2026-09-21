@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-install-an-outdoor-fireplace-in-las-vegas",
+  "name": "Do I need a permit to install an outdoor fireplace in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to install an outdoor fireplace in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, installing an outdoor fireplace in Las Vegas, Henderson, or other surrounding areas typically requires a building permit. This is to ensure the installation complies with local building codes, setback requirements, and safety regulations. These codes protect your property and ensure safe operation. We assist clients in navigating the permitting process, ensuring all necessary documentation is submitted and approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, a building permit is generally required in Las Vegas and surrounding areas to ensure compliance with local codes and safety regulations."
+      }
+    }
+  ],
+  "description": "Yes, a building permit is generally required in Las Vegas and surrounding areas to ensure compliance with local codes and safety regulations."
+}
