@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Can I Remove a Kitchen Wall for an Open-Concept Layout?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Absolutely, opening up your kitchen by removing a wall is a common and fantastic way to modernize your Las Vegas home and improve its flow. However, it's not always a straightforward DIY project, and there are some crucial things to consider before swinging a sledgehammer. The biggest question is whether the wall is load-bearing. Load-bearing walls support the weight of your home's structure above them, and removing one without proper support can lead to serious structural issues. You'll need an experienced contractor, like Simply Construction, to assess the wall’s function. We’ll bring in structural engineers if necessary to determine if it's load-bearing and, if so, how to safely replace its support with a new beam or other structural elements. Non-load-bearing walls are much simpler to remove, but even then, you need to be mindful of electrical wiring, plumbing pipes, or HVAC ducts that might be hidden inside. These will need to be safely rerouted, which definitely requires professional expertise. Permitting is another key step; most wall removal projects in Las Vegas will require a permit to ensure the work meets local building codes and is done safely. Attempting such a project without proper planning and professional help can be costly and even dangerous. A qualified general contractor can manage the entire process, from assessment and design to permitting, demolition, and all the finishing touches, ensuring a smooth and safe transition to your dream open-concept kitchen.",
+  "datePublished": "2026-09-17"
+}

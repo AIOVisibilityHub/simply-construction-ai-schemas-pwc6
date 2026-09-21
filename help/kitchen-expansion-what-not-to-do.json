@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Expansion: What Not to Do",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a kitchen expansion project can be exciting, but it's also ripe for potential missteps. Avoiding common pitfalls will save you headaches, time, and money. We've seen a few things over the years that can turn a dream kitchen into a construction nightmare if you're not careful.\n\nFirst, don't skimp on the planning phase. Rushing into demolition without a clear, detailed plan, including structural considerations, permits, and a finalized layout, is a recipe for disaster. This isn't just about aesthetics; it's about making sure your home's integrity is maintained. Without proper planning, you could face unexpected structural issues, budget overruns, and delays.\n\nSecond, don't try to handle load-bearing walls yourself without expert advice. Removing a load-bearing wall to create an open concept kitchen is a popular request, and it can dramatically change the feel of your home. However, it absolutely requires professional assessment and structural engineering to ensure your home remains safe and sound. It's not a DIY job – you're dealing with your home's foundational support. Incorrect removal can lead to sagging floors, cracked walls, and much more serious structural failures.\n\nThird, avoid ignoring the flow and function of your new space. A larger kitchen should also be a more functional kitchen. Don't just add square footage without thinking about the ",
+  "datePublished": "2026-09-17"
+}

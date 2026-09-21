@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider When Choosing a Kitchen Backsplash?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Picking out a new kitchen backsplash can feel a little overwhelming with all the options out there, but it's actually a super fun way to personalize your space! Think about what you really want it to do. Are you aiming for a bold statement or something subtle that blends in? The material makes a huge difference; tiles come in all sorts of shapes, sizes, and textures, from classic ceramic to elegant natural stone. You'll also want to consider how easy it is to clean, especially behind your stove or sink, because let's be real, kitchens can get messy! Color and pattern are big players too. Do you want something that complements your existing countertops and cabinets, or a contrasting pop? It's great to bring samples home and see how they look in your kitchen's natural light before committing. Lastly, think about the overall vibe of your home in Las Vegas, North Las Vegas, or Henderson – you want your backsplash to feel right at home. If you're unsure about the best materials or design to fit your kitchen's style and your lifestyle, that's where a professional general contractor like Simply Construction can really help guide you through the choices and ensure a flawless installation. We've got loads of experience helping homeowners across the Las Vegas Valley make these decisions. Don't hesitate to reach out for a free, no-obligation estimate to discuss your vision!",
+  "datePublished": "2026-09-18"
+}

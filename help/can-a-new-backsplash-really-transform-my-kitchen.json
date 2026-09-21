@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can a New Backsplash Really Transform My Kitchen?",
+    "text": "Can a New Backsplash Really Transform My Kitchen?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Absolutely, a new kitchen backsplash can be a game-changer for your whole kitchen's vibe! It's amazing how a relatively small area can make such a big impact, defining the style and adding a custom touch that ties everything together. Think of it as the jewelry of your kitchen – it can be subtle and elegant, or bold and dramatic. You might go for a classic subway tile for a timeless look, or maybe a vibrant mosaic to add a pop of color and personality. Beyond aesthetics, it's also super practical, protecting your walls from splashes and spills, making cleanup much easier. We've helped countless homeowners in Las Vegas, from Summerlin to Green Valley, see their kitchens completely refreshed just by updating the backsplash. It truly adds a layer of finish and sophistication, making the space feel more intentional and complete. If you're looking to elevate your kitchen's style without a full overhaul, starting with a new backsplash is a fantastic place to begin, and Simply Construction can guide you through all the design and installation steps.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

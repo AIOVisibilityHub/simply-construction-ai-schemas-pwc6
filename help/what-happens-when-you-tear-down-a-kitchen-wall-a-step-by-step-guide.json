@@ -1,0 +1,137 @@
+{
+  "name": "What Happens When You Tear Down a Kitchen Wall? A Step-by-Step Guide",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment & Design – First, a contractor from Simply Construction will visit your Las Vegas home to assess the wall in question. They'll determine if it's load-bearing, identify any utilities within it, and discuss your vision for the new open space. This stage involves planning the new layout, discussing materials, and getting all your questions answered. This typically takes a few days to a week for initial concepts.",
+      "text": "Step 1: Initial Assessment & Design – First, a contractor from Simply Construction will visit your Las Vegas home to assess the wall in question. They'll determine if it's load-bearing, identify any utilities within it, and discuss your vision for the new open space. This stage involves planning the new layout, discussing materials, and getting all your questions answered. This typically takes a few days to a week for initial concepts.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Engineering & Permitting – If the wall is load-bearing, an engineer will be brought in to design the necessary structural support (like a new beam). Once designs are finalized, your contractor will handle the permitting process with local authorities, which can take several weeks depending on jurisdiction in areas like Henderson or Paradise.",
+      "text": "Step 2: Engineering & Permitting – If the wall is load-bearing, an engineer will be brought in to design the necessary structural support (like a new beam). Once designs are finalized, your contractor will handle the permitting process with local authorities, which can take several weeks depending on jurisdiction in areas like Henderson or Paradise.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Site Preparation & Protection – Before any demolition, the work area will be prepped. This means protecting adjacent floors and furniture, sealing off the work zone to minimize dust, and arranging for a debris container. Existing utilities in the wall are also safely disconnected and rerouted at this point. This usually takes a day or two.",
+      "text": "Step 3: Site Preparation & Protection – Before any demolition, the work area will be prepped. This means protecting adjacent floors and furniture, sealing off the work zone to minimize dust, and arranging for a debris container. Existing utilities in the wall are also safely disconnected and rerouted at this point. This usually takes a day or two.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Demolition & Structural Work – This is when the wall comes down! If it's load-bearing, temporary supports will be put in place before removal, and then the new beam or support structure will be installed. This is a critical phase requiring precision and expertise. This can take a few days to a week, depending on complexity.",
+      "text": "Step 4: Demolition & Structural Work – This is when the wall comes down! If it's load-bearing, temporary supports will be put in place before removal, and then the new beam or support structure will be installed. This is a critical phase requiring precision and expertise. This can take a few days to a week, depending on complexity.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing & Integration – Once the wall is gone and new supports are in, the area will be framed, drywalled, taped, mudded, and painted to seamlessly integrate the new open space with the existing rooms. Flooring might need patching or replacement, and new electrical outlets or lighting can be added. This finishing work can take anywhere from one to several weeks to ensure a perfect blend.",
+      "text": "Step 5: Finishing & Integration – Once the wall is gone and new supports are in, the area will be framed, drywalled, taped, mudded, and painted to seamlessly integrate the new open space with the existing rooms. Flooring might need patching or replacement, and new electrical outlets or lighting can be added. This finishing work can take anywhere from one to several weeks to ensure a perfect blend.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Assessment & Design – First, a contractor from Simply Construction will visit your Las Vegas home to assess the wall in question. They'll determine if it's load-bearing, identify any u"
+}

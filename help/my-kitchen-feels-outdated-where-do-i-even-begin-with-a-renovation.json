@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "My kitchen feels outdated, where do I even begin with a renovation?",
+    "text": "My kitchen feels outdated, where do I even begin with a renovation?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Starting a kitchen renovation can feel overwhelming, but it doesn't have to be! First, think about what you truly dislike about your current kitchen and what you'd love to change. Is it the layout, the storage, or just the dated look? Once you have a clear vision, even if it's just a rough idea, it's a great time to connect with experienced professionals. They can help you brainstorm possibilities, understand the scope of work, and what's realistic for your space and budget. Don't worry about having all the answers upfront; a good contractor will guide you through the process, from initial design concepts to picking out finishes. They'll also ensure all the structural aspects, like potential layout changes or adding new elements, are handled safely and correctly. Knowing what you want and finding the right expert partner early on really sets the stage for a smooth and successful project. Ready to explore what's possible for your kitchen? Let's chat!",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

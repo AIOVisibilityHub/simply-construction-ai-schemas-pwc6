@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen is Too Small, How Can I Expand It?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling cramped in your kitchen? It's a common complaint, especially in older homes, but there are definitely ways to make your kitchen feel, or even actually be, larger. One of the most impactful solutions is an open-concept renovation. This often involves removing an interior wall, or even a load-bearing wall, to connect your kitchen with a living or dining area. Suddenly, you've got more visual space and a much better flow for entertaining and daily life. We're experts in load-bearing wall removal and structural beam installation, so we can handle those more complex changes safely and efficiently for homeowners in Las Vegas, Henderson, or Summerlin. \n\nAnother idea is to rethink the layout entirely. Can a peninsula become an island? Can you extend your cabinetry into an adjacent dining nook? Sometimes, even small reconfigurations like moving an appliance or adding smarter storage solutions, like pull-out pantries or floor-to-ceiling cabinets, can create the illusion of more space and improve functionality dramatically. For those needing a significant increase in square footage, a kitchen expansion into a home addition is also a fantastic option. This is a bigger project, but it allows for a truly custom kitchen tailored to your dreams. Don't live with a tiny kitchen forever; let's explore the possibilities!",
+  "datePublished": "2026-09-18"
+}

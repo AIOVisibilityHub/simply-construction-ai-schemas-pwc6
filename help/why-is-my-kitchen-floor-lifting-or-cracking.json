@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Why is my kitchen floor lifting or cracking?",
+    "text": "Why is my kitchen floor lifting or cracking?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It’s super frustrating when your beautiful kitchen floor starts showing signs of wear and tear like lifting, buckling, or cracking. These issues aren't just cosmetic; they often point to underlying problems that need to be addressed before they get worse. Understanding what might be going on can help you decide your next steps and prevent further damage. Often, these issues can be a sign of moisture. Water damage from leaks, spills, or even high humidity can cause wood or laminate flooring to warp, swell, and buckle. For tile, moisture can undermine the adhesive, leading to loose or cracked tiles.\n\nAnother common culprit is improper installation. If the subfloor wasn't adequately prepared, or if the flooring wasn't acclimated properly to your home's environment, it can lead to shifting and damage over time. Thermal expansion and contraction, especially with large temperature swings, can also cause flooring to move and crack if there isn't enough expansion gap. Finally, foundation issues, though less common for just flooring, can sometimes manifest as cracks in tile or unevenness. If you’re seeing these problems in your Las Vegas, Henderson, or Summerlin home, it’s best to get a professional evaluation. Simply Construction can assess the situation, identify the root cause, and recommend the right solution, whether it's a repair or a full replacement. Don't let a failing floor get worse; reach out to us for a free estimate and expert help!",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

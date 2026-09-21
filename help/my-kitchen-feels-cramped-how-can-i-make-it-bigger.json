@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen feels cramped – how can I make it bigger?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling like your kitchen walls are closing in on you? It's a common dilemma, especially in older Las Vegas homes. Kitchen expansion isn't just about adding square footage; it's about redesigning your space to be more functional and enjoyable. Often, we find that reconfiguring the layout, like removing a non-load-bearing wall or incorporating an underutilized dining area, can make a huge difference without a full-blown addition.\n\nFirst, think about how you use your kitchen. Do you entertain often? Need more counter space or storage? Are you dreaming of an island? These considerations will guide your expansion. Sometimes, simply expanding a doorway or opening up to an adjacent room creates an open-concept feel, making the whole area brighter and more spacious. It's not always about a massive structural change; clever layout tweaks can work wonders. Then, there are options like pushing out an exterior wall if your property allows, or even a modest bump-out. You might consider adding a pantry or dedicated coffee bar area. For more complex structural changes, like removing load-bearing walls, working with a licensed general contractor like Simply Construction is crucial. We coordinate everything from permits to structural engineering, ensuring safety and compliance with Nevada building codes. Don't let a cramped kitchen hold you back; there are always smart solutions to explore!",
+  "datePublished": "2026-09-17"
+}

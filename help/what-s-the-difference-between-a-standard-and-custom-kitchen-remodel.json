@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's the Difference Between a Standard and Custom Kitchen Remodel?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're thinking about updating your kitchen in Las Vegas, you might hear terms like 'standard' and 'custom' remodeling. While both aim to improve your space, they're pretty different in terms of approach, flexibility, and outcome. Understanding these differences can really help you decide what's best for your home and your wallet.\n\nA standard kitchen remodel typically involves updating existing elements within the current layout. Think new cabinets that fit the old footprints, refreshed countertops, or updated appliances. It’s often about cosmetic changes – replacing what’s there with newer, nicer versions, but not necessarily changing the fundamental structure or flow of the room. This approach is usually quicker and more budget-friendly because it minimizes structural work and extensive design. It's a great option if you're happy with your kitchen's current functionality and just want a fresh, modern look.\n\nA custom kitchen remodel, on the other hand, is about creating a space that's uniquely tailored to your specific needs, tastes, and lifestyle. This can involve significant layout changes, like knocking down a wall to create an open concept, expanding the kitchen's footprint, or installing structural beams to open up the ceiling. You’re not just choosing new cabinets; you’re designing custom cabinetry that perfectly fits your space and storage requirements. Materials and finishes are hand-picked, often with unique features like a built-in coffee bar or a custom island. The timeline is generally longer, and the cost is higher, reflecting the personalized design, specialized craftsmanship, and often more extensive construction work involved. This is where Simply Construction really shines, coordinating all the planning, permits, and trades to bring your unique vision to life, ensuring every detail is exactly as you dreamed.",
+  "datePublished": "2026-09-17"
+}

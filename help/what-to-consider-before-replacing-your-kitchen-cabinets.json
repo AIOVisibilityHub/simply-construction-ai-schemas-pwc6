@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider Before Replacing Your Kitchen Cabinets?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about new kitchen cabinets? That's a big step towards a refreshed kitchen, but there are a few things you'll want to mull over first. It’s not just about picking pretty doors! First, really think about your kitchen's current layout. Do you love it, or is it time for a change? Sometimes, replacing cabinets is the perfect opportunity to adjust the flow or add more functional storage. We can help you explore options like adding a pantry or a convenient island. Next, consider your budget honestly. Cabinets can range widely in price depending on materials, features, and custom options. Knowing your budget upfront helps guide your choices and keeps things realistic. We work with all sorts of budgets in Las Vegas, North Las Vegas, and Henderson. Don't forget about the overall style of your home. You want your new cabinets to complement your existing decor, or perhaps set the tone for a whole new look. We've got plenty of experience matching styles for properties in Summerlin and Paradise. Finally, think about the timeline. A full cabinet replacement isn't an overnight job, especially with the planning, removal, and installation involved. A professional contractor like Simply Construction can help you navigate all these decisions, ensuring a smooth process and a beautiful outcome you'll love for years. Give us a call at (702) 954-2840 for a free estimate!",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time to Call a Pro for Kitchen Cabinet Replacement?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to call in the pros for your kitchen cabinets can save you a lot of headache and ensure a beautiful, lasting result. Here are some clear signs it's time to reach out to Simply Construction:\n\n*   **Visible Damage:** If your cabinets have significant water damage, warped wood, or structural issues like sagging shelves, a professional assessment is crucial. These problems often indicate deeper issues that a quick fix won't solve.\n*   **Outdated Layout:** Your kitchen might be functional but just doesn't work for your lifestyle anymore. If the layout is inefficient, cramped, or lacks proper storage, replacing cabinets allows for a complete redesign to maximize space and flow.\n*   **Pest Infestation:** If you've had issues with pests nesting in your cabinet structures, it’s a big red flag. Often, the damage isn't just superficial, and replacement is the most hygienic and durable solution.\n*   **Renovation Goals:** If your remodeling vision involves a total kitchen overhaul, new cabinet installation is a fundamental part of that. A general contractor ensures all elements – from design to installation – are cohesive and professionally executed.\n*   **Selling Your Home:** Updated kitchens significantly boost home value. If you're looking to sell, new, modern cabinets can be a major selling point. Professional installation ensures a high-quality finish that appeals to buyers.",
+  "datePublished": "2026-09-17"
+}

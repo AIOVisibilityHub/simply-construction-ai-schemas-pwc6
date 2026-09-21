@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Replacing Kitchen Cabinets a Good Investment?",
+    "text": "Is Replacing Kitchen Cabinets a Good Investment?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Absolutely, replacing your kitchen cabinets can be one of the smartest investments you make in your Las Vegas home! It's not just about aesthetics; new cabinets bring a host of benefits that impact both your daily life and your property's value. Think about improved functionality – modern cabinets offer clever storage solutions, better organization, and smoother operation, making your kitchen more efficient and enjoyable to use. Then there's the durability aspect; quality new cabinets are built to last, resisting wear and tear for years, especially compared to older, deteriorating units. Aesthetically, updated cabinets can completely transform the look and feel of your kitchen, creating a fresh, contemporary space that you'll love spending time in. And let's not forget resale value! Kitchens are often the heart of a home, and buyers are willing to pay more for a property with a beautifully updated kitchen. While it's a significant project, the returns in terms of enjoyment, efficiency, and property value make it a worthwhile endeavor. Simply Construction has over 30 years of experience helping homeowners in areas like Henderson and Summerlin achieve their dream kitchens.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

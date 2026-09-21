@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Did My Open-Concept Kitchen Remodel Go Over Budget?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common scenario: you start an open-concept kitchen remodel with a budget in mind, only to find things are costing more than you expected. This can definitely be frustrating, but understanding why it happens can help you avoid it. Often, the biggest culprit is unexpected structural issues. When you remove a wall, especially one that's load-bearing, you might uncover electrical, plumbing, or HVAC lines that need to be rerouted, or discover a structural beam is required. These aren't always visible during the initial walkthrough, and they add to the complexity and cost. Another budget buster can be underestimating the cost of finishes. Things like custom cabinetry, high-end countertops, and specialized lighting fixtures can quickly add up. And let's not forget the permits! Permitting for structural changes, which are common in open-concept remodels, is crucial and has associated costs. Working with an experienced general contractor like Simply Construction from the start means they can help identify potential issues early, give you a realistic estimate for the entire project including necessary structural work and permits, and guide you in selecting materials that fit your vision and your budget. Getting expert advice upfront is always worth it.",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can you really remove that kitchen wall?",
+    "text": "Can you really remove that kitchen wall?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's a common dream: knocking down a kitchen wall to create that open-concept feel. But the question is, can you really do it safely and effectively? Absolutely, in many cases, but it’s not always a straightforward DIY. The first thing you need to figure out is if the wall is load-bearing. This is huge! A load-bearing wall supports the structure above it, and removing it without proper support can lead to serious structural issues, potentially even collapse. This requires professional assessment, often involving an engineer or an experienced general contractor like Simply Construction.\n\nEven if it’s not load-bearing, removing a wall often involves rerouting electrical wiring, plumbing, and sometimes even HVAC ducts. These are jobs for licensed professionals to ensure everything is done safely and up to code. You’ll also need to consider patching floors, ceilings, and blending new finishes to seamlessly integrate the redesigned space. We handle all the planning, permits, inspections, and the actual construction work here in areas like Summerlin, Henderson, and Paradise. Attempting complex structural changes without proper expertise can be risky and costly in the long run. When you’re dreaming of a more open kitchen, let Simply Construction help you determine the feasibility and safely execute your vision. We’ll make sure your wall comes down, and your home stays standing strong. Let's talk about your project and get a free estimate!",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

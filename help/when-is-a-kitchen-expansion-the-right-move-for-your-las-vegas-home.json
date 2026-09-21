@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is a Kitchen Expansion the Right Move for Your Las Vegas Home?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling cramped in your current kitchen? A kitchen expansion can totally transform your home's functionality and aesthetic, but it's a big decision. Typically, you'd consider expanding when your existing layout just isn't cutting it anymore—maybe you need more counter space for cooking, a bigger area for entertaining, or simply want to open up your home's flow. It's often about making your daily life easier and more enjoyable. \n\nOne clear sign is if you're constantly bumping into family members or struggling with storage. Another is if your kitchen feels disconnected from the rest of your living space. We often see homeowners in Las Vegas, from Summerlin to Henderson, looking to integrate their kitchen with dining or living areas for that popular open-concept feel. This involves potentially removing load-bearing walls and installing structural beams, which is where a licensed general contractor like Simply Construction comes in handy to ensure everything is done safely and to code. \n\nCost and timeline are definitely factors. Expansions involve more than just new cabinets; they can include structural changes, rerouting utilities, and even foundation work. This usually means a longer project duration and a higher investment compared to a simple remodel. However, the payoff in terms of increased space, better flow, and added home value can be significant, especially in our vibrant Las Vegas communities. Thinking about what you want to achieve with the extra space is key to deciding if an expansion is truly worth it for your family.",
+  "datePublished": "2026-09-17"
+}

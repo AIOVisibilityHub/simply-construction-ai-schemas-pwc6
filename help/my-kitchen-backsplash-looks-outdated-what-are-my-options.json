@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen backsplash looks outdated, what are my options?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling like your kitchen's backsplash is stuck in a time warp? You're not alone! A dated backsplash can really drag down the whole kitchen vibe, but luckily, there are tons of fantastic options to bring it into the 21st century. First, think about your overall kitchen style. Are you going for sleek and modern, cozy farmhouse, or something in between? This will guide your material choices. For a clean, contemporary look, large format tiles or even a solid slab backsplash can be stunning. If you love texture, consider subway tile in an interesting pattern or a mosaic blend. For a more rustic or earthy feel, natural stone like travertine or slate might be perfect. Don't forget about grout color either; it can dramatically change the look of your chosen tile. We've seen homeowners in Las Vegas completely transform their kitchens just by updating this one element. Sometimes, a simple, classic ceramic tile in a fresh color is all it takes to make a huge difference. When you're ready to explore what works best for your home, talking to a pro can help you visualize the possibilities and understand the installation process. Simply Construction handles everything from planning to putting the finishing touches on your new backsplash, making sure it perfectly complements your kitchen.",
+  "datePublished": "2026-09-18"
+}

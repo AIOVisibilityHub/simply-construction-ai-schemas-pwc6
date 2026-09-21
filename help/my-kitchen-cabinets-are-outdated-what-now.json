@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen cabinets are outdated, what now?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Seeing those old, worn-out kitchen cabinets every day can really drag down the whole feel of your home. It’s a common problem, and thankfully, there are some great solutions! You might be wondering if it's worth updating them or if you need a full replacement. Let's break it down.\n\nFirst, assess the condition of the cabinet boxes themselves. If they're structurally sound, not water damaged, and just need a facelift, refinishing or refacing could be an option. This is usually quicker and more budget-friendly. However, if the boxes are falling apart, the layout isn't working for you, or you're craving a completely fresh start, full kitchen cabinet replacement is likely the best route. This gives you total freedom to redesign the layout, choose modern styles, and optimize storage.\n\nThink about your long-term goals for your home. Are you planning to sell soon, or is this your forever home? Your answer can help guide your decision. Replacement offers the biggest return on investment for resale value and personal enjoyment. Finally, consider your budget and timeline. Cabinet replacement involves more planning and a larger investment, but the results can be truly transformative. For a major project like this, it’s definitely wise to chat with a professional general contractor like Simply Construction. We can help you navigate all the options in Las Vegas and the surrounding areas, ensuring you get the kitchen you've always dreamed of, done right.",
+  "datePublished": "2026-09-18"
+}

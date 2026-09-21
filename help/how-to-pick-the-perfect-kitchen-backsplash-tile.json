@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Pick the Perfect Kitchen Backsplash Tile",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing the right tile for your kitchen backsplash can feel a bit overwhelming with so many options out there, but it's totally doable! You want something that ties your whole kitchen together, right? First off, think about your existing cabinets and countertops. Are they light or dark? Modern or traditional? Your backsplash should complement these elements, not compete with them. For example, if you have busy granite, a simpler, solid-colored tile might be best. If your countertops are plain, you could go bolder with patterns or textures. Next, consider the material. Ceramic and porcelain are classic, durable, and come in tons of colors and shapes. Glass tiles add a modern, reflective sparkle, while natural stone offers a rich, earthy vibe. Don't forget about maintenance – some materials are easier to clean than others, which is a big deal in a kitchen! Finally, think about scale. A large kitchen can handle bigger tiles or more intricate patterns, while a smaller space might feel more open with subway tiles or a mosaic. If you're struggling to visualize it, a professional general contractor like Simply Construction can offer design advice and even help you source samples to see how they look in your actual kitchen lighting before you make a final decision. We serve all over Las Vegas, including Summerlin and Henderson, and are happy to help.",
+  "datePublished": "2026-09-17"
+}

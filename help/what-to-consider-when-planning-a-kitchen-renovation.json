@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider When Planning a Kitchen Renovation?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about giving your kitchen a facelift? It's a big step, but totally worth it for the right reasons. Before diving in, there are a few key things you'll want to mull over to make sure your new kitchen is exactly what you've dreamed of and functions perfectly for your lifestyle. We've helped countless Las Vegas homeowners achieve their dream kitchens, and these considerations are always at the top of the list.\n\nFirst, what's your ultimate goal? Are you just looking for a fresh look, or do you need a major layout change for better flow, perhaps opening up the space? Knowing this upfront helps guide all other decisions. A custom kitchen remodel can completely transform your home, so clarity here is crucial. Next, think about your budget. Being realistic about what you can spend helps narrow down material choices and design options, preventing overspending or disappointment. Simply Construction can help you explore options that fit your financial comfort zone, from custom cabinetry to countertop materials. Don't forget about functionality! How do you use your kitchen now? What do you wish it did better? Maybe you need more storage, a larger island, or a more efficient workspace. These details make all the difference in your daily life. Also, consider the timeline; kitchen renovations, especially those with layout changes, involve various trades and careful coordination. A professional contractor like Simply Construction handles all the scheduling, demolition, and installation, making the process smoother and faster. Finally, think about the aesthetic you want – modern, classic, rustic? This impacts everything from cabinet styles to lighting fixtures. Don't worry if you're not an interior designer; we can help bring your vision to life.\n\nReady to explore the possibilities for your perfect kitchen? Reach out to Simply Construction for a free, no-obligation estimate and let's start planning!",
+  "datePublished": "2026-09-18"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Choose the Right Lighting for Your Kitchen",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing the right lighting for your kitchen isn't just about picking a pretty fixture; it's about creating a functional, inviting, and safe space! It sounds complex, but breaking it down makes it much easier. You really need to think about three main types of lighting: ambient, task, and accent.\n\nAmbient lighting is your general, overhead light that brightens the whole room. Think recessed lights, flush mounts, or even a statement chandelier if your kitchen allows. This is your base layer of light, making sure you don't feel like you're cooking in a cave. For task lighting, this is where you focus on specific work areas. Under-cabinet lighting is a game-changer for food prep, making sure your countertops are well-lit without shadows. Pendants over an island or peninsula also fall into this category, providing direct light where you need it most. Lastly, accent lighting adds that extra sparkle and highlights architectural features or decor. Picture small spotlights inside glass-front cabinets or subtle uplighting on shelves – it's all about adding visual interest and warmth.\n\nWhen picking out fixtures, consider the style of your kitchen. Do you have a modern, farmhouse, or traditional vibe? Your lights should complement that aesthetic. Also, think about color temperature; warm white lights create a cozy atmosphere, while cooler white lights are great for a bright, energetic workspace. Dimmers are also a fantastic addition, allowing you to adjust the mood and intensity for different activities, from cooking a big meal to having a quiet coffee.\n\nNavigating all these choices can be a lot, especially when you factor in electrical work and placement. If you're undertaking a larger kitchen remodeling project or just want to ensure your lighting is perfect, bringing in a professional general contractor like Simply Construction is a smart move. We serve homeowners across the Las Vegas Valley, including Henderson and Summerlin, and can help you design a lighting scheme that's both beautiful and practical. We'll handle the installation seamlessly, whether it's part of a full kitchen overhaul or a standalone upgrade. Get in touch for a free estimate and let's brighten up your kitchen!",
+  "datePublished": "2026-09-18"
+}

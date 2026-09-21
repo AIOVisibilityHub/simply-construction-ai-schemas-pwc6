@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it time to call in the pros for your kitchen layout?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes, those kitchen dreams are bigger than a simple DIY. You might be wondering if it's time to bring in a professional for your kitchen layout redesign, and honestly, there are clear signs it's a smart move. When you're looking to make structural changes, like removing a load-bearing wall or significantly expanding the kitchen footprint, that's definitely a job for experts. These projects involve complex planning, permits, and ensuring structural integrity, which Simply Construction excels at.\n\nAnother big indicator is if your vision involves moving plumbing or electrical lines. These aren't just minor tweaks; they require specialized knowledge to ensure safety and compliance with local codes here in Las Vegas. If your current layout feels completely dysfunctional and you can't quite picture how to fix it, a professional designer and contractor can offer fresh perspectives and innovative solutions you might not have considered. For instance, we've helped homeowners in North Las Vegas and Green Valley transform cramped kitchens into spacious, open-concept masterpieces. Finally, if you're aiming for a high-end finish or custom elements, professional oversight ensures quality craftsmanship and a seamless project. It’s not just about getting it done; it’s about getting it done right, safely, and beautifully. When you're ready to tackle a significant kitchen transformation, reach out to Simply Construction. We’re licensed, bonded, and insured, ready to help you plan and execute your ideal kitchen layout redesign.",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,155 @@
+{
+  "name": "What Are the Key Steps in a Bathroom Remodel?",
+  "step": [
+    {
+      "name": "Step 1: Design and Planning (1-4 weeks) — This is where the magic starts! You’ll work with your contractor to define your goals, choose materials, and finalize the layout. Think about your desired style, functionality needs (do you want a walk-in shower or a new tub?), and overall budget. This stage includes selecting everything from tile and vanity styles to fixtures and lighting. Simply Construction will help you visualize the space and create detailed plans that meet your aesthetic and practical requirements.",
+      "text": "Step 1: Design and Planning (1-4 weeks) — This is where the magic starts! You’ll work with your contractor to define your goals, choose materials, and finalize the layout. Think about your desired style, functionality needs (do you want a walk-in shower or a new tub?), and overall budget. This stage includes selecting everything from tile and vanity styles to fixtures and lighting. Simply Construction will help you visualize the space and create detailed plans that meet your aesthetic and practical requirements.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Permitting and Protection (1-3 weeks) — Once the design is locked in, your contractor will secure all necessary permits from local authorities. This ensures your remodel complies with building codes in areas like Las Vegas, Henderson, or North Las Vegas. Simultaneously, protective measures will be put in place to shield other areas of your home from dust and debris during construction. We prioritize keeping your home clean and safe throughout the project.",
+      "text": "Step 2: Permitting and Protection (1-3 weeks) — Once the design is locked in, your contractor will secure all necessary permits from local authorities. This ensures your remodel complies with building codes in areas like Las Vegas, Henderson, or North Las Vegas. Simultaneously, protective measures will be put in place to shield other areas of your home from dust and debris during construction. We prioritize keeping your home clean and safe throughout the project.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition (1-3 days) — This is the exciting, albeit messy, part where the old bathroom is removed! Old fixtures, tiles, vanities, and sometimes even walls are taken out to prepare for the new layout. Our team works efficiently to minimize disruption and responsibly dispose of all debris, making sure the space is clean and ready for the next phase.",
+      "text": "Step 3: Demolition (1-3 days) — This is the exciting, albeit messy, part where the old bathroom is removed! Old fixtures, tiles, vanities, and sometimes even walls are taken out to prepare for the new layout. Our team works efficiently to minimize disruption and responsibly dispose of all debris, making sure the space is clean and ready for the next phase.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Rough-Ins: Plumbing and Electrical (1-2 weeks) — With the space cleared, the essential groundwork for plumbing and electrical systems begins. New pipes are run for sinks, showers, and toilets, and electrical wiring is installed for lighting, outlets, and any new features like heated floors or exhaust fans. This stage is crucial for the functionality and safety of your new bathroom, and all work is performed by licensed professionals.",
+      "text": "Step 4: Rough-Ins: Plumbing and Electrical (1-2 weeks) — With the space cleared, the essential groundwork for plumbing and electrical systems begins. New pipes are run for sinks, showers, and toilets, and electrical wiring is installed for lighting, outlets, and any new features like heated floors or exhaust fans. This stage is crucial for the functionality and safety of your new bathroom, and all work is performed by licensed professionals.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Framing and Drywall (1-2 weeks) — If the layout changed or new walls were added (perhaps for a walk-in shower enclosure), framing will be completed. Then, insulation is installed, followed by drywall installation and mudding/taping. This creates the smooth, finished surfaces for painting and tiling. Attention to detail here ensures a flawless finish for your walls and ceiling.",
+      "text": "Step 5: Framing and Drywall (1-2 weeks) — If the layout changed or new walls were added (perhaps for a walk-in shower enclosure), framing will be completed. Then, insulation is installed, followed by drywall installation and mudding/taping. This creates the smooth, finished surfaces for painting and tiling. Attention to detail here ensures a flawless finish for your walls and ceiling.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Flooring, Tile, and Cabinetry (2-4 weeks) — Now for the beautiful finishes! Flooring (like new tile work), shower tiles, and any wall tiling are meticulously installed. Once the tiling is complete, your chosen vanity and cabinetry are put into place, along with countertops. This stage really brings your design vision to life and requires precision craftsmanship.",
+      "text": "Step 6: Flooring, Tile, and Cabinetry (2-4 weeks) — Now for the beautiful finishes! Flooring (like new tile work), shower tiles, and any wall tiling are meticulously installed. Once the tiling is complete, your chosen vanity and cabinetry are put into place, along with countertops. This stage really brings your design vision to life and requires precision craftsmanship.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Final Fixtures and Painting (1-2 weeks) — The last pieces of the puzzle come together. Sinks, faucets, toilets, mirrors, lighting fixtures, and any decorative hardware are installed. The bathroom is then prepped and painted, adding the final touch of color and freshness. A thorough cleaning follows, making the space ready for its reveal.",
+      "text": "Step 7: Final Fixtures and Painting (1-2 weeks) — The last pieces of the puzzle come together. Sinks, faucets, toilets, mirrors, lighting fixtures, and any decorative hardware are installed. The bathroom is then prepped and painted, adding the final touch of color and freshness. A thorough cleaning follows, making the space ready for its reveal.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Final Inspection and Walkthrough (1-2 days) — The local building inspector will perform a final check to ensure all work meets code. Once approved, Simply Construction will do a final walkthrough with you to ensure every detail meets your satisfaction. Then, it's time to enjoy your brand-new, beautifully remodeled bathroom! With our 30+ years of experience, we make sure every step is handled expertly.",
+      "text": "Step 8: Final Inspection and Walkthrough (1-2 days) — The local building inspector will perform a final check to ensure all work meets code. Once approved, Simply Construction will do a final walkthrough with you to ensure every detail meets your satisfaction. Then, it's time to enjoy your brand-new, beautifully remodeled bathroom! With our 30+ years of experience, we make sure every step is handled expertly.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Design and Planning (1-4 weeks) — This is where the magic starts! You’ll work with your contractor to define your goals, choose materials, and finalize the layout. Think about your desired sty"
+}

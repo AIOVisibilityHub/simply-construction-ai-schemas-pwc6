@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the benefits of a new kitchen island?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding a kitchen island can be a game-changer for your Las Vegas home, transforming your kitchen from just a place to cook into a dynamic hub for family and friends. It's more than just an extra surface; it really elevates the whole space!\n\nFirst off, extra counter space is huge. Whether you're prepping meals, baking, or just need a landing spot for groceries, an island offers valuable real estate. Then there's the storage aspect. Many islands come with cabinets, drawers, or open shelving, providing much-needed room for pots, pans, small appliances, or even cookbooks. If you add seating, it becomes an instant informal dining area or a great spot for kids to do homework while you cook. Islands can also improve your kitchen's workflow, creating a natural work triangle between your sink, stove, and refrigerator. Functionally, you can integrate appliances like a second sink, a cooktop, or a wine fridge, making your kitchen even more efficient. Plus, let's be honest, a well-designed island looks fantastic and can significantly boost your home's aesthetic appeal and resale value. If you're in the Las Vegas area and considering an island, Simply Construction can help you design one that perfectly fits your needs and style.",
+  "datePublished": "2026-09-17"
+}

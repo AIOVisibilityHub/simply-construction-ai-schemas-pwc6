@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths vs Facts: Custom Kitchen Remodeling",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "There are a lot of ideas floating around about custom kitchen remodeling, and not all of them are accurate. Let's bust some common myths to give you a clearer picture of what a custom kitchen project in Las Vegas is really like!\n\nMyth: Custom kitchens are only for huge, luxury homes.\nFact: Not at all! A custom kitchen simply means it's designed specifically for your home and your lifestyle, regardless of its size. It's about optimizing your space and creating functionality that off-the-shelf options can't provide, whether it's a cozy bungalow or a sprawling estate.\n\nMyth: Custom means endlessly expensive and out of budget.\nFact: While custom can be an investment, it doesn't automatically mean breaking the bank. A good contractor, like Simply Construction, works with you to select materials and features that fit your budget while still delivering a personalized design. The value often comes from the longevity and perfect fit.\n\nMyth: It's just about aesthetics; custom doesn't improve functionality much.\nFact: This couldn't be further from the truth! Custom remodeling is *all* about optimizing functionality. Imagine cabinets designed for your specific dishware, a pantry that perfectly fits your groceries, or an island built for your unique cooking and entertaining style. It's about making your kitchen work better for *you*.\n\nMyth: Custom remodels take forever and cause endless disruption.\nFact: Every remodel has some disruption, but an experienced contractor coordinates everything to be as efficient as possible. With careful planning and clear communication, the process can be managed smoothly, ensuring timely progress and minimizing inconvenience. We're talking weeks, not years, especially with a team that knows the ins and outs.",
+  "datePublished": "2026-09-17"
+}

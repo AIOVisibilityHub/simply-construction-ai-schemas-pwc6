@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Hardwood vs. Tile: Which is Right for Your Kitchen Floor?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're choosing kitchen flooring, hardwood and tile are two fantastic, popular options, but they've got some key differences that might make one a better fit for your Las Vegas home. Hardwood offers that classic, warm, and inviting look. It's generally comfortable underfoot and can even add value to your home. On the flip side, hardwood can be more susceptible to moisture damage and scratches, especially in a high-traffic, spill-prone kitchen. It also requires a bit more maintenance. Tile, like ceramic or porcelain, is incredibly durable and famously water-resistant, making it a champion against spills and humidity. It's super easy to clean, which is a big plus in a kitchen. However, tile can be harder on your feet, and grout lines can be a pain to keep spotless. Installation costs for both can vary, but generally, tile installation might require more specialized labor for proper setting and grouting. Timeline-wise, tile can sometimes take a bit longer due due to drying times for thinset and grout. Choosing between them often comes down to balancing aesthetics, durability, and maintenance. If you prioritize warmth and classic style, hardwood might be your pick. If easy cleanup and ultimate durability against spills are top priorities, tile could be perfect. When in doubt, talking to a pro like Simply Construction can really help clarify what works best for your kitchen remodel needs.",
+  "datePublished": "2026-09-17"
+}

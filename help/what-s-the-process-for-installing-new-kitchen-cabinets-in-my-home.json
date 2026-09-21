@@ -1,0 +1,137 @@
+{
+  "name": "What's the Process for Installing New Kitchen Cabinets in My Home?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design. We’ll meet with you to discuss your vision, budget, and functional needs. We take precise measurements of your kitchen space and help you select the cabinet styles, materials, finishes, and hardware that best suit your home and taste. This step is all about planning, typically taking a few days to a week depending on how quickly decisions are made.",
+      "text": "Step 1: Initial Consultation & Design. We’ll meet with you to discuss your vision, budget, and functional needs. We take precise measurements of your kitchen space and help you select the cabinet styles, materials, finishes, and hardware that best suit your home and taste. This step is all about planning, typically taking a few days to a week depending on how quickly decisions are made.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Old Cabinet Removal & Prep Work. Once your new cabinets are ordered and ready, we carefully remove your existing cabinets. This often involves disconnecting plumbing and electrical lines. We then prepare the walls, ensuring they are clean, level, and ready for installation. This phase can usually be completed in 1-2 days.",
+      "text": "Step 2: Old Cabinet Removal & Prep Work. Once your new cabinets are ordered and ready, we carefully remove your existing cabinets. This often involves disconnecting plumbing and electrical lines. We then prepare the walls, ensuring they are clean, level, and ready for installation. This phase can usually be completed in 1-2 days.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Base Cabinet Installation. Our team begins by installing the lower, or base, cabinets. This is a critical step where precision is key, as these cabinets form the foundation for your countertops and often dictate the placement of appliances. We ensure they are perfectly level and securely anchored. This usually takes 1-3 days.",
+      "text": "Step 3: Base Cabinet Installation. Our team begins by installing the lower, or base, cabinets. This is a critical step where precision is key, as these cabinets form the foundation for your countertops and often dictate the placement of appliances. We ensure they are perfectly level and securely anchored. This usually takes 1-3 days.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Wall Cabinet Installation. Next, we move on to the upper wall cabinets. This requires careful alignment with the base cabinets and ensuring they are securely fastened to the wall studs. This step often takes another 1-3 days, depending on the number and complexity of the cabinets.",
+      "text": "Step 4: Wall Cabinet Installation. Next, we move on to the upper wall cabinets. This requires careful alignment with the base cabinets and ensuring they are securely fastened to the wall studs. This step often takes another 1-3 days, depending on the number and complexity of the cabinets.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing Touches & Hardware. After all cabinets are in place, we install all the final trim, molding, and decorative elements. This is also when we attach your chosen handles, pulls, and any other hardware. We make sure all doors and drawers open and close smoothly. This final phase typically wraps up within 1-2 days.",
+      "text": "Throughout the entire process, our experienced team ensures minimal disruption and a clean worksite. We coordinate with other trades if necessary and conduct a final walkthrough with you to ensure everything meets your expectations. With over 30 years of hands-on experience, you can trust Simply Construction to handle your kitchen cabinet installation professionally and efficiently.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design. We’ll meet with you to discuss your vision, budget, and functional needs. We take precise measurements of your kitchen space and help you select the cabinet styl"
+}

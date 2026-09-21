@@ -1,0 +1,119 @@
+{
+  "name": "How to Plan for Your Perfect Kitchen Island Installation",
+  "step": [
+    {
+      "name": "Step 1: Define its Purpose",
+      "text": "Before anything else, figure out what you want your island to do. Will it be a prep station, a dining spot, extra storage, or perhaps house an appliance like a sink or stovetop? Knowing its primary role helps determine the size, features, and necessary utilities. If you want seating, you'll need an overhang. If it's a cooking zone, you'll need power and possibly ventilation.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Measure Your Space & Plan for Flow",
+      "text": "This is crucial! You need enough clearance around the island – ideally 36-48 inches – for comfortable movement and appliance access. A good rule of thumb is to measure your kitchen and even mark out the proposed island footprint with painter's tape to visualize the space. Ensure it doesn't disrupt your",
+      "@type": "HowToStep",
+      "position": 2
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, figure out what you want your island to do. Will it be a prep station, a dining spot, extra storage, or perhaps house an appliance like a sink or stovetop? Knowing its primary ro"
+}

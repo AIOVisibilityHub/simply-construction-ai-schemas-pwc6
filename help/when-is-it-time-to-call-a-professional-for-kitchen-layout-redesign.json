@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it time to call a professional for kitchen layout redesign?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about shaking up your kitchen layout? That's exciting! But sometimes, what starts as a simple idea can quickly get complex. Here are some signs it's probably time to bring in the pros from Simply Construction:\n\n*   **You're dreaming of open-concept living:** If you're looking to knock down walls to create that seamless flow between your kitchen and living areas, you're likely dealing with structural elements. Removing a load-bearing wall isn't a DIY job; it requires expertise in structural beam installation, engineering, and permits to ensure your home's integrity is maintained safely. \n*   **Your kitchen workflow is a nightmare:** If you're constantly tripping over family members or doing a marathon just to get from the fridge to the stove, your 'work triangle' needs an overhaul. Professionals can optimize appliance placement and traffic patterns for maximum efficiency and comfort, even if it means relocating plumbing or electrical.\n*   **You want to expand your kitchen footprint:** Adding more square footage, whether by incorporating an adjacent room or building an addition, involves much more than just moving cabinets. This typically includes foundation work, roofing, electrical, plumbing, and getting all the necessary permits and inspections for your Las Vegas home.\n*   **Ceilings feel too low:** Want to raise your ceilings or convert to a vaulted ceiling? This structural change can dramatically open up a space but requires specialized knowledge to ensure it's done safely and correctly.\n*   **You're unsure about permits and codes:** Any significant layout change, especially those involving structural alterations, plumbing, or electrical, requires permits and adherence to local building codes. A licensed general contractor like us will handle all the planning, permitting, and coordination with inspectors, saving you headaches and potential future problems. We know the ins and outs of renovation requirements in Las Vegas and surrounding areas.",
+  "datePublished": "2026-09-18"
+}

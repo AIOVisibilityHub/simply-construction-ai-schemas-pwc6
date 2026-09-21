@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Mistakes to Avoid When Choosing New Kitchen Cabinets",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Picking out new kitchen cabinets is exciting, but it's easy to stumble if you're not careful. Here are some common blunders to dodge for a smoother experience! First, don't ignore your kitchen's workflow. Choosing cabinets that look good but don't support how you actually use your kitchen is a huge mistake. Think about appliance placement and how you move between prep, cooking, and cleanup zones. Next, avoiding proper measurements is a recipe for disaster. Even a small error can mean cabinets won't fit, creating costly delays. Our team in Las Vegas and Summerlin takes precise measurements to ensure everything fits perfectly. Another common pitfall is underestimating the budget. Cabinets can be a significant investment, and not accounting for installation, hardware, and potential modifications can lead to surprises. Get a clear, upfront estimate from us! Don't forget about quality. Opting for the cheapest option might save money now, but poorly constructed cabinets won't last and can look worn quickly. We help you find durable options that fit your needs and last for years. Lastly, trying to DIY complex installations without experience can lead to costly mistakes and a less-than-professional finish. For a truly flawless and functional kitchen cabinet replacement, especially for properties in North Las Vegas or Henderson, professional help from Simply Construction is invaluable. Call us at (702) 954-2840!",
+  "datePublished": "2026-09-17"
+}

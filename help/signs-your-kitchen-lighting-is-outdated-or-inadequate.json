@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs Your Kitchen Lighting is Outdated or Inadequate",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's surprising how much of a difference good lighting can make in your kitchen, not just for cooking, but for the entire feel of the room. If you're constantly squinting or just not loving the vibe, your lighting might be the culprit. Here are some signs it's time to consider a kitchen lighting upgrade:\n\n*   **Poor visibility for tasks:** If you find yourself struggling to see while chopping vegetables or reading recipes, your task lighting is probably insufficient. Shadows on your countertops are a big indicator.\n*   **Single overhead fixture:** Relying on just one central ceiling light often creates harsh shadows and uneven illumination, leaving corners dim and uninviting. Layered lighting is key for kitchens.\n*   **Outdated fixtures:** Old fluorescent tubes or dingy pendant lights can make a kitchen feel drab and past its prime, even if everything else is new. Modern fixtures can instantly update the look.\n*   **High energy bills:** Older lighting systems, especially those using incandescent bulbs, can be energy hogs. Upgrading to energy-efficient LED options can save you money in the long run.\n*   **Lack of ambiance:** Does your kitchen feel cold or unwelcoming? The right lighting, with dimmers and different light temperatures, can create a warm, inviting atmosphere for entertaining or quiet meals. If these points resonate with you, it's a good sign an upgrade is in order. Simply Construction specializes in kitchen remodels and can help illuminate your Las Vegas home beautifully. Get in touch for a free estimate and let's light up your kitchen!",
+  "datePublished": "2026-09-17"
+}

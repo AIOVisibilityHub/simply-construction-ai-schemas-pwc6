@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How do different kitchen flooring options stack up?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing new flooring for your kitchen can feel like a big decision with so many options out there! Let's break down some popular choices to help you figure out what might be best for your home in Las Vegas.\n\n**Ceramic/Porcelain Tile vs. Hardwood Flooring**\n*   **Ceramic/Porcelain Tile:**\n    *   **Pros:** Super durable, excellent water resistance (great for spills!), easy to clean, and comes in a huge variety of styles, colors, and patterns, including options that mimic wood or natural stone. It's fantastic for high-traffic areas and humid environments. It’s a solid choice for kitchens in places like Inspirada or The Lakes.\n    *   **Cons:** Can be cold underfoot, hard (so dropped items might break), and grout lines can require occasional sealing and cleaning. Installation can be intricate and typically requires a professional touch.\n    *   **Best for:** Busy kitchens, homes with pets and kids, anyone wanting maximum durability and easy maintenance.\n*   **Hardwood Flooring:**\n    *   **Pros:** Classic, warm, adds significant resale value, and can be refinished multiple times. It’s timeless and creates a very inviting atmosphere.\n    *   **Cons:** Less water-resistant than tile (spills need quick cleanup), can scratch or dent, and may require more maintenance to keep it looking pristine. Not ideal for kitchens where water exposure is constant.\n    *   **Best for:** Homeowners prioritizing classic aesthetics, those with open-concept designs where kitchen flooring flows into other hardwood areas, and those who don't mind a bit more maintenance.\n\nWhen making your decision, consider your budget, how much wear and tear your kitchen sees, and the overall style you're going for. We work with all types of flooring and can help you find the perfect fit for your lifestyle and home in North Las Vegas, Summerlin, or anywhere in the valley.",
+  "datePublished": "2026-09-18"
+}

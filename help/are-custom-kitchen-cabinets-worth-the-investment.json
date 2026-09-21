@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Are custom kitchen cabinets worth the investment?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're upgrading your kitchen in Las Vegas, the question of whether to go with custom cabinets often comes up. It’s a significant decision, and many wonder if the investment truly pays off. Here's a look at the myths versus facts surrounding custom kitchen cabinets:\n\nMyth: Custom cabinets are only for huge, luxury kitchens.\nFact: Not at all! While they certainly shine in expansive spaces, custom cabinets are incredibly beneficial for smaller or unusually shaped kitchens too. They allow you to maximize every inch of space, creating storage solutions that wouldn't be possible with standard, off-the-shelf options. This means you can get perfectly sized drawers, unique pantry configurations, or even integrate appliances seamlessly, making your kitchen more functional regardless of its size.\n\nMyth: They're way too expensive and not worth the extra cost.\nFact: While custom cabinets often have a higher upfront cost than stock options, they offer superior quality, durability, and a perfect fit that can save you money in the long run. They're built to your exact specifications using high-quality materials and craftsmanship, meaning they'll last longer and stand up to daily wear and tear much better. Plus, their unique design adds significant value and appeal to your home, which can be a great return on investment if you ever sell.\n\nMyth: You can get the same look and functionality with semi-custom cabinets.\nFact: Semi-custom cabinets offer more options than stock, but they still operate within predefined sizes and styles. Custom cabinets, on the other hand, are truly bespoke. Every aspect, from the wood species and finish to the internal organizers and dimensions, is tailored to your specific needs and aesthetic. This level of personalization means you get exactly what you want, without compromises, ensuring your kitchen truly reflects your style and meets your functional demands.\n\nMyth: Custom cabinet projects take forever to complete.\nFact: While custom fabrication does take time, a skilled general contractor like Simply Construction will manage the process efficiently. We coordinate the design, build, and installation phases, ensuring a streamlined timeline. The result is a precisely fitted, high-quality installation that often takes less time in the long run than dealing with the issues that can arise from trying to make standard cabinets fit an unconventional space. Plus, the wait is worth it for a truly unique and perfectly functional kitchen.",
+  "datePublished": "2026-09-17"
+}

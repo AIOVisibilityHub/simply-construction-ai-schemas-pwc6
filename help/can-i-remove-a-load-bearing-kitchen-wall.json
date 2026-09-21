@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Can I remove a load-bearing kitchen wall?",
+    "text": "Can I remove a load-bearing kitchen wall?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Many homeowners in Las Vegas dream of opening up their kitchen, but one big question always pops up: 'Can I remove this wall?' The answer often depends on whether the wall is load-bearing. A load-bearing wall is literally holding up part of your house, supporting floors or the roof above. Removing it without proper planning and support can lead to serious structural issues for your home, which is obviously something you want to avoid.\n\nSo, can you remove one? Yes, often you can, but it's not a simple DIY job. It requires a professional assessment, typically by a structural engineer, to determine exactly what kind of support is needed to replace the load that wall was carrying. This usually involves installing a new structural beam or header, which then distributes the weight safely. Simply Construction has over 30 years of experience with structural remodeling, including load-bearing wall removal and structural beam installation. We handle all the necessary planning, permits, and inspections to ensure the work is done safely and correctly, in accordance with Nevada requirements. Trying to guess if a wall is load-bearing or attempting to remove it yourself could compromise your home's integrity and create major problems down the line. When you're thinking about removing a kitchen wall in your Spring Valley or North Las Vegas home, it's really important to bring in the experts to ensure everything is done right and safely.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Your Kitchen Lighting Isn't Cutting It",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your kitchen isn't just for cooking; it's often the heart of your home! So, if your lighting isn't up to par, it can really affect how you use and enjoy the space. Dim, unflattering, or poorly placed lighting can make meal prep a chore, dining feel gloomy, and even impact your mood. Good kitchen lighting isn't just about brightness; it's about layering different types of light to suit various tasks and create the right ambiance. Maybe you need brighter task lighting over your countertops for chopping, or softer accent lighting to highlight a beautiful backsplash. Sometimes, older fixtures simply don't provide the efficiency or flexibility of modern LED options. Upgrading your kitchen lighting can dramatically improve functionality, enhance safety, and boost the overall aesthetic appeal of your home. It's a significant improvement that often goes overlooked. If you're ready to brighten things up and make your kitchen more inviting, consider what new fixtures could do. Professionals like Simply Construction in Las Vegas can help design and install a lighting scheme that truly transforms your space. Reach out to Simply Construction for a free, no-obligation estimate on your kitchen lighting upgrade.",
+  "datePublished": "2026-09-17"
+}

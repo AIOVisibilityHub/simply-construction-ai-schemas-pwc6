@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Kitchen Cabinets Are Falling Apart",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's incredibly frustrating when your kitchen cabinets start showing their age – sticky drawers, peeling laminate, sagging doors, or just plain looking tired. Beyond the aesthetics, failing cabinets can impact functionality and even hygiene. But don't despair; you've got options to bring your kitchen back to life!\n\nFirst, assess the damage: are the boxes themselves sturdy, or is it just cosmetic? If the basic structure is sound, sometimes refacing or painting can give them a fresh look without a full replacement. However, if you're dealing with water damage, structural issues, or simply a completely outdated style that doesn't fit your needs, it's likely time for new cabinet installation. Consider what you truly need in terms of storage and accessibility, and explore options like soft-close drawers, pull-out pantry shelves, and custom inserts to maximize space. When the integrity of your cabinets is compromised, it’s often best to call in a professional. A local general contractor like Simply Construction, serving Las Vegas and surrounding areas, can guide you through the best solutions for durable, beautiful new kitchen cabinets that will stand the test of time.",
+  "datePublished": "2026-09-17"
+}

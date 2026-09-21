@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It's Time for a New Kitchen Backsplash",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to overlook your kitchen backsplash, but it plays a huge role in your kitchen's aesthetics and hygiene. If you're wondering whether it's time for an upgrade, here are some clear signals:\n\n*   **Visible wear and tear:** Cracks, chips, or missing tiles aren't just unsightly; they can harbor grime and make cleaning tough. This is a primary sign it's time for an update.\n*   **Outdated style:** Are your tiles screaming the 80s or 90s? Fashions change, and a dated backsplash can make your whole kitchen feel old. A modern backsplash instantly revitalizes the space.\n*   **Grout issues:** Discolored, crumbling, or stained grout can be impossible to clean, leading to an unhygienic appearance and potential moisture problems behind the tiles. Regrouting is an option, but often a full replacement is better.\n*   **Mismatch with new updates:** If you've updated your countertops or cabinets, but kept the old backsplash, it might look out of place. A new backsplash helps integrate all your kitchen elements seamlessly.\n*   **Difficulty cleaning:** If you find yourself scrubbing endlessly to remove stains or grime, your current backsplash material might not be practical for your cooking habits. A low-maintenance material can save you a lot of effort. If any of these sound familiar, it's probably time to consider a new backsplash. Simply Construction can help you choose and install the perfect one for your Las Vegas home. Get in touch for a free estimate and let's get your kitchen looking great!",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen floor is damaged, what are my options?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Finding yourself with a damaged kitchen floor in your Las Vegas home – maybe cracked tiles, warped wood, or worn-out linoleum – can be a real headache. It's not just an eyesore; it can also be a safety hazard. But don't fret! You've got several fantastic options to get your kitchen looking fresh and functioning perfectly again. \n\nFirst, assess the damage. Is it just a few loose tiles, or is the whole floor compromised? Sometimes, minor repairs can do the trick, but often, especially with water damage or widespread wear, a full replacement is the most durable and aesthetically pleasing solution. \n\nWhen it comes to new flooring, the choices are vast. You could go classic with ceramic or porcelain tile, which is incredibly durable and water-resistant, perfect for busy kitchens in areas like Green Valley or Skye Canyon. There's also luxury vinyl plank (LVP) or tile (LVT), which offers the look of wood or stone with excellent water resistance and comfort underfoot. Hardwood, while beautiful, requires more care around spills, but engineered wood can be a great compromise. Even polished concrete is becoming a stylish, low-maintenance option.\n\nThink about your lifestyle, budget, and the overall look you want for your kitchen. Do you need something super tough for a busy family, or are you prioritizing a luxurious aesthetic? Whatever your situation, a professional general contractor like Simply Construction can guide you through the pros and cons of each material, handle the demolition of the old flooring, and ensure a flawless installation of your new kitchen floor, giving your whole space a lift.",
+  "datePublished": "2026-09-18"
+}

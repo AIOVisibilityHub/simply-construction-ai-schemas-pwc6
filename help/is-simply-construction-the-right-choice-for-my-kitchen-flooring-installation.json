@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is [Simply Construction] the Right Choice for My Kitchen Flooring Installation?",
+    "text": "Is [Simply Construction] the Right Choice for My Kitchen Flooring Installation?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Picking the right contractor for your kitchen flooring can feel like a big deal, and you want to make sure you're making a smart choice. When you're investing in your home, especially a high-traffic area like the kitchen, you need someone reliable who knows their stuff. So, is Simply Construction the right fit for your kitchen flooring installation in the Las Vegas area?\n\nWe think so, and here’s why. First off, we're a **licensed, bonded, and insured general contractor** right here in Las Vegas, Nevada. That means we operate legally, safely, and are fully covered, giving you peace of mind. Our team brings **more than 30 years of hands-on experience** to the table, specifically in remodeling and renovation projects, including all types of flooring installations. We're not just handy; we're seasoned pros who've seen it all and know how to handle the intricacies of a proper installation.\n\nBeyond just laying floors, we understand the bigger picture of a kitchen remodel. If your flooring choice impacts other elements, like cabinet heights or appliance placement, we've got the expertise to coordinate everything seamlessly. We handle everything from the initial planning to the final touches, ensuring your new kitchen floor is installed correctly, efficiently, and to the highest standards. We serve all surrounding Las Vegas Valley communities, including North Las Vegas, Henderson, and Summerlin. We believe in transparency and quality workmanship, always aiming to exceed your expectations. If you're looking for experienced, professional flooring installers who can manage your project from start to finish, we'd love to chat. Contact us for a free, no-obligation estimate!",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

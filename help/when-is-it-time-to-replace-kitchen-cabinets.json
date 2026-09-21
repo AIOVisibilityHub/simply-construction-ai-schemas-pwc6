@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time to Replace Kitchen Cabinets?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Knowing when to replace your kitchen cabinets instead of just repairing them can save you a lot of headache and money in the long run. Here are some key signs it’s time to call in the pros:\n\n- **Visible Damage Everywhere:** If you see widespread issues like peeling laminate, chipped wood, water damage, or significant warping across multiple cabinets, it's often more cost-effective to replace. Small dings are one thing, but systemic problems signal a deeper issue.\n- **Poor Functionality:** Are drawers sticking, doors falling off hinges, or shelves sagging under normal weight? Cabinets that no longer function properly can be incredibly frustrating and even unsafe. Replacing them means getting a kitchen that works for you.\n- **Outdated Layout:** Sometimes, it’s not just the look but the entire configuration that's the problem. If your kitchen layout isn't working for your lifestyle, replacing cabinets gives you a chance to totally rethink the space, maybe even creating that open-concept feel.\n- **Pest Infestation:** This is a big one. If you've had persistent pest issues within your cabinets that are hard to eradicate, replacement might be the cleanest and safest option to ensure your kitchen is hygienic.\n- **Preparing for a Major Renovation:** If you're already planning a full kitchen overhaul, trying to save old cabinets often doesn't make sense. New cabinets are a cornerstone of a truly transformed space. When you're facing these kinds of challenges, Simply Construction is here in Las Vegas to help guide you through the best solutions for your kitchen.",
+  "datePublished": "2026-09-18"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Choosing Between Recessed and Under-Cabinet Lighting for Your Kitchen",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're planning a kitchen lighting upgrade, two popular choices often come up: recessed lighting and under-cabinet lighting. Both serve different purposes and offer distinct benefits, so let's break them down. Recessed lighting, also known as can lights, are installed flush with your ceiling, offering general ambient light that feels clean and unobtrusive. They're great for overall illumination, making your kitchen feel brighter and more open. You can often dim them to adjust the mood, and they're perfect for covering larger areas without visual clutter. On the other hand, under-cabinet lighting is fantastic for task illumination. Installed directly beneath your upper cabinets, these lights illuminate your countertops, making food prep safer and easier by eliminating shadows. They're also excellent for accentuating your backsplash and adding a warm, inviting glow in the evenings. You don't have to choose just one, though! Often, the best kitchen lighting design incorporates both. Recessed lights can provide the primary light source, while under-cabinet lights handle task-specific areas. Considering your kitchen's layout and your daily activities will help you decide the right balance. For expert advice and professional installation in Las Vegas, Simply Construction can guide you through the options and make sure your new lighting is perfectly suited to your kitchen. Contact us for a free estimate to discuss your kitchen lighting project.",
+  "datePublished": "2026-09-17"
+}

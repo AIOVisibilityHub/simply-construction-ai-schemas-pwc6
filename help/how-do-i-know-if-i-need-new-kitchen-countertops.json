@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How do I know if I need new kitchen countertops?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your kitchen countertops take a lot of abuse, being the workhorse of your culinary space. But how do you know when they’ve had enough and it’s time for a refresh? It’s a common question, and there are some clear signs to look out for in your Las Vegas home.\n\nFirst, take a close look at the surface. Are there deep scratches, extensive stains that won't come out, or noticeable burns? These aren’t just cosmetic issues; they can make your countertops harder to clean, less hygienic, and diminish the overall appeal of your kitchen. Chips, cracks, or gouges, especially near sinks or edges, are also major indicators that replacement might be necessary. These can harbor bacteria and can even worsen over time, potentially leading to bigger problems.\n\nBeyond visible damage, consider the functionality and aesthetics. Are your countertops difficult to maintain? Do they clash with the rest of your kitchen design, making the whole space feel dated? Sometimes, simply updating your countertops can dramatically transform the look and feel of your kitchen without needing a full overhaul. Lastly, think about resale value. Outdated or damaged countertops can be a deterrent to potential buyers. Upgrading to a modern, durable material like quartz or granite can significantly boost your home’s appeal and value. If any of these sound familiar, it's a good sign it’s time to chat with a professional like Simply Construction about your kitchen countertop installation options.",
+  "datePublished": "2026-09-18"
+}

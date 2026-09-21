@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is removing a kitchen wall worth the effort and cost?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about taking down a kitchen wall? It's a common desire these days, and for good reason! Creating a more open and connected living space can dramatically improve your home's feel and functionality. But, like any major renovation, you're probably wondering if the effort and cost really pay off. Let's weigh it out.\n\n**Key Differences:** The biggest difference between a traditional kitchen and one with a removed wall is the feeling of spaciousness and connectivity. Traditional kitchens often feel enclosed, sometimes isolating the cook. Removing a wall instantly expands your visual space, making rooms feel larger and brighter, and connecting social areas. It truly changes the dynamic of your home.\n\n**When to Choose Each:** You'd choose to keep your kitchen wall if you prefer a more formal, separate dining area, or if you need maximum wall space for cabinetry and appliances. However, if you crave a modern, airy feel, want to improve natural light, and love the idea of interacting with family and guests while you cook, then removing a wall is definitely for you. It's perfect for entertainers or families who spend a lot of time in shared living spaces.\n\n**Cost and Timeline:** The cost can vary quite a bit, primarily depending on whether the wall is load-bearing and if utilities (electrical, plumbing) run through it. A non-load-bearing wall removal might be a few thousand dollars, while a load-bearing wall requiring a structural beam could range from $10,000 to $20,000 or more, including finishing work. The timeline also varies; a simpler removal might take a few days, but a complex one with structural work and permitting could span several weeks. Investing in professional assessment from a licensed general contractor like Simply Construction in Las Vegas is crucial to get an accurate estimate and ensure the job is done safely and correctly.",
+  "datePublished": "2026-09-18"
+}

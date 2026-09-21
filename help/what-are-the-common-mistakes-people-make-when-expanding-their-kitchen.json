@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the common mistakes people make when expanding their kitchen?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're dreaming of a bigger kitchen, it's easy to get carried away. But some common missteps can turn your vision into a headache. Here are a few to watch out for:\n\n*   **Forgetting about permits:** Many significant kitchen expansions, especially those involving structural changes or plumbing/electrical rerouting, require permits in Las Vegas. Skipping this step can lead to fines, delays, or even having to undo work. Always check with your contractor about necessary permits.\n*   **Ignoring the 'work triangle':** Even in a larger kitchen, the flow between your sink, stove, and refrigerator (the work triangle) is crucial for efficiency. A badly planned layout, even with more space, can make cooking a chore.\n*   **Underestimating the budget:** It's common to only budget for visible elements like cabinets and countertops. Don't forget about demolition, structural work, new flooring, lighting, plumbing, electrical, and unexpected issues. Always have a contingency fund.\n*   **Not planning for storage:** More space doesn't automatically mean better storage. Plan for smart storage solutions early on, like pantry pull-outs, deep drawers, and creative cabinet designs, to keep your new kitchen organized.\n*   **DIYing complex tasks:** While some tasks are homeowner-friendly, structural changes, gas lines, or extensive electrical work are not. Trying to tackle these yourself can be dangerous, costly, and lead to code violations. This is definitely where professional help from a licensed general contractor like Simply Construction becomes important for safety and quality.",
+  "datePublished": "2026-09-17"
+}

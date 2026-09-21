@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Do When Your Kitchen Backsplash Looks Dated",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common dilemma: your kitchen cabinets are still great, but that old backsplash is screaming 90s. When your kitchen backsplash looks dated, it can drag down the whole room's aesthetic. The good news is, a backsplash update is one of the most impactful changes you can make without a full kitchen overhaul. Start by thinking about your current kitchen style – is it modern, traditional, rustic, or something else? This will guide your material and color choices. You might consider classic subway tile for a timeless look, or maybe a geometric pattern for a more contemporary feel. Don't forget about grout color; it makes a huge difference in the final appearance. Also, think about functionality. Do you need something super easy to clean behind a busy cooktop? Consider materials like ceramic, porcelain, or even glass. If you're unsure about design trends or the installation process, especially in areas like Las Vegas, North Las Vegas, or Henderson, getting some expert advice can really help. A professional can ensure proper installation, especially with tricky patterns or delicate materials. Ready to refresh your kitchen? Get a quote from Simply Construction to see what’s possible.",
+  "datePublished": "2026-09-17"
+}

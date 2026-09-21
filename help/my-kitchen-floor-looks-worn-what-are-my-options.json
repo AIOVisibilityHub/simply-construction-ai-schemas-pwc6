@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Floor Looks Worn: What Are My Options?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your kitchen floor is looking tired, scuffed, or just plain sad, you're probably wondering what the best way to breathe new life into it is. Luckily, there's a fantastic array of modern kitchen flooring options that combine durability with stunning aesthetics. Choosing the right one depends on your lifestyle, budget, and the overall look you're going for in your Las Vegas home.\n\n**1. Tile (Ceramic/Porcelain):** Always a classic for kitchens! Tile is incredibly durable, water-resistant, and comes in an endless variety of colors, patterns, and sizes. It’s perfect for busy households and can mimic wood or stone beautifully. Plus, it's super easy to clean. We often install new tile for kitchens across the Las Vegas Valley. \n\n**2. Vinyl (LVT/LVP):** Modern luxury vinyl tile (LVT) and luxury vinyl plank (LVP) are fantastic choices. They're highly resistant to water, scratches, and stains, making them ideal for kitchens. They also come in incredibly realistic wood and stone looks, often at a more budget-friendly price point than the real thing, and they're softer underfoot than tile.\n\n**3. Laminate:** Laminate flooring offers a great balance of durability and affordability. It can convincingly replicate hardwood or tile and is relatively easy to maintain. Just be mindful of excessive standing water, as it's not as water-resistant as LVT/LVP or tile.\n\n**4. Hardwood:** While requiring more care than other options, hardwood floors offer timeless beauty and warmth. If properly sealed and maintained, they can last for decades. They add significant value and can be refinished multiple times. Engineered hardwood is a good alternative for kitchens as it's more stable against moisture.\n\n**5. Concrete:** For a modern, industrial, or minimalist vibe, polished concrete is an increasingly popular choice. It's incredibly durable, low-maintenance, and can be stained or dyed to match any decor. It's also great for passive solar heating.\n\nWhatever your style or practical needs, there's a perfect flooring solution out there to make your kitchen shine again. Our team at Simply Construction can help you explore these options and handle the installation right here in Las Vegas.",
+  "datePublished": "2026-09-17"
+}

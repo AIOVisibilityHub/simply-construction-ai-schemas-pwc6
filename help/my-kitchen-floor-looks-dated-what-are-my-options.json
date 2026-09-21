@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "My kitchen floor looks dated – what are my options?",
+    "text": "My kitchen floor looks dated – what are my options?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Q: My kitchen floor in my Summerlin home is seriously outdated, and I'm ready for a change. What are my options for new kitchen flooring installation, and what kind of budget should I be thinking about?\n\nA: It's totally understandable to want to update a dated kitchen floor—it can make a huge difference in the entire feel of your home! You've got some great options depending on your style, budget, and how much wear and tear your kitchen sees. For a classic, durable choice, porcelain or ceramic tile is always a winner. They're water-resistant, come in countless designs, and are tough enough for any busy kitchen. If you're after the warmth of wood but need something more practical for spills, luxury vinyl plank (LVP) or tile (LVT) is fantastic; it’s waterproof and looks incredibly realistic. For a really high-end, distinctive look, natural stone like travertine or slate can be stunning, though it usually comes with a higher price tag and might need a bit more maintenance. For budgets, LVP/LVT tends to be more affordable, while high-quality tile or natural stone will be on the higher end. Beyond the material cost, remember to factor in installation, which is a significant part of kitchen flooring installation, especially if your subfloor needs work. A professional contractor like Simply Construction can give you a clear estimate and guide you through the best choices for your Las Vegas home and budget, ensuring a beautiful and long-lasting result.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Upgrade Kitchen Cabinets Instead of Just Refacing",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a classic kitchen dilemma: your cabinets look tired, but should you replace them entirely or just give them a facelift? While refacing can be a budget-friendly option, there are definite times when a full upgrade to new cabinet installation is truly the smarter move for your Las Vegas home.\n\nIf your cabinet boxes themselves are damaged, warped, or showing signs of water damage, refacing won't solve the underlying structural problems. You'll just be putting a new face on an old issue. Also, if your current cabinet layout is completely dysfunctional – perhaps you lack storage, or the existing design just doesn't work for how you cook – new cabinets allow you to completely reconfigure your space for better efficiency. If you're chasing a dramatically different style, or want modern features like deep drawers, pull-out shelves, or custom organizers that your current cabinets can't accommodate, a full replacement is the way to go. Ultimately, if your existing cabinets are structurally unsound, poorly laid out, or just don't offer the functionality you need, new kitchen cabinet installation by an experienced general contractor like Simply Construction will give you the lasting solution you're looking for.",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How can I make my kitchen brighter and more inviting?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your kitchen feels a bit dim or unwelcoming, don't worry, lighting upgrades are a fantastic way to transform the space! Good lighting isn't just about seeing what you're doing; it creates atmosphere, highlights features, and makes your kitchen a joy to be in. Start by evaluating your existing setup. Do you have enough general ambient light, or are there dark corners? Recessed lighting can provide excellent overall brightness without being visually intrusive. Then, think about task lighting. Under-cabinet lighting is a game-changer for meal prep, illuminating your countertops perfectly. Pendant lights over an island or peninsula add both focused light and a stylish design element. Finally, consider accent lighting, like in-cabinet puck lights or subtle toe-kick lighting, to add warmth and visual interest. Even changing out old fixtures for new, energy-efficient LED options can make a world of difference. Proper kitchen lighting can literally brighten your entire home and make your Las Vegas kitchen a much more pleasant place to gather. When you're ready to explore the best options, talking to a professional like Simply Construction can help you design a layered lighting plan that truly enhances your space.",
+  "datePublished": "2026-09-18"
+}

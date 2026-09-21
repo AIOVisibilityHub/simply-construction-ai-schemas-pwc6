@@ -1,0 +1,137 @@
+{
+  "name": "What's the Process for Kitchen Cabinet Replacement?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design – This is where we get to know your vision! We'll discuss your style preferences, budget, and functional needs for your new kitchen. We cover everything from cabinet styles, materials, finishes, and hardware. We can even help with layout changes if you're looking for a more open or efficient space. This phase typically takes a few days to a week as we refine the design and provide you with a detailed estimate.",
+      "text": "Step 1: Initial Consultation and Design – This is where we get to know your vision! We'll discuss your style preferences, budget, and functional needs for your new kitchen. We cover everything from cabinet styles, materials, finishes, and hardware. We can even help with layout changes if you're looking for a more open or efficient space. This phase typically takes a few days to a week as we refine the design and provide you with a detailed estimate.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Old Cabinet Removal – Once we've finalized the design and materials are ordered, the first physical step is carefully removing your existing cabinets. Our team works efficiently to minimize disruption, making sure to protect your floors and surrounding areas. This step usually takes one to two days, depending on the size of your kitchen and the complexity of the existing installation.",
+      "text": "Step 2: Old Cabinet Removal – Once we've finalized the design and materials are ordered, the first physical step is carefully removing your existing cabinets. Our team works efficiently to minimize disruption, making sure to protect your floors and surrounding areas. This step usually takes one to two days, depending on the size of your kitchen and the complexity of the existing installation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Site Preparation and Utilities – With the old cabinets gone, we prepare the space for the new installation. This might involve minor wall repairs, painting, or adjusting electrical outlets and plumbing connections to accommodate the new cabinet layout. If you're updating appliances, this is a good time to ensure everything aligns. This can take a day or two.",
+      "text": "Step 3: Site Preparation and Utilities – With the old cabinets gone, we prepare the space for the new installation. This might involve minor wall repairs, painting, or adjusting electrical outlets and plumbing connections to accommodate the new cabinet layout. If you're updating appliances, this is a good time to ensure everything aligns. This can take a day or two.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: New Cabinet Installation – This is the exciting part! Our skilled installers precisely fit your new cabinets, ensuring they are level, plumb, and securely mounted. We pay close attention to detail, aligning doors and drawers perfectly for a seamless look. This phase varies significantly, usually taking three to seven days, depending on the number and type of cabinets being installed.",
+      "text": "Step 4: New Cabinet Installation – This is the exciting part! Our skilled installers precisely fit your new cabinets, ensuring they are level, plumb, and securely mounted. We pay close attention to detail, aligning doors and drawers perfectly for a seamless look. This phase varies significantly, usually taking three to seven days, depending on the number and type of cabinets being installed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing Touches and Cleanup – After the main installation, we install any remaining hardware, kick plates, and trim pieces. We then do a thorough cleanup of the work area, leaving your new kitchen sparkling and ready for your enjoyment. This final touch usually takes less than a day. Throughout the entire process, especially with a general contractor like Simply Construction, we coordinate all necessary planning, permits, and inspections to keep your project compliant and on track.",
+      "text": "Step 5: Finishing Touches and Cleanup – After the main installation, we install any remaining hardware, kick plates, and trim pieces. We then do a thorough cleanup of the work area, leaving your new kitchen sparkling and ready for your enjoyment. This final touch usually takes less than a day. Throughout the entire process, especially with a general contractor like Simply Construction, we coordinate all necessary planning, permits, and inspections to keep your project compliant and on track.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design – This is where we get to know your vision! We'll discuss your style preferences, budget, and functional needs for your new kitchen. We cover everything from ca"
+}

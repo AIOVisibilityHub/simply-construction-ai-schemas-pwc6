@@ -1,0 +1,137 @@
+{
+  "name": "What to Expect During Your Kitchen Countertop Replacement",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Selection: This is where we talk about your vision, lifestyle, and budget. We'll help you explore different materials like granite, quartz, or other options, discuss edge profiles, and select the perfect slab or pattern. This usually takes a few hours, and we'll provide an estimate.",
+      "text": "Step 1: Initial Consultation and Selection: This is where we talk about your vision, lifestyle, and budget. We'll help you explore different materials like granite, quartz, or other options, discuss edge profiles, and select the perfect slab or pattern. This usually takes a few hours, and we'll provide an estimate.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Measurement and Templating: Once you've made your choice, our team will come to your Las Vegas home to take precise measurements and create templates of your existing countertops. This ensures a perfect fit and accounts for any unique kitchen features. This typically takes 1-2 hours.",
+      "text": "Step 2: Measurement and Templating: Once you've made your choice, our team will come to your Las Vegas home to take precise measurements and create templates of your existing countertops. This ensures a perfect fit and accounts for any unique kitchen features. This typically takes 1-2 hours.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Fabrication: Your chosen material is then sent to a fabrication shop where skilled craftspeople cut, polish, and finish the countertops according to your exact specifications. This phase can take anywhere from 1-3 weeks, depending on the material and complexity.",
+      "text": "Step 3: Fabrication: Your chosen material is then sent to a fabrication shop where skilled craftspeople cut, polish, and finish the countertops according to your exact specifications. This phase can take anywhere from 1-3 weeks, depending on the material and complexity.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Old Countertop Removal: Before installation day, we'll carefully remove your old countertops, taking care to minimize disruption to your kitchen. This can be done the day before or on the morning of installation and generally takes a few hours.",
+      "text": "Step 4: Old Countertop Removal: Before installation day, we'll carefully remove your old countertops, taking care to minimize disruption to your kitchen. This can be done the day before or on the morning of installation and generally takes a few hours.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Installation: This is the exciting part! Our experienced installers bring your new countertops to your home, carefully set them in place, secure them, and perform any necessary final adjustments. We'll also handle sink cutouts and cooktop placements. Installation usually takes one full day, sometimes two for larger, more complex kitchens. You'll have beautiful new countertops ready to enjoy!",
+      "text": "Step 5: Installation: This is the exciting part! Our experienced installers bring your new countertops to your home, carefully set them in place, secure them, and perform any necessary final adjustments. We'll also handle sink cutouts and cooktop placements. Installation usually takes one full day, sometimes two for larger, more complex kitchens. You'll have beautiful new countertops ready to enjoy!",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Selection: This is where we talk about your vision, lifestyle, and budget. We'll help you explore different materials like granite, quartz, or other options, discuss e"
+}

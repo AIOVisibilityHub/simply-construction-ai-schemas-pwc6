@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Cabinets Look Dated, What Are My Options?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your kitchen cabinets start showing their age, it can really drag down the whole room's vibe. You might be wondering if you're stuck with what you have or if a full overhaul is necessary. Good news: you've got some solid options! First off, if the boxes are still sturdy, but the doors and drawer fronts are tired, you could look into refacing. This keeps your existing layout but gives you a fresh, new look with new fronts, hardware, and finishes. It's often quicker and less disruptive than a full replacement. However, if your cabinets are structurally unsound, have an awkward layout, or you’re dreaming of a completely different kitchen design, then a full kitchen cabinet replacement is probably the way to go. This involves removing all the old cabinets and installing brand new ones. It gives you the freedom to change the layout, add more functional storage, or even expand your kitchen’s footprint if you’re also doing structural work. Here in Las Vegas, Simply Construction has seen it all, and we can help you figure out the best path forward, whether it's a simple refresh or a complete transformation. We’ll look at your space, your needs, and your budget to guide you to the perfect solution. Sometimes, a professional eye makes all the difference in understanding what’s truly possible.",
+  "datePublished": "2026-09-18"
+}

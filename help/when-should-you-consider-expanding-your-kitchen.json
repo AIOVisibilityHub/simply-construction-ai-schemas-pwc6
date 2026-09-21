@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should You Consider Expanding Your Kitchen?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your kitchen is the heart of your home, and sometimes, that heart needs a little more room to beat. Deciding whether to expand your kitchen is a big step, but there are definite signs that it might be the right move for you and your family in the Las Vegas area. Thinking about these can help you figure out if it's time to call in the pros.\n\nOne major signal is if your kitchen feels perpetually cramped, even after decluttering. If you're constantly bumping elbows, struggling for prep space, or find entertaining impossible because everyone crowds into one small area, that's a pretty clear indicator. A truly small kitchen can limit your lifestyle and make cooking feel like a chore instead of a joy. For example, if your current layout doesn't allow for an island but you dream of one, expansion might be your answer.\n\nAnother sign is if your family's needs have changed significantly. Maybe you've had kids, or your kids are grown and now you're cooking for more people, or you love to host large gatherings. A kitchen that once felt adequate might now be completely outgrown. Think about how you *want* to use your kitchen versus how you *can* use it. If you're dreaming of a bigger pantry, a dedicated breakfast nook, or more seating, an expansion could provide that much-needed space.\n\nAlso, consider your home's overall value and future plans. If you're planning to stay in your home for many years, a kitchen expansion is a significant investment that can greatly improve your daily life and property value. If you're thinking about selling down the line, a modern, spacious kitchen is a huge selling point. Buyers in areas like Summerlin or Henderson often look for open, functional kitchen spaces. While it's a big project, a well-executed kitchen expansion can deliver a fantastic return on investment and make your home more enjoyable for years to come.\n\nLastly, if you're undertaking other major renovations, like an open-concept remodel or adding a family room, it's often more efficient and cost-effective to include a kitchen expansion in that larger project. Coordinating all the work at once simplifies planning, permits, and construction, minimizing disruption. When multiple structural changes are needed, like removing interior walls or installing structural beams, combining projects just makes sense. If any of these sound familiar, it's probably a good time to reach out to a licensed general contractor like us. We can help you explore what’s possible and provide a free estimate for your project.\n",
+  "datePublished": "2026-09-17"
+}

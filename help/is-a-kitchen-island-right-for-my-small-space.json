@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a kitchen island right for my small space?",
+    "text": "Is a kitchen island right for my small space?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Q: I have a smaller kitchen in my Las Vegas home, but I really want an island. Is it even possible, or will it just make things more cramped?\n\nA: That's a great question, and it's one we hear often! While traditional wisdom might suggest an island isn't for smaller kitchens, it's not necessarily true. It all comes down to smart kitchen layout redesign. The goal isn't just to add an island, but to enhance functionality and flow. For smaller spaces, we often look at more compact or narrow island designs, sometimes with drop-leaf extensions for versatility. We might also consider a peninsula layout, which offers similar benefits to an island but is attached to a wall, saving precious walkway space. Another trick is integrating storage solutions within the island itself to maximize every inch. It's crucial to maintain adequate clearance around the island (generally at least 36-42 inches) for comfortable movement and appliance access. Don't force a full-sized island into a small kitchen; instead, think creatively about how an island or peninsula can serve your needs without hindering movement. With a custom kitchen remodeling expert like Simply Construction, we can help you explore innovative solutions that make your small kitchen feel mighty and functional, even with an island. It’s all about a thoughtful approach to your unique space.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

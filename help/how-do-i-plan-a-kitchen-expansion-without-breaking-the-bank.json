@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How do I plan a kitchen expansion without breaking the bank?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Expanding your kitchen can feel like a huge financial undertaking, but it doesn't have to be. Smart planning is key to keeping costs in check while still getting the kitchen you dream of in Las Vegas. The biggest money-saver? Don't move plumbing or electrical lines more than absolutely necessary. Keeping major appliances in their current general vicinity can significantly reduce labor and material costs.\n\nNext, consider your materials carefully. While you might dream of exotic marble, there are fantastic, durable, and stylish alternatives for countertops, flooring, and backsplashes that offer similar aesthetics at a fraction of the price. Think about the scope: do you truly need to add square footage, or can you achieve the feeling of expansion through clever design? Opening up a wall to an adjacent room, for instance, might be less expensive than a full addition. Prioritize your 'must-haves' versus 'nice-to-haves.' Maybe that commercial-grade range can wait, but an expanded island is non-negotiable. Finally, get multiple, detailed quotes from licensed contractors. Simply Construction provides free, no-obligation estimates, which helps you understand the true costs involved and avoid surprises. A good contractor can also offer creative solutions to meet your budget and vision. Investing in professional planning upfront can save you a ton down the line.",
+  "datePublished": "2026-09-17"
+}

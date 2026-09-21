@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is Under-Cabinet Lighting Worth It in the Kitchen?",
+    "text": "Is Under-Cabinet Lighting Worth It in the Kitchen?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Absolutely, under-cabinet lighting is totally worth it in the kitchen! It's one of those upgrades that seems small but makes a huge difference in both functionality and ambiance. First off, it's fantastic for task lighting. When you're prepping food, chopping vegetables, or reading a recipe, overhead lights often create shadows on your work surface. Under-cabinet lights directly illuminate these areas, making them safer and more comfortable to use. Beyond practicality, they seriously enhance the mood of your kitchen. They can provide a soft, warm glow in the evenings, perfect for entertaining or just relaxing without the harshness of overhead lights. Plus, they can highlight your beautiful backsplash or countertops, adding a touch of sophistication. You've got options too, from LED strips that are energy-efficient and long-lasting to puck lights for more focused illumination. If you're doing a kitchen remodel or just looking for a smart upgrade in areas like Las Vegas, North Las Vegas, or Paradise, adding under-cabinet lighting is a smart move that delivers big impact. Chat with Simply Construction about incorporating this feature into your kitchen update.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

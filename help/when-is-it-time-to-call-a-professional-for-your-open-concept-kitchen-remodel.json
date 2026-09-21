@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it time to call a professional for your open-concept kitchen remodel?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about an open-concept kitchen but feeling a bit overwhelmed? It's a big project, and knowing when to bring in the pros can make all the difference for a smooth, successful outcome. Here are some clear signs that it's time to pick up the phone and chat with an expert like Simply Construction.\n\n*   **You're unsure about structural walls:** If you're eyeing a wall for removal and have no idea if it's load-bearing, that's a definite 'call a pro' moment. Knocking down the wrong wall can have serious consequences for your home's structure. A licensed contractor can assess this safely.\n*   **Permits and regulations seem like a maze:** Remodeling, especially when it involves structural changes, often requires specific permits in Las Vegas. If the thought of navigating local building codes and inspections makes your head spin, a professional will handle all that paperwork and ensure compliance.\n*   **You want a seamless design and flow:** Creating an open-concept kitchen that truly feels cohesive with the rest of your home requires a keen eye for design and space planning. An experienced contractor can help you visualize the end result and ensure every element works together perfectly.\n*   **Complex electrical or plumbing changes are needed:** Opening up a kitchen often means rerouting utilities. This isn't just about moving a light switch; it involves skilled work to ensure safety and functionality. Don't risk electrical hazards or plumbing leaks by trying to DIY this.\n*   **You value safety and quality:** Ultimately, a professional contractor brings experience, proper licensing, and insurance. They ensure the job is done right, safely, and to high standards, giving you peace of mind. Don't hesitate to reach out for a free, no-obligation estimate!",
+  "datePublished": "2026-09-18"
+}

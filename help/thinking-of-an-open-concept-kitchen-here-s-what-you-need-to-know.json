@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Thinking of an Open-Concept Kitchen? Here's What You Need to Know",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dreaming of a spacious, flowing kitchen where everyone can gather? Open-concept kitchen remodeling is super popular in Las Vegas, and for good reason! It really transforms a home, bringing in more light and making entertaining a breeze. But before you jump in, it's good to understand a few things. First off, what does 'open-concept' actually mean for your specific space? It usually involves removing interior walls to merge your kitchen with dining or living areas. This can drastically change the feel and functionality of your home. You'll want to think about how you use your kitchen now and how you *want* to use it in the future. Are you a big entertainer? Do you need more natural light? An open layout can make your home feel much bigger and more modern, enhancing connections between family and guests. It also often boosts home value, which is a nice bonus. Remember, every home is unique, and what works for one might not be ideal for another. That's why talking to pros who understand structural changes and design flow is key. Ready to explore the possibilities? Simply Construction specializes in custom kitchen remodels and can help you figure out the perfect open-concept plan for your Las Vegas home.",
+  "datePublished": "2026-09-17"
+}

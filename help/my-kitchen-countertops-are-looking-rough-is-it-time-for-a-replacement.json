@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen countertops are looking rough, is it time for a replacement?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's super common for kitchen countertops to show wear and tear over time, especially in busy Las Vegas homes. If you're noticing deep scratches, stubborn stains that just won't budge, or even chips and cracks, those are pretty clear signs it might be time for an upgrade. Beyond just aesthetics, older countertops can sometimes harbor bacteria in damaged areas, which isn't ideal for food prep. Thinking about a replacement? Here's what to consider.\n\nFirst off, assess the damage. Is it just superficial, or is the integrity compromised? Minor issues might be repairable, but significant damage usually points to a full replacement being more cost-effective and beneficial in the long run. Next, think about your lifestyle. Do you need something super durable for a high-traffic family kitchen, or are you aiming for a specific aesthetic for entertaining? Consider materials like quartz, granite, or even more exotic options that fit your usage and style. Don't forget about your budget – some materials are naturally more expensive, but there's a wide range available to suit various price points.\n\nFinally, think about the overall impact. A new countertop can completely transform your kitchen's look and feel, adding significant value and appeal. If you're planning other kitchen renovations, combining them can streamline the process. If you're unsure about the extent of the damage or the best material for your needs, bringing in a professional general contractor like Simply Construction is a smart move. We can give you an honest assessment and help you weigh your options for a beautiful, functional kitchen.",
+  "datePublished": "2026-09-18"
+}

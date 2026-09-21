@@ -1,0 +1,131 @@
+{
+  "name": "What's Involved in a Kitchen Countertop Installation?",
+  "step": [
+    {
+      "name": "Step 1: Preparation and Template Creation – First, we'll remove your old countertops and prepare the cabinet bases. This means ensuring they are level and sturdy enough to support the new material. Then, for custom fits, we create precise templates of your cabinet layout. This is crucial for accurate fabrication, especially for materials like granite or quartz that need to be cut off-site. This initial prep and templating usually takes about a day, depending on the kitchen's complexity.",
+      "text": "Step 1: Preparation and Template Creation – First, we'll remove your old countertops and prepare the cabinet bases. This means ensuring they are level and sturdy enough to support the new material. Then, for custom fits, we create precise templates of your cabinet layout. This is crucial for accurate fabrication, especially for materials like granite or quartz that need to be cut off-site. This initial prep and templating usually takes about a day, depending on the kitchen's complexity.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Fabrication – Using the exact templates we created, your chosen countertop material (whether it’s quartz, granite, or another option) is carefully cut and finished in a fabrication shop. This process includes cutting to size, polishing edges, and creating cutouts for sinks and cooktops. This phase can take anywhere from one to three weeks, depending on the material and current workload.",
+      "text": "Step 2: Material Fabrication – Using the exact templates we created, your chosen countertop material (whether it’s quartz, granite, or another option) is carefully cut and finished in a fabrication shop. This process includes cutting to size, polishing edges, and creating cutouts for sinks and cooktops. This phase can take anywhere from one to three weeks, depending on the material and current workload.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Installation and Seaming – Once your custom countertops are ready, our skilled installers transport them to your home. We meticulously position each section, ensuring perfect alignment and a snug fit against walls and appliances. If multiple pieces are needed, we expertly seam them together, making the joints as inconspicuous as possible. We also install your chosen sink during this stage. The actual installation day is typically a single day of work.",
+      "text": "Step 3: Installation and Seaming – Once your custom countertops are ready, our skilled installers transport them to your home. We meticulously position each section, ensuring perfect alignment and a snug fit against walls and appliances. If multiple pieces are needed, we expertly seam them together, making the joints as inconspicuous as possible. We also install your chosen sink during this stage. The actual installation day is typically a single day of work.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Final Details and Cleanup – After the countertops are securely in place, we connect the plumbing for your sink (if it's part of our scope), caulk edges, and perform a thorough cleanup of the work area. We'll walk you through the finished product, making sure you're absolutely thrilled with your new kitchen. This final phase usually wraps up within a few hours. With Simply Construction, you can trust that every step, from initial measurement to final polish, is handled professionally and efficiently across the Las Vegas Valley.",
+      "text": "Step 4: Final Details and Cleanup – After the countertops are securely in place, we connect the plumbing for your sink (if it's part of our scope), caulk edges, and perform a thorough cleanup of the work area. We'll walk you through the finished product, making sure you're absolutely thrilled with your new kitchen. This final phase usually wraps up within a few hours. With Simply Construction, you can trust that every step, from initial measurement to final polish, is handled professionally and efficiently across the Las Vegas Valley.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Preparation and Template Creation – First, we'll remove your old countertops and prepare the cabinet bases. This means ensuring they are level and sturdy enough to support the new material. Th"
+}

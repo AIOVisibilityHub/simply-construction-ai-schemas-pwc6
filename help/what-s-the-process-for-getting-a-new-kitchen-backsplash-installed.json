@@ -1,0 +1,143 @@
+{
+  "name": "What's the process for getting a new kitchen backsplash installed?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design – This is where we chat about your vision. We'll look at your kitchen, discuss materials like ceramic, porcelain, natural stone, or even glass, and help you pick out the perfect style and color to match your cabinets and countertops. We'll also measure the space and give you an idea of the project scope and cost.",
+      "text": "Step 1: Initial Consultation and Design – This is where we chat about your vision. We'll look at your kitchen, discuss materials like ceramic, porcelain, natural stone, or even glass, and help you pick out the perfect style and color to match your cabinets and countertops. We'll also measure the space and give you an idea of the project scope and cost.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection and Ordering – Once you've chosen your dream backsplash, we'll help with ordering the materials. This step is crucial for making sure everything arrives on time and is exactly what you wanted.",
+      "text": "Step 2: Material Selection and Ordering – Once you've chosen your dream backsplash, we'll help with ordering the materials. This step is crucial for making sure everything arrives on time and is exactly what you wanted.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preparation and Demolition – Before any new tile goes up, we need to prepare the area. This usually means carefully removing your old backsplash, if you have one, and making sure the walls are clean, smooth, and ready for installation. We take care to protect your countertops and surrounding areas during this phase.",
+      "text": "Step 3: Preparation and Demolition – Before any new tile goes up, we need to prepare the area. This usually means carefully removing your old backsplash, if you have one, and making sure the walls are clean, smooth, and ready for installation. We take care to protect your countertops and surrounding areas during this phase.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation – This is the exciting part! Our skilled installers will meticulously lay your new backsplash, paying close attention to detail, pattern, and grout lines. We work efficiently to minimize disruption to your home.",
+      "text": "Step 4: Installation – This is the exciting part! Our skilled installers will meticulously lay your new backsplash, paying close attention to detail, pattern, and grout lines. We work efficiently to minimize disruption to your home.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Grouting and Sealing – After the tiles are set, we'll apply grout, which really ties the whole look together. If you've chosen natural stone, we'll also seal the backsplash to protect it from moisture and stains, ensuring its longevity.",
+      "text": "Step 5: Grouting and Sealing – After the tiles are set, we'll apply grout, which really ties the whole look together. If you've chosen natural stone, we'll also seal the backsplash to protect it from moisture and stains, ensuring its longevity.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walk-Through and Clean-Up – We'll do a final inspection with you to make sure you're absolutely thrilled with the result. Then, we clean up the work area thoroughly, leaving your kitchen spotless and stunning. Having a licensed general contractor like Simply Construction handle your backsplash installation means you get a professional finish and peace of mind.",
+      "text": "Step 6: Final Walk-Through and Clean-Up – We'll do a final inspection with you to make sure you're absolutely thrilled with the result. Then, we clean up the work area thoroughly, leaving your kitchen spotless and stunning. Having a licensed general contractor like Simply Construction handle your backsplash installation means you get a professional finish and peace of mind.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design – This is where we chat about your vision. We'll look at your kitchen, discuss materials like ceramic, porcelain, natural stone, or even glass, and help you pic"
+}

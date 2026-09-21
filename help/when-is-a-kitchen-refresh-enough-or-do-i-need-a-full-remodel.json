@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is a kitchen refresh enough, or do I need a full remodel?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common question for Las Vegas homeowners: do I really need a full kitchen renovation, or can I get by with just a refresh? The answer often depends on your goals, budget, and the current condition of your kitchen.\n\nWhen a Refresh is Enough: If your kitchen's layout is already functional, your cabinets are structurally sound (even if dated), and your appliances are working fine, a refresh might be perfect. This usually involves cosmetic updates like repainting cabinets, replacing hardware, updating lighting fixtures, a fresh coat of paint on the walls, or even a new backsplash. You might even swap out an old countertop if the rest of the kitchen doesn't require major structural changes. A refresh is great for boosting aesthetics and property value without breaking the bank or enduring a lengthy construction period.\n\nWhen You Need a Full Remodel: A full kitchen renovation is typically warranted when your current layout is dysfunctional, cabinets are falling apart, you have major plumbing or electrical issues, or you're looking to change the footprint of the space entirely – perhaps knocking down a wall for an open-concept design. If you dream of moving appliances, adding an island where there wasn't one, or dramatically increasing storage, a remodel is the way to go. This involves more extensive work, including potential demolition, structural changes, and all new installations. While it's a bigger undertaking, it allows for a complete transformation tailored to your exact needs and desires.\n\nSimply Construction has over 30 years of experience helping homeowners in areas like Summerlin, Henderson, and Inspirada decide the best route. We can help you assess your kitchen's condition and discuss whether a refresh or a full renovation will achieve your goals. Reach out for a free, no-obligation estimate!",
+  "datePublished": "2026-09-17"
+}

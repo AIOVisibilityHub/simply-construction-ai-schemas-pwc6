@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Open-Concept Kitchen Remodeling: Myth vs. Fact",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about an open-concept kitchen? Let's clear up some common misconceptions! \n\nMyth: It's always super expensive and complicated.\nFact: While removing walls and reconfiguring a kitchen is a significant project, it's not necessarily cost-prohibitive. The final cost depends on various factors like the extent of structural changes, materials chosen, and plumbing/electrical relocations. Many homeowners find the added value and enjoyment well worth the investment.\n\nMyth: You'll lose all your storage space.\nFact: While you might lose some upper cabinet space, open-concept designs often incorporate larger islands with extensive storage, pantry systems, and creative lower cabinet solutions. The goal is often smarter, more efficient storage rather than just less.\n\nMyth: Your entire house will always smell like your dinner.\nFact: Modern kitchen ventilation systems are incredibly efficient. With a powerful range hood or downdraft vent, you can effectively minimize cooking odors from spreading throughout your open living space. Placement and power are key.\n\nMyth: It's just a trend that will go out of style.\nFact: Open-concept living has been popular for decades because it genuinely improves flow, light, and sociability in a home. While design aesthetics evolve, the fundamental benefits of an open layout remain timeless. It's a functional choice that many families in Las Vegas, from Paradise to Green Valley, continue to love. Chat with a professional like Simply Construction to see how an open layout can fit your home's unique needs.",
+  "datePublished": "2026-09-17"
+}

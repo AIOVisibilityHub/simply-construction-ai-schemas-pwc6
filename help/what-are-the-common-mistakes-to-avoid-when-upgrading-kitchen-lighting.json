@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the common mistakes to avoid when upgrading kitchen lighting?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Upgrading your kitchen lighting can dramatically improve the space, but it's easy to stumble if you're not careful. Here are some common mistakes to sidestep, ensuring your Las Vegas kitchen shines its brightest. \n\n*   **Relying on a single light source:** Many people just have one overhead fixture. This creates shadows and dull spots. How to avoid it: Plan for layered lighting – ambient (general), task (for work areas), and accent (for mood/features). \n*   **Incorrect bulb temperature:** Mixing warm and cool light temperatures can make a kitchen feel disjointed. How to avoid it: Stick to a consistent color temperature (measured in Kelvin) throughout the kitchen for a harmonious feel. \n*   **Ignoring dimmers:** Not having control over light intensity is a missed opportunity for ambiance. How to avoid it: Install dimmer switches on most, if not all, your lighting circuits to adjust the mood from bright task work to cozy dining. \n*   **Poorly placed task lighting:** Under-cabinet lighting installed incorrectly can cause glare or still leave shadows. How to avoid it: Ensure under-cabinet lights are positioned towards the front of the cabinet to evenly illuminate the countertop below. \n*   **Forgetting about future needs:** What works now might not work if you rearrange appliances or cabinets. How to avoid it: Think long-term. If you anticipate adding an island, plan for pendant light wiring now. Consulting with a licensed general contractor like Simply Construction ensures your lighting plan is comprehensive and future-proof.",
+  "datePublished": "2026-09-18"
+}

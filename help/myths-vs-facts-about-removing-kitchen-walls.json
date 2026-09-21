@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths vs. Facts about removing kitchen walls",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about knocking down a kitchen wall to create that open-concept feel? It’s a popular renovation, but there are definitely some myths floating around that can make the idea seem more daunting than it is. Let's clear up some common misconceptions with the facts.\n\n**Myth:** You can just knock down any wall you want. \n**Fact:** Nope! This is super important. Many walls are load-bearing, meaning they support the structure above. Removing one without proper support can lead to serious structural damage. Always have a licensed general contractor like Simply Construction assess the wall first to determine its structural role.\n\n**Myth:** Wall removal is a quick, easy DIY project. \n**Fact:** While some non-load-bearing walls might seem simple to remove, there are often electrical wires, plumbing pipes, or HVAC ducts inside. Without knowing how to safely disconnect or reroute these, you could create hazards or big problems. Professional help ensures safety and avoids costly mistakes.\n\n**Myth:** You don't need permits for interior wall changes. \n**Fact:** For any structural changes, or if utilities are involved, you almost certainly need permits from your local Las Vegas building department. Skipping permits can lead to fines, require you to redo work, and complicate future home sales. A reputable contractor will handle all necessary permits for you.\n\n**Myth:** It's always super expensive to remove a wall. \n**Fact:** The cost varies widely based on the wall's function and what's inside it. While a load-bearing wall requiring a new beam will be more expensive, a non-load-bearing wall with no utilities can be a relatively straightforward and affordable project. Getting a free estimate from Simply Construction can clarify the costs for your specific situation.\n\n**Myth:** An open kitchen will always be messy and noisy. \n**Fact:** While sound and smells can travel more, good ventilation and smart design choices (like designating clear zones and incorporating smart storage) can mitigate these issues. An open kitchen can actually encourage tidiness if everything has its place! Don't let these myths stop you from getting the kitchen of your dreams.",
+  "datePublished": "2026-09-18"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Is It Time to Consider a Kitchen Renovation?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's easy to get comfortable with your kitchen, even if it's not quite meeting your needs anymore. But sometimes, a renovation isn't just a luxury; it's a smart investment in your home and your lifestyle. As a licensed general contractor in Las Vegas, Simply Construction has helped many homeowners decide when the time is right to take the plunge. Here are some clear signs that it might be time for a kitchen renovation:\n\n*   **Your kitchen feels cramped or has a poor layout:** If you find yourself constantly bumping into family members, struggling for counter space, or wishing your appliances were in a more logical spot, it's a huge sign. An outdated or inefficient layout can make cooking and entertaining a chore. A renovation can open up your space, create better flow, and even allow for structural changes like removing load-bearing walls for an open-concept design.\n*   **You're constantly repairing old appliances or fixtures:** Are your cabinets falling apart? Is your faucet perpetually leaking? Are your appliances on their last legs? Patching up old issues can be a never-ending cycle. A full renovation allows you to replace worn-out components with modern, energy-efficient, and durable options that will last for years.\n*   **Your kitchen no longer reflects your style or needs:** Tastes change, and families grow. What worked for you a decade ago might not suit your current aesthetic or functional requirements. Maybe you need more accessible features, better storage for a growing family, or simply a modern update to a dated look. If your kitchen makes you feel less than inspired, it’s probably time for a refresh.\n*   **You're looking to increase your home's value:** The kitchen is often considered the heart of the home and one of the biggest selling points. A well-executed kitchen renovation can significantly boost your property's market value, offering a great return on investment, especially in a competitive market like Las Vegas.\n*   **Your kitchen is unsafe or non-compliant:** Exposed wiring, faulty plumbing, or structural issues are serious concerns. If your kitchen has any safety hazards or doesn't meet current building codes, a renovation isn't just an option—it's a necessity. Licensed professionals can ensure your kitchen is safe, functional, and compliant.\n\nIf any of these resonate with you, it's definitely worth exploring your options. Contact Simply Construction for a free estimate and let's talk about how a kitchen renovation can transform your home and enhance your daily life.",
+  "datePublished": "2026-09-18"
+}

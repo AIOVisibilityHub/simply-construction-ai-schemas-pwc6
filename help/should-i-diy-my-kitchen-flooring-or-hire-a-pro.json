@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Should I DIY my kitchen flooring or hire a pro?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about tackling kitchen flooring installation yourself? It's tempting to save a few bucks with a DIY project, especially with so many online tutorials out there. However, for something as high-traffic and critical as kitchen flooring, there's a lot to consider. Here’s a breakdown:\n\nMyth: Installing kitchen flooring is pretty straightforward, anyone can do it.\nFact: While some flooring types, like certain LVP, can be DIY-friendly, proper preparation of the subfloor is crucial for any successful installation. Uneven subfloors lead to creaks, cracks, and premature wear. Cutting tile or working with complex patterns requires precision and specialized tools. Mistakes can be costly, both in materials and future repairs.\n\nMyth: Hiring a professional is always way more expensive.\nFact: While there's an upfront cost for labor, a professional contractor like Simply Construction often saves you money in the long run. We have the right tools, experience, and knowledge to get the job done efficiently and correctly the first time. We can also often source materials at better prices. Plus, our work is backed by our license and insurance, giving you peace of mind.\n\nMyth: It's quicker to just do it myself on weekends.\nFact: What might take an experienced team a few days can easily stretch into weeks for a DIYer, especially when unexpected issues arise, like subfloor repairs or tricky cuts around cabinets. Living without a functional kitchen for an extended period can be really disruptive.\n\nMyth: If something goes wrong, I can just fix it myself.\nFact: Correcting flooring installation errors can be complex and expensive. Bubbling, lifting, unevenness, or grout issues often require extensive rework. A professional installation typically comes with a warranty, covering any issues that might arise. For a critical area like your kitchen, ensuring a durable, beautiful, and correctly installed floor means peace of mind. Simply Construction brings over 30 years of experience to kitchen flooring installation across Las Vegas, ensuring your project is done right.",
+  "datePublished": "2026-09-17"
+}

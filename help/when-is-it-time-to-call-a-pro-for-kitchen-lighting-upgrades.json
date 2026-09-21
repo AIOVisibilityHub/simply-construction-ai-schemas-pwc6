@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it time to call a pro for kitchen lighting upgrades?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes, you know your kitchen lighting needs an overhaul, but you're not sure if it's a DIY job or if you really need to bring in the pros. Here are some clear signs it's time to call a licensed contractor like Simply Construction for your kitchen lighting upgrades in Las Vegas: \n\n*   **You're dealing with electrical work beyond simple fixture swaps:** If you're planning to move switches, add new circuits, or install recessed lighting, that involves more complex wiring. It's always safest to have a professional handle it. \n*   **You want to completely redesign your lighting layout:** A pro can help you create a cohesive lighting plan that incorporates ambient, task, and accent lighting effectively, avoiding common pitfalls like shadowing or insufficient brightness. \n*   **You're unsure about local building codes and permits:** Electrical work often requires permits and must adhere to specific codes to ensure safety. A licensed contractor knows these regulations inside and out. \n*   **You're upgrading to smart lighting systems:** Integrating smart home technology can be complex, involving specialized wiring and programming. Professionals ensure everything communicates correctly. \n*   **You value safety and peace of mind:** Improper electrical work can be hazardous. Hiring experienced professionals ensures the job is done correctly and safely, protecting your home and family. \n*   **You want a professional finish:** From perfectly aligned recessed lights to expertly installed pendant fixtures, a pro delivers a polished look that enhances your kitchen's overall appeal. \n\nFor any significant lighting project in your kitchen, especially if it involves new wiring or structural changes, calling an expert like Simply Construction is a smart move. We handle these projects regularly across the Las Vegas Valley, ensuring a safe, beautiful, and functional outcome.",
+  "datePublished": "2026-09-18"
+}

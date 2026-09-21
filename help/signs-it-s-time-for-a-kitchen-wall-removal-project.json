@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Signs It's Time for a Kitchen Wall Removal Project",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling cramped or disconnected in your Las Vegas kitchen? It might be time to consider removing a wall to open things up. Here are some clear signals that a kitchen wall removal project could be exactly what your home needs:\n\n*   **Your kitchen feels isolated:** Do you find yourself stuck in the kitchen while everyone else is in the living room or dining area? A wall removal can connect these spaces, making entertaining and family time much more inclusive.\n*   **Lack of natural light:** Many older homes have kitchens tucked away with minimal windows. Removing an interior wall can bring light from adjacent rooms flooding into your kitchen, making it feel brighter and more inviting.\n*   **Inefficient traffic flow:** If you're constantly bumping into people or struggling to move around your kitchen, an obstructive wall might be the culprit. Opening up the space can dramatically improve how you navigate and utilize your kitchen.\n*   **Outdated design:** Closed-off kitchens often scream 'past decade.' An open-concept remodel instantly modernizes your home’s aesthetic and boosts its appeal, especially if you’re thinking about resale in areas like Summerlin or Henderson.\n*   **Limited entertaining space:** If your current kitchen struggles to accommodate guests, removing a wall can create a larger, more fluid area perfect for hosting parties and family gatherings.\n*   **You desire a new functional layout:** Sometimes, a wall is just in the way of your dream kitchen island or a more efficient workflow. Taking down a wall provides a blank slate for redesigning your kitchen's entire footprint. When you notice these signs, it's a good idea to reach out to a professional like Simply Construction. We can assess your home, discuss the possibilities, and ensure any wall removal is done safely and correctly.",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Avoid Common Kitchen Layout Mistakes",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're dreaming of a new kitchen, it's easy to get caught up in pretty finishes and new appliances. But the layout, the very backbone of your kitchen's function, is where many folks stumble. Avoiding a few common missteps can save you headaches, time, and money down the road. You want a kitchen that not only looks great but genuinely works for how you live!\n\n1.  **Ignoring the Work Triangle:** This classic concept—the path between your fridge, sink, and stove—is crucial. Making this triangle too large means unnecessary steps, too small, and you're tripping over yourself. A good designer balances proximity with clear pathways.\n2.  **Poor Appliance Placement:** Think about how you use each appliance. Do you want your dishwasher right next to the sink? Yes! Do you want your microwave far from the prep area? Probably not. Plan for landing zones next to ovens and fridges for hot dishes or groceries.\n3.  **Insufficient Storage:** Running out of places for pots, pans, and pantry items is a huge frustration. Don't skimp on smart storage solutions. Consider pull-out shelves, deep drawers, and corner units to maximize every inch.\n4.  **Bad Lighting:** A single ceiling fixture just won't cut it. You need task lighting for prep areas, ambient lighting for general illumination, and accent lighting for mood. Layering light makes a kitchen more functional and inviting.\n5.  **Forgetting Flow and Traffic:** If your kitchen is a thoroughfare, ensure walkways are wide enough (at least 36-42 inches) so people can move freely, even when the oven door is open or someone is at the sink. Avoid placing islands or peninsulas where they become obstacles. A professional can help you visualize these flows to prevent bottlenecks. If these sound like too many details to juggle, our team in Las Vegas is ready to lend a hand, ensuring your kitchen redesign avoids these pitfalls and turns out perfectly.",
+  "datePublished": "2026-09-17"
+}

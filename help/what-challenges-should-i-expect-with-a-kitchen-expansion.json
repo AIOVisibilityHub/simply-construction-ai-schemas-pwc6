@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What challenges should I expect with a kitchen expansion?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on a kitchen expansion project is exciting, but it's smart to know what challenges might pop up so you can be prepared. Think of it as a roadmap for a smoother journey! First, dealing with existing structural elements can be a big one. If you're looking to remove a wall, especially a load-bearing one, you'll need expert assessment and structural beam installation. This isn't a DIY job, and getting it wrong can cause serious issues. Second, permitting and inspections are crucial. Nevada has specific requirements, and navigating these can be complex. A professional general contractor, like Simply Construction, will handle all the necessary planning and permits to ensure everything is up to code and safe. Third, the coordination of trades is a dance. Electricians, plumbers, cabinet installers – they all need to work together seamlessly. Any misstep can cause delays and cost overruns. That's where experienced project management comes in handy. Finally, living through a renovation can be disruptive. Planning for a temporary kitchen setup and understanding the timeline helps manage expectations. Our team at Simply Construction has over 30 years of experience coordinating these complex projects in areas like Henderson and Spring Valley, so we've seen it all. We aim to minimize disruptions and keep your project on track. Contact us for an estimate and let's discuss how we can make your kitchen expansion as stress-free as possible.",
+  "datePublished": "2026-09-18"
+}

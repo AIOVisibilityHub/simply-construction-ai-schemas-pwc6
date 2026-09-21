@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What are the hidden costs of a bathroom remodel?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Bathroom remodels in Las Vegas can sometimes sneak in extra costs if you're not prepared. It's not just about the pretty new tiles and vanity; there's a lot happening behind the scenes. Being aware of these potential 'hidden' expenses can help you budget more accurately and avoid unwelcome surprises.\n\n*   **Permits and Inspections:** Depending on the scope of your remodel (especially if moving plumbing, electrical, or walls), you'll likely need permits from the city or county. These come with fees, and the project will require inspections at various stages. Your contractor should handle this, but the costs are part of your budget.\n*   **Demolition and Debris Removal:** Tearing out the old bathroom creates a lot of waste. The cost of demolition labor and properly disposing of debris (dumpster rental, hauling fees) can add up.\n*   **Unexpected Repairs:** Once walls are opened up, contractors sometimes find issues like water damage, mold, outdated wiring, or corroded pipes. Addressing these is essential for a safe and durable remodel but wasn't part of the initial plan.\n*   **Upgrades to Existing Infrastructure:** Your older home's electrical panel or plumbing might not be up to par for new fixtures. You might need to upgrade electrical circuits for new outlets or improve water pressure for a fancy shower system.\n*   **Design Fees:** If you work with an interior designer in addition to your contractor, their fees will be a separate cost. While optional, a good designer can save you money by preventing costly mistakes.\n*   **Temporary Living Arrangements:** If your only bathroom is being remodeled, you might need to factor in costs for temporary lodging or using alternative facilities during part of the project.\n\nAlways discuss these potential costs with your contractor upfront. A transparent and experienced general contractor like Simply Construction will give you a clear breakdown and advise on potential contingencies.",
+  "datePublished": "2026-09-17"
+}

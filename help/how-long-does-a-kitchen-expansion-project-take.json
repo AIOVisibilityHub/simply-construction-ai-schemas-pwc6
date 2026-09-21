@@ -1,0 +1,137 @@
+{
+  "name": "How long does a kitchen expansion project take?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design – This first step usually takes about 2-4 weeks. It involves meeting with us to discuss your vision, budget, and needs. We'll explore ideas like open-concept remodeling, structural changes, and new layouts. This is where the magic starts as we begin to sketch out a design that maximizes your space and reflects your style. We’ll also talk about materials, appliances, and finishes to get a clear picture. Getting this right upfront saves a lot of headaches later.",
+      "text": "Step 1: Initial Consultation and Design – This first step usually takes about 2-4 weeks. It involves meeting with us to discuss your vision, budget, and needs. We'll explore ideas like open-concept remodeling, structural changes, and new layouts. This is where the magic starts as we begin to sketch out a design that maximizes your space and reflects your style. We’ll also talk about materials, appliances, and finishes to get a clear picture. Getting this right upfront saves a lot of headaches later.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Planning and Permitting – Expect this phase to last anywhere from 4-8 weeks. Once a design is approved, Simply Construction will handle all the detailed architectural drawings and submit them for local permits. This step is critical, especially for structural changes like load-bearing wall removal. The timeline here depends on your local Las Vegas Valley building department's review process. We coordinate with the authorities to ensure everything meets Nevada requirements.",
+      "text": "Step 2: Planning and Permitting – Expect this phase to last anywhere from 4-8 weeks. Once a design is approved, Simply Construction will handle all the detailed architectural drawings and submit them for local permits. This step is critical, especially for structural changes like load-bearing wall removal. The timeline here depends on your local Las Vegas Valley building department's review process. We coordinate with the authorities to ensure everything meets Nevada requirements.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition and Rough-Ins – This phase typically spans 2-3 weeks. Once permits are in hand, our team gets to work. This includes removing old cabinets, tearing down walls (if applicable), and preparing the space. We'll also install new plumbing, electrical wiring, and HVAC ducts according to the new layout. This part can be messy, but it’s essential groundwork.",
+      "text": "Step 3: Demolition and Rough-Ins – This phase typically spans 2-3 weeks. Once permits are in hand, our team gets to work. This includes removing old cabinets, tearing down walls (if applicable), and preparing the space. We'll also install new plumbing, electrical wiring, and HVAC ducts according to the new layout. This part can be messy, but it’s essential groundwork.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Construction and Finishes – This is often the longest phase, usually around 6-12 weeks. This is where your kitchen really starts to take shape! We install new flooring, cabinetry, countertops, and appliances. Our team focuses on tile work, lighting, and all the finishing touches that bring your vision to life. Quality control checks are constant to ensure everything is perfect.",
+      "text": "Step 4: Construction and Finishes – This is often the longest phase, usually around 6-12 weeks. This is where your kitchen really starts to take shape! We install new flooring, cabinetry, countertops, and appliances. Our team focuses on tile work, lighting, and all the finishing touches that bring your vision to life. Quality control checks are constant to ensure everything is perfect.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Project Completion – The grand finale, typically completed in 1 week. We'll do a thorough final inspection with you, addressing any last-minute adjustments. Once you're completely satisfied, the project is officially done, and you can start enjoying your amazing new kitchen! Throughout the entire process, Simply Construction, with over 30 years of experience, manages all aspects, keeping you informed and the project on schedule in areas like Summerlin, Henderson, and Skye Canyon.",
+      "text": "Step 5: Final Walkthrough and Project Completion – The grand finale, typically completed in 1 week. We'll do a thorough final inspection with you, addressing any last-minute adjustments. Once you're completely satisfied, the project is officially done, and you can start enjoying your amazing new kitchen! Throughout the entire process, Simply Construction, with over 30 years of experience, manages all aspects, keeping you informed and the project on schedule in areas like Summerlin, Henderson, and Skye Canyon.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design – This first step usually takes about 2-4 weeks. It involves meeting with us to discuss your vision, budget, and needs. We'll explore ideas like open-concept re"
+}

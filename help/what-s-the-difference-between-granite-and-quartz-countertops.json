@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's the difference between granite and quartz countertops?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're looking at new kitchen countertop options for your Las Vegas home, granite and quartz are two incredibly popular choices, and for good reason! They both offer fantastic durability and aesthetics, but they do have some key differences that might make one a better fit for you than the other. Let's break it down.\n\n**Granite:** This is a natural stone, quarried directly from the earth. Each slab is unique, meaning you'll get one-of-a-kind patterns, colors, and variations, which many homeowners love. Because it’s natural, it has a porous surface and generally requires sealing every year or two to prevent stains and bacteria growth. Granite is incredibly durable and resistant to heat, making it great for hot pots and pans. However, without proper sealing, it can be susceptible to staining from liquids like wine or oil. The cost can vary widely depending on the rarity and origin of the stone.\n\n**Quartz:** Often called engineered stone, quartz countertops are made by combining ground quartz (about 90-95%) with resins, polymers, and pigments. This manufacturing process allows for a consistent look and a wider range of colors and patterns, including those that mimic natural stone. A big advantage of quartz is that it’s non-porous, so it never needs sealing, making it very low maintenance and highly resistant to stains and bacteria. It's also extremely durable and chip-resistant, though it can be slightly less heat resistant than granite at very high temperatures. Quartz tends to have a more uniform appearance compared to the natural variation of granite.\n\n**When to Choose Each:** If you love the unique, organic look of natural stone and don't mind a bit of annual maintenance, granite could be perfect. If you prefer a consistent look, desire very low maintenance, and need superior stain resistance, then quartz is likely your best bet. Both are excellent choices that add significant value and beauty to your kitchen, and a general contractor like Simply Construction can help you explore samples and make the right decision for your home.",
+  "datePublished": "2026-09-18"
+}

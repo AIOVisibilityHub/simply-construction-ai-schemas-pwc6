@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Quartz vs. Granite Countertops: Which Is Right for Your Kitchen?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When it comes to upgrading your kitchen countertops in Las Vegas, two popular choices often come up: quartz and granite. Both are stunning, but they have distinct differences that might make one a better fit for your home and lifestyle. Let's break it down.\n\n**Granite: Natural Beauty with Unique Charm**\n\nGranite is a natural stone, quarried from the earth. This means every slab is unique, boasting one-of-a-kind patterns and color variations, giving your kitchen an exclusive look. It's incredibly durable and resistant to heat, making it great for busy cooks. However, being porous, granite does require periodic sealing (typically annually) to prevent staining and bacterial growth. Its cost can vary widely depending on the rarity of the slab, and installation is complex, requiring professional handling due to its weight and need for precise cuts. Choose granite if you love the idea of a completely unique, natural aesthetic and don't mind a bit of maintenance.\n\n**Quartz: Engineered for Consistency and Low Maintenance**\n\nQuartz countertops are engineered stone, made from ground quartz (a natural mineral) combined with resins and pigments. This manufacturing process allows for a consistent look and color across slabs, and you can find a wider range of colors and patterns, including those that mimic marble or concrete. Quartz is non-porous, meaning it never needs sealing and is highly resistant to stains, scratches, and bacteria – making it incredibly low maintenance and hygienic. It's also very durable, though some types can be sensitive to extreme heat without proper protection. The cost of quartz is generally comparable to mid-range to high-end granite. Choose quartz if you prioritize consistency, ease of maintenance, and a vast selection of modern styles.\n\nUltimately, both are excellent choices for a beautiful kitchen. Your decision will likely come down to your preference for natural variation vs. consistency, and your willingness for maintenance. Simply Construction can help you explore both options for your remodel in areas like Summerlin or Henderson, ensuring you pick the perfect surface for your home.",
+  "datePublished": "2026-09-17"
+}

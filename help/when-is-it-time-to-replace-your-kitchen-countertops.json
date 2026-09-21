@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Replace Your Kitchen Countertops?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your kitchen countertops go through a lot, from daily meal prep to spills and hot pans. Over time, even the toughest materials can show wear and tear, or just feel outdated. If you're noticing persistent stains that won't budge, deep scratches that make your kitchen look less-than-stellar, or even chips and cracks, it's definitely a sign. Beyond physical damage, sometimes your countertops just don't fit your style anymore. Maybe you've renovated other parts of your home and your kitchen is lagging, or you're simply tired of the color or material. A countertop replacement can totally transform the look and feel of your kitchen without needing a full-blown remodel. It's a fantastic way to update your space, boost functionality, and even increase your home's value. Think about the impact a fresh, modern surface would have on your daily routine and overall enjoyment of your kitchen. If you're struggling to decide, talking to a pro can really help you weigh your options and see what's possible within your budget. Simply Construction helps homeowners across Las Vegas, North Las Vegas, Henderson, and Summerlin refresh their kitchens with beautiful new countertops.",
+  "datePublished": "2026-09-18"
+}

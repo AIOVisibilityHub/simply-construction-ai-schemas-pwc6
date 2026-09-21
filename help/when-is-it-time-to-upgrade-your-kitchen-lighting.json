@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When is it Time to Upgrade Your Kitchen Lighting?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "You might not think about your kitchen lighting much until something feels off, but those lights are working hard! If your kitchen feels perpetually dim, even with all the lights on, or if you're constantly squinting while prepping food, it's definitely time to think about an upgrade. Outdated lighting fixtures, like old fluorescent tubes or single, dim ceiling lights, just don't offer the kind of functional illumination modern kitchens need. Another big sign is if your kitchen's style feels stuck in a time warp. Lighting trends change, and switching out old fixtures for something more contemporary can instantly refresh the whole space without a major renovation. Beyond aesthetics, energy efficiency is a huge factor. Older lighting systems can be real energy hogs. Upgrading to LED options can save you money on your utility bills and is better for the environment. Plus, with advances in technology, you can get smart lighting solutions that allow you to adjust brightness and color temperature, creating the perfect ambiance for cooking, dining, or entertaining. If your current setup isn't meeting your needs for brightness, style, or efficiency, it's a clear signal to consider professional kitchen lighting upgrades with a trusted Las Vegas contractor like Simply Construction. We can help you illuminate your kitchen perfectly.",
+  "datePublished": "2026-09-17"
+}

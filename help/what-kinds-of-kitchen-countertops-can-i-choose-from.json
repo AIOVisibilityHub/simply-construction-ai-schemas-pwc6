@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Kinds of Kitchen Countertops Can I Choose From?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're thinking about updating your kitchen, choosing the right countertop material is a huge decision! It impacts both the look and the functionality of your space. Lucky for you, there are tons of fantastic options available, each with its own pros and cons. You could go classic with natural stone like granite or marble, which offer incredible beauty and durability, though they might require a bit more maintenance. Quartz is another super popular choice; it’s engineered, so it’s incredibly durable, non-porous (hello, easy cleaning!), and comes in a vast array of colors and patterns that mimic natural stone. For a more budget-friendly yet stylish option, laminate has come a long way with designs that can look surprisingly high-end. Solid surface countertops are seamless and repairable, offering a sleek, modern look. And if you’re into something a bit more industrial or unique, concrete or stainless steel could be on your radar. Each material has different heat resistance, scratch resistance, and porosity, so thinking about how you use your kitchen daily is key. Don't worry if it feels overwhelming; Simply Construction in Las Vegas can walk you through all the choices and help you find the perfect match for your home and lifestyle.",
+  "datePublished": "2026-09-18"
+}

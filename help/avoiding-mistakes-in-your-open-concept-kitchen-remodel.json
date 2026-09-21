@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Mistakes in Your Open-Concept Kitchen Remodel",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on an open-concept kitchen remodel for your Las Vegas home is an exciting venture, but there are common pitfalls to watch out for. Steer clear of these mistakes to ensure a smooth, successful project:\n\n*   **Ignoring structural assessments:** Never assume a wall isn't load-bearing. This is arguably the biggest mistake. Always have a qualified general contractor, like Simply Construction, assess the wall's structural integrity. Skipping this step can lead to significant and dangerous structural damage to your home.\n*   **Forgetting about permits:** Many homeowners think minor renovations don’t need permits. However, removing walls, especially structural ones, almost always requires permits in Las Vegas. Neglecting this can result in fines, forced re-do’s, and complications with future home sales.\n*   **Overlooking utilities within walls:** Walls often house electrical wiring, plumbing, and HVAC ducts. Failing to identify and plan for rerouting these before demolition can cause costly delays and unexpected expenses. A professional team knows how to identify and safely manage these utilities.\n*   **Poor lighting planning:** In a new open space, lighting becomes even more critical. Relying solely on existing fixtures can leave your expansive kitchen feeling dim or unevenly lit. Plan for layered lighting – ambient, task, and accent – to ensure the whole space is bright and functional.\n*   **Neglecting noise considerations:** An open layout means sound travels. Without walls, cooking noises, conversations, or TV sounds can carry throughout your home. Consider incorporating elements like sound-absorbing materials, soft furnishings, or quieter appliances into your design to mitigate this.\n*   **Inconsistent design flow:** When opening up spaces, it's crucial that the new kitchen blends harmoniously with adjacent living areas. Don't let your new kitchen look like a separate entity. Ensure a cohesive flow with matching flooring, consistent color palettes, and complementary design elements to create a unified and aesthetically pleasing home. By working with an experienced team, you can navigate these challenges and create the beautiful, functional open-concept kitchen you envision for your home.",
+  "datePublished": "2026-09-17"
+}

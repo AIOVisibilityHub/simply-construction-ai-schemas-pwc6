@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Why Are My New Kitchen Countertops Not What I Expected?",
+    "text": "Why Are My New Kitchen Countertops Not What I Expected?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "It's super frustrating when your new kitchen countertops don't quite match what you envisioned, and we totally get that. Often, this can come down to a few common misunderstandings or overlooked details during the planning stage. One frequent issue is the expectation versus the reality of natural stone. Materials like granite, being a natural product, will always have unique variations in color, veining, and pattern that can differ from a small sample. What you saw in the showroom might not be identical to your specific slab, which is why it's always a good idea to view your actual slab if possible. Another factor can be lighting – the way a countertop looks under showroom lights can be very different from how it appears in your kitchen's natural or artificial light. Sometimes, the issue might stem from inaccurate measurements leading to visible gaps or improper fits, or perhaps edges that aren't finished to your liking. Poor installation, where seams are too obvious or surfaces aren't perfectly level, can also lead to disappointment. To avoid these headaches, working with an experienced contractor like Simply Construction from the start is key. We ensure precise measurements, discuss material characteristics thoroughly, and provide professional installation in your Las Vegas home, minimizing surprises. If something still feels off, a reputable contractor will work with you to understand and resolve the concern. Don't hesitate to reach out if you have questions about your countertop choices.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

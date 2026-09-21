@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen feels cramped and outdated, what should I do?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's totally understandable to feel that way about your kitchen; it's often the heart of the home, and when it's not working, nothing feels quite right. If you're tired of the tight spaces and old-fashioned look, a kitchen renovation is definitely worth considering. We've helped countless homeowners in Las Vegas, including areas like Summerlin and Henderson, transform their kitchens into functional, beautiful spaces.\n\nFirst, think about what bothers you most. Is it the layout? The cabinet style? The lack of storage? Identifying your pain points is the first step toward a solution. Maybe you're dreaming of an open-concept kitchen by removing a wall, or perhaps you just need updated cabinets and countertops to breathe new life into the room. We specialize in custom kitchen remodeling, from subtle updates to complete overhauls, including layout changes and expanded living areas. Sometimes, all it takes is a fresh perspective and some smart design choices to make a huge difference.\n\nDon't try to tackle everything at once or feel overwhelmed by the possibilities. Start by pinpointing your priorities. We can guide you through the options, whether it’s a full structural remodel to expand the space or simply upgrading fixtures and finishes. We'll handle everything from planning and permits to the actual construction, making the process smooth and stress-free. Ready to explore what your kitchen could be? Reach out for a free, no-obligation estimate.",
+  "datePublished": "2026-09-18"
+}

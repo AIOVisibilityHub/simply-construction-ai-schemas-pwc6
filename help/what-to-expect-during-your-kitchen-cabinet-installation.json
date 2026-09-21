@@ -1,0 +1,137 @@
+{
+  "name": "What to Expect During Your Kitchen Cabinet Installation?",
+  "step": [
+    {
+      "name": "Step 1: Preparation (typically 1-2 days). This initial phase involves clearing out the kitchen area, protecting your floors and surrounding spaces, and ensuring the walls are ready. If there's demolition of old cabinets, that happens here. The installers will also double-check the measurements and plans to avoid any surprises. This step is crucial for a smooth installation.",
+      "text": "Step 1: Preparation (typically 1-2 days). This initial phase involves clearing out the kitchen area, protecting your floors and surrounding spaces, and ensuring the walls are ready. If there's demolition of old cabinets, that happens here. The installers will also double-check the measurements and plans to avoid any surprises. This step is crucial for a smooth installation.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Base Cabinet Installation (typically 1-3 days). The base cabinets are usually installed first, as they provide the foundation for your countertops and often dictate the placement of other elements like appliances. Our team will carefully level and secure each cabinet, ensuring they're perfectly aligned. Precision here is key for a seamless look and proper functionality.",
+      "text": "Step 2: Base Cabinet Installation (typically 1-3 days). The base cabinets are usually installed first, as they provide the foundation for your countertops and often dictate the placement of other elements like appliances. Our team will carefully level and secure each cabinet, ensuring they're perfectly aligned. Precision here is key for a seamless look and proper functionality.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Upper Cabinet Installation (typically 1-2 days). Once the base cabinets are in place, the upper cabinets go in. This requires careful measurement and often two installers to lift and secure them properly to the wall studs. They'll be leveled and aligned with each other and the base cabinets, ensuring a cohesive and sturdy installation. This can be a bit tricky, especially with custom or unusually sized units.",
+      "text": "Step 3: Upper Cabinet Installation (typically 1-2 days). Once the base cabinets are in place, the upper cabinets go in. This requires careful measurement and often two installers to lift and secure them properly to the wall studs. They'll be leveled and aligned with each other and the base cabinets, ensuring a cohesive and sturdy installation. This can be a bit tricky, especially with custom or unusually sized units.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Filler Panels and Trim (typically 1 day). After the main cabinet boxes are installed, our team will add any necessary filler panels to bridge gaps between cabinets and walls, and install crown molding or other decorative trim pieces. These details are what give your kitchen a finished, custom look. It's all about those perfect lines and tight seams.",
+      "text": "Step 4: Filler Panels and Trim (typically 1 day). After the main cabinet boxes are installed, our team will add any necessary filler panels to bridge gaps between cabinets and walls, and install crown molding or other decorative trim pieces. These details are what give your kitchen a finished, custom look. It's all about those perfect lines and tight seams.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Hardware and Adjustments (typically 1 day). Finally, the drawer pulls, cabinet handles, and any other hardware are installed. Our installers will also make any final adjustments to doors and drawers to ensure they open and close smoothly and are perfectly aligned. We'll clean up the workspace and make sure you're happy with every detail. Then you're ready for countertops and appliances!",
+      "text": "Remember, having professionals handle your cabinet installation, especially for custom layouts, ensures everything is done correctly and efficiently. Contact Simply Construction today for expert kitchen cabinet installation services in Las Vegas!",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Preparation (typically 1-2 days). This initial phase involves clearing out the kitchen area, protecting your floors and surrounding spaces, and ensuring the walls are ready. If there's demolit"
+}

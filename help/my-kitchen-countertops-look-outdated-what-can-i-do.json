@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My kitchen countertops look outdated, what can I do?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your kitchen countertops are looking a little tired or just plain outdated, it's a common feeling, and you're not alone! The good news is, you've got plenty of options to bring your kitchen back to life. Upgrading your countertops can completely transform the look and feel of your whole space without needing a full-blown renovation.\n\nFirst, think about what you don't like. Is it the color, the material, or just general wear and tear? Knowing this helps narrow down choices. Next, explore different materials. Quartz, granite, marble, and even solid surface options each offer unique aesthetics and durability. Consider your lifestyle too; do you need something super low-maintenance or are you okay with a bit more care for a luxurious look? You might also want to think about adding a new backsplash at the same time, as it often ties directly into the countertop design. Don't forget lighting! Sometimes, updating your kitchen's lighting can make existing surfaces look much better, or highlight your new ones beautifully. Finally, consider getting a professional opinion. A licensed general contractor like Simply Construction in Las Vegas can guide you through the choices, show you samples, and help you visualize the finished product, making sure your outdated countertops become a distant memory.",
+  "datePublished": "2026-09-17"
+}

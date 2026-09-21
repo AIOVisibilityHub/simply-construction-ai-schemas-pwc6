@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is a kitchen island always a good idea?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Kitchen islands are super popular, and for good reason! They offer extra counter space, storage, and a casual dining spot. But here’s the thing: they aren't always the perfect fit for every kitchen layout. \n\nMyth: An island is a must-have for every modern kitchen.\nFact: Not quite! Islands need enough clearance around them – at least 36-42 inches – to allow for comfortable movement and appliance access. In smaller kitchens, an island can actually make the space feel more cramped and hinder flow. Sometimes a peninsula or even a movable cart is a better solution for added functionality without sacrificing precious floor space. We help you figure out what makes sense for your specific kitchen, whether it's in Summerlin or Henderson.\n\nMyth: Islands are only for cooking and prep.\nFact: Islands are incredibly versatile! They can house sinks, dishwashers, wine fridges, microwaves, and even serve as a dedicated homework station or a casual gathering spot for guests. The key is to design it with your lifestyle in mind. We've designed islands that are central hubs for families, not just another countertop.\n\nMyth: Installing an island is a simple DIY job.\nFact: While a freestanding island might be, a built-in island often involves plumbing, electrical work, and structural considerations, especially if you want a cooktop or sink. This isn't just about placing a cabinet; it’s about integrating utilities safely and correctly, which requires a licensed general contractor. Getting it wrong can lead to costly repairs down the line. It's always best to have a professional assess your space and handle the installation to ensure it meets all Nevada requirements.",
+  "datePublished": "2026-09-18"
+}

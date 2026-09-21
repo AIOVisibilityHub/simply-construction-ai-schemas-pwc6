@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to consider before adding a kitchen island?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Adding a kitchen island is a fantastic upgrade, but it’s not a one-size-fits-all solution. Before you jump in, there are a few important things to mull over to make sure your new island is a perfect fit for your home and lifestyle. Getting it right means your kitchen will be more functional and look amazing!\n\nFirst, assess the *purpose* of the island. Is it primarily for prep work, dining, extra storage, or a combination? This will dictate its size, features, and layout. Second, measure your kitchen diligently. As mentioned earlier, maintaining adequate clearance (36-42 inches) around all sides is crucial for flow and accessibility. You don't want to regret a cramped kitchen! Third, think about power and plumbing. If you're planning to add a sink, dishwasher, cooktop, or even just outlets for small appliances, you'll need to consider how to get electrical and plumbing lines to the island. This can significantly impact the cost and complexity. Fourth, consider storage needs and seating. Do you want drawers, cabinets, open shelving, or a mix? How many people do you need to seat, and what kind of seating (stools, chairs) will work best? Lastly, match the aesthetic. Ensure the island's materials and style complement your existing kitchen decor or the overall vision for your remodel. Simply Construction in Las Vegas can help you navigate these considerations, ensuring your kitchen island is a seamless and valuable addition.",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Layout Just Doesn't Work Anymore",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Feeling like your kitchen is fighting against you every time you try to cook or entertain? You're definitely not alone! Many homes, especially older ones, just don't have layouts that make sense for today's lifestyle. The good news is, you don't have to live with it. A well-planned kitchen remodel can transform a cramped, awkward space into the functional and beautiful heart of your home. It's all about rethinking how you use the area and what improvements would make the biggest difference.\n\nFirst, consider what really bugs you. Is it the lack of counter space, a tiny pantry, or maybe too many walls separating the kitchen from living areas? Pinpointing these pain points is the first step towards a solution. Then, think about your ideal flow. Do you want an open-concept feel? More storage? A dedicated breakfast nook? Simply Construction specializes in structural remodeling capabilities, which means we can handle things like load-bearing wall removal and floor-plan redesigns to create that open-concept kitchen you've been dreaming of. We've got over 30 years of experience, so we understand the ins and outs of coordinating permits and ensuring everything meets Nevada requirements. Don't let a bad layout hold you back from enjoying your home; professional help can truly make a difference.",
+  "datePublished": "2026-09-18"
+}

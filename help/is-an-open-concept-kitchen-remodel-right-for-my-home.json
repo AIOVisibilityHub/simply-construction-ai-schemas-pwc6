@@ -1,0 +1,119 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "GeneralContractor",
+    "areaServed": [
+      {
+        "name": "Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "North Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Paradise",
+        "@type": "City"
+      },
+      {
+        "name": "Henderson",
+        "@type": "City"
+      },
+      {
+        "name": "MacDonald Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southern Highlands",
+        "@type": "City"
+      },
+      {
+        "name": "Southwest Las Vegas",
+        "@type": "City"
+      },
+      {
+        "name": "Inspirada",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Skye Canyon",
+        "@type": "City"
+      },
+      {
+        "name": "The Lakes",
+        "@type": "City"
+      },
+      {
+        "name": "Desert Shores",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Green Valley Ranch",
+        "@type": "City"
+      },
+      {
+        "name": "Anthem",
+        "@type": "City"
+      },
+      {
+        "name": "Seven Hills",
+        "@type": "City"
+      },
+      {
+        "name": "Sun City Summerlin",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin North",
+        "@type": "City"
+      },
+      {
+        "name": "Summerlin South",
+        "@type": "City"
+      },
+      {
+        "name": "Spring Valley",
+        "@type": "City"
+      },
+      {
+        "name": "Enterprise",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is an open-concept kitchen remodel right for my home?",
+    "text": "Is an open-concept kitchen remodel right for my home?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "You're probably dreaming of a kitchen that feels spacious, bright, and connected to your living areas, right? An open-concept kitchen remodel in Las Vegas can totally transform your home, making it feel way more modern and functional. It's a fantastic choice if you love entertaining, want to keep an eye on the kids while you cook, or just crave a brighter, more expansive feel. However, it's not a one-size-fits-all solution. Think about your lifestyle: do you thrive in a bustling, social kitchen, or do you prefer a more private cooking space? Open concepts mean cooking smells and noises might travel further, and a tidy kitchen becomes even more important since it's always on display. We've seen homeowners in places like Summerlin and Henderson absolutely love the flow and light it brings. It can really boost your home's appeal, especially for resale. If you're on the fence, we can chat about your specific layout and needs. Simply Construction specializes in custom kitchen remodeling and we're super familiar with all the possibilities and considerations here in the Las Vegas Valley. We can help you weigh the pros and cons for your unique situation. When you're ready to explore what an open-concept kitchen could look like for you, reach out for a free, no-obligation estimate.",
+      "@type": "Answer",
+      "author": {
+        "name": "Simply Construction",
+        "@type": "Organization"
+      }
+    }
+  }
+}

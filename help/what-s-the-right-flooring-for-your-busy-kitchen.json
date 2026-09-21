@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What's the right flooring for your busy kitchen?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Choosing the right kitchen flooring can feel like a big decision, and it totally is! Your kitchen floor takes a beating with spills, dropped pots, and constant foot traffic, so durability, ease of cleaning, and style are all key. You want something that looks great but also stands up to real life in your home. It’s not just about aesthetics; it’s about practical living.\n\nWhen you're looking at options, consider these points. First, think about material durability: natural stone and ceramic or porcelain tile are incredibly tough and water-resistant, making them excellent for busy kitchens. Hardwood offers timeless warmth but needs more care against moisture, while luxury vinyl plank (LVP) provides great water resistance and durability with a wood-look aesthetic. Second, ease of cleaning is a big one. Smooth surfaces like tile or LVP are generally easier to wipe clean than porous options or those with deep grout lines. Third, comfort underfoot: cork or LVP can be more forgiving than hard tile, which is a bonus if you spend a lot of time standing. Finally, match the style to your home's overall aesthetic and your personal taste. We've helped many homeowners in Las Vegas, including areas like Skye Canyon and The Lakes, pick and install the perfect flooring. Need help navigating the choices? Simply Construction offers expert advice and installation services to ensure your new kitchen floor is beautiful and built to last. Contact us today for a free estimate!",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Expansion: Myths vs. Facts",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about expanding your kitchen? It's a fantastic way to boost your home's usability and value, but there are definitely some myths floating around. Let's clear up a few common misconceptions.\n\nMyth: Kitchen expansions are just about adding square footage.\nFact: While adding space is a big part of it, an expansion by Simply Construction often involves rethinking your entire floor plan. We're talking about structural changes like removing interior walls, installing beams for open concepts, or even raising ceilings to create a completely new feel for your Las Vegas home. It’s about optimizing existing space and adding more where it makes sense, not just blindly tacking on an extra room.\n\nMyth: You can DIY most of a kitchen expansion to save money.\nFact: An expansion involves complex structural work, permitting, and coordinating multiple trades—from demolition to electrical and plumbing. Trying to tackle it yourself can lead to safety hazards, costly mistakes, and even issues with local building codes. A licensed general contractor ensures that all planning, permits, and inspections are handled professionally and safely, especially for things like load-bearing wall removal in areas like Paradise or Spring Valley.\n\nMyth: It'll double your home's value overnight.\nFact: A well-executed kitchen expansion significantly enhances your home’s appeal and functionality, which does increase its value. However, the exact return on investment varies based on your home’s location (like Skye Canyon or Green Valley) and the quality of the work. Focusing on smart design choices that blend with your home's existing style will give you the best return and enjoyment.\n\nMyth: Expansions are always extremely disruptive and take forever.\nFact: While any major renovation can be disruptive, experienced contractors like Simply Construction work hard to minimize the impact on your daily life. We coordinate trade schedules and manage the project efficiently, helping to keep things on track. Planning is crucial, and a clear timeline from a professional can make the process much smoother than you might expect.",
+  "datePublished": "2026-09-17"
+}

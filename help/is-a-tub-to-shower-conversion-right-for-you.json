@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is a Tub-to-Shower Conversion Right for You?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about ditching that old tub for a sleek new shower? Tub-to-shower conversions are super popular, especially here in Las Vegas, but it’s worth considering if it’s the right move for your home and lifestyle. It’s not just about aesthetics; there are practical benefits and things to think about before you commit.\n\nFirst off, accessibility is a huge plus. Many people find stepping over a high tub wall challenging, especially as they get older or if they have mobility issues. A walk-in shower, perhaps with a low curb or even curbless design, offers a much safer and easier entry and exit. This is a big win for aging-in-place modifications or simply for making your bathroom more user-friendly for everyone. We often help clients create accessible bathrooms that are both stylish and functional.\n\nAnother major benefit is space optimization and a modern look. Tubs can take up a lot of visual and physical space. Removing a bulky tub and replacing it with a custom-designed shower can make your bathroom feel much larger and more open. This is especially true for smaller bathrooms where every inch counts. Plus, modern showers often feature clean lines, contemporary tiles, and luxurious fixtures that instantly update the entire room's aesthetic. If you're going for a spa-like feel, a tub-to-shower conversion is definitely a step in that direction.\n\nHowever, it's important to consider if you actually *need* a tub. If your home has only one bathroom, and you remove the only tub, it could potentially impact resale value, especially for families with young children who might prefer a tub. If you have other bathrooms with tubs, then removing one from a secondary bathroom is usually not an issue. Think about your family's current and future needs, and if you truly use your tub. If it's mostly collecting dust or serving as a storage spot, a conversion is probably a great idea.\n\nCost and timeline are also factors. While a tub-to-shower conversion might seem straightforward, it often involves plumbing adjustments, new tiling, and potentially changes to the shower pan and enclosure. It's a renovation, not just a swap, so budgeting for professional installation and quality materials is key. The timeline can vary depending on the complexity, but our team works efficiently to minimize disruption. We’re licensed contractors, so we ensure everything is up to code and done right. If you’re in Las Vegas and considering this update, give us a call to chat about your options and get a free, no-obligation estimate; we can help you weigh all the pros and cons for your specific situation.\n",
+  "datePublished": "2026-09-17"
+}

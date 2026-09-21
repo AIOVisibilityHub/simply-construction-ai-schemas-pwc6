@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Are Smart Lights Worth it in the Kitchen?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Smart lighting in the kitchen? Absolutely, they can be a total game-changer! Imagine walking into your kitchen and just telling your lights to turn on, or having them dim automatically as dinner winds down. That's the beauty of smart lighting. The main benefit is the incredible control and convenience they offer. You can adjust brightness, change color temperature from warm to cool, and even create custom scenes for different activities—bright for cooking, soft for entertaining. This flexibility helps you set the perfect mood for any occasion, and it's a huge step up from basic on/off switches. Another cool perk is energy efficiency. Many smart lights are LEDs, which already save energy, but the ability to easily dim them or set schedules means you're using even less power. Plus, some systems integrate with motion sensors, so lights turn off when no one's around, preventing wasted energy. While the initial investment might be a bit more than traditional lighting, the long-term savings and enhanced functionality often make it totally worth it. Installation can be a bit more complex, especially with integrating into existing home systems, so calling on a licensed general contractor like Simply Construction in Las Vegas ensures everything is set up correctly and safely. We can help bring your kitchen into the future!",
+  "datePublished": "2026-09-17"
+}

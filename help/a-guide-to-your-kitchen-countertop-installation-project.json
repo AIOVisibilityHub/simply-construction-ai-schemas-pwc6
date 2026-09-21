@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "A Guide to Your Kitchen Countertop Installation Project",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about new kitchen countertops? It's a fantastic way to transform your kitchen's look and functionality! Here's a quick guide to what you can expect when working with Simply Construction: \n\n**Overview:** Kitchen countertop installation involves selecting materials, precise measurement, removal of old countertops, and professional installation of new ones. It’s a job that requires careful planning and skilled execution to ensure a perfect fit and finish. We handle everything from granite to quartz in homes across Las Vegas and Summerlin. \n\n**Key Benefits of New Countertops:** Beyond just looking great, new countertops can increase your home's value, improve kitchen hygiene with non-porous surfaces, and enhance durability for daily use. Plus, a fresh look can make cooking and entertaining so much more enjoyable! \n\n**Process Breakdown:** \n1.  **Consultation & Material Selection:** We start by discussing your vision, lifestyle, and budget. We’ll help you choose from various materials like quartz, granite, or laminate, explaining the pros and cons of each. \n2.  **Precise Measurement:** Our team will take meticulous measurements of your existing layout to ensure your new countertops are fabricated to exact specifications. This is crucial for a seamless fit. \n3.  **Fabrication:** Once measurements are confirmed, your chosen material is custom-cut and finished off-site. \n4.  **Removal of Old Countertops:** We carefully remove your existing countertops, minimizing disruption to your kitchen. \n5.  **Installation:** Our experienced installers precisely fit your new countertops, securing them and making any necessary cutouts for sinks and cooktops. We ensure a clean, professional finish. \n6.  **Cleanup & Final Walkthrough:** We clean up the work area thoroughly and walk you through your new kitchen countertops, ensuring you're completely satisfied. \n\n**Get Started:** Ready to upgrade your kitchen? Simply Construction is a licensed general contractor with over 30 years of experience serving the Las Vegas Valley, including North Las Vegas, Henderson, and Spring Valley. Contact us today at (702) 954-2840 for a free, no-obligation estimate and let's get your project started!",
+  "datePublished": "2026-09-17"
+}

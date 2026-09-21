@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Island Installation: Custom vs. Freestanding",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you’re thinking about adding a kitchen island, you'll generally come across two main types: custom-built and freestanding. Each has its own vibe and benefits, so let’s break them down a bit.\n\nCustom islands are designed and built specifically for your kitchen. They’re permanently installed, matching your existing cabinetry, countertops, and overall aesthetic perfectly. You get to choose every detail – from the size and shape to the storage options, built-in appliances, and finishes. This means maximum functionality and a seamless, high-end look. The cost is typically higher due to the bespoke design and installation, and the timeline is longer because of the design, fabrication, and integration into your home. However, the result is a truly personalized space that can significantly increase your home’s value and appeal.\n\nFreestanding islands, on the other hand, are essentially pieces of furniture. They’re movable, come in various styles and sizes, and can be a more budget-friendly and quicker option. They’re great for adding some extra prep space or storage without a major renovation. While they offer flexibility and can be taken with you if you move, they might not offer the same level of integrated functionality or custom look as a built-in unit. They might also not be as stable, especially if you plan to add a heavy countertop. When deciding, consider your budget, the long-term vision for your kitchen, and how much customization you need. Simply Construction can help you weigh these options for your Las Vegas home, ensuring you pick the best fit.",
+  "datePublished": "2026-09-17"
+}

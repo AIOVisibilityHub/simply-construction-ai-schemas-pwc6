@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How do I know if my kitchen has space for an island?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dreaming of a kitchen island but not sure if your space can handle it? It’s a super common question, and getting it right is key to a functional, beautiful kitchen. You definitely don’t want an island that makes your kitchen feel cramped!\n\nThe main thing to consider is clearance. You'll want at least 36 to 42 inches of clear walkway space around all sides of your island, especially in high-traffic areas or where appliances like dishwashers and ovens will open. This allows for comfortable movement, easy access to appliances, and smooth cabinet opening. A good rule of thumb is that your kitchen should ideally be at least 10 feet long and 10 feet wide to comfortably accommodate a standard-sized island. Beyond just space, think about the island's purpose. Will it be for seating, prep work, storage, or perhaps a sink or cooktop? This helps determine its size and layout. Consider your kitchen's existing layout too; you don't want an island to block access to essential areas. If you’re unsure, a professional general contractor like Simply Construction can help assess your kitchen's dimensions, traffic patterns, and existing layout to determine the perfect size and placement for your new island in your Las Vegas home. They'll ensure it enhances your kitchen, not hinders it.",
+  "datePublished": "2026-09-17"
+}

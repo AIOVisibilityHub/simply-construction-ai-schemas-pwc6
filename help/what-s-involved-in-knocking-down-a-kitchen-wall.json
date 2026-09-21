@@ -1,0 +1,137 @@
+{
+  "name": "What's involved in knocking down a kitchen wall?",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment and Planning. This is where we figure out if the wall is load-bearing or not. This step typically involves a professional contractor like Simply Construction visiting your Las Vegas home, assessing the structure, and discussing your vision. This can take a few days to a week.",
+      "text": "Step 1: Initial Assessment and Planning. This is where we figure out if the wall is load-bearing or not. This step typically involves a professional contractor like Simply Construction visiting your Las Vegas home, assessing the structure, and discussing your vision. This can take a few days to a week.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Structural Engineering & Permitting. If it's a load-bearing wall, a structural engineer needs to design a plan for a new beam to support the load. Then, we apply for the necessary permits with local Las Vegas authorities. This phase can take several weeks, as engineering plans need to be drawn up and permits approved.",
+      "text": "Step 2: Structural Engineering & Permitting. If it's a load-bearing wall, a structural engineer needs to design a plan for a new beam to support the load. Then, we apply for the necessary permits with local Las Vegas authorities. This phase can take several weeks, as engineering plans need to be drawn up and permits approved.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preparation and Demolition. Before demolition, utilities running through the wall (electrical, plumbing, HVAC) must be safely disconnected and rerouted. Then, the actual wall removal begins. This part is usually quick, often just a day or two, but it's messy!",
+      "text": "Step 3: Preparation and Demolition. Before demolition, utilities running through the wall (electrical, plumbing, HVAC) must be safely disconnected and rerouted. Then, the actual wall removal begins. This part is usually quick, often just a day or two, but it's messy!",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Structural Support Installation. If a load-bearing wall was removed, a new structural beam is installed. This is critical for the safety and integrity of your home. This typically takes a few days, depending on the complexity.",
+      "text": "Step 4: Structural Support Installation. If a load-bearing wall was removed, a new structural beam is installed. This is critical for the safety and integrity of your home. This typically takes a few days, depending on the complexity.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing and Integration. Once the structural work is done, the new opening needs to be framed, drywalled, and finished to seamlessly blend with your existing walls and ceiling. This includes patching, painting, and potentially adjusting flooring. This phase can take a week or two, depending on the scope of finishes. Getting a professional involved from the start is key to a smooth, safe, and code-compliant remodel.",
+      "text": "Step 5: Finishing and Integration. Once the structural work is done, the new opening needs to be framed, drywalled, and finished to seamlessly blend with your existing walls and ceiling. This includes patching, painting, and potentially adjusting flooring. This phase can take a week or two, depending on the scope of finishes. Getting a professional involved from the start is key to a smooth, safe, and code-compliant remodel.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Assessment and Planning. This is where we figure out if the wall is load-bearing or not. This step typically involves a professional contractor like Simply Construction visiting your L"
+}

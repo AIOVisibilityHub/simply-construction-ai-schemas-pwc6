@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to avoid common mistakes when replacing kitchen countertops?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Replacing kitchen countertops can feel like a big project, and it's easy to overlook a few things that could cause headaches later. But don't sweat it, with a little foresight, you can make sure your countertop replacement goes smoothly and beautifully.\n\nOne common mistake is not accurately measuring. Even a small error can lead to ill-fitting countertops, so make sure whoever is doing the measurements is experienced and precise. Another one is underestimating the demolition and disposal. Old countertops can be heavy and difficult to remove, plus you'll need a plan for getting rid of them. Trying to DIY this without the right tools or help can be dangerous. Skipping proper support for heavier materials is also a big no-no; granite and quartz need solid cabinetry and sometimes additional reinforcement, especially for overhangs. Failing to consider your sink and faucet choice *before* fabrication can lead to issues with cutouts and plumbing. Make sure these decisions are made early in the process. Lastly, choosing a material based solely on looks without considering durability or maintenance can lead to regret. Think about how you use your kitchen daily. Working with a professional general contractor like Simply Construction helps you avoid these pitfalls, ensuring a stress-free experience and a stunning new kitchen in your Las Vegas home.",
+  "datePublished": "2026-09-17"
+}

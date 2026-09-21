@@ -1,0 +1,131 @@
+{
+  "name": "How long does new kitchen flooring installation take?",
+  "step": [
+    {
+      "name": "Step 1: Preparation (1-2 days). This involves clearing out your kitchen – removing appliances, furniture, and anything else in the way. Then, the existing flooring needs to be carefully removed. This can be quick for some materials like vinyl, but older, heavily glued tiles or subfloor issues might take longer. We also need to ensure the subfloor is clean, level, and ready for the new material.",
+      "text": "Step 1: Preparation (1-2 days). This involves clearing out your kitchen – removing appliances, furniture, and anything else in the way. Then, the existing flooring needs to be carefully removed. This can be quick for some materials like vinyl, but older, heavily glued tiles or subfloor issues might take longer. We also need to ensure the subfloor is clean, level, and ready for the new material.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Subfloor Repair/Leveling (0.5-2 days). If the subfloor isn't perfectly flat or has damage, it'll need repair or leveling compounds applied. This is a critical step for a smooth, long-lasting new floor, and drying times for leveling compounds need to be factored in.",
+      "text": "Step 2: Subfloor Repair/Leveling (0.5-2 days). If the subfloor isn't perfectly flat or has damage, it'll need repair or leveling compounds applied. This is a critical step for a smooth, long-lasting new floor, and drying times for leveling compounds need to be factored in.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: New Flooring Installation (1-5 days). This is where the magic happens! The actual laying of the new flooring. For smaller kitchens with straightforward layouts and materials like LVP or laminate, it might be on the shorter side. Larger kitchens, intricate tile patterns, or materials requiring precise cuts and grouting (like ceramic or porcelain tile) will naturally take longer. For tile, you also have grouting and sealing, which adds extra time.",
+      "text": "Step 3: New Flooring Installation (1-5 days). This is where the magic happens! The actual laying of the new flooring. For smaller kitchens with straightforward layouts and materials like LVP or laminate, it might be on the shorter side. Larger kitchens, intricate tile patterns, or materials requiring precise cuts and grouting (like ceramic or porcelain tile) will naturally take longer. For tile, you also have grouting and sealing, which adds extra time.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Curing/Drying (1-3 days). Many flooring materials, especially tile and some glues, need time to properly cure or dry before heavy foot traffic or appliance replacement. Skipping this can lead to issues down the road.",
+      "text": "So, for a typical kitchen, you're generally looking at anywhere from 3 to 10 days from start to finish, depending on the complexity, materials, and any unforeseen subfloor issues. Working with an experienced contractor like Simply Construction ensures efficient project management and expert installation, minimizing disruption and getting you back to your beautiful kitchen sooner.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Preparation (1-2 days). This involves clearing out your kitchen – removing appliances, furniture, and anything else in the way. Then, the existing flooring needs to be carefully removed. This "
+}

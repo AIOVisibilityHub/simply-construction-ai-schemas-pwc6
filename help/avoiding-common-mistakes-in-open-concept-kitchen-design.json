@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Avoiding Common Mistakes in Open-Concept Kitchen Design",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Embarking on an open-concept kitchen remodel is exciting, but it's easy to overlook details that can impact the final result. Avoiding common pitfalls will ensure you love your new space. First, don't ignore the noise factor. In an open layout, kitchen sounds (blenders, dishwashers) carry further, so consider quieter appliances. Second, lighting is crucial. Without walls, you'll need a well-thought-out lighting plan that includes ambient, task, and accent lighting to define zones and keep the space bright. Third, storage can become an issue. Losing upper cabinets from a wall means you need creative solutions like pantry systems or cleverly designed islands. Fourth, make sure your flooring is cohesive. A jarring change in flooring between the kitchen and adjacent areas can break the 'open' feel. Lastly, don't underestimate the importance of professional planning. Structural changes require expert assessment to ensure safety and compliance. Simply Construction can help you navigate these design challenges, from planning the perfect layout and addressing structural needs to choosing materials that create a harmonious and functional open-concept kitchen tailored for your Las Vegas home.",
+  "datePublished": "2026-09-17"
+}

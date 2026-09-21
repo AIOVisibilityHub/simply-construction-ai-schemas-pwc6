@@ -1,0 +1,137 @@
+{
+  "name": "What are the steps to replacing kitchen cabinets?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Design – This is where your vision starts to take shape! You'll meet with a general contractor, like Simply Construction, to discuss your ideas, needs, and budget for your Las Vegas home. We’ll talk about cabinet styles, materials, finishes, and the overall layout you're hoping for. This phase typically involves measuring your kitchen and creating a preliminary design, usually taking a few days to a week or two, depending on how quickly decisions are made.",
+      "text": "Step 1: Initial Consultation and Design – This is where your vision starts to take shape! You'll meet with a general contractor, like Simply Construction, to discuss your ideas, needs, and budget for your Las Vegas home. We’ll talk about cabinet styles, materials, finishes, and the overall layout you're hoping for. This phase typically involves measuring your kitchen and creating a preliminary design, usually taking a few days to a week or two, depending on how quickly decisions are made.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Material Selection and Ordering – Once the design is finalized, you’ll choose your specific cabinets, hardware, and any other elements. This is a big decision, as cabinets come in countless varieties. After selections are made, the cabinets are ordered. This stage can take several weeks, sometimes even months, as custom or semi-custom cabinets have manufacturing lead times.",
+      "text": "Step 2: Material Selection and Ordering – Once the design is finalized, you’ll choose your specific cabinets, hardware, and any other elements. This is a big decision, as cabinets come in countless varieties. After selections are made, the cabinets are ordered. This stage can take several weeks, sometimes even months, as custom or semi-custom cabinets have manufacturing lead times.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition and Preparation – When your new cabinets arrive, the exciting work begins! We'll carefully remove your old cabinets, protecting your home in the process. This also involves preparing the walls, which might include minor repairs, electrical adjustments, or plumbing modifications to accommodate the new layout. This step usually takes one to three days, depending on the kitchen's size and complexity.",
+      "text": "Step 3: Demolition and Preparation – When your new cabinets arrive, the exciting work begins! We'll carefully remove your old cabinets, protecting your home in the process. This also involves preparing the walls, which might include minor repairs, electrical adjustments, or plumbing modifications to accommodate the new layout. This step usually takes one to three days, depending on the kitchen's size and complexity.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: New Cabinet Installation – This is the core of the project. Our team will meticulously install your new kitchen cabinets, ensuring they are level, plumb, and securely fastened. Base cabinets go in first, followed by wall cabinets. It’s a precise process that requires skill and experience to get right. This phase typically takes three to five days, depending on the number and type of cabinets being installed.",
+      "text": "Step 4: New Cabinet Installation – This is the core of the project. Our team will meticulously install your new kitchen cabinets, ensuring they are level, plumb, and securely fastened. Base cabinets go in first, followed by wall cabinets. It’s a precise process that requires skill and experience to get right. This phase typically takes three to five days, depending on the number and type of cabinets being installed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Finishing Touches and Cleanup – After the cabinets are in, we’ll handle any remaining trim work, adjust doors and drawers, and make sure everything is perfectly aligned. This is also when we coordinate with other trades if necessary, such as for countertop templating (which usually happens after cabinets are installed) or appliance installation. Finally, we do a thorough cleanup. This last step can take one to two days, leaving you with a beautiful, functional new kitchen ready for your enjoyment. It’s always a good idea to work with experienced pros like us to ensure a smooth process from start to finish.",
+      "text": "Step 5: Finishing Touches and Cleanup – After the cabinets are in, we’ll handle any remaining trim work, adjust doors and drawers, and make sure everything is perfectly aligned. This is also when we coordinate with other trades if necessary, such as for countertop templating (which usually happens after cabinets are installed) or appliance installation. Finally, we do a thorough cleanup. This last step can take one to two days, leaving you with a beautiful, functional new kitchen ready for your enjoyment. It’s always a good idea to work with experienced pros like us to ensure a smooth process from start to finish.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Design – This is where your vision starts to take shape! You'll meet with a general contractor, like Simply Construction, to discuss your ideas, needs, and budget for "
+}

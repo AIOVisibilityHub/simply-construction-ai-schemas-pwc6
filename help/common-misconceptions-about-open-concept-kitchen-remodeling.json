@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Misconceptions About Open-Concept Kitchen Remodeling",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Open-concept kitchens are super popular in Las Vegas, but there are a few myths floating around. Let's clear them up!\n\nMyth: All walls can be removed easily. Fact: Not every wall is created equal! Some walls in your home are load-bearing, meaning they're essential to supporting your home's structure. Removing these requires careful planning, engineering, and the installation of a new beam to redistribute the weight safely. It's definitely not a DIY job; you need a professional like Simply Construction to assess it properly.\n\nMyth: It's always cheaper to remove a wall than build one. Fact: While you're not building a new wall, the cost of removing one, especially a load-bearing one, can be significant. This includes structural engineering, permit fees, installing new beams, rerouting electrical, plumbing, or HVAC, and then patching and finishing the surrounding areas. Sometimes, a smaller, strategic opening might be more cost-effective.\n\nMyth: Open-concept kitchens mean less storage. Fact: This doesn't have to be true! While you lose some wall space, clever design can often compensate. Think about adding a large island with drawers, pull-out pantries, or extending cabinets to the ceiling. A good designer can maximize storage in an open layout.\n\nMyth: You'll lose all your privacy. Fact: An open-concept kitchen definitely integrates with other living spaces, but that doesn't mean zero privacy. You can still create zones with furniture arrangement, area rugs, or even subtle changes in ceiling height or flooring. It's about blending, not erasing boundaries entirely. It's a great way to enjoy family and friends while cooking without feeling completely isolated.",
+  "datePublished": "2026-09-17"
+}

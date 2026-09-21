@@ -1,0 +1,137 @@
+{
+  "name": "What are the steps to a smooth kitchen renovation?",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation & Design (Typically 2-4 weeks) — This is where we sit down to discuss your vision, needs, and budget. Our team helps with layout ideas, material selections, and appliance choices. We'll measure your space, develop preliminary designs, and refine them based on your feedback. This stage sets the foundation for everything.",
+      "text": "Step 1: Initial Consultation & Design (Typically 2-4 weeks) — This is where we sit down to discuss your vision, needs, and budget. Our team helps with layout ideas, material selections, and appliance choices. We'll measure your space, develop preliminary designs, and refine them based on your feedback. This stage sets the foundation for everything.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Planning & Permitting (Typically 4-8 weeks) — Once the design is finalized, we prepare detailed plans. Simply Construction coordinates all necessary permits with local Las Vegas authorities. This step is critical to ensure your renovation meets all building codes and regulations, preventing future headaches.",
+      "text": "Step 2: Planning & Permitting (Typically 4-8 weeks) — Once the design is finalized, we prepare detailed plans. Simply Construction coordinates all necessary permits with local Las Vegas authorities. This step is critical to ensure your renovation meets all building codes and regulations, preventing future headaches.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Demolition & Preparation (Typically 1-2 weeks) — The old kitchen comes out! This involves carefully removing existing cabinets, countertops, flooring, and sometimes walls. We also prepare the space for new installations, which might include rough-in plumbing or electrical work.",
+      "text": "Step 3: Demolition & Preparation (Typically 1-2 weeks) — The old kitchen comes out! This involves carefully removing existing cabinets, countertops, flooring, and sometimes walls. We also prepare the space for new installations, which might include rough-in plumbing or electrical work.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Installation & Finishes (Typically 4-8 weeks) — This is where your new kitchen starts to take shape. Cabinets are installed, followed by countertops, flooring, lighting, and appliances. Our skilled tradespeople ensure every detail is meticulously placed, from tile work to paint. Inspections occur throughout this phase.",
+      "text": "Step 4: Installation & Finishes (Typically 4-8 weeks) — This is where your new kitchen starts to take shape. Cabinets are installed, followed by countertops, flooring, lighting, and appliances. Our skilled tradespeople ensure every detail is meticulously placed, from tile work to paint. Inspections occur throughout this phase.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walk-Through & Project Completion (Typically 1-3 days) — We'll do a comprehensive walk-through with you to ensure everything is perfect and meets your expectations. Any minor adjustments are made, and then you get to enjoy your beautiful new kitchen! Our 30+ years of experience as a licensed general contractor in Las Vegas ensures a high-quality finish.",
+      "text": "Simply Construction manages every step, making sure your kitchen renovation in Las Vegas, from MacDonald Highlands to Green Valley, is handled professionally and efficiently. Contact us for a free estimate and let's get started!",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation & Design (Typically 2-4 weeks) — This is where we sit down to discuss your vision, needs, and budget. Our team helps with layout ideas, material selections, and appliance "
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What should I consider before installing new kitchen flooring?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Before you dive headfirst into ripping out your old kitchen floors, let's chat about a few things that'll make your new flooring installation a smooth sail! Getting this right from the start saves you headaches and ensures you'll love your kitchen for years to come.\n\n*   **Subfloor Condition:** This is huge! Your subfloor is the foundation for your new flooring. If it's uneven, damaged, or moisture-prone, your new beautiful flooring won't last. We always inspect the subfloor, repair any issues, and ensure it's clean, dry, and level before anything else happens. This step is critical for durability.\n*   **Lifestyle & Durability:** Think about how you use your kitchen. Do you have pets? Kids who spill? Are you a serious chef? This impacts the best material for you. For instance, while hardwood is gorgeous, it might not be the best for a super high-traffic, spill-prone area without proper sealing. Tile or luxury vinyl planks often offer amazing durability and water resistance for busy kitchens. We help you weigh these factors to find a perfect match.\n*   **Moisture Resistance:** Kitchens are inherently moist places, thanks to sinks, dishwashers, and cooking. You need flooring that can handle splashes and spills without warping or getting damaged. Some materials are much better at this than others. We guide you toward options that offer the best protection against moisture for lasting results.\n*   **Aesthetics & Style:** Of course, you want it to look good! Your new flooring should complement your kitchen's overall design, from cabinets to countertops. We’ll discuss colors, textures, and patterns to find something that ties everything together beautifully, whether your home is in Paradise or Green Valley.\n*   **Professional Installation:** While some people try DIY, kitchen flooring installation can be tricky, especially with cuts, patterns, and ensuring a watertight seal. Getting it done right the first time by professionals means a flawless finish and avoiding costly re-dos. We handle everything from prep to final touches, ensuring a seamless installation that meets all standards.",
+  "datePublished": "2026-09-18"
+}
