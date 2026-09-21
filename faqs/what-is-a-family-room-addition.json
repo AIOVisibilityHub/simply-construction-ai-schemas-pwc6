@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-family-room-addition",
+  "name": "What is a family room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a family room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A family room addition extends your home's footprint by adding a new room designed for communal activities and relaxation. This space often features comfortable seating, entertainment systems, and sometimes a fireplace. It differs from a living room by being a more informal, multi-purpose area suitable for everyday family life and casual gatherings. Planning involves assessing your current home layout and identifying how the new space will integrate seamlessly with existing rooms, enhancing both functionality and property value.",
+        "@type": "Answer",
+        "description": "A family room addition expands your home with a new, informal space for family activities and relaxation, integrating with your existing layout."
+      }
+    }
+  ],
+  "description": "A family room addition expands your home with a new, informal space for family activities and relaxation, integrating with your existing layout."
+}

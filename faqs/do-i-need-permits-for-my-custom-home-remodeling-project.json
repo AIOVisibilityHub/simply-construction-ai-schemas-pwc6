@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-my-custom-home-remodeling-project",
+  "name": "Do I need permits for my custom home remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my custom home remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most custom home remodeling projects that involve structural changes, electrical work, plumbing modifications, or additions will require permits from local authorities in areas like Las Vegas, North Las Vegas, or Henderson. Minor cosmetic changes, such as painting or new flooring, typically do not require permits. We will help you identify necessary permits and manage the application process to ensure your project complies with all local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Most custom remodels involving structural, electrical, or plumbing changes require local permits. We will assist with permit identification and application."
+      }
+    }
+  ],
+  "description": "Most custom remodels involving structural, electrical, or plumbing changes require local permits. We will assist with permit identification and application."
+}

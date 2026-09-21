@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-build-an-attached-or-detached-garage",
+  "name": "Should I build an attached or detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an attached or detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between an attached and detached garage depends on your specific needs, property layout, and budget. An attached garage offers direct home access and can be more cost-effective if integrated during initial home construction. A detached garage provides better sound and odor isolation, increased security separation from the home, and design flexibility, often allowing for more versatile uses like a workshop or studio without impacting the main residence. Consider your primary use and lot size when deciding.",
+        "@type": "Answer",
+        "description": "An attached garage offers direct home access, while a detached garage provides better isolation for noise/odors, enhanced security, and design flexibility for various uses."
+      }
+    }
+  ],
+  "description": "An attached garage offers direct home access, while a detached garage provides better isolation for noise/odors, enhanced security, and design flexibility for v"
+}

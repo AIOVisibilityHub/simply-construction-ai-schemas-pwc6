@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-whole-home-remodel-usually-take",
+  "name": "How long does a whole-home remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole-home remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-home remodel varies significantly based on the project's complexity and scope. Smaller remodels might take 3-6 months, while extensive projects involving structural changes or custom designs could extend to 8-12 months or longer. Factors like permitting processes in Las Vegas, material lead times, and unforeseen discoveries can also influence the timeline. We provide a detailed project schedule upfront to set clear expectations.",
+        "@type": "Answer",
+        "description": "Whole-home remodels typically take 3-12 months, depending on scope and complexity. Factors like permitting and material lead times affect the schedule."
+      }
+    }
+  ],
+  "description": "Whole-home remodels typically take 3-12 months, depending on scope and complexity. Factors like permitting and material lead times affect the schedule."
+}

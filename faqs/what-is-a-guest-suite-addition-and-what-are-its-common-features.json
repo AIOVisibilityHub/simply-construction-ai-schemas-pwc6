@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-guest-suite-addition-and-what-are-its-common-features",
+  "name": "What is a guest suite addition and what are its common features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a guest suite addition and what are its common features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A guest suite addition is a dedicated living space, often attached to an existing home but with its own amenities, designed to host visitors comfortably. Common features include a private bedroom, a full or three-quarter bathroom, and often a small living area or kitchenette. Some homeowners opt for a separate entrance to enhance privacy. These additions can range from basic guest rooms to more elaborate, self-contained apartments, depending on the homeowner's needs and budget. They provide flexibility for hosting family, friends, or even serving as a potential rental unit.",
+        "@type": "Answer",
+        "description": "A guest suite addition is a dedicated living space, typically attached to a home, featuring a bedroom, bathroom, and often a living area or kitchenette for visitors."
+      }
+    }
+  ],
+  "description": "A guest suite addition is a dedicated living space, typically attached to a home, featuring a bedroom, bathroom, and often a living area or kitchenette for visi"
+}

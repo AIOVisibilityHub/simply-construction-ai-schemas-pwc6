@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-your-process-for-managing-a-whole-home-renovation-project",
+  "name": "What is your process for managing a whole-home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is your process for managing a whole-home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Next, we move to detailed design and planning, where we develop architectural plans, material selections, and a comprehensive project scope. Once plans are finalized, we provide a transparent proposal and secure necessary permits. Construction then commences, managed by a dedicated project manager who ensures quality, adherence to schedule, and clear communication. The project concludes with a final walkthrough and your complete satisfaction. We aim for a seamless and stress-free experience from start to finish.",
+        "@type": "Answer",
+        "description": "Our process involves an initial consultation, detailed design and planning, transparent proposal, permit acquisition, managed construction with regular communication, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "Our process involves an initial consultation, detailed design and planning, transparent proposal, permit acquisition, managed construction with regular communic"
+}

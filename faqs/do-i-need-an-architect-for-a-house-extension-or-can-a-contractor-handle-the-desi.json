@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-an-architect-for-a-house-extension-or-can-a-contractor-handle-the-desi",
+  "name": "Do I need an architect for a house extension, or can a contractor handle the design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a house extension, or can a contractor handle the design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most house extensions, engaging an architect or a professional designer is recommended. They can create detailed plans that maximize space, ensure structural integrity, comply with local building codes, and enhance the aesthetic appeal of your home. While some contractors offer design-build services and have in-house designers, complex or larger additions often benefit from an independent architect's expertise. The choice depends on the project's scale and your desired level of customization.",
+        "@type": "Answer",
+        "description": "An architect is recommended for most house extensions to ensure proper design, structural integrity, and code compliance, though some contractors offer design-build services."
+      }
+    }
+  ],
+  "description": "An architect is recommended for most house extensions to ensure proper design, structural integrity, and code compliance, though some contractors offer design-b"
+}

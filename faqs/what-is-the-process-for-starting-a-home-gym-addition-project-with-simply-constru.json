@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-a-home-gym-addition-project-with-simply-constru",
+  "name": "What is the process for starting a home gym addition project with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a home gym addition project with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Next, we conduct a site visit to assess feasibility and gather necessary measurements. Based on this, we develop a detailed design and provide a comprehensive proposal and estimate. Once approved, we handle all permitting, construction, and final inspections, keeping you informed at every stage until your new home gym is complete.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, site visit, design and estimate, permitting, construction, and final inspection."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, site visit, design and estimate, permitting, construction, and final inspection."
+}

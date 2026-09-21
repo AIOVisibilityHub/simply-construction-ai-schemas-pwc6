@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-a-whole-home-remodel",
+  "name": "How do I choose the right contractor for a whole-home remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a whole-home remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves evaluating their experience, communication style, and track record. Look for a licensed and insured general contractor specializing in whole-home remodels, like Simply Construction, with a portfolio of relevant projects. Check references, read reviews, and ensure they provide transparent, detailed proposals. A good contractor will also help manage the permitting process and maintain clear communication throughout the project duration.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, insurance, portfolio, and transparent communication. Check references and ensure they handle permitting."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, insurance, portfolio, and transparent communication. Check references and ensure they handle permitting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-aging-in-place-renovation",
+  "name": "What is aging-in-place renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is aging-in-place renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aging-in-place renovation refers to modifying a home to allow residents to live there safely and comfortably as they age. This can include changes like wider doorways for wheelchair access, grab bars in bathrooms, no-step entries, and improved lighting. The goal is to make the home more accessible, reduce fall risks, and enhance independence, preventing the need to move to an assisted living facility sooner than desired. These renovations can be simple or extensive, depending on individual needs and the current home structure.",
+        "@type": "Answer",
+        "description": "Aging-in-place renovation modifies a home to support residents living there safely and independently as they age. It often includes accessibility improvements and fall prevention measures."
+      }
+    }
+  ],
+  "description": "Aging-in-place renovation modifies a home to support residents living there safely and independently as they age. It often includes accessibility improvements a"
+}

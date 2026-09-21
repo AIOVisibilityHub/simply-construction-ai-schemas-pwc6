@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-renovating-an-older-home-in-las-vegas",
+  "name": "What permits are required for renovating an older home in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for renovating an older home in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating an older home in Las Vegas typically requires various permits depending on the scope of work. Common permits include building permits for structural changes, electrical permits for wiring upgrades, plumbing permits for pipe replacement, and mechanical permits for HVAC systems. Even non-structural interior remodels often require permits to ensure compliance with local safety and building codes. We handle the entire permitting process, ensuring all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Renovations in Las Vegas usually require building, electrical, plumbing, and mechanical permits. We manage the entire permitting process for your project."
+      }
+    }
+  ],
+  "description": "Renovations in Las Vegas usually require building, electrical, plumbing, and mechanical permits. We manage the entire permitting process for your project."
+}

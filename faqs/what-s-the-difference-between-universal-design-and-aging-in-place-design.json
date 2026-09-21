@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-universal-design-and-aging-in-place-design",
+  "name": "What's the difference between universal design and aging-in-place design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between universal design and aging-in-place design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Universal design aims to create environments accessible and usable by all people, regardless of age, ability, or disability, from the initial design phase. It's about proactive inclusivity. Aging-in-place design, conversely, typically focuses on retrofitting or modifying an existing home to meet the specific, evolving needs of an individual or couple as they age, enabling them to remain in their home longer. While distinct, many aging-in-place solutions incorporate universal design principles.",
+        "@type": "Answer",
+        "description": "Universal design creates spaces accessible to everyone from the start, while aging-in-place design modifies existing homes to meet an individual's evolving needs as they age."
+      }
+    }
+  ],
+  "description": "Universal design creates spaces accessible to everyone from the start, while aging-in-place design modifies existing homes to meet an individual's evolving need"
+}

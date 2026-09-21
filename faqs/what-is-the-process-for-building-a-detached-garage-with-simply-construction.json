@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-building-a-detached-garage-with-simply-construction",
+  "name": "What is the process for building a detached garage with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for building a detached garage with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for building a detached garage begins with an initial consultation to understand your vision, needs, and budget. Next, we conduct a site assessment and assist with design and material selection. We then handle all necessary permit applications and approvals. Once permits are secured, our skilled team manages every phase of construction, from foundation pouring to framing, roofing, electrical, and finishing touches. We maintain clear communication throughout, culminating in a final inspection to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Simply Construction's process involves consultation, design, permitting, full construction management (foundation to finish), and continuous communication, ending with a final inspection."
+      }
+    }
+  ],
+  "description": "Simply Construction's process involves consultation, design, permitting, full construction management (foundation to finish), and continuous communication, endi"
+}

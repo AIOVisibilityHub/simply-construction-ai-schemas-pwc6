@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-return-on-investment-for-home-modernization-projects",
+  "name": "What is the return on investment for home modernization projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment for home modernization projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) for home modernization varies by project type and local market conditions. Kitchen and bathroom remodels, exterior improvements (like new siding or windows), and adding energy-efficient features often yield a strong ROI, sometimes recouping 70-85% or more of the cost at resale. Projects focused on personal enjoyment rather than broad appeal may have a lower financial ROI but a high lifestyle return. Simply Construction can advise on projects that typically offer good value in the Las Vegas market.",
+        "@type": "Answer",
+        "description": "ROI for home modernization depends on the project. Kitchens, bathrooms, and energy-efficient upgrades often have strong returns (70-85% or more) in the Las Vegas market."
+      }
+    }
+  ],
+  "description": "ROI for home modernization depends on the project. Kitchens, bathrooms, and energy-efficient upgrades often have strong returns (70-85% or more) in the Las Vega"
+}

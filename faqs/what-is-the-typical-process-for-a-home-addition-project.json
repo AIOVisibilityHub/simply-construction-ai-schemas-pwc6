@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-a-home-addition-project",
+  "name": "What is the typical process for a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a home addition typically begins with an initial consultation and design phase, where your ideas and needs are discussed and plans are drawn. Next, permits are secured from local authorities, which can take several weeks. Once permits are approved, construction begins, including foundation work, framing, roofing, electrical, plumbing, insulation, and interior finishes. Finally, a thorough inspection ensures all work meets code and quality standards before the project is completed. Simply Construction manages all these stages for you.",
+        "@type": "Answer",
+        "description": "The typical process involves consultation, design, permitting, construction, and final inspection. Simply Construction manages each step from start to finish."
+      }
+    }
+  ],
+  "description": "The typical process involves consultation, design, permitting, construction, and final inspection. Simply Construction manages each step from start to finish."
+}

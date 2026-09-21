@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-whole-home-renovation-and-a-home-addition",
+  "name": "What is the difference between a whole-home renovation and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a whole-home renovation and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home renovation focuses on updating, redesigning, or reconfiguring existing spaces within the current footprint of your house. This might involve moving interior walls, modernizing kitchens and bathrooms, or upgrading systems. In contrast, a home addition involves expanding the physical size of your home by adding new square footage, such as an extra bedroom, a second story, or an expanded living area. While a renovation improves what's already there, an addition creates new space. Both can significantly enhance your home's value and functionality, and sometimes a project can involve elements of both.",
+        "@type": "Answer",
+        "description": "A whole-home renovation updates existing spaces, while a home addition expands your home's physical size by creating new square footage. Both improve value, but differ in scope of space alteration."
+      }
+    }
+  ],
+  "description": "A whole-home renovation updates existing spaces, while a home addition expands your home's physical size by creating new square footage. Both improve value, but"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-a-bedroom-addition",
+  "name": "How do I choose the right contractor for a bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for a bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful bedroom addition. Look for licensed, insured general contractors with specific experience in home additions. Request to see a portfolio of their previous work and ask for references from past clients. Ensure they provide a detailed, written proposal outlining the scope of work, timeline, and payment schedule. Effective communication and a clear understanding of your vision are also key indicators of a good fit.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with addition experience, good references, and a detailed proposal. Effective communication is also important."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with addition experience, good references, and a detailed proposal. Effective communication is also important."
+}

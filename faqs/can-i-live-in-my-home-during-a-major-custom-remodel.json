@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-a-major-custom-remodel",
+  "name": "Can I live in my home during a major custom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major custom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can stay in your home during a major custom remodel depends on the project's scope and safety considerations. For extensive renovations involving kitchens, bathrooms, or whole-house structural changes, it's often safer and more comfortable to relocate temporarily. We will discuss the feasibility of living in your home during the planning phase, outlining potential disruptions and safety measures. For smaller projects, living at home is usually manageable with proper planning.",
+        "@type": "Answer",
+        "description": "Staying home during a major remodel depends on the project's scope and safety. Extensive renovations often require temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "description": "Staying home during a major remodel depends on the project's scope and safety. Extensive renovations often require temporary relocation for safety and comfort."
+}

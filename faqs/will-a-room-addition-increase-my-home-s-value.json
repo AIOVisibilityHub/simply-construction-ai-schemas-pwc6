@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-room-addition-increase-my-home-s-value",
+  "name": "Will a room addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a room addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed room addition can significantly increase your home's value and appeal, particularly in the Las Vegas market. Additions that provide highly desired features like extra bedrooms, bathrooms, or functional living spaces tend to offer the best return on investment. The value added depends on the type of addition, quality of work, and how well it blends with your existing home and neighborhood. Consulting with a local real estate professional can offer specific insights.",
+        "@type": "Answer",
+        "description": "Yes, a well-designed room addition can increase home value, especially if it adds desirable features. The return on investment depends on quality and market demand."
+      }
+    }
+  ],
+  "description": "Yes, a well-designed room addition can increase home value, especially if it adds desirable features. The return on investment depends on quality and market dem"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-house-extensions-are-commonly-built-in-las-vegas",
+  "name": "What types of house extensions are commonly built in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of house extensions are commonly built in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, popular house extensions often include adding extra bedrooms, expanding living areas like family rooms, or creating dedicated home offices. Many homeowners also choose to add sunrooms or expand kitchens. Two-story additions are also common, providing significant space increases while utilizing existing footprints. The specific type of extension often depends on the homeowner's needs and the existing property layout, as well as local zoning regulations.",
+        "@type": "Answer",
+        "description": "Common house extensions in Las Vegas include additional bedrooms, expanded living areas, home offices, sunrooms, and kitchen expansions, often with two-story options."
+      }
+    }
+  ],
+  "description": "Common house extensions in Las Vegas include additional bedrooms, expanded living areas, home offices, sunrooms, and kitchen expansions, often with two-story op"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-typical-costs-associated-with-a-fixer-upper-renovation-in-las-vegas",
+  "name": "What are the typical costs associated with a fixer-upper renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with a fixer-upper renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovation costs in Las Vegas vary widely depending on the scope of work. Minor cosmetic updates might start from $10,000 to $25,000. Mid-range renovations, including kitchen or bathroom remodels, could range from $45,000 to $90,000. Major structural changes or whole-home remodels often exceed $100,000. Factors influencing cost include materials, labor, permits, and the extent of changes to plumbing or electrical systems. We provide detailed estimates after an initial assessment.",
+        "@type": "Answer",
+        "description": "Typical fixer-upper renovation costs in Las Vegas range from $10,000 for minor updates to over $100,000 for major remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Typical fixer-upper renovation costs in Las Vegas range from $10,000 for minor updates to over $100,000 for major remodels, depending on scope and materials."
+}

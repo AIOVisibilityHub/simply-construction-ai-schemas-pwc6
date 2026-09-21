@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-plumbing-or-hvac-to-my-detached-garage",
+  "name": "Can I add plumbing or HVAC to my detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add plumbing or HVAC to my detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plumbing and HVAC systems can be added to a detached garage, significantly enhancing its functionality, especially if you plan to use it as a workshop, home office, or living space. Adding plumbing for a utility sink or restroom requires trenching for water and sewer lines, while HVAC involves extending ductwork or installing a dedicated mini-split system. Both additions will require specific permits and licensed professionals to ensure proper installation and compliance with local building and health codes.",
+        "@type": "Answer",
+        "description": "Yes, plumbing (for sinks, restrooms) and HVAC (for heating/cooling) can be added to a detached garage, but require specific permits and professional installation."
+      }
+    }
+  ],
+  "description": "Yes, plumbing (for sinks, restrooms) and HVAC (for heating/cooling) can be added to a detached garage, but require specific permits and professional installatio"
+}

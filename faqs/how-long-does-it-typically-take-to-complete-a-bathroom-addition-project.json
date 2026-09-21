@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-complete-a-bathroom-addition-project",
+  "name": "How long does it typically take to complete a bathroom addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a bathroom addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bathroom addition varies based on the project's scope and complexity. A smaller half-bath addition might take 4-6 weeks from demolition to final touches. A larger, more complex full bathroom addition, especially if it involves extensive plumbing or structural changes, can take 8-12 weeks or longer. Factors like permitting, material lead times, and inspection schedules can also influence the overall duration. We provide a detailed project schedule after the design and material selections are finalized.",
+        "@type": "Answer",
+        "description": "A bathroom addition usually takes 4-12 weeks, depending on its size and complexity, as well as permitting and material availability."
+      }
+    }
+  ],
+  "description": "A bathroom addition usually takes 4-12 weeks, depending on its size and complexity, as well as permitting and material availability."
+}

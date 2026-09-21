@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-renovations-are-best-suited-for-a-pre-move-in-schedule",
+  "name": "What types of renovations are best suited for a pre-move-in schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of renovations are best suited for a pre-move-in schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-move-in renovations are best for projects that require extensive work and create significant dust or disruption. This includes full-scale kitchen and bathroom remodels, flooring replacement throughout the home, interior wall removals or additions, and major plumbing or electrical upgrades. These larger projects benefit greatly from a vacant property, allowing for easier access, faster material delivery, and a cleaner work environment. Smaller cosmetic changes can also be done pre-move-in, but the biggest advantages are for more impactful projects.",
+        "@type": "Answer",
+        "description": "Extensive projects like full kitchen/bathroom remodels, flooring replacement, and structural changes are ideal for pre-move-in. A vacant home allows for easier access and cleaner work."
+      }
+    }
+  ],
+  "description": "Extensive projects like full kitchen/bathroom remodels, flooring replacement, and structural changes are ideal for pre-move-in. A vacant home allows for easier"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-areas-in-las-vegas-do-you-serve-for-custom-home-remodeling",
+  "name": "What areas in Las Vegas do you serve for custom home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas in Las Vegas do you serve for custom home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We provide custom home remodeling services across a wide range of areas within Las Vegas and its surrounding communities. Our service areas include Las Vegas, North Las Vegas, Summerlin, Paradise, and Henderson. We are well-acquainted with the specific building codes and architectural styles prevalent in these regions, ensuring a smooth and compliant remodeling experience for our clients.",
+        "@type": "Answer",
+        "description": "We serve Las Vegas, North Las Vegas, Summerlin, Paradise, and Henderson for custom home remodeling, understanding local codes and styles."
+      }
+    }
+  ],
+  "description": "We serve Las Vegas, North Las Vegas, Summerlin, Paradise, and Henderson for custom home remodeling, understanding local codes and styles."
+}

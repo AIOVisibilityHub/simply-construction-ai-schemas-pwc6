@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-home-office-addition-increase-my-property-value",
+  "name": "Can a home office addition increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a home office addition increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed home office addition can significantly increase your property value, especially in today's market where remote work is prevalent. It adds functional square footage and a desirable, dedicated workspace that appeals to potential buyers. The return on investment depends on the quality of the addition, its integration with the existing home, and local market conditions. We focus on quality craftsmanship to maximize your home's appeal and value.",
+        "@type": "Answer",
+        "description": "A well-designed home office addition can increase property value by adding desirable functional space, especially with current remote work trends."
+      }
+    }
+  ],
+  "description": "A well-designed home office addition can increase property value by adding desirable functional space, especially with current remote work trends."
+}

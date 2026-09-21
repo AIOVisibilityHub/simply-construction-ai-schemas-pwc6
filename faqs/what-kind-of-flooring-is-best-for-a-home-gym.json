@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-flooring-is-best-for-a-home-gym",
+  "name": "What kind of flooring is best for a home gym?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of flooring is best for a home gym?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best flooring for a home gym depends on your intended activities. Rubber matting or interlocking rubber tiles are excellent for weightlifting due to their shock absorption and durability. For cardio or bodyweight exercises, cork or vinyl can offer a good balance of comfort and resilience. Certain specialized sports flooring might be considered for high-impact activities. We help select the optimal flooring to protect your home and enhance your workouts.",
+        "@type": "Answer",
+        "description": "Rubber flooring is ideal for weights, while cork or vinyl suits cardio; the best choice depends on your specific activities."
+      }
+    }
+  ],
+  "description": "Rubber flooring is ideal for weights, while cork or vinyl suits cardio; the best choice depends on your specific activities."
+}

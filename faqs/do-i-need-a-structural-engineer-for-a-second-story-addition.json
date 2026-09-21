@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-structural-engineer-for-a-second-story-addition",
+  "name": "Do I need a structural engineer for a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a structural engineer for a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a structural engineer is typically essential for a second-story addition. They assess the existing foundation and load-bearing walls to determine if they can support the additional weight of a new story. If the current structure is insufficient, the engineer will design necessary reinforcements. Their involvement ensures the safety and stability of the entire home and is often a requirement for building permits in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Yes, a structural engineer is typically essential to assess the existing foundation and design necessary reinforcements for a second story."
+      }
+    }
+  ],
+  "description": "Yes, a structural engineer is typically essential to assess the existing foundation and design necessary reinforcements for a second story."
+}

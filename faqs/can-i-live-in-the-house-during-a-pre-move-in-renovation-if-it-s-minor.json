@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-the-house-during-a-pre-move-in-renovation-if-it-s-minor",
+  "name": "Can I live in the house during a pre-move-in renovation if it's minor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in the house during a pre-move-in renovation if it's minor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's technically possible to live in a house during very minor pre-move-in renovations like painting a single room, it is generally not recommended for anything more extensive. Even small projects can generate dust, noise, and require contractors to move through living spaces. For projects involving major systems like plumbing or electrical, or extensive demolition, occupying the home is often unsafe and will significantly hinder the contractor's progress. The primary benefit of pre-move-in renovation is minimizing disruption, which is lost if you move in too early.",
+        "@type": "Answer",
+        "description": "It's generally not recommended to live in the house during pre-move-in renovation, even for minor projects. Dust, noise, and safety concerns can hinder work and disrupt daily life."
+      }
+    }
+  ],
+  "description": "It's generally not recommended to live in the house during pre-move-in renovation, even for minor projects. Dust, noise, and safety concerns can hinder work and"
+}

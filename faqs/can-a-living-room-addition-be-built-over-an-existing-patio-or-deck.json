@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-living-room-addition-be-built-over-an-existing-patio-or-deck",
+  "name": "Can a living room addition be built over an existing patio or deck?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a living room addition be built over an existing patio or deck?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a living room addition over an existing patio or deck is often possible, but it typically requires significant structural modifications. An existing patio or deck foundation may not be sufficient to support the weight of a fully enclosed, roofed living space. This often means the existing structure would need to be reinforced or entirely replaced with a new foundation designed for a habitable room. It's crucial to have a structural engineer assess the existing conditions before planning such a conversion.",
+        "@type": "Answer",
+        "description": "Yes, but building over an existing patio or deck usually requires significant structural reinforcement or a new foundation because existing structures may not support a full living space."
+      }
+    }
+  ],
+  "description": "Yes, but building over an existing patio or deck usually requires significant structural reinforcement or a new foundation because existing structures may not s"
+}

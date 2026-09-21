@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-planning-a-bedroom-addition",
+  "name": "What factors should I consider when planning a bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when planning a bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a bedroom addition, consider the purpose of the new room, its size and layout, and how it will integrate with your existing home's architecture. Think about natural light, ventilation, and proximity to other living spaces. Also, evaluate your budget, desired finishes, and potential long-term value added to your property. Consulting with a general contractor early can help clarify these aspects and identify any unique challenges or opportunities.",
+        "@type": "Answer",
+        "description": "Consider the room's purpose, size, integration with existing architecture, budget, and desired finishes. Early consultation with a contractor is advisable."
+      }
+    }
+  ],
+  "description": "Consider the room's purpose, size, integration with existing architecture, budget, and desired finishes. Early consultation with a contractor is advisable."
+}

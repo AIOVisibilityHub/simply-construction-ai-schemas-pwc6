@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-bedroom-addition-in-southern-nevada",
+  "name": "Do I need a permit for a bedroom addition in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a bedroom addition in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, any structural addition to your home, including a bedroom addition, requires permits from your local jurisdiction in Southern Nevada. This ensures that the new construction complies with all safety, zoning, and building codes. Failing to obtain the necessary permits can lead to fines, difficulties selling your home, and potential safety hazards. Our team will guide you through the entire permitting process, preparing and submitting all required documentation on your behalf.",
+        "@type": "Answer",
+        "description": "Yes, a bedroom addition in Southern Nevada requires permits from your local jurisdiction to ensure compliance with building and safety codes. We assist with the permitting process."
+      }
+    }
+  ],
+  "description": "Yes, a bedroom addition in Southern Nevada requires permits from your local jurisdiction to ensure compliance with building and safety codes. We assist with the"
+}

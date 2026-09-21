@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-room-additions-can-i-build",
+  "name": "What types of room additions can I build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of room additions can I build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Room additions encompass a wide range of projects designed to expand your living space. Common types include adding a new bedroom, bathroom, family room, home office, or even a second story. You can also consider extending existing rooms like a kitchen or living room. The best type of addition for your home depends on your needs, available space, and budget. We can help you explore options that integrate seamlessly with your current home structure and style.",
+        "@type": "Answer",
+        "description": "Common room additions include new bedrooms, bathrooms, family rooms, offices, or second stories. The best type depends on your needs, space, and budget."
+      }
+    }
+  ],
+  "description": "Common room additions include new bedrooms, bathrooms, family rooms, offices, or second stories. The best type depends on your needs, space, and budget."
+}

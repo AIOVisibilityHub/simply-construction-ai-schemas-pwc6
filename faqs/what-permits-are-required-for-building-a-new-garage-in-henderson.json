@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-building-a-new-garage-in-henderson",
+  "name": "What permits are required for building a new garage in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for building a new garage in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a new garage in Henderson, like other areas, requires specific permits to ensure compliance with local building codes and zoning ordinances. You will typically need a building permit, which may also necessitate separate permits for electrical, plumbing, and mechanical work if those systems are included. Obtaining a site plan review and potentially a grading permit might also be necessary. A reputable general contractor can help navigate the Henderson permit application process and ensure all necessary approvals are secured before construction begins.",
+        "@type": "Answer",
+        "description": "Building a new garage in Henderson requires permits like building, electrical, plumbing, and mechanical. A general contractor can assist with the permitting process."
+      }
+    }
+  ],
+  "description": "Building a new garage in Henderson requires permits like building, electrical, plumbing, and mechanical. A general contractor can assist with the permitting pro"
+}

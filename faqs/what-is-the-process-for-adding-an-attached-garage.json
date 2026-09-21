@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-adding-an-attached-garage",
+  "name": "What is the process for adding an attached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding an attached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation and site assessment to discuss your needs and design preferences. We then develop detailed plans and secure all necessary permits. Following permit approval, site preparation and foundation work commence. Next, framing and roofing are completed, followed by exterior siding and window installation to match your existing home. Finally, interior work such as electrical, insulation, drywall, and finishing touches are added. Throughout, we maintain clear communication and adhere to a strict construction schedule.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permits, site work, framing, roofing, exterior/interior finishes, and final walkthrough."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permits, site work, framing, roofing, exterior/interior finishes, and final walkthrough."
+}

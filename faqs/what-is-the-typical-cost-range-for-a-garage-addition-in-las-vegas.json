@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-garage-addition-in-las-vegas",
+  "name": "What is the typical cost range for a garage addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a garage addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a garage addition in Las Vegas can vary significantly based on factors like size, materials, foundation requirements, and whether it includes features like insulation, electrical work, or plumbing. A basic single-car garage addition might start around $20,000 to $30,000, while a larger, more customized two-car garage with enhanced finishes could range from $40,000 to $70,000 or more. Obtaining a detailed estimate from a local contractor is the best way to understand the specific costs for your project.",
+        "@type": "Answer",
+        "description": "Costs for a garage addition in Las Vegas typically range from $20,000 to over $70,000, depending on size, materials, and features. A detailed estimate is recommended."
+      }
+    }
+  ],
+  "description": "Costs for a garage addition in Las Vegas typically range from $20,000 to over $70,000, depending on size, materials, and features. A detailed estimate is recomm"
+}

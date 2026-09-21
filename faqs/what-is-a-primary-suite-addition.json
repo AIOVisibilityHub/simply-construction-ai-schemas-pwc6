@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-primary-suite-addition",
+  "name": "What is a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary suite addition involves expanding your home to create a new, dedicated primary bedroom area, often including a larger bedroom, a private bathroom, and sometimes a walk-in closet or sitting area. This type of addition typically requires significant construction work, including foundation, framing, roofing, electrical, plumbing, and finishing. The goal is to enhance comfort, privacy, and functionality within your home, tailored to your specific needs and preferences. It's distinct from remodeling an existing space as it involves building new square footage.",
+        "@type": "Answer",
+        "description": "A primary suite addition expands your home to create a new primary bedroom area, often with a private bathroom and walk-in closet."
+      }
+    }
+  ],
+  "description": "A primary suite addition expands your home to create a new primary bedroom area, often with a private bathroom and walk-in closet."
+}

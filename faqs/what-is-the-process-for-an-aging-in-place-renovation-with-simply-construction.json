@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-an-aging-in-place-renovation-with-simply-construction",
+  "name": "What is the process for an aging-in-place renovation with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for an aging-in-place renovation with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to discuss your specific needs, goals, and budget. We then conduct an on-site assessment to evaluate your current home and identify suitable modifications. Following this, we develop a detailed design plan and provide a transparent estimate. Once approved, we handle all necessary permits and commence construction, managing the project from start to finish with regular communication until completion and final walkthrough.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, on-site assessment, design planning, detailed estimates, permit handling, and full project management through completion."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, on-site assessment, design planning, detailed estimates, permit handling, and full project management through completion."
+}

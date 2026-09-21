@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-building-a-home-office-addition",
+  "name": "What is involved in building a home office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in building a home office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a home office addition involves several stages, starting with design and planning to ensure the new space integrates seamlessly with your existing home and meets your functional needs. This includes architectural drawings and obtaining necessary permits. Construction typically covers foundation work, framing, roofing, exterior finishes, and interior work like electrical, plumbing (if needed), insulation, drywall, flooring, and painting. We manage all aspects, ensuring a smooth process from concept to completion in areas like Las Vegas and Henderson.",
+        "@type": "Answer",
+        "description": "It involves design, permitting, foundation, framing, roofing, exterior and interior finishes, and utility installations to create a functional new space."
+      }
+    }
+  ],
+  "description": "It involves design, permitting, foundation, framing, roofing, exterior and interior finishes, and utility installations to create a functional new space."
+}

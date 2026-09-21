@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-aging-in-place-renovations-increase-my-home-s-value",
+  "name": "Can aging-in-place renovations increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can aging-in-place renovations increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the primary goal of aging-in-place renovations is often safety and comfort, some modifications can also increase a home's value. Features like a universally accessible bathroom, a no-step entry, or well-designed open floor plans appeal to a broader range of buyers, including families with young children or individuals with temporary mobility issues. Quality, well-executed renovations that are aesthetically pleasing tend to offer better returns on investment.",
+        "@type": "Answer",
+        "description": "Yes, well-executed aging-in-place renovations, especially accessible bathrooms or no-step entries, can appeal to a broader buyer market and potentially increase home value."
+      }
+    }
+  ],
+  "description": "Yes, well-executed aging-in-place renovations, especially accessible bathrooms or no-step entries, can appeal to a broader buyer market and potentially increase"
+}

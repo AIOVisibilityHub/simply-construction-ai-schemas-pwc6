@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-home-addition-increase-my-property-value",
+  "name": "Will a home addition increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a home addition increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed home addition typically increases property value, especially if it adds functional living space like bedrooms, bathrooms, or a larger kitchen that is in demand in your neighborhood. The return on investment varies based on the type of addition, quality of materials, and local market conditions. Additions that blend seamlessly with the existing structure and meet current buyer preferences tend to yield the best returns. Consulting with local real estate professionals can provide insights into specific additions that perform well in your area.",
+        "@type": "Answer",
+        "description": "Yes, a well-planned and executed home addition can increase property value, especially if it adds desirable living space. Return on investment varies by project type and local market trends."
+      }
+    }
+  ],
+  "description": "Yes, a well-planned and executed home addition can increase property value, especially if it adds desirable living space. Return on investment varies by project"
+}

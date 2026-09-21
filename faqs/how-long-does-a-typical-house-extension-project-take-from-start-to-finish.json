@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-house-extension-project-take-from-start-to-finish",
+  "name": "How long does a typical house extension project take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical house extension project take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a house extension project varies based on its size, complexity, and the local permitting process. Generally, a small single-room extension might take 3-5 months, including design, permitting, and construction. Larger or multi-story additions can extend to 6-12 months or more. Delays can occur due to material availability or inspection schedules. A detailed project timeline is typically provided after the initial design and scope are established.",
+        "@type": "Answer",
+        "description": "House extension projects typically take 3-5 months for small additions and 6-12 months for larger ones, depending on complexity and permitting."
+      }
+    }
+  ],
+  "description": "House extension projects typically take 3-5 months for small additions and 6-12 months for larger ones, depending on complexity and permitting."
+}

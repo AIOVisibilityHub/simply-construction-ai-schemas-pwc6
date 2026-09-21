@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-home-modernization-project-take",
+  "name": "How long does a typical home modernization project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home modernization project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home modernization project depends heavily on its complexity and scope. Smaller projects, such as updating a single room or minor cosmetic changes, might take a few weeks. Larger renovations, like a full kitchen or bathroom remodel, typically span 4 to 12 weeks. Whole-home modernizations or significant structural changes can extend from several months to a year or more. Simply Construction provides a detailed project schedule and keeps you informed of progress throughout the renovation, managing timelines efficiently.",
+        "@type": "Answer",
+        "description": "Project timelines vary: small updates take weeks, while major renovations can take months to over a year, depending on complexity. Your contractor will provide a detailed schedule."
+      }
+    }
+  ],
+  "description": "Project timelines vary: small updates take weeks, while major renovations can take months to over a year, depending on complexity. Your contractor will provide"
+}

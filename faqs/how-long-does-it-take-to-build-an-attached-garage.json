@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-build-an-attached-garage",
+  "name": "How long does it take to build an attached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build an attached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building an attached garage addition typically ranges from 8 to 16 weeks, depending on the project's complexity and size. This estimate includes design, permit acquisition, site preparation, foundation work, framing, roofing, exterior finishes, and interior work. Factors like weather conditions, material availability, and the efficiency of permit approvals can influence the overall duration. Simply Construction works to streamline each phase to complete your project efficiently while maintaining quality standards.",
+        "@type": "Answer",
+        "description": "Building an attached garage usually takes 8 to 16 weeks, varying with complexity, size, and permit approval times."
+      }
+    }
+  ],
+  "description": "Building an attached garage usually takes 8 to 16 weeks, varying with complexity, size, and permit approval times."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-are-important-for-a-functional-home-gym",
+  "name": "What design considerations are important for a functional home gym?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a functional home gym?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations include adequate space for equipment and movement, appropriate flooring (e.g., rubber, specialized mats) to protect subflooring and absorb impact, and sufficient ventilation or HVAC to manage temperature and humidity. Good lighting, electrical outlets for equipment, and soundproofing can also enhance the gym experience. We help design a space tailored to your fitness activities and equipment needs.",
+        "@type": "Answer",
+        "description": "Consider space, flooring, ventilation, lighting, electrical outlets, and soundproofing for a functional home gym design."
+      }
+    }
+  ],
+  "description": "Consider space, flooring, ventilation, lighting, electrical outlets, and soundproofing for a functional home gym design."
+}

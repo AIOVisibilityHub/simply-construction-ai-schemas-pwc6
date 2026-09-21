@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-type-of-foundation-is-best-for-a-detached-garage",
+  "name": "What type of foundation is best for a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of foundation is best for a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best foundation type for a detached garage in the Las Vegas area typically depends on soil conditions, garage size, and budget. A concrete slab-on-grade foundation is the most common and cost-effective choice for most garages, offering a durable and stable base. For heavier structures or areas with specific soil challenges, a deeper monolithic slab or pier and beam foundation might be considered. Our team will assess your site's specific conditions to recommend the most suitable and compliant foundation solution.",
+        "@type": "Answer",
+        "description": "A concrete slab-on-grade is common and cost-effective for detached garages. For specific soil or heavier structures, a monolithic slab or pier and beam might be better, which our team can assess."
+      }
+    }
+  ],
+  "description": "A concrete slab-on-grade is common and cost-effective for detached garages. For specific soil or heavier structures, a monolithic slab or pier and beam might be"
+}

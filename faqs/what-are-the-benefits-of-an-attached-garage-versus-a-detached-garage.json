@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-an-attached-garage-versus-a-detached-garage",
+  "name": "What are the benefits of an attached garage versus a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of an attached garage versus a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached garage offers direct indoor access, which is convenient, especially in inclement weather, and can increase your home's square footage and value. It typically shares utilities, reducing costs for additional hookups. A detached garage, conversely, offers greater flexibility in placement and design, can provide more separation for noisy activities, and is often preferred if space close to the house is limited or for very specific uses like a workshop. Your choice depends on your property layout, budget, and functional needs.",
+        "@type": "Answer",
+        "description": "Attached garages offer convenient indoor access and can increase home value, while detached garages provide greater placement flexibility and separation."
+      }
+    }
+  ],
+  "description": "Attached garages offer convenient indoor access and can increase home value, while detached garages provide greater placement flexibility and separation."
+}

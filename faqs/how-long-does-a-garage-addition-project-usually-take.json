@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-garage-addition-project-usually-take",
+  "name": "How long does a garage addition project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage addition project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage addition project can vary depending on its complexity, size, and local permitting processes. Generally, a typical single or double car garage addition might take anywhere from 6 to 12 weeks from groundbreaking to completion. This includes time for planning, obtaining permits, foundation work, framing, roofing, exterior finishes, and interior work. Delays can occur due to weather, material availability, or inspection schedules.",
+        "@type": "Answer",
+        "description": "A garage addition project typically takes 6 to 12 weeks to complete, depending on its size, complexity, and permitting. This includes all stages from planning to finish."
+      }
+    }
+  ],
+  "description": "A garage addition project typically takes 6 to 12 weeks to complete, depending on its size, complexity, and permitting. This includes all stages from planning t"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-bedroom-addition-disrupt-my-daily-life",
+  "name": "Will a bedroom addition disrupt my daily life?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a bedroom addition disrupt my daily life?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While any major construction project involves some level of disruption, an experienced general contractor works to minimize its impact on your daily life. We establish clear work zones, maintain a tidy site, and communicate openly about schedules and potential noise or utility interruptions. Depending on the scale of the addition, there might be periods where access to certain areas is restricted or temporary utility adjustments are necessary, but these are managed efficiently to ensure your comfort.",
+        "@type": "Answer",
+        "description": "A bedroom addition can cause some disruption, but an experienced contractor minimizes impact through clear work zones and open communication. Temporary utility adjustments may occur."
+      }
+    }
+  ],
+  "description": "A bedroom addition can cause some disruption, but an experienced contractor minimizes impact through clear work zones and open communication. Temporary utility"
+}

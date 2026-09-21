@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-a-major-renovation",
+  "name": "Can I live in my home during a major renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your home during a major renovation depends on the scope of the project. If utilities like water, electricity, or kitchen access are severely disrupted for extended periods, or if there's extensive dust and noise, it might be more comfortable and safer to temporarily relocate. We will discuss these considerations during the planning phase and work with you to minimize disruption, setting up dust barriers and maintaining a clean worksite.",
+        "@type": "Answer",
+        "description": "Living in your home during a major renovation depends on the project's scope and utility disruption. We'll discuss options to minimize inconvenience during planning."
+      }
+    }
+  ],
+  "description": "Living in your home during a major renovation depends on the project's scope and utility disruption. We'll discuss options to minimize inconvenience during plan"
+}

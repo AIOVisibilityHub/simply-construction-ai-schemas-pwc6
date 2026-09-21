@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-complete-a-living-room-addition",
+  "name": "How long does it take to complete a living room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a living room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a living room addition depends on its size, complexity, and the current permit approval process. Generally, a typical living room addition project can take anywhere from 3 to 6 months from initial design to final completion. This includes time for architectural drawings, permit acquisition, site preparation, construction, and finishing touches. Unforeseen conditions, material delays, or significant design changes can extend this timeframe. We work to provide a realistic schedule upfront.",
+        "@type": "Answer",
+        "description": "A living room addition typically takes 3 to 6 months to complete, including design, permits, and construction, but can vary based on project specifics."
+      }
+    }
+  ],
+  "description": "A living room addition typically takes 3 to 6 months to complete, including design, permits, and construction, but can vary based on project specifics."
+}

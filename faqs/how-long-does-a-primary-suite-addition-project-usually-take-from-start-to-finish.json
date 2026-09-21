@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-primary-suite-addition-project-usually-take-from-start-to-finish",
+  "name": "How long does a primary suite addition project usually take from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a primary suite addition project usually take from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a primary suite addition can range from several months to over half a year, depending on the project's scope and complexity. Key phases include design, permitting, demolition (if necessary), foundation work, framing, roofing, rough-ins for electrical and plumbing, insulation, drywall, and final finishes. Unexpected issues like weather delays, material availability, or changes requested during construction can extend the timeline. Efficient planning and clear communication with your contractor help keep the project on track.",
+        "@type": "Answer",
+        "description": "A primary suite addition typically takes several months to over half a year, depending on scope, design, and permitting processes."
+      }
+    }
+  ],
+  "description": "A primary suite addition typically takes several months to over half a year, depending on scope, design, and permitting processes."
+}

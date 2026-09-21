@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-affect-the-return-on-investment-roi-of-a-primary-suite-addition",
+  "name": "What factors affect the return on investment (ROI) of a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the return on investment (ROI) of a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) of a primary suite addition is influenced by several factors, including the quality of materials and finishes, the overall appeal and functionality of the new space, and the current real estate market conditions in your area. Over-improving for your neighborhood can diminish ROI, while a well-executed addition that aligns with local property values often adds significant value. Enhancements like a spa-like bathroom, ample closet space, and improved natural light tend to be highly desirable to potential buyers.",
+        "@type": "Answer",
+        "description": "ROI for a primary suite addition depends on material quality, new space appeal, local market conditions, and alignment with neighborhood values."
+      }
+    }
+  ],
+  "description": "ROI for a primary suite addition depends on material quality, new space appeal, local market conditions, and alignment with neighborhood values."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-bedroom-addition-and-a-room-conversion",
+  "name": "What is the difference between a bedroom addition and a room conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a bedroom addition and a room conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition involves physically expanding your home's footprint to create an entirely new room or enlarge an existing one. This typically requires new foundation work, framing, roofing, and connecting to existing utilities. In contrast, a room conversion repurposes an existing space within your current home, such as turning an unused dining room or attic into a bedroom, without altering the home's exterior footprint. Additions generally involve more extensive construction and permitting.",
+        "@type": "Answer",
+        "description": "A bedroom addition expands your home's footprint to create a new room, requiring new construction. A room conversion repurposes existing interior space without expanding the footprint."
+      }
+    }
+  ],
+  "description": "A bedroom addition expands your home's footprint to create a new room, requiring new construction. A room conversion repurposes existing interior space without"
+}

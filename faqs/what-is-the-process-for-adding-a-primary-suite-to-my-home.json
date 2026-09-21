@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-adding-a-primary-suite-to-my-home",
+  "name": "What is the process for adding a primary suite to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for adding a primary suite to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to discuss your vision and needs, followed by design and architectural planning to create detailed blueprints. Next, permits are secured from local authorities, which can take several weeks. Once permits are approved, construction commences, involving site preparation, foundation work, framing, and installation of utilities. After the structure is enclosed, interior finishes like drywall, flooring, and fixtures are completed. The project concludes with final inspections and a walkthrough.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction (framing, utilities, finishes), and final inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction (framing, utilities, finishes), and final inspections."
+}

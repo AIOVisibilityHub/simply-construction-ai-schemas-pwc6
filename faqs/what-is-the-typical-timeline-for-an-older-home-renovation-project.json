@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-an-older-home-renovation-project",
+  "name": "What is the typical timeline for an older home renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for an older home renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an older home renovation depends on the project's complexity and size. A small kitchen or bathroom remodel might take 6-10 weeks, while a whole-home renovation, especially if it involves structural changes or additions, could span 4-8 months or more. Permitting, material availability, and unforeseen discoveries inherent to older homes can also influence the schedule. We aim to establish a realistic timeline upfront and keep you informed of progress.",
+        "@type": "Answer",
+        "description": "Timelines vary; small remodels take 6-10 weeks, while whole-home renovations can be 4-8 months or longer. Factors like permitting and unexpected issues influence the schedule."
+      }
+    }
+  ],
+  "description": "Timelines vary; small remodels take 6-10 weeks, while whole-home renovations can be 4-8 months or longer. Factors like permitting and unexpected issues influenc"
+}

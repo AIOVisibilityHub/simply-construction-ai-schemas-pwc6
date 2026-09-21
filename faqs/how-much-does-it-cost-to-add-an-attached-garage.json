@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-add-an-attached-garage",
+  "name": "How much does it cost to add an attached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to add an attached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of adding an attached garage varies significantly based on factors like size, materials, foundation requirements, and finishes. A single-car garage will naturally be less expensive than a two- or three-car option. Considerations like the type of roofing, siding to match the existing home, electrical wiring for outlets or EV charging, and any insulation or drywall will influence the final price. We provide detailed, transparent quotes after assessing your specific project requirements and site conditions.",
+        "@type": "Answer",
+        "description": "Cost varies based on size, materials, and finishes. A detailed quote is provided after assessing your specific project needs."
+      }
+    }
+  ],
+  "description": "Cost varies based on size, materials, and finishes. A detailed quote is provided after assessing your specific project needs."
+}

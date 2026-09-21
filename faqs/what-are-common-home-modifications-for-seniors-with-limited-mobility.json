@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-home-modifications-for-seniors-with-limited-mobility",
+  "name": "What are common home modifications for seniors with limited mobility?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common home modifications for seniors with limited mobility?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For seniors with limited mobility, common home modifications include installing ramps at entryways or stairlifts for multi-story homes. Inside, widening doorways and hallways ensures wheelchair or walker access. Bathrooms often benefit from roll-in showers with seating, grab bars, and raised toilet seats. In kitchens, lowering countertops and creating pull-out shelving can improve accessibility. These changes aim to reduce physical strain and prevent falls.",
+        "@type": "Answer",
+        "description": "Common modifications for seniors with limited mobility include ramps, stairlifts, wider doorways, roll-in showers, grab bars, and accessible kitchen features to improve safety and ease of movement."
+      }
+    }
+  ],
+  "description": "Common modifications for seniors with limited mobility include ramps, stairlifts, wider doorways, roll-in showers, grab bars, and accessible kitchen features to"
+}

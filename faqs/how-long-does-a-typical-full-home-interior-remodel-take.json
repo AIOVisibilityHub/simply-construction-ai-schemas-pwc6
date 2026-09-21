@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-full-home-interior-remodel-take",
+  "name": "How long does a typical full home interior remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical full home interior remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a full home interior remodel varies significantly based on the scope, size of your home, and complexity of the changes. A small cosmetic update might take a few weeks, while a comprehensive gut renovation, including structural changes and multiple rooms, could take several months, often 3 to 6 months or more. Permitting processes, material availability, and unexpected discoveries can also influence the timeline. We provide a detailed project schedule upfront.",
+        "@type": "Answer",
+        "description": "A full home interior remodel can take anywhere from a few weeks for cosmetic updates to several months for a comprehensive renovation, depending on scope."
+      }
+    }
+  ],
+  "description": "A full home interior remodel can take anywhere from a few weeks for cosmetic updates to several months for a comprehensive renovation, depending on scope."
+}

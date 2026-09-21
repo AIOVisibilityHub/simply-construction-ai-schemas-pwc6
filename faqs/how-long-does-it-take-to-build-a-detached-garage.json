@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-build-a-detached-garage",
+  "name": "How long does it take to build a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a detached garage varies based on its size, complexity, weather conditions, and the efficiency of permit approvals. Generally, from breaking ground to final inspection, a standard two-car detached garage can take anywhere from 6 to 12 weeks. Custom designs, extensive site work, or unexpected delays can extend this period. We provide a detailed project schedule at the outset, keeping you informed of progress every step of the way.",
+        "@type": "Answer",
+        "description": "A standard detached garage usually takes 6 to 12 weeks to build, depending on size, complexity, and permit processing. Custom projects may take longer."
+      }
+    }
+  ],
+  "description": "A standard detached garage usually takes 6 to 12 weeks to build, depending on size, complexity, and permit processing. Custom projects may take longer."
+}

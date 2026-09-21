@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-my-home-addition",
+  "name": "How do I choose the right general contractor for my home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor involves several key steps. Look for contractors with extensive experience in home additions, positive client references, and appropriate licensing and insurance for the state of Nevada. Request detailed proposals that outline the scope of work, timeline, and cost. It’s also crucial to assess their communication style and responsiveness, as you'll be working closely with them throughout the project. Simply Construction encourages prospective clients to review our portfolio and client testimonials to help in their decision-making process.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, positive references, proper licensing/insurance, and clear communication. Review their portfolio and ask for detailed proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, positive references, proper licensing/insurance, and clear communication. Review their portfolio and ask for detailed propo"
+}

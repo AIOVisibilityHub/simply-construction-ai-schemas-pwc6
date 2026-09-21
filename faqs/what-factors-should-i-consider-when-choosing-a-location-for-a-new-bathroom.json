@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-location-for-a-new-bathroom",
+  "name": "What factors should I consider when choosing a location for a new bathroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a location for a new bathroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a location for a new bathroom, consider proximity to existing plumbing lines to minimize costs and complexity. Structural feasibility, such as available space within your home's footprint or the possibility of an exterior expansion, is also critical. Think about privacy, natural light, and ventilation. Additionally, evaluate how the new bathroom will integrate with your home's layout and traffic flow. Our team can help assess the best placement options during a consultation.",
+        "@type": "Answer",
+        "description": "Consider proximity to plumbing, structural feasibility, privacy, light, and how it impacts your home's layout when choosing a new bathroom location."
+      }
+    }
+  ],
+  "description": "Consider proximity to plumbing, structural feasibility, privacy, light, and how it impacts your home's layout when choosing a new bathroom location."
+}

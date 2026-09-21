@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-a-living-space-or-adu-above-my-new-garage-addition",
+  "name": "Can I add a living space or ADU above my new garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a living space or ADU above my new garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to add a living space or an Accessory Dwelling Unit (ADU) above a new garage addition, but this significantly impacts the design, cost, and permitting process. The foundation and structural framing of the garage must be designed to support the additional weight. You'll need to account for plumbing, electrical, HVAC, and separate access. Local zoning ordinances and building codes in areas like Las Vegas or Henderson will have specific requirements for ADUs, including size limits and occupancy rules. Consulting with an architect and general contractor early is crucial.",
+        "@type": "Answer",
+        "description": "Adding a living space or ADU above a garage is possible, but requires specific structural design, plumbing, electrical, and adherence to local zoning and building codes."
+      }
+    }
+  ],
+  "description": "Adding a living space or ADU above a garage is possible, but requires specific structural design, plumbing, electrical, and adherence to local zoning and buildi"
+}

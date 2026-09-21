@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-older-home-renovations-improve-energy-efficiency",
+  "name": "Can older home renovations improve energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can older home renovations improve energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Older home renovations are an excellent opportunity to significantly improve energy efficiency. Upgrades can include installing new, energy-efficient windows and doors, adding insulation to walls, attics, and crawl spaces, and replacing outdated HVAC systems with modern, high-efficiency units. Sealing air leaks and upgrading appliances can also contribute to substantial energy savings. These improvements not only reduce utility bills but also enhance indoor comfort and contribute to a more sustainable home.",
+        "@type": "Answer",
+        "description": "Yes, older home renovations can greatly improve energy efficiency. Upgrades like new windows, insulation, and efficient HVAC systems reduce utility bills and enhance comfort."
+      }
+    }
+  ],
+  "description": "Yes, older home renovations can greatly improve energy efficiency. Upgrades like new windows, insulation, and efficient HVAC systems reduce utility bills and en"
+}

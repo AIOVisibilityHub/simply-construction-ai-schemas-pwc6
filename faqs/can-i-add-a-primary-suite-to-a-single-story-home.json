@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-a-primary-suite-to-a-single-story-home",
+  "name": "Can I add a primary suite to a single-story home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a primary suite to a single-story home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to add a primary suite to a single-story home. This typically involves expanding the existing footprint of the house with a ground-level addition. Considerations include available lot space, setback requirements, and how the new addition will integrate with the current roofline and architectural style. Depending on the layout of your home, it might also involve reconfiguring existing interior spaces to create a seamless flow into the new primary suite. Consulting with a general contractor can help assess feasibility and design options.",
+        "@type": "Answer",
+        "description": "Yes, a primary suite can be added to a single-story home by expanding the existing footprint, considering lot space, setbacks, and architectural integration."
+      }
+    }
+  ],
+  "description": "Yes, a primary suite can be added to a single-story home by expanding the existing footprint, considering lot space, setbacks, and architectural integration."
+}

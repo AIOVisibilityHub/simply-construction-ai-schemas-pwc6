@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-room-addition",
+  "name": "How do I choose the right contractor for my room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful room addition. Look for licensed, insured, and experienced general contractors specializing in additions. Check their portfolio for similar projects, read client testimonials, and verify their local reputation. Ask for a detailed proposal, clearly outlining the scope of work, timeline, and payment schedule. Communication and transparency are key throughout the selection process.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured, and experienced contractor with a strong portfolio and positive client reviews. Ensure they provide a detailed proposal and maintain clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured, and experienced contractor with a strong portfolio and positive client reviews. Ensure they provide a detailed proposal and maintain"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-general-contractor-and-a-specialized-remodeler",
+  "name": "What is the difference between a general contractor and a specialized remodeler?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a specialized remodeler?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A general contractor, like Simply Construction, manages the entire remodeling project, overseeing all trades, scheduling, budgeting, and ensuring code compliance. They handle projects of varying complexity, from individual room updates to whole-home renovations. A specialized remodeler focuses on one specific area, such as kitchens, bathrooms, or flooring, offering deep expertise in that niche. For multi-room or complex projects, a general contractor provides comprehensive oversight and streamlined communication.",
+        "@type": "Answer",
+        "description": "A general contractor manages the entire project with multiple trades, while a specialized remodeler focuses on a single area."
+      }
+    }
+  ],
+  "description": "A general contractor manages the entire project with multiple trades, while a specialized remodeler focuses on a single area."
+}

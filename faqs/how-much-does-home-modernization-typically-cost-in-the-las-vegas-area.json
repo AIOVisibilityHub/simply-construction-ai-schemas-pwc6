@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-home-modernization-typically-cost-in-the-las-vegas-area",
+  "name": "How much does home modernization typically cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does home modernization typically cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of home modernization in Las Vegas varies widely depending on the scope of work, materials chosen, and the size of the project. Minor updates like painting or new fixtures might cost a few thousand dollars, while a complete kitchen or bathroom renovation can range from $20,000 to over $75,000. Whole-home remodels or significant additions will be considerably more. It's best to discuss your specific project with a contractor like Simply Construction for a detailed, no-obligation estimate tailored to your needs and local market conditions.",
+        "@type": "Answer",
+        "description": "Costs for home modernization in Las Vegas vary significantly by project scope and materials. Minor updates are less, while major renovations can be tens of thousands. A detailed estimate is recommended."
+      }
+    }
+  ],
+  "description": "Costs for home modernization in Las Vegas vary significantly by project scope and materials. Minor updates are less, while major renovations can be tens of thou"
+}

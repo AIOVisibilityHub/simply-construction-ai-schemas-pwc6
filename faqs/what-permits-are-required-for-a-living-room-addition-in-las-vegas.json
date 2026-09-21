@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-living-room-addition-in-las-vegas",
+  "name": "What permits are required for a living room addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a living room addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, a living room addition requires various permits to ensure the project meets local building codes and safety standards. These typically include a general building permit, and potentially separate permits for electrical, plumbing, and mechanical work if new systems are being installed or existing ones extended. The specific permits needed depend on the scope of work and local ordinances of Clark County or the specific city (Las Vegas, Henderson, etc.). A qualified contractor will manage the permit application process.",
+        "@type": "Answer",
+        "description": "Living room additions in Las Vegas require a general building permit and potentially separate permits for electrical, plumbing, and mechanical work, based on project scope."
+      }
+    }
+  ],
+  "description": "Living room additions in Las Vegas require a general building permit and potentially separate permits for electrical, plumbing, and mechanical work, based on pr"
+}

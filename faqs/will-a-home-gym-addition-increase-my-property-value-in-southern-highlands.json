@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-home-gym-addition-increase-my-property-value-in-southern-highlands",
+  "name": "Will a home gym addition increase my property value in Southern Highlands?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a home gym addition increase my property value in Southern Highlands?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and executed home gym addition can positively impact your property value, especially in communities like Southern Highlands where luxury amenities are often sought after. It adds functional living space and a desirable feature that appeals to a broad range of potential buyers. The extent of value increase depends on the quality of the addition, how well it integrates with the existing home, and local market conditions.",
+        "@type": "Answer",
+        "description": "A quality home gym addition can increase property value in Southern Highlands by adding a desirable, functional living space."
+      }
+    }
+  ],
+  "description": "A quality home gym addition can increase property value in Southern Highlands by adding a desirable, functional living space."
+}

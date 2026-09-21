@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-fixer-upper-renovation",
+  "name": "What is a fixer-upper renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a fixer-upper renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A fixer-upper renovation involves purchasing a property that requires significant repairs or updates with the intention of improving its condition and value. This can range from cosmetic changes like painting and new flooring to major structural work, kitchen and bathroom remodels, or adding square footage. The goal is often to customize the home to personal taste, increase its market value, or make it more functional and energy-efficient.",
+        "@type": "Answer",
+        "description": "A fixer-upper renovation involves buying and improving a property that needs significant repairs or updates to enhance its value and condition."
+      }
+    }
+  ],
+  "description": "A fixer-upper renovation involves buying and improving a property that needs significant repairs or updates to enhance its value and condition."
+}

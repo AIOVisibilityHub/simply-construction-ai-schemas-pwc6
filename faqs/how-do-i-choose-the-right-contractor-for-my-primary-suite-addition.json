@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-primary-suite-addition",
+  "name": "How do I choose the right contractor for my primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your primary suite addition, look for experience with similar projects, valid licensing, and comprehensive insurance. Request references from previous clients and review their portfolio to assess the quality of their work. A reliable contractor will provide a detailed proposal, a clear contract, and transparent communication throughout the process. Ensure they understand your vision, offer design input, and can manage the project efficiently to meet your expectations and budget.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in primary suite additions, valid licenses, insurance, strong references, and clear communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in primary suite additions, valid licenses, insurance, strong references, and clear communication."
+}

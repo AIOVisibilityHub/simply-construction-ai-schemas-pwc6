@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-an-interior-remodel",
+  "name": "Can I live in my home during an interior remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during an interior remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during an interior remodel depends largely on the scope of the project. If the remodel involves essential spaces like the kitchen or all bathrooms, or creates significant dust and noise across the entire home, it might be more comfortable and safer to temporarily relocate. For smaller, isolated projects, living at home may be feasible with proper containment and clear communication with your contractor about daily routines and access. We work to minimize disruption.",
+        "@type": "Answer",
+        "description": "Living in your home during a remodel depends on the project's scope; it might be difficult for extensive work affecting essential spaces."
+      }
+    }
+  ],
+  "description": "Living in your home during a remodel depends on the project's scope; it might be difficult for extensive work affecting essential spaces."
+}

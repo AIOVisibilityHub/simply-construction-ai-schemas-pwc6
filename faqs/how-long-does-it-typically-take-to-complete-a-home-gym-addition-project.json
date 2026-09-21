@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-complete-a-home-gym-addition-project",
+  "name": "How long does it typically take to complete a home gym addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a home gym addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home gym addition depends on the project's scope and complexity. A straightforward room conversion might take 4-8 weeks, while a new structural addition, including foundation work, framing, and new utility connections, could range from 3 to 6 months or more. Permitting processes, material lead times, and the design phase also influence the overall schedule. We provide a detailed project timeline after finalizing the design and scope.",
+        "@type": "Answer",
+        "description": "Completion time varies from 4-8 weeks for simple conversions to 3-6 months for new structural additions, influenced by project scope and permits."
+      }
+    }
+  ],
+  "description": "Completion time varies from 4-8 weeks for simple conversions to 3-6 months for new structural additions, influenced by project scope and permits."
+}

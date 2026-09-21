@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-constructing-an-in-law-suite-addition",
+  "name": "What is the typical timeline for constructing an in-law suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing an in-law suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for constructing an in-law suite addition can vary based on project scope, permit acquisition, and material availability. On average, the entire process, from initial design to final inspection, can take anywhere from 4 to 12 months. Design and planning typically take 1-2 months, followed by permit approval which can be 1-3 months. Construction itself usually lasts 2-6 months. Factors like weather delays, change orders, or complex site conditions can extend this duration. We work to provide a clear project schedule and keep you informed throughout every stage.",
+        "@type": "Answer",
+        "description": "Construction of an in-law suite typically takes 4 to 12 months, including design, permitting, and construction phases, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Construction of an in-law suite typically takes 4 to 12 months, including design, permitting, and construction phases, depending on project complexity."
+}

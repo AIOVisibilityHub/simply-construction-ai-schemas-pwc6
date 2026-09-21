@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-start-the-process-of-renovating-my-older-home-with-your-company",
+  "name": "How do I start the process of renovating my older home with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start the process of renovating my older home with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting your older home renovation with us is straightforward. First, contact us to schedule an initial consultation. During this meeting, we'll discuss your vision, goals, and budget for the project. We'll then conduct a thorough assessment of your home to identify its unique characteristics and potential challenges. Based on this, we'll develop a detailed proposal, including a scope of work, timeline, and cost estimate. Once approved, we'll manage all aspects, from permitting to construction, ensuring a smooth and successful renovation.",
+        "@type": "Answer",
+        "description": "Start by contacting us for an initial consultation to discuss your vision and budget. We'll assess your home, create a detailed proposal, and manage the entire renovation process."
+      }
+    }
+  ],
+  "description": "Start by contacting us for an initial consultation to discuss your vision and budget. We'll assess your home, create a detailed proposal, and manage the entire"
+}

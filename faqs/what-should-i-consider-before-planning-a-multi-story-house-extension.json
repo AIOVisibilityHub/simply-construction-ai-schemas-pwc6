@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-consider-before-planning-a-multi-story-house-extension",
+  "name": "What should I consider before planning a multi-story house extension?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before planning a multi-story house extension?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before planning a multi-story house extension, consider your existing foundation's capacity to support additional weight, which may require structural upgrades. Evaluate how the new story will integrate with the current layout and roofline to maintain architectural harmony. Staircase placement, access, and potential impact on yard space are also critical. Local zoning height restrictions and setback requirements are important factors to review early in the planning process.",
+        "@type": "Answer",
+        "description": "Before a multi-story extension, consider foundation capacity, architectural integration, staircase placement, and local zoning height restrictions."
+      }
+    }
+  ],
+  "description": "Before a multi-story extension, consider foundation capacity, architectural integration, staircase placement, and local zoning height restrictions."
+}

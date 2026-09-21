@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-renovate-an-older-home-in-the-las-vegas-area",
+  "name": "How much does it cost to renovate an older home in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to renovate an older home in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of renovating an older home in the Las Vegas area varies significantly based on the project's scope, the age of the home, and materials chosen. Minor updates might range from $25,000 to $75,000, while a major overhaul, including structural work or additions, could exceed $150,000. Factors like unexpected discoveries (e.g., outdated electrical, plumbing) also impact the final cost. We provide detailed estimates after an initial consultation and assessment of your home.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on scope and home age. Minor updates can be $25K-$75K, while major renovations might exceed $150K. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on scope and home age. Minor updates can be $25K-$75K, while major renovations might exceed $150K. We provide detailed estimates."
+}

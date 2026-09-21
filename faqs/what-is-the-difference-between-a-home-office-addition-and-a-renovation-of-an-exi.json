@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-home-office-addition-and-a-renovation-of-an-exi",
+  "name": "What is the difference between a home office addition and a renovation of an existing space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a home office addition and a renovation of an existing space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home office addition involves constructing an entirely new structure or expanding your home's footprint to create the office space. This typically includes foundation work, new walls, roofing, and utilities. A renovation, on the other hand, involves transforming an existing room within your current home into a home office. While both create a dedicated workspace, an addition provides more flexibility in terms of size and location, whereas a renovation is limited by the existing structure.",
+        "@type": "Answer",
+        "description": "An addition builds new space from scratch, while a renovation converts an existing room. Additions offer more design flexibility."
+      }
+    }
+  ],
+  "description": "An addition builds new space from scratch, while a renovation converts an existing room. Additions offer more design flexibility."
+}

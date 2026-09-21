@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-a-major-fixer-upper-renovation",
+  "name": "Can I live in my home during a major fixer-upper renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a major fixer-upper renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a major fixer-upper renovation is generally not recommended, especially if the project involves extensive demolition, structural changes, or significant disruptions to essential services like water or electricity. It can be noisy, dusty, uncomfortable, and potentially unsafe. For smaller, more localized renovations (e.g., one bathroom remodel), it might be manageable with proper planning to minimize inconvenience and ensure safety. We can discuss your specific situation and advise on feasibility.",
+        "@type": "Answer",
+        "description": "Living in your home during a major renovation is generally not recommended due to safety, noise, and disruption. For minor projects, it might be manageable."
+      }
+    }
+  ],
+  "description": "Living in your home during a major renovation is generally not recommended due to safety, noise, and disruption. For minor projects, it might be manageable."
+}

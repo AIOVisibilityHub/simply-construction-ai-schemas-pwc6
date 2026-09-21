@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-start-planning-for-aging-in-place-renovations",
+  "name": "When should I start planning for aging-in-place renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning for aging-in-place renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's best to start planning for aging-in-place renovations proactively, ideally before significant mobility challenges arise. Considering future needs while still active allows for thoughtful design and less hurried decisions. Many homeowners integrate these changes during a planned remodel, making the upgrades more seamless. Early planning can prevent urgent, reactive renovations when a sudden health change necessitates immediate modifications.",
+        "@type": "Answer",
+        "description": "Begin planning for aging-in-place renovations proactively, before urgent needs arise. Integrating these changes into a planned remodel can be a good strategy."
+      }
+    }
+  ],
+  "description": "Begin planning for aging-in-place renovations proactively, before urgent needs arise. Integrating these changes into a planned remodel can be a good strategy."
+}

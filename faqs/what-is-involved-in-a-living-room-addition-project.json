@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-living-room-addition-project",
+  "name": "What is involved in a living room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a living room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A living room addition typically involves extending your home's footprint to create more living space. This process includes initial design and planning, obtaining necessary permits, foundation work, framing, roofing, exterior finishing to match your existing home, and interior work such as electrical, plumbing (if applicable), insulation, drywall, flooring, and painting. It's a comprehensive project that integrates new construction with your current structure, aiming for a seamless aesthetic and functional expansion.",
+        "@type": "Answer",
+        "description": "A living room addition involves design, permits, foundation, framing, exterior, and interior finishing to extend your home's living space."
+      }
+    }
+  ],
+  "description": "A living room addition involves design, permits, foundation, framing, exterior, and interior finishing to extend your home's living space."
+}

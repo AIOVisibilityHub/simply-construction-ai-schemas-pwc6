@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-most-common-aging-in-place-modifications",
+  "name": "What are the most common aging-in-place modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the most common aging-in-place modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common aging-in-place modifications focus on safety and accessibility. These often include installing grab bars in showers and near toilets, creating curbless showers, raising toilet heights, and adding non-slip flooring. Other popular changes are widening doorways, improving lighting, installing lever-style door handles, and replacing stairs with ramps or stair lifts. Kitchen modifications might involve lower countertops or pull-out shelves for easier access.",
+        "@type": "Answer",
+        "description": "Common modifications include grab bars, curbless showers, wider doorways, improved lighting, and non-slip flooring, all designed for safety and accessibility."
+      }
+    }
+  ],
+  "description": "Common modifications include grab bars, curbless showers, wider doorways, improved lighting, and non-slip flooring, all designed for safety and accessibility."
+}

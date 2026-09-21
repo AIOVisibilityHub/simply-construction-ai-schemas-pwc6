@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-trends-for-modern-bathroom-additions",
+  "name": "What are common design trends for modern bathroom additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design trends for modern bathroom additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current design trends for modern bathroom additions emphasize clean lines, natural materials, and smart technology. Popular elements include floating vanities, large format tiles, curbless showers, and freestanding tubs. Integrated lighting, smart mirrors with defogging features, and touchless faucets are also frequently incorporated. Many designs focus on creating a spa-like atmosphere with neutral color palettes and ample storage solutions for a clutter-free space.",
+        "@type": "Answer",
+        "description": "Modern bathroom additions feature clean lines, natural materials, smart technology, floating vanities, curbless showers, and a spa-like feel."
+      }
+    }
+  ],
+  "description": "Modern bathroom additions feature clean lines, natural materials, smart technology, floating vanities, curbless showers, and a spa-like feel."
+}

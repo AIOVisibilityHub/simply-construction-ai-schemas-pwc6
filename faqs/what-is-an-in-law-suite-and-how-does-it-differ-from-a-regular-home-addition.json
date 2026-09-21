@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-an-in-law-suite-and-how-does-it-differ-from-a-regular-home-addition",
+  "name": "What is an in-law suite and how does it differ from a regular home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an in-law suite and how does it differ from a regular home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite, also known as a granny flat or accessory dwelling unit (ADU), is a self-contained living space within or attached to a primary residence, or a detached structure on the same property. It typically includes a bedroom, bathroom, and often a small kitchen or kitchenette. The key difference from a regular home addition is its independence, designed for separate living while still being close to the main household. This setup provides privacy for occupants while maintaining family proximity. It can be used for aging parents, adult children, or even as a rental unit, depending on local regulations and homeowner needs.",
+        "@type": "Answer",
+        "description": "An in-law suite is a self-contained living space, either attached to or detached from the main home, providing independent living quarters with a bedroom, bathroom, and often a kitchen."
+      }
+    }
+  ],
+  "description": "An in-law suite is a self-contained living space, either attached to or detached from the main home, providing independent living quarters with a bedroom, bathr"
+}

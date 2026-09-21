@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-contractor-for-a-second-story-addition",
+  "name": "How do I choose a contractor for a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for a second-story addition, look for experience with similar projects, proper licensing and insurance, and strong references. Verify their portfolio and ask for a detailed proposal that outlines the scope of work, timeline, and cost. It's also important to feel comfortable with their communication style and to ensure they understand your vision. A reliable contractor will guide you through the entire complex process.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, licensing, insurance, references, and a detailed proposal for your second-story addition."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, licensing, insurance, references, and a detailed proposal for your second-story addition."
+}

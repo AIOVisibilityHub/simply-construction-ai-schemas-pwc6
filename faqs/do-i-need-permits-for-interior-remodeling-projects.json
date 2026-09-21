@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-interior-remodeling-projects",
+  "name": "Do I need permits for interior remodeling projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for interior remodeling projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many interior remodeling projects in Las Vegas require permits, especially if they involve structural changes, plumbing modifications, electrical work, or altering the footprint of a room. Non-structural cosmetic updates like painting or flooring typically do not require permits. Obtaining proper permits ensures your project complies with local building codes and safety standards, protecting your investment and ensuring insurance coverage. Your contractor can guide you through the permitting process.",
+        "@type": "Answer",
+        "description": "Permits are often required for interior remodeling projects involving structural, plumbing, or electrical changes in Las Vegas to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Permits are often required for interior remodeling projects involving structural, plumbing, or electrical changes in Las Vegas to ensure code compliance."
+}

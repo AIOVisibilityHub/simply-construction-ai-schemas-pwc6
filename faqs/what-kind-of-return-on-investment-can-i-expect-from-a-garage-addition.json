@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-return-on-investment-can-i-expect-from-a-garage-addition",
+  "name": "What kind of return on investment can I expect from a garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of return on investment can I expect from a garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a garage can significantly enhance your property's value and curb appeal, offering a strong return on investment. While the exact ROI varies based on location, materials, and the quality of the build, homeowners often recoup a substantial portion of their investment, sometimes ranging from 60% to over 80%. Beyond monetary value, a garage provides essential storage, parking protection, and potential for additional functional space, which are highly desirable features for potential buyers.",
+        "@type": "Answer",
+        "description": "A garage addition offers a strong return on investment, often recouping 60-80% or more of its cost. It also adds value through storage, protection, and functionality."
+      }
+    }
+  ],
+  "description": "A garage addition offers a strong return on investment, often recouping 60-80% or more of its cost. It also adds value through storage, protection, and function"
+}

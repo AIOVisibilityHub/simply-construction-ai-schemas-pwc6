@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-do-i-need-for-a-detached-garage-construction-in-las-vegas",
+  "name": "What permits do I need for a detached garage construction in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a detached garage construction in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, constructing a detached garage typically requires several permits, including a building permit, electrical permit, and potentially plumbing or mechanical permits depending on the garage's features. These are regulated by the City of Las Vegas Building Department or Clark County Department of Building and Fire Prevention, based on your specific location. Our team assists clients with identifying and securing all necessary permits to ensure your project complies with local zoning laws and building codes.",
+        "@type": "Answer",
+        "description": "You will need building, electrical, and potentially plumbing/mechanical permits for a detached garage in Las Vegas, issued by the relevant city or county building department."
+      }
+    }
+  ],
+  "description": "You will need building, electrical, and potentially plumbing/mechanical permits for a detached garage in Las Vegas, issued by the relevant city or county buildi"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-designing-a-detached-garage",
+  "name": "What factors should I consider when designing a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when designing a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a detached garage, consider its primary function: storage, workshop, studio, or vehicle parking. Think about size requirements, desired ceiling height, and door dimensions. Material choices should complement your existing home's aesthetics and local climate. Plan for electrical outlets, lighting, and potential plumbing needs. Also, factor in accessibility, such as driveway placement and pedestrian access. Local zoning regulations will dictate setbacks and maximum height, so these must be incorporated early in the design process.",
+        "@type": "Answer",
+        "description": "Consider the garage's function, size, materials, electrical/plumbing needs, accessibility, and local zoning regulations when designing a detached garage."
+      }
+    }
+  ],
+  "description": "Consider the garage's function, size, materials, electrical/plumbing needs, accessibility, and local zoning regulations when designing a detached garage."
+}

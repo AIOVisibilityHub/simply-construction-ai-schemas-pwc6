@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-architectural-plans-for-a-primary-suite-addition",
+  "name": "Do I need architectural plans for a primary suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need architectural plans for a primary suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, architectural plans are essential for a primary suite addition. These plans provide the detailed drawings and specifications required for construction, ensuring structural integrity, compliance with building codes, and proper integration with your existing home. They are also a mandatory component for obtaining necessary permits from your local municipality. Professional architectural plans help define the scope of work, guide tradespeople, and minimize potential issues during construction, contributing to a smoother project execution.",
+        "@type": "Answer",
+        "description": "Yes, architectural plans are essential for a primary suite addition to ensure structural integrity, meet building codes, and obtain necessary permits."
+      }
+    }
+  ],
+  "description": "Yes, architectural plans are essential for a primary suite addition to ensure structural integrity, meet building codes, and obtain necessary permits."
+}

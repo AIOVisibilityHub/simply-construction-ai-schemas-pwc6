@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-bathroom-addition-in-the-las-vegas-area",
+  "name": "What is the typical cost range for a bathroom addition in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a bathroom addition in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a bathroom addition in the Las Vegas area can vary significantly based on factors like size, fixture choices, and complexity. A basic half-bath addition might start around $15,000 to $25,000, while a full master bathroom with high-end finishes could range from $40,000 to $70,000 or more. These estimates include labor, materials, and necessary permits. A detailed on-site consultation provides the most accurate quote tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "Bathroom addition costs in Las Vegas typically range from $15,000 for a half-bath to over $70,000 for a luxury master bath, depending on size and finishes."
+      }
+    }
+  ],
+  "description": "Bathroom addition costs in Las Vegas typically range from $15,000 for a half-bath to over $70,000 for a luxury master bath, depending on size and finishes."
+}

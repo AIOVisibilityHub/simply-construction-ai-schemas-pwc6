@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-does-a-whole-home-remodel-typically-include",
+  "name": "What does a whole-home remodel typically include?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a whole-home remodel typically include?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home remodel involves updating multiple areas of your house, often including kitchens, bathrooms, living spaces, and bedrooms. It can encompass structural changes, reconfiguring layouts, updating plumbing and electrical systems, and replacing finishes like flooring, cabinetry, and countertops. The scope is tailored to your home's needs and your vision, aiming to create a cohesive and functional living environment throughout the entire property.",
+        "@type": "Answer",
+        "description": "A whole-home remodel typically includes updating kitchens, bathrooms, living areas, and bedrooms, often involving structural changes, layout reconfigurations, and new finishes."
+      }
+    }
+  ],
+  "description": "A whole-home remodel typically includes updating kitchens, bathrooms, living areas, and bedrooms, often involving structural changes, layout reconfigurations, a"
+}

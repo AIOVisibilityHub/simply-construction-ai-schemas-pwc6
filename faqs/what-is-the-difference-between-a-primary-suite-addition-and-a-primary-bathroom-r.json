@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-primary-suite-addition-and-a-primary-bathroom-r",
+  "name": "What is the difference between a primary suite addition and a primary bathroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a primary suite addition and a primary bathroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A primary suite addition involves building new square footage onto your home to create an entirely new primary bedroom and bathroom space, along with potentially other amenities like a walk-in closet. This expands the home's footprint and total living area. In contrast, a primary bathroom remodel focuses on renovating and updating an existing bathroom within the current footprint of your home. While a remodel can significantly upgrade the look and functionality of a bathroom, it does not add new space or increase the overall square footage of the house.",
+        "@type": "Answer",
+        "description": "A primary suite addition builds new space, expanding the home's footprint, while a primary bathroom remodel updates an existing bathroom within its current space."
+      }
+    }
+  ],
+  "description": "A primary suite addition builds new space, expanding the home's footprint, while a primary bathroom remodel updates an existing bathroom within its current spac"
+}

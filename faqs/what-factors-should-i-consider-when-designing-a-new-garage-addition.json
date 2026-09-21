@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-designing-a-new-garage-addition",
+  "name": "What factors should I consider when designing a new garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when designing a new garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a new garage addition, consider its primary use – parking, storage, workshop, or a combination. Factor in the number and size of vehicles, required storage space, and potential future needs. Think about aesthetic integration with your existing home, material choices, and features like windows, doors, insulation, and electrical outlets. Also, consider local zoning regulations, setbacks, and how the addition will impact yard space and natural light. A well-planned design ensures functionality and enhances property value.",
+        "@type": "Answer",
+        "description": "When designing a garage, consider its primary use, vehicle size, storage needs, aesthetic integration, materials, and local regulations. Planning ensures functionality."
+      }
+    }
+  ],
+  "description": "When designing a garage, consider its primary use, vehicle size, storage needs, aesthetic integration, materials, and local regulations. Planning ensures functi"
+}

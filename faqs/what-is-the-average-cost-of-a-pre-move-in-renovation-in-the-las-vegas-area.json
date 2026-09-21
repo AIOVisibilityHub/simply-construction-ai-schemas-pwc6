@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-pre-move-in-renovation-in-the-las-vegas-area",
+  "name": "What is the average cost of a pre-move-in renovation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a pre-move-in renovation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a pre-move-in renovation in Las Vegas depends entirely on the project's scale, material choices, and labor involved. Cosmetic updates like painting and new fixtures could range from a few thousand dollars, while a complete kitchen or master bathroom remodel can cost upwards of $20,000 to $50,000 or more. Factors like custom cabinetry, high-end finishes, and structural changes significantly impact the budget. We provide detailed, transparent quotes based on your specific plans and selections during our consultation.",
+        "@type": "Answer",
+        "description": "Costs vary widely in Las Vegas, from a few thousand for cosmetic updates to $20,000-$50,000+ for major kitchen or bath remodels. The final price depends on project scope and material choices."
+      }
+    }
+  ],
+  "description": "Costs vary widely in Las Vegas, from a few thousand for cosmetic updates to $20,000-$50,000+ for major kitchen or bath remodels. The final price depends on proj"
+}

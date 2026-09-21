@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-completing-a-room-addition-project",
+  "name": "What is the typical timeline for completing a room addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for completing a room addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a room addition project can range from a few months to over half a year, depending on its scope and complexity. A small, straightforward addition might take 3-5 months, including design, permitting, and construction. Larger or more complex projects, such as a second-story addition or extensive structural changes, could take 6-12 months or more. We'll provide a more precise project schedule after finalizing the design and obtaining all necessary permits.",
+        "@type": "Answer",
+        "description": "Room addition timelines range from 3-5 months for small projects to 6-12 months or more for larger ones, including design, permitting, and construction."
+      }
+    }
+  ],
+  "description": "Room addition timelines range from 3-5 months for small projects to 6-12 months or more for larger ones, including design, permitting, and construction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-per-square-foot-for-a-house-extension-in-the-las-vegas",
+  "name": "What is the average cost per square foot for a house extension in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for a house extension in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per square foot for a house extension in the Las Vegas area can vary significantly, usually ranging from $200 to $400 or more. This range depends on factors like the complexity of the design, the quality of materials selected, the type of room being added (e.g., kitchen additions are generally more expensive due to plumbing and appliances), and any necessary site preparation. A detailed estimate requires a thorough assessment of your specific project.",
+        "@type": "Answer",
+        "description": "Average cost per square foot for a house extension in Las Vegas ranges from $200-$400+, depending on design complexity, material quality, and room type."
+      }
+    }
+  ],
+  "description": "Average cost per square foot for a house extension in Las Vegas ranges from $200-$400+, depending on design complexity, material quality, and room type."
+}

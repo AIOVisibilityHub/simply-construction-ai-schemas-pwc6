@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-typically-required-for-a-whole-home-renovation-in-las-vegas",
+  "name": "What permits are typically required for a whole-home renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically required for a whole-home renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a whole-home renovation in Las Vegas, permits are almost always required, especially for projects involving structural changes, alterations to plumbing or electrical systems, or significant expansions. Common permits include building permits, electrical permits, plumbing permits, and mechanical permits. The specific requirements depend on the scope of work and local municipal codes. As your general contractor, we manage the entire permitting process, ensuring all necessary approvals are obtained from the City of Las Vegas, Clark County, or other relevant jurisdictions before construction begins.",
+        "@type": "Answer",
+        "description": "Whole-home renovations in Las Vegas typically require permits for structural, electrical, plumbing, and mechanical changes. We handle the entire permitting process to ensure compliance with local codes."
+      }
+    }
+  ],
+  "description": "Whole-home renovations in Las Vegas typically require permits for structural, electrical, plumbing, and mechanical changes. We handle the entire permitting proc"
+}

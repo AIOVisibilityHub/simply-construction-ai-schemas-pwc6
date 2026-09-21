@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-custom-home-remodel-take",
+  "name": "How long does a typical custom home remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical custom home remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a custom home remodel varies significantly based on the project's scope and complexity. Small projects, like a bathroom update, might take a few weeks. Larger projects, such as a whole-house renovation or a significant addition, could take several months, or even over a year. Factors like design finalization, material lead times, permitting processes in areas like Las Vegas, and unexpected issues can all influence the timeline. A detailed project schedule will be provided after initial planning.",
+        "@type": "Answer",
+        "description": "Remodel duration varies by scope; small projects take weeks, larger ones several months or more. Factors like design, materials, and permitting affect the timeline."
+      }
+    }
+  ],
+  "description": "Remodel duration varies by scope; small projects take weeks, larger ones several months or more. Factors like design, materials, and permitting affect the timel"
+}

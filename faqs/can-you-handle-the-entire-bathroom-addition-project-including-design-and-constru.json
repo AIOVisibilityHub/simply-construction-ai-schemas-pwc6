@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-handle-the-entire-bathroom-addition-project-including-design-and-constru",
+  "name": "Can you handle the entire bathroom addition project, including design and construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle the entire bathroom addition project, including design and construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Simply Construction offers comprehensive design-build services for bathroom additions. This means we manage the entire project from initial concept and architectural planning to material selection, permitting, construction, and final finishing touches. Our integrated approach ensures a seamless process, consistent communication, and a cohesive vision from start to finish. You work with a single point of contact, streamlining coordination and ensuring efficiency throughout your project.",
+        "@type": "Answer",
+        "description": "Yes, we provide full design-build services for bathroom additions, managing everything from initial design and permits to construction and finishing."
+      }
+    }
+  ],
+  "description": "Yes, we provide full design-build services for bathroom additions, managing everything from initial design and permits to construction and finishing."
+}

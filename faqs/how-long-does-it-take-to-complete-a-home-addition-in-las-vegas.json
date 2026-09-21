@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-complete-a-home-addition-in-las-vegas",
+  "name": "How long does it take to complete a home addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a home addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home addition project in Las Vegas varies significantly based on its size, complexity, and the current permitting backlog with local jurisdictions. A small room addition might take 3-5 months, while a multi-story addition could extend to 8-12 months or more. This timeframe includes design, permitting, and construction. Weather conditions in the Las Vegas area generally allow for consistent construction schedules, but unexpected delays can occur. We provide a detailed timeline after initial design and planning.",
+        "@type": "Answer",
+        "description": "Project duration varies by size and complexity, typically ranging from 3 to over 12 months. Permitting and project scope are key factors affecting timelines in the Las Vegas area."
+      }
+    }
+  ],
+  "description": "Project duration varies by size and complexity, typically ranging from 3 to over 12 months. Permitting and project scope are key factors affecting timelines in"
+}

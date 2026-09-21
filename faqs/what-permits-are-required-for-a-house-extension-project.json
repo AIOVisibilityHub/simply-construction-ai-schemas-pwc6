@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-house-extension-project",
+  "name": "What permits are required for a house extension project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a house extension project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "House extension projects typically require several permits, including building permits, electrical permits, plumbing permits, and mechanical permits. Depending on the scope of work, zoning permits or special use permits might also be necessary. These permits ensure that the construction complies with local safety standards, building codes, and zoning ordinances. Your general contractor should manage the permit application process and ensure all necessary approvals are obtained before construction begins.",
+        "@type": "Answer",
+        "description": "Most house extensions require building, electrical, plumbing, and mechanical permits, with zoning or special use permits potentially needed depending on the project scope."
+      }
+    }
+  ],
+  "description": "Most house extensions require building, electrical, plumbing, and mechanical permits, with zoning or special use permits potentially needed depending on the pro"
+}

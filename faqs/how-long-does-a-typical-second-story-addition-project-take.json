@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-second-story-addition-project-take",
+  "name": "How long does a typical second-story addition project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical second-story addition project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a second-story addition varies based on the project's size, complexity, and local permitting processes. Generally, from initial design to final construction, it can take anywhere from 6 to 12 months. This includes several weeks for design and architectural planning, permit approval which can take several more weeks, and then the actual construction phase. Weather conditions and material availability can also influence the schedule.",
+        "@type": "Answer",
+        "description": "A typical second-story addition project can take 6 to 12 months from design to completion, including permitting and construction."
+      }
+    }
+  ],
+  "description": "A typical second-story addition project can take 6 to 12 months from design to completion, including permitting and construction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-there-different-foundation-types-for-garage-additions",
+  "name": "Are there different foundation types for garage additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different foundation types for garage additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are several foundation types suitable for garage additions, with the choice depending on soil conditions, local building codes, and budget. A common option is a concrete slab-on-grade, which is cost-effective and suitable for stable ground. For areas with expansive soils or where a living space is planned above, a post-tension slab or a stem wall foundation might be necessary. In some cases, deeper pier-and-beam foundations are used. Your contractor will assess your site to recommend the most appropriate and compliant foundation system.",
+        "@type": "Answer",
+        "description": "Common garage foundation types include concrete slab-on-grade, post-tension slabs, or stem walls. The best choice depends on soil, codes, and project needs."
+      }
+    }
+  ],
+  "description": "Common garage foundation types include concrete slab-on-grade, post-tension slabs, or stem walls. The best choice depends on soil, codes, and project needs."
+}

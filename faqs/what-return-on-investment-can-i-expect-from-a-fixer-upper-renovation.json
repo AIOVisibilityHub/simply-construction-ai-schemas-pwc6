@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-return-on-investment-can-i-expect-from-a-fixer-upper-renovation",
+  "name": "What return on investment can I expect from a fixer-upper renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What return on investment can I expect from a fixer-upper renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The return on investment (ROI) from a fixer-upper renovation varies significantly based on the market, location, and the type of improvements made. In areas like Las Vegas, strategic renovations, especially to kitchens, bathrooms, and adding curb appeal, tend to yield strong returns. Energy-efficient upgrades can also enhance value. While specific ROIs are not guaranteed, well-executed renovations often recoup a substantial portion of their cost at resale, potentially increasing property value and buyer appeal. Consult with real estate professionals for market-specific insights.",
+        "@type": "Answer",
+        "description": "ROI from a fixer-upper renovation varies, but strategic improvements to kitchens, bathrooms, and curb appeal often yield strong returns and increase property value."
+      }
+    }
+  ],
+  "description": "ROI from a fixer-upper renovation varies, but strategic improvements to kitchens, bathrooms, and curb appeal often yield strong returns and increase property va"
+}

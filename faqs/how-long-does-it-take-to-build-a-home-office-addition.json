@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-build-a-home-office-addition",
+  "name": "How long does it take to build a home office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a home office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home office addition depends on its size, design complexity, and the local permitting process. Generally, after initial design and permit approval (which can take several weeks to a few months), construction itself might range from 2 to 4 months for a standard addition. Larger or more complex projects with extensive custom features could take longer. We provide a projected timeline during the planning phase and keep you informed of progress throughout the project, aiming for efficient completion.",
+        "@type": "Answer",
+        "description": "Timelines vary by size, design, and permitting, but construction typically takes 2-4 months after design and permit approval."
+      }
+    }
+  ],
+  "description": "Timelines vary by size, design, and permitting, but construction typically takes 2-4 months after design and permit approval."
+}

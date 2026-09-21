@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-common-issues-should-i-expect-when-renovating-an-older-home",
+  "name": "What common issues should I expect when renovating an older home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common issues should I expect when renovating an older home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating an older home often uncovers hidden issues such as outdated electrical wiring, plumbing systems, and HVAC. You might also encounter structural concerns, lead-based paint, asbestos, or uninsulated walls. These discoveries are normal and require a general contractor experienced in addressing historical building practices while adhering to current safety and building codes. Budgeting for contingencies is crucial to handle these unexpected challenges efficiently.",
+        "@type": "Answer",
+        "description": "Expect potential issues like outdated wiring, plumbing, HVAC, or structural concerns. An experienced contractor can navigate these common challenges."
+      }
+    }
+  ],
+  "description": "Expect potential issues like outdated wiring, plumbing, HVAC, or structural concerns. An experienced contractor can navigate these common challenges."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-start-planning-my-pre-move-in-renovation",
+  "name": "When should I start planning my pre-move-in renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning my pre-move-in renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to start planning your pre-move-in renovation as soon as you have a confirmed closing date or access to the property. Ideally, begin discussions with contractors and designers several weeks, or even a few months, before your anticipated move-in date. This allows ample time for design consultations, material selection, obtaining necessary permits from local authorities in areas like Henderson or Summerlin, and scheduling the contractor's team. Early planning helps ensure a smooth process and reduces potential delays.",
+        "@type": "Answer",
+        "description": "Start planning your pre-move-in renovation several weeks to a few months before your anticipated move-in date. This allows time for design, material selection, permits, and scheduling."
+      }
+    }
+  ],
+  "description": "Start planning your pre-move-in renovation several weeks to a few months before your anticipated move-in date. This allows time for design, material selection,"
+}

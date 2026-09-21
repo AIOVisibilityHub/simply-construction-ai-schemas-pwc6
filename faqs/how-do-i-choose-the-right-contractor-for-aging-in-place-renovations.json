@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-aging-in-place-renovations",
+  "name": "How do I choose the right contractor for aging-in-place renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for aging-in-place renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for aging-in-place renovations, look for experience in accessible design and a strong understanding of safety standards. Verify their licensing and insurance, and ask for references from previous clients who had similar work done. A reputable contractor will provide a clear, detailed estimate, demonstrate good communication, and be able to guide you through the process, including permit requirements specific to your area like Las Vegas.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience in accessible design, verify their license and insurance, check references, and ensure they provide clear estimates and good communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience in accessible design, verify their license and insurance, check references, and ensure they provide clear estimates and good"
+}

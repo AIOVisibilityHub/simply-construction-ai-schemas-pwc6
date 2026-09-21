@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-adding-a-second-story-versus-moving-to-a-larger-home",
+  "name": "What are the benefits of adding a second story versus moving to a larger home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a second story versus moving to a larger home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a second story allows you to gain significant living space while staying in your current neighborhood, avoiding relocation costs, new school districts, and the hassle of moving. It can also enhance your home's value and provide a custom layout tailored to your needs. Moving involves real estate fees, higher purchase prices, and potentially less favorable mortgage rates. A second story can be a more cost-effective way to achieve the space you need.",
+        "@type": "Answer",
+        "description": "Adding a second story provides more space without moving, avoids relocation costs, and allows for custom design, often enhancing home value."
+      }
+    }
+  ],
+  "description": "Adding a second story provides more space without moving, avoids relocation costs, and allows for custom design, often enhancing home value."
+}

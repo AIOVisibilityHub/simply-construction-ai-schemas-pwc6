@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-and-regulations-are-required-for-an-in-law-suite-in-las-vegas-north",
+  "name": "What permits and regulations are required for an in-law suite in Las Vegas, North Las Vegas, Henderson, or Paradise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for an in-law suite in Las Vegas, North Las Vegas, Henderson, or Paradise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building an in-law suite in the Las Vegas area, including North Las Vegas, Henderson, and Paradise, requires adherence to specific local zoning ordinances and building codes. This typically includes obtaining building permits, electrical permits, plumbing permits, and potentially special use permits for accessory dwelling units (ADUs). Regulations vary slightly between municipalities regarding size limits, setback requirements, parking, and utility connections. We guide you through the entire permitting process, ensuring your project complies with all local requirements for your specific location. Starting without proper permits can lead to significant delays and penalties.",
+        "@type": "Answer",
+        "description": "Permits for an in-law suite in the Las Vegas area, including North Las Vegas, Henderson, and Paradise, involve local zoning and building codes for permits like building, electrical, and plumbing."
+      }
+    }
+  ],
+  "description": "Permits for an in-law suite in the Las Vegas area, including North Las Vegas, Henderson, and Paradise, involve local zoning and building codes for permits like"
+}

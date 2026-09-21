@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-adding-a-living-room-versus-moving-to-a-larger-home",
+  "name": "When should I consider adding a living room versus moving to a larger home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adding a living room versus moving to a larger home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between an addition and moving depends on your needs and property. An addition is ideal if you love your current neighborhood, have sufficient lot space, and your existing home layout can integrate new space effectively. It can be more cost-effective than moving when considering real estate transaction costs, moving expenses, and potential higher property taxes. If your current home's layout is too restrictive, or you desire a complete change of environment, moving might be a better option.",
+        "@type": "Answer",
+        "description": "Consider an addition if you like your location and have space, as it can be more cost-effective than moving. Move if you need a major environment change or your current home is too restrictive."
+      }
+    }
+  ],
+  "description": "Consider an addition if you like your location and have space, as it can be more cost-effective than moving. Move if you need a major environment change or your"
+}

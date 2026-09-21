@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-family-room-addition-cost-in-las-vegas",
+  "name": "How much does a family room addition cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a family room addition cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a family room addition in Las Vegas varies widely based on size, materials, finishes, and specific features like built-in cabinetry or custom windows. Generally, prices can range from $40,000 for a basic addition to over $100,000 for a larger, more customized space. Factors such as site preparation, foundation work, roofing, electrical, plumbing, HVAC extensions, and interior finishes all contribute to the final price. We provide detailed estimates after an initial consultation to understand your project scope.",
+        "@type": "Answer",
+        "description": "Costs for a family room addition in Las Vegas typically range from $40,000 to over $100,000, depending on size, materials, and features."
+      }
+    }
+  ],
+  "description": "Costs for a family room addition in Las Vegas typically range from $40,000 to over $100,000, depending on size, materials, and features."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-house-extension-and-a-home-renovation",
+  "name": "What is the difference between a house extension and a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a house extension and a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A house extension involves adding new square footage to your existing home's footprint, typically expanding outwards or upwards to create new rooms or larger spaces. This always requires new foundation work and framing. A home renovation, conversely, involves updating or improving existing spaces within the current footprint, such as remodeling a kitchen or bathroom, or reconfiguring interior walls without adding new exterior dimensions. While both enhance your home, an extension provides more space.",
+        "@type": "Answer",
+        "description": "A house extension adds new square footage to a home, while a home renovation updates or improves existing spaces within the current footprint."
+      }
+    }
+  ],
+  "description": "A house extension adds new square footage to a home, while a home renovation updates or improves existing spaces within the current footprint."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-aging-in-place-remodeling",
+  "name": "What is aging-in-place remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is aging-in-place remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aging-in-place remodeling focuses on modifying a home to allow seniors to live independently and safely for longer. This includes changes like widening doorways, installing grab bars in bathrooms, adding ramps or stairlifts, improving lighting, and creating barrier-free showers. The goal is to enhance accessibility and reduce the risk of accidents while maintaining comfort and familiarity within one's home.",
+        "@type": "Answer",
+        "description": "Aging-in-place remodeling adapts a home to support a senior's long-term independence and safety through modifications like widened doorways, grab bars, and improved accessibility."
+      }
+    }
+  ],
+  "description": "Aging-in-place remodeling adapts a home to support a senior's long-term independence and safety through modifications like widened doorways, grab bars, and impr"
+}

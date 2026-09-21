@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-whole-home-renovation-in-the-las-vegas-area",
+  "name": "What is the typical cost range for a whole-home renovation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a whole-home renovation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole-home renovation in the Las Vegas area can vary widely based on factors such as the home's size, the extent of the changes, the quality of materials selected, and the complexity of design. Basic cosmetic renovations might start from around $50,000, while extensive remodels involving significant structural changes, high-end finishes, and system upgrades can easily exceed $200,000 or more. We offer detailed consultations and transparent estimates tailored to your specific project and budget.",
+        "@type": "Answer",
+        "description": "Costs for a whole-home renovation in Las Vegas range significantly, from around $50,000 for cosmetic updates to over $200,000 for extensive remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Costs for a whole-home renovation in Las Vegas range significantly, from around $50,000 for cosmetic updates to over $200,000 for extensive remodels, depending"
+}

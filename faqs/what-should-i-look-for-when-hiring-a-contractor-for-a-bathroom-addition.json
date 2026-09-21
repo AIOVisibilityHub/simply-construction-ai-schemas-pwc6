@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-when-hiring-a-contractor-for-a-bathroom-addition",
+  "name": "What should I look for when hiring a contractor for a bathroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when hiring a contractor for a bathroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When hiring a contractor for a bathroom addition, look for a licensed and insured general contractor with a strong portfolio of similar projects. Verify their experience in your specific area, such as Las Vegas, and check client references and online reviews. Ensure they provide a detailed contract outlining the scope of work, timeline, and payment schedule. Excellent communication, transparency, and a commitment to quality craftsmanship are also key indicators of a reliable contractor.",
+        "@type": "Answer",
+        "description": "Hire a licensed, insured contractor with a strong portfolio, positive reviews, and clear communication. Ensure they provide a detailed contract."
+      }
+    }
+  ],
+  "description": "Hire a licensed, insured contractor with a strong portfolio, positive reviews, and clear communication. Ensure they provide a detailed contract."
+}

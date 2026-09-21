@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-home-gym-addition-in-las-vegas",
+  "name": "What is the typical cost range for a home gym addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a home gym addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a home gym addition in Las Vegas varies significantly based on size, chosen materials, and the extent of modifications. Basic additions might start around $30,000 to $50,000 for a modest space with standard finishes. Larger, more complex projects involving specialized flooring, advanced electrical work for high-powered equipment, or unique architectural features could exceed $100,000. We provide detailed estimates after assessing your specific needs and site conditions.",
+        "@type": "Answer",
+        "description": "Costs for a home gym addition in Las Vegas typically range from $30,000 to over $100,000, depending on size and features."
+      }
+    }
+  ],
+  "description": "Costs for a home gym addition in Las Vegas typically range from $30,000 to over $100,000, depending on size and features."
+}

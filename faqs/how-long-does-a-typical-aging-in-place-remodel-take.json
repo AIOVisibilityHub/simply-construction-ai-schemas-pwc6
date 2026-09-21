@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-aging-in-place-remodel-take",
+  "name": "How long does a typical aging-in-place remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical aging-in-place remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an aging-in-place remodel depends heavily on its complexity and scale. Minor modifications, like installing grab bars or a comfort-height toilet, might take a few hours to a few days. Larger projects, such as a full bathroom conversion or kitchen renovation, can take several weeks to a few months, factoring in design, material procurement, and construction. A clear timeline will be provided after the project scope is defined.",
+        "@type": "Answer",
+        "description": "The duration of an aging-in-place remodel varies from a few hours for minor changes to several weeks or months for larger projects like full bathroom or kitchen renovations."
+      }
+    }
+  ],
+  "description": "The duration of an aging-in-place remodel varies from a few hours for minor changes to several weeks or months for larger projects like full bathroom or kitchen"
+}

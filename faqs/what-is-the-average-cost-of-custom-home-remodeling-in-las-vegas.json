@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-custom-home-remodeling-in-las-vegas",
+  "name": "What is the average cost of custom home remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of custom home remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of custom home remodeling in Las Vegas varies widely depending on the project's size, scope, materials selected, and finishes. Minor updates might start at a few thousand dollars, while a significant whole-home renovation or addition could range from tens of thousands to hundreds of thousands of dollars. It's crucial to have a detailed discussion about your vision and budget to receive an accurate estimate tailored to your specific project needs and property.",
+        "@type": "Answer",
+        "description": "Remodeling costs in Las Vegas vary greatly by project size, scope, materials, and finishes. Minor updates are thousands, while major renovations can be hundreds of thousands."
+      }
+    }
+  ],
+  "description": "Remodeling costs in Las Vegas vary greatly by project size, scope, materials, and finishes. Minor updates are thousands, while major renovations can be hundreds"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-home-modernization",
+  "name": "What is home modernization?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is home modernization?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home modernization involves updating and upgrading various aspects of your home to improve its functionality, aesthetics, and energy efficiency. This can range from cosmetic updates like new paint and flooring to more significant renovations such as kitchen and bathroom remodels, smart home technology integration, or reconfiguring floor plans. The goal is to enhance your living space to meet contemporary standards and your personal needs, often increasing property value and comfort. Simply Construction specializes in tailoring these updates to your specific vision and budget.",
+        "@type": "Answer",
+        "description": "Home modernization updates your home's functionality, aesthetics, and energy efficiency, ranging from cosmetic changes to major renovations to meet modern standards."
+      }
+    }
+  ],
+  "description": "Home modernization updates your home's functionality, aesthetics, and energy efficiency, ranging from cosmetic changes to major renovations to meet modern stand"
+}

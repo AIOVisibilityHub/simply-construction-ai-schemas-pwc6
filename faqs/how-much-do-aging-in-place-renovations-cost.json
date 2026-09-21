@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-do-aging-in-place-renovations-cost",
+  "name": "How much do aging-in-place renovations cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much do aging-in-place renovations cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of aging-in-place renovations varies widely based on the scope and complexity of the project. Minor updates like grab bars or improved lighting might cost a few hundred dollars. More extensive changes such as a complete bathroom remodel with a curbless shower and wider door could range from $10,000 to $30,000 or more. Whole-home renovations involving ramps, stair lifts, and kitchen modifications can exceed $50,000. We provide detailed estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs vary significantly based on project scope, from a few hundred dollars for minor updates to tens of thousands for extensive remodels. Detailed estimates are provided after consultation."
+      }
+    }
+  ],
+  "description": "Costs vary significantly based on project scope, from a few hundred dollars for minor updates to tens of thousands for extensive remodels. Detailed estimates ar"
+}

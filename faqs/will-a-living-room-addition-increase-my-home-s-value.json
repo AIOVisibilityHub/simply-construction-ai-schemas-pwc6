@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-living-room-addition-increase-my-home-s-value",
+  "name": "Will a living room addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a living room addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed and constructed living room addition can significantly increase your home's value, especially if it adds functional, desirable space and blends seamlessly with the existing structure. Factors influencing value include the quality of materials, craftsmanship, and how well the addition meets local market demands for space and features. An appraisal before and after the project can provide a more concrete assessment. Ensure the addition is permitted and adheres to all building codes to maximize its return on investment.",
+        "@type": "Answer",
+        "description": "A well-designed living room addition can increase home value, particularly if it adds functional space and matches market demands, provided it's permitted and built to code."
+      }
+    }
+  ],
+  "description": "A well-designed living room addition can increase home value, particularly if it adds functional space and matches market demands, provided it's permitted and b"
+}

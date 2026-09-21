@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-contractor-for-my-living-room-addition-in-las-vegas",
+  "name": "How do I choose a contractor for my living room addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my living room addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your living room addition in Las Vegas, look for licensed and insured professionals with a strong portfolio of similar projects. Request references and check online reviews. Ensure they have experience with local building codes and permitting processes. Get detailed bids from multiple contractors, comparing not just price but also scope of work, timeline, and warranty. Clear communication and a professional contract are essential for a successful project.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor in Las Vegas with relevant experience, good references, and a clear understanding of local codes. Compare detailed bids and ensure clear communication."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor in Las Vegas with relevant experience, good references, and a clear understanding of local codes. Compare detailed bids an"
+}

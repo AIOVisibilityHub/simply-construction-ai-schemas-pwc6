@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-prepare-my-home-for-a-new-addition-construction",
+  "name": "How can I prepare my home for a new addition construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a new addition construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your home for a new addition involves several steps to ensure a smooth construction process and minimize disruption. This includes clearing the construction area, both inside and outside, of personal belongings and landscaping elements. You may need to temporarily relocate furniture or even family members, depending on the extent of the project. Discussing access points with your contractor, protecting existing finishes, and ensuring utilities are accessible but safely managed are also crucial. Your contractor will provide specific guidance for your project.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the construction area, protecting existing finishes, and discussing access and utility management with your contractor. Relocation might be necessary for larger projects."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the construction area, protecting existing finishes, and discussing access and utility management with your contractor. Relocation might be"
+}

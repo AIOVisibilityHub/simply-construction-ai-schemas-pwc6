@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-considerations-for-a-new-bedroom-addition",
+  "name": "What are common design considerations for a new bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for a new bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common design considerations for a new bedroom addition include its orientation for natural light and views, integration with the existing roofline and exterior materials, and functional layout for furniture and traffic flow. Think about window placement for privacy and energy efficiency, and whether to include features like an ensuite bathroom, walk-in closet, or specific lighting. Ensuring the addition complements your home's overall aesthetic and maximizes usable space is key.",
+        "@type": "Answer",
+        "description": "Design considerations include natural light, exterior integration, functional layout, window placement, and desired features like an ensuite or closet. Aesthetic consistency is important."
+      }
+    }
+  ],
+  "description": "Design considerations include natural light, exterior integration, functional layout, window placement, and desired features like an ensuite or closet. Aestheti"
+}

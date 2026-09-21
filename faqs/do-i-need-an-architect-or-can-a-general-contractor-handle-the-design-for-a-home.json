@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-an-architect-or-can-a-general-contractor-handle-the-design-for-a-home",
+  "name": "Do I need an architect or can a general contractor handle the design for a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect or can a general contractor handle the design for a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need an architect depends on the complexity of your home addition. For simpler projects, many general contractors, like Simply Construction, have in-house design capabilities or work closely with experienced designers who can develop plans and ensure structural integrity. For more complex additions, such as those requiring significant structural changes or unique architectural features, an independent architect's expertise is often beneficial. We can assess your project during a consultation and advise on the best approach for your specific needs.",
+        "@type": "Answer",
+        "description": "For simpler additions, general contractors can often handle design. Complex projects might benefit from an architect. We'll advise on the best approach for your specific needs."
+      }
+    }
+  ],
+  "description": "For simpler additions, general contractors can often handle design. Complex projects might benefit from an architect. We'll advise on the best approach for your"
+}

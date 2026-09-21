@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-room-addition-and-a-home-renovation",
+  "name": "What is the difference between a room addition and a home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a room addition and a home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A room addition involves expanding your home's footprint by building new square footage, such as adding a new bedroom, bathroom, or extending an existing living space. A home renovation, on the other hand, typically modifies or updates existing spaces within your home's current footprint without increasing its overall size. While both can improve functionality and aesthetics, additions generally require more extensive planning, permitting, and construction due to structural changes.",
+        "@type": "Answer",
+        "description": "A room addition expands a home's footprint with new square footage, while a renovation updates existing spaces without increasing size. Additions involve more structural work."
+      }
+    }
+  ],
+  "description": "A room addition expands a home's footprint with new square footage, while a renovation updates existing spaces without increasing size. Additions involve more s"
+}

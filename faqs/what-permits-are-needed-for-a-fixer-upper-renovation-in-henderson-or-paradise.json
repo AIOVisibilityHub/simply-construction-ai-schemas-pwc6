@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-a-fixer-upper-renovation-in-henderson-or-paradise",
+  "name": "What permits are needed for a fixer-upper renovation in Henderson or Paradise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a fixer-upper renovation in Henderson or Paradise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements in Henderson and Paradise depend on the renovation's scope. Minor cosmetic work typically doesn't require a permit. However, permits are usually necessary for structural changes, electrical work, plumbing modifications, changes to load-bearing walls, room additions, or significant alterations to the home's footprint. Our team handles the permit application process to ensure compliance with local building codes in these areas, streamlining the project start.",
+        "@type": "Answer",
+        "description": "Permits are needed for structural, electrical, or plumbing changes, additions, or significant alterations in Henderson and Paradise. We handle the permit process."
+      }
+    }
+  ],
+  "description": "Permits are needed for structural, electrical, or plumbing changes, additions, or significant alterations in Henderson and Paradise. We handle the permit proces"
+}

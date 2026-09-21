@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-whole-home-remodel-in-clark-county",
+  "name": "What permits are required for a whole-home remodel in Clark County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a whole-home remodel in Clark County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Clark County, including Las Vegas, North Las Vegas, and Henderson, extensive whole-home remodels typically require permits for structural changes, electrical work, plumbing, and mechanical systems. Even non-structural interior modifications may need permits if they involve significant changes to existing systems or room layouts. Simply Construction handles the entire permitting process, ensuring your project complies with local building codes and regulations.",
+        "@type": "Answer",
+        "description": "Whole-home remodels in Clark County often require permits for structural, electrical, plumbing, and mechanical changes. Simply Construction manages all necessary permitting."
+      }
+    }
+  ],
+  "description": "Whole-home remodels in Clark County often require permits for structural, electrical, plumbing, and mechanical changes. Simply Construction manages all necessar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-custom-remodel-and-a-renovation",
+  "name": "What is the difference between a custom remodel and a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom remodel and a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a custom remodel typically implies a deeper level of personalization and often structural changes to redesign a space according to specific client needs and unique aesthetics. A renovation usually focuses on restoring or updating an existing space to its original condition or a more modern standard without necessarily altering its fundamental layout or purpose. Both aim to improve a home, but custom remodeling offers tailored solutions beyond standard updates.",
+        "@type": "Answer",
+        "description": "A custom remodel deeply personalizes a space, often with structural changes, while a renovation updates or restores existing areas without major layout alterations."
+      }
+    }
+  ],
+  "description": "A custom remodel deeply personalizes a space, often with structural changes, while a renovation updates or restores existing areas without major layout alterati"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-whole-home-remodel-in-las-vegas",
+  "name": "What is the average cost of a whole-home remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a whole-home remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a whole-home remodel in Las Vegas varies widely, ranging from approximately $100,000 for a modest update to over $500,000 for a luxury, extensive renovation. Factors influencing cost include the size of your home, the extent of structural changes, quality of materials selected, and the complexity of finishes. We provide detailed estimates after an initial consultation to align with your budget and project goals.",
+        "@type": "Answer",
+        "description": "Whole-home remodel costs in Las Vegas vary significantly, typically from $100,000 to over $500,000, depending on scope, materials, and home size."
+      }
+    }
+  ],
+  "description": "Whole-home remodel costs in Las Vegas vary significantly, typically from $100,000 to over $500,000, depending on scope, materials, and home size."
+}

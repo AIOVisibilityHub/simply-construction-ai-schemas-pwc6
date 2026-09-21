@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-in-a-general-contractor-for-an-older-home-renovation",
+  "name": "What should I look for in a general contractor for an older home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a general contractor for an older home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a general contractor for an older home renovation, look for extensive experience with similar projects, especially those involving older structures. Ensure they are licensed, insured, and have a strong portfolio of completed work. Check their references and read client testimonials to assess their communication skills, project management, and ability to handle unexpected challenges common in older homes. A good contractor will also demonstrate knowledge of local building codes specific to historic properties, if applicable.",
+        "@type": "Answer",
+        "description": "Look for a general contractor with extensive experience in older home renovations, proper licensing, insurance, and strong references. Ensure they understand local building codes."
+      }
+    }
+  ],
+  "description": "Look for a general contractor with extensive experience in older home renovations, proper licensing, insurance, and strong references. Ensure they understand lo"
+}

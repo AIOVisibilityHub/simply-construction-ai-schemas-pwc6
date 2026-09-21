@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-bedroom-addition-project",
+  "name": "What is involved in a bedroom addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a bedroom addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bedroom addition project involves extending your home's footprint to create a new bedroom or enlarging an existing one. This typically includes foundation work, framing, roofing, electrical and plumbing installations (if a bathroom is included), insulation, drywall, flooring, and finishing touches like paint and fixtures. Permitting and adherence to local building codes are also essential parts of the process, ensuring the new structure is safe and compliant. Our team handles all aspects, from initial design to final construction.",
+        "@type": "Answer",
+        "description": "A bedroom addition involves extending your home to add a new bedroom, including construction, utility installations, and finishes. It requires adherence to local building codes and permitting."
+      }
+    }
+  ],
+  "description": "A bedroom addition involves extending your home to add a new bedroom, including construction, utility installations, and finishes. It requires adherence to loca"
+}

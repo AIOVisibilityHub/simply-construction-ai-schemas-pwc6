@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-prepare-my-home-for-a-remodeling-project",
+  "name": "How can I prepare my home for a remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prepare my home for a remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a remodel, first, clear the work area of all personal belongings, furniture, and wall decor. Secure valuables and fragile items. If the project involves dust, cover nearby furniture with plastic sheeting. Consider making arrangements for pets and children to be away from the immediate construction zone for safety. Our team will provide specific guidance for your project during the pre-construction meeting.",
+        "@type": "Answer",
+        "description": "Prepare by clearing the work area of personal items, securing valuables, and covering nearby furniture. Arrange for pets and children to be away from the construction zone."
+      }
+    }
+  ],
+  "description": "Prepare by clearing the work area of personal items, securing valuables, and covering nearby furniture. Arrange for pets and children to be away from the constr"
+}

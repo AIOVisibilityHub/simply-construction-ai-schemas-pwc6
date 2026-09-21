@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-family-room-addition-in-las-vegas",
+  "name": "Do I need a permit for a family room addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a family room addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, any significant home addition, including a family room, requires permits from the local building department in Las Vegas, Henderson, or other service areas. These permits ensure that the construction adheres to local building codes, zoning regulations, and safety standards. Our team handles the entire permitting process, preparing and submitting all necessary documentation and plans. Building without proper permits can lead to legal issues, fines, and difficulties when selling your home.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for a family room addition in Las Vegas to ensure compliance with local building codes and safety standards."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for a family room addition in Las Vegas to ensure compliance with local building codes and safety standards."
+}

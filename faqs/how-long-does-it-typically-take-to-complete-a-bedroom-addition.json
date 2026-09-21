@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-complete-a-bedroom-addition",
+  "name": "How long does it typically take to complete a bedroom addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to complete a bedroom addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a bedroom addition can vary significantly based on its size, complexity, and local permitting processes. On average, a standard bedroom addition might take anywhere from 3 to 6 months from initial design to final inspection. Factors such as unforeseen structural issues, material availability, and weather conditions can also influence the duration. We provide a detailed project schedule upfront, keeping you informed at every stage.",
+        "@type": "Answer",
+        "description": "A bedroom addition typically takes 3 to 6 months, depending on size, complexity, and permitting. Factors like materials and weather can affect the timeline."
+      }
+    }
+  ],
+  "description": "A bedroom addition typically takes 3 to 6 months, depending on size, complexity, and permitting. Factors like materials and weather can affect the timeline."
+}

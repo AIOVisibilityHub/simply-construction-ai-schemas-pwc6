@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-prepare-before-starting-a-custom-remodeling-project",
+  "name": "What should I prepare before starting a custom remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting a custom remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a custom remodeling project, gather your ideas, inspiration photos, and a clear understanding of your functional needs and desired aesthetics. Establish a realistic budget, including a contingency fund for unexpected costs. Think about your preferred timeline and any specific requirements or concerns you have. This preparation will help us better understand your vision and provide a more accurate proposal.",
+        "@type": "Answer",
+        "description": "Before starting, prepare your ideas, inspiration, functional needs, desired aesthetics, and a realistic budget, including a contingency fund."
+      }
+    }
+  ],
+  "description": "Before starting, prepare your ideas, inspiration, functional needs, desired aesthetics, and a realistic budget, including a contingency fund."
+}

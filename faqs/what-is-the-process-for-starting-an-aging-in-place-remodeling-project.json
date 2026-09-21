@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-an-aging-in-place-remodeling-project",
+  "name": "What is the process for starting an aging-in-place remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting an aging-in-place remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your needs, budget, and desired outcomes. Next, a detailed assessment of your current home is conducted to identify areas for improvement and propose specific modifications. After design and material selections are finalized, a detailed proposal and timeline are provided. Upon agreement, permits are secured if necessary, and construction begins, followed by final inspection and walkthrough.",
+        "@type": "Answer",
+        "description": "Starting an aging-in-place remodel involves consultation, home assessment, design, proposal, permit acquisition, construction, and final inspection."
+      }
+    }
+  ],
+  "description": "Starting an aging-in-place remodel involves consultation, home assessment, design, proposal, permit acquisition, construction, and final inspection."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-senior-friendly-bathroom-remodel-cost-in-las-vegas",
+  "name": "How much does a senior-friendly bathroom remodel cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a senior-friendly bathroom remodel cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a senior-friendly bathroom remodel in Las Vegas varies widely depending on the scope and materials chosen. Minor updates, such as installing grab bars, comfort-height toilets, and non-slip flooring, might range from a few hundred to a couple of thousand dollars. More extensive projects, like converting a tub into a walk-in shower or widening doorways, can range from $5,000 to over $20,000. It's best to get a detailed estimate for your specific needs.",
+        "@type": "Answer",
+        "description": "Costs for senior-friendly bathroom remodels in Las Vegas range from a few hundred dollars for minor updates to over $20,000 for extensive conversions, depending on project scope and materials."
+      }
+    }
+  ],
+  "description": "Costs for senior-friendly bathroom remodels in Las Vegas range from a few hundred dollars for minor updates to over $20,000 for extensive conversions, depending"
+}

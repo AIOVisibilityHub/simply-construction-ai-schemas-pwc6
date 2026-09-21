@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-getting-a-house-extension-approved-in-henderson",
+  "name": "What is the process for getting a house extension approved in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a house extension approved in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Henderson, the process for a house extension typically begins with design and architectural plans, followed by submitting these plans to the City of Henderson Planning Department for review and permitting. This includes zoning compliance, structural integrity, and adherence to building codes. Inspections are conducted at various stages of construction to ensure compliance. The exact requirements can vary based on the project's scope, so consulting with a contractor familiar with local regulations is recommended.",
+        "@type": "Answer",
+        "description": "In Henderson, house extension approval involves submitting architectural plans to the Planning Department for review and permitting, followed by inspections during construction."
+      }
+    }
+  ],
+  "description": "In Henderson, house extension approval involves submitting architectural plans to the Planning Department for review and permitting, followed by inspections dur"
+}

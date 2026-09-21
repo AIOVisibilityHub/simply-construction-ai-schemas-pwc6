@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-do-aging-in-place-renovation-projects-take",
+  "name": "How long do aging-in-place renovation projects take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do aging-in-place renovation projects take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of aging-in-place renovation projects depends on their scope. Small projects, like installing grab bars or updating lighting, might take a few days. Bathroom remodels with curbless showers and accessibility features typically range from 2 to 4 weeks. More extensive whole-home renovations involving multiple rooms can take several weeks to a few months. We establish a clear timeline at the project's outset.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small updates can take days, while comprehensive bathroom or whole-home renovations may last several weeks to a few months."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small updates can take days, while comprehensive bathroom or whole-home renovations may last several weeks to a few months."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-pre-move-in-renovation-and-who-handles-them",
+  "name": "Do I need permits for a pre-move-in renovation, and who handles them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a pre-move-in renovation, and who handles them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many pre-move-in renovations require permits, especially for projects involving structural changes, electrical work, plumbing modifications, or significant alterations to the home's footprint. Minor cosmetic updates like painting or replacing light fixtures typically do not require permits. As your general contractor, Simply Construction will identify which permits are necessary for your specific project in Las Vegas, North Las Vegas, or Henderson. We will prepare and submit all required documentation to the local building department on your behalf, managing the entire permit application process.",
+        "@type": "Answer",
+        "description": "Permits are often needed for structural, electrical, or plumbing changes; minor cosmetic updates usually don't. We identify and handle all necessary permit applications for your project."
+      }
+    }
+  ],
+  "description": "Permits are often needed for structural, electrical, or plumbing changes; minor cosmetic updates usually don't. We identify and handle all necessary permit appl"
+}

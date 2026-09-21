@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-adding-a-bathroom-in-las-vegas",
+  "name": "What permits are required for adding a bathroom in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for adding a bathroom in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a bathroom in Las Vegas, North Las Vegas, Henderson, or Paradise typically requires building permits, plumbing permits, and electrical permits. Depending on the scope, mechanical permits might also be necessary. These ensure the new construction meets local building codes and safety standards. Simply Construction manages the entire permitting process, from application submission to final inspections, to ensure your project complies with all municipal regulations.",
+        "@type": "Answer",
+        "description": "Bathroom additions in Las Vegas require building, plumbing, and electrical permits to ensure compliance with local codes."
+      }
+    }
+  ],
+  "description": "Bathroom additions in Las Vegas require building, plumbing, and electrical permits to ensure compliance with local codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-a-whole-home-renovation-instead-of-just-renovating-indivi",
+  "name": "When should I consider a whole-home renovation instead of just renovating individual rooms?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a whole-home renovation instead of just renovating individual rooms?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a whole-home renovation if your home feels outdated throughout, lacks cohesion in design, or requires extensive functional upgrades across multiple areas. It's often more cost-effective and less disruptive in the long run to tackle all major updates at once, as it allows for a unified design aesthetic, optimized material purchasing, and more efficient scheduling of trades. This approach also minimizes repeat disruptions compared to piecemeal renovations over several years, and can significantly increase overall property value and livability.",
+        "@type": "Answer",
+        "description": "Consider a whole-home renovation if your home is outdated, lacks cohesion, or needs extensive functional upgrades across many areas. It can be more cost-effective and less disruptive than renovating room by room."
+      }
+    }
+  ],
+  "description": "Consider a whole-home renovation if your home is outdated, lacks cohesion, or needs extensive functional upgrades across many areas. It can be more cost-effecti"
+}

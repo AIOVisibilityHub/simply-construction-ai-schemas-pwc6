@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-in-a-contractor-for-senior-home-modifications",
+  "name": "What should I look for in a contractor for senior home modifications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a contractor for senior home modifications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for senior home modifications, look for experience in accessible design and aging-in-place projects. Verify their licensing and insurance. Request references from previous clients with similar projects and review their portfolio. A good contractor should communicate clearly, understand specific accessibility needs, and provide a detailed proposal and contract. Prioritize those who demonstrate empathy and expertise in senior living solutions.",
+        "@type": "Answer",
+        "description": "Look for a contractor with experience in accessible design, proper licensing, insurance, and strong references. They should demonstrate clear communication and empathy for senior-specific needs."
+      }
+    }
+  ],
+  "description": "Look for a contractor with experience in accessible design, proper licensing, insurance, and strong references. They should demonstrate clear communication and"
+}

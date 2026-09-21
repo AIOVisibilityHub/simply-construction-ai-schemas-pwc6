@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-does-a-whole-home-renovation-typically-involve",
+  "name": "What does a whole-home renovation typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a whole-home renovation typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A whole-home renovation generally involves updating multiple areas of a house, such as kitchens, bathrooms, living spaces, and bedrooms. This can include structural changes like moving walls, updating electrical and plumbing systems, replacing flooring, installing new fixtures, and improving energy efficiency. The scope is tailored to the homeowner's goals, whether it's a cosmetic refresh or a complete overhaul for improved functionality and aesthetic appeal. It aims to create a cohesive and modernized living environment throughout the entire property.",
+        "@type": "Answer",
+        "description": "A whole-home renovation updates multiple areas of a house, including structural changes, system upgrades, and aesthetic improvements to create a cohesive and modernized living environment."
+      }
+    }
+  ],
+  "description": "A whole-home renovation updates multiple areas of a house, including structural changes, system upgrades, and aesthetic improvements to create a cohesive and mo"
+}

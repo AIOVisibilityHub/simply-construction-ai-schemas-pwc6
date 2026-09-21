@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-second-story-addition",
+  "name": "What is a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition, also known as a second-story extension or pop-top, involves building an additional level onto an existing single-story home. This significantly increases a property's living space without expanding its footprint. It often includes new bedrooms, bathrooms, or expanded common areas. This type of renovation is ideal for homeowners needing more space but having limited yard area, or those who prefer to remain in their current neighborhood.",
+        "@type": "Answer",
+        "description": "A second-story addition involves building an additional level onto an existing single-story home to increase living space."
+      }
+    }
+  ],
+  "description": "A second-story addition involves building an additional level onto an existing single-story home to increase living space."
+}

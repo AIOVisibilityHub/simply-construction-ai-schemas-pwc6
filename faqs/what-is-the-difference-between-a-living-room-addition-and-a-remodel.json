@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-living-room-addition-and-a-remodel",
+  "name": "What is the difference between a living room addition and a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a living room addition and a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A living room addition involves expanding the physical footprint of your home by building new space, typically extending outwards or upwards. This creates entirely new square footage. A remodel, on the other hand, involves updating or reconfiguring an existing living room within its current footprint. This might include changing layouts, updating finishes, or moving interior walls, but it doesn't add new space to the house. Additions are generally more complex and require extensive permitting.",
+        "@type": "Answer",
+        "description": "An addition expands your home's footprint by building new space, while a remodel updates or reconfigures an existing room within its current walls."
+      }
+    }
+  ],
+  "description": "An addition expands your home's footprint by building new space, while a remodel updates or reconfigures an existing room within its current walls."
+}

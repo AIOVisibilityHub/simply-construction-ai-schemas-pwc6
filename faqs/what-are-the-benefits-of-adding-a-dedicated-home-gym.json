@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-adding-a-dedicated-home-gym",
+  "name": "What are the benefits of adding a dedicated home gym?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a dedicated home gym?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a home gym provides unparalleled convenience, allowing you to exercise on your schedule without commuting or gym membership fees. It offers a private, customized space for your fitness goals, enhancing property value. This dedicated area can be designed with specific equipment and flooring to support your workout routines, from cardio to weightlifting, contributing to a consistent and effective fitness regimen right at home.",
+        "@type": "Answer",
+        "description": "A home gym offers convenience, privacy, customization, and can increase your property value."
+      }
+    }
+  ],
+  "description": "A home gym offers convenience, privacy, customization, and can increase your property value."
+}

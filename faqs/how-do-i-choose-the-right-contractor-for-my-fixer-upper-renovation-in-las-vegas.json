@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-fixer-upper-renovation-in-las-vegas",
+  "name": "How do I choose the right contractor for my fixer-upper renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my fixer-upper renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for your Las Vegas fixer-upper involves several key steps. Look for licensed and insured contractors with a strong portfolio of similar renovation projects. Request and check references from previous clients, paying attention to communication, project management, and adherence to budget and timeline. Obtain detailed written estimates and compare them thoroughly. Ensure clear communication and a contract that outlines all project specifics and expectations.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with relevant experience and good references. Get detailed estimates and ensure clear communication and a comprehensive contract."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with relevant experience and good references. Get detailed estimates and ensure clear communication and a comprehensive co"
+}

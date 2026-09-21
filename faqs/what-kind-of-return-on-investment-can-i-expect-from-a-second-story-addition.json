@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-return-on-investment-can-i-expect-from-a-second-story-addition",
+  "name": "What kind of return on investment can I expect from a second-story addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of return on investment can I expect from a second-story addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second-story addition can offer a significant return on investment, particularly by increasing square footage and adding bedrooms or bathrooms. While specific ROI varies by market and finishes, it often enhances curb appeal and greatly increases property value. In competitive markets like Las Vegas, adding usable space can make your home much more attractive to potential buyers. It's also an investment in your lifestyle and comfort.",
+        "@type": "Answer",
+        "description": "A second-story addition can offer a significant return on investment by increasing square footage, property value, and living space."
+      }
+    }
+  ],
+  "description": "A second-story addition can offer a significant return on investment by increasing square footage, property value, and living space."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-build-an-in-law-suite-addition-in-the-las-vegas-area",
+  "name": "How much does it cost to build an in-law suite addition in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build an in-law suite addition in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building an in-law suite addition in the Las Vegas area varies significantly based on several factors. These include the size of the suite, the complexity of the design, the quality of materials selected, and whether it's a conversion, attached addition, or a detached structure. Plumbing, electrical work, and new foundation requirements also impact the budget. Generally, prices can range from tens of thousands for a basic conversion to well over a hundred thousand for a new, fully equipped detached unit. We provide detailed estimates after an initial consultation to assess your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs for an in-law suite in Las Vegas depend on size, design complexity, and materials, ranging from tens of thousands for basic conversions to over a hundred thousand for new detached units."
+      }
+    }
+  ],
+  "description": "Costs for an in-law suite in Las Vegas depend on size, design complexity, and materials, ranging from tens of thousands for basic conversions to over a hundred"
+}

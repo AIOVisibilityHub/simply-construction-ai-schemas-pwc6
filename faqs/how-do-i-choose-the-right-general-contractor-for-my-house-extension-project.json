@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-my-house-extension-project",
+  "name": "How do I choose the right general contractor for my house extension project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my house extension project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor, look for experience with similar house extension projects, strong references, and proper licensing and insurance. Request detailed bids from multiple contractors and compare their proposed timelines, materials, and communication styles. Ensure they understand local building codes and permitting processes. A reliable contractor will provide a clear contract outlining the scope of work, payment schedule, and warranty information. Trustworthiness and clear communication are key.",
+        "@type": "Answer",
+        "description": "Choose a general contractor with experience in extensions, strong references, proper licensing, and clear communication. Compare detailed bids and ensure they understand local codes."
+      }
+    }
+  ],
+  "description": "Choose a general contractor with experience in extensions, strong references, proper licensing, and clear communication. Compare detailed bids and ensure they u"
+}

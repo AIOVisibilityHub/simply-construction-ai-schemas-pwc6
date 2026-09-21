@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-consider-before-starting-an-interior-remodeling-project",
+  "name": "What should I consider before starting an interior remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting an interior remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting, define your budget, desired timeline, and the specific goals for your remodel. Consider how the changes will impact your daily life and future needs. Research design styles and material options to inform your decisions. It's also crucial to understand if permits are required and to plan for temporary living arrangements if the project impacts essential areas like your kitchen or bathroom. Clear planning helps ensure a smoother process and a successful outcome.",
+        "@type": "Answer",
+        "description": "Before starting, define your budget, timeline, project goals, research designs, and consider the impact on your daily life."
+      }
+    }
+  ],
+  "description": "Before starting, define your budget, timeline, project goals, research designs, and consider the impact on your daily life."
+}

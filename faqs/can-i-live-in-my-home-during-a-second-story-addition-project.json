@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-a-second-story-addition-project",
+  "name": "Can I live in my home during a second-story addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a second-story addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during a second-story addition depends on the project's scope and the extent of disruption. For major additions involving extensive structural work, roof removal, and utility disconnections, it is often recommended, and sometimes necessary, to relocate temporarily for safety and convenience. However, for smaller, more contained projects, it might be possible to remain in certain areas of the home. We can discuss this during the planning phase.",
+        "@type": "Answer",
+        "description": "Living in your home during a second-story addition depends on the project's scope; temporary relocation might be necessary for extensive work."
+      }
+    }
+  ],
+  "description": "Living in your home during a second-story addition depends on the project's scope; temporary relocation might be necessary for extensive work."
+}

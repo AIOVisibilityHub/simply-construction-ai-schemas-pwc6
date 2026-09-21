@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-building-a-detached-garage",
+  "name": "What are the benefits of building a detached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of building a detached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a detached garage offers numerous advantages. It provides excellent additional storage space, which can de-clutter your home. It can also serve as a dedicated workshop, home office, or recreational area, separating noisy or messy activities from your main living space. Furthermore, a detached garage can enhance your property's value and curb appeal, especially if designed to complement your existing home. Its separation can also reduce insurance premiums compared to an attached garage by creating a fire break.",
+        "@type": "Answer",
+        "description": "Detached garages offer extra storage, dedicated activity space, increased property value, and potential insurance savings by separating from the main home."
+      }
+    }
+  ],
+  "description": "Detached garages offer extra storage, dedicated activity space, increased property value, and potential insurance savings by separating from the main home."
+}

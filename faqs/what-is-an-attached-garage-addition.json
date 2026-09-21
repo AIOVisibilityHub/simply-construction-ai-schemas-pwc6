@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-an-attached-garage-addition",
+  "name": "What is an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached garage addition involves constructing a new garage that is directly connected to your existing home. This type of addition typically shares a wall with the main house and provides convenient, direct access indoors. It can be built as a single-car, two-car, or even three-car garage, depending on space availability and homeowner needs. Attached garages often provide a seamless integration with the home's architecture, enhancing both functionality and property value by offering secure parking, storage, and sometimes extra living space above.",
+        "@type": "Answer",
+        "description": "An attached garage addition connects directly to your existing home, offering convenient indoor access and enhancing property value."
+      }
+    }
+  ],
+  "description": "An attached garage addition connects directly to your existing home, offering convenient indoor access and enhancing property value."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-custom-home-remodeling",
+  "name": "What is custom home remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is custom home remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Custom home remodeling involves tailoring changes to your existing home to meet specific needs, preferences, and lifestyle. This can range from minor cosmetic updates to major structural alterations, such as adding rooms, reconfiguring layouts, or upgrading entire systems. Unlike standard renovations, custom remodeling focuses on unique design solutions and materials chosen by the homeowner, resulting in a personalized living space.",
+        "@type": "Answer",
+        "description": "Custom home remodeling tailors changes to your existing home to meet specific needs and preferences, ranging from cosmetic updates to major structural alterations."
+      }
+    }
+  ],
+  "description": "Custom home remodeling tailors changes to your existing home to meet specific needs and preferences, ranging from cosmetic updates to major structural alteratio"
+}

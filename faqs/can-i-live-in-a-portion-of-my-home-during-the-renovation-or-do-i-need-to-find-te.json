@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-a-portion-of-my-home-during-the-renovation-or-do-i-need-to-find-te",
+  "name": "Can I live in a portion of my home during the renovation, or do I need to find temporary housing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in a portion of my home during the renovation, or do I need to find temporary housing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your home during a whole-home renovation is sometimes possible, especially if the project can be phased to keep essential areas like a kitchen or bathroom functional. However, extensive renovations often involve significant dust, noise, utility shutdowns, and safety hazards, which can make living on-site uncomfortable or even unsafe. We recommend discussing your living arrangements during the planning phase. We can often help plan the project to accommodate your needs if possible, but temporary housing may be a more practical and comfortable solution for major overhauls.",
+        "@type": "Answer",
+        "description": "Living in your home during renovation depends on the project's scope. Phased renovations may allow it, but extensive work often makes temporary housing a safer and more comfortable option due to dust, noise, and utility disruptions."
+      }
+    }
+  ],
+  "description": "Living in your home during renovation depends on the project's scope. Phased renovations may allow it, but extensive work often makes temporary housing a safer"
+}

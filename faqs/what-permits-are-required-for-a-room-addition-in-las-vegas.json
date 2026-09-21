@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-room-addition-in-las-vegas",
+  "name": "What permits are required for a room addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a room addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a room addition in Las Vegas, Henderson, or surrounding areas requires specific permits from local municipal or county building departments. These typically include structural, electrical, plumbing, and mechanical permits, depending on the scope of the project. The permitting process ensures your addition meets safety codes and zoning regulations. We manage the entire permit application and approval process on your behalf, ensuring compliance with local requirements.",
+        "@type": "Answer",
+        "description": "Room additions in Las Vegas require permits like structural, electrical, and plumbing. These ensure compliance with safety codes and zoning. We handle the permit process."
+      }
+    }
+  ],
+  "description": "Room additions in Las Vegas require permits like structural, electrical, and plumbing. These ensure compliance with safety codes and zoning. We handle the permi"
+}

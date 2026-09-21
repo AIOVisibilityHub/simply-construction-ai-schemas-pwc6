@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-whole-home-renovation",
+  "name": "How do I choose the right contractor for my whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor involves several key steps. Look for licensed and insured professionals with a strong portfolio of similar whole-home renovation projects. Check references and read client testimonials to gauge their reliability and quality of work. Transparent communication, detailed proposals, and a clear understanding of the project timeline and budget are also crucial. Ensure they are familiar with local building codes and permitting processes in the Las Vegas area. A good contractor will prioritize your vision and maintain clear communication throughout the entire project.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on licenses, insurance, portfolio, references, transparent communication, detailed proposals, and familiarity with local building codes. Prioritize clear communication and vision alignment."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on licenses, insurance, portfolio, references, transparent communication, detailed proposals, and familiarity with local building code"
+}

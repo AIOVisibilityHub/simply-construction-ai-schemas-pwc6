@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-a-family-room-and-a-living-room-addition",
+  "name": "What's the difference between a family room and a living room addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a family room and a living room addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both provide communal space, a family room addition is generally designed for more casual, everyday activities like watching TV, playing games, or informal gatherings. It's often located closer to the kitchen and may have more durable finishes. A living room addition, conversely, is typically more formal, used for entertaining guests or showcasing decor, and might be situated near the home's entrance. The distinction often lies in their intended use and level of formality.",
+        "@type": "Answer",
+        "description": "A family room is typically more casual and multi-purpose for daily family life, while a living room is often more formal for entertaining guests."
+      }
+    }
+  ],
+  "description": "A family room is typically more casual and multi-purpose for daily family life, while a living room is often more formal for entertaining guests."
+}

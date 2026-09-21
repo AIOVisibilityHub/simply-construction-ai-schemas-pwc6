@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-home-modernization-project-in-las-ve",
+  "name": "How do I choose the right contractor for my home modernization project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my home modernization project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your Las Vegas home modernization, look for experience, proper licensing, and insurance. Check their portfolio for projects similar to yours and read client testimonials. Get at least three detailed bids, ensuring they include all aspects of the work and materials. A reputable contractor, like Simply Construction, will communicate clearly, provide transparent pricing, and offer a clear contract. Don't hesitate to ask for references and verify their credentials through the Nevada State Contractors Board.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, proper licensing, and insurance. Review their portfolio, check references, get detailed bids, and ensure clear communication and contracts."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, proper licensing, and insurance. Review their portfolio, check references, get detailed bids, and ensure clear communicatio"
+}

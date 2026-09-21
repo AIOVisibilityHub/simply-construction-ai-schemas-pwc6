@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-foundation-is-typically-used-for-a-home-office-addition",
+  "name": "What kind of foundation is typically used for a home office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation is typically used for a home office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a home office addition, the type of foundation used typically depends on the existing home's foundation, local soil conditions, and the addition's design. Common options in the Las Vegas area include slab-on-grade foundations, which are cost-effective and suitable for stable soil. In some cases, a stem wall or perimeter foundation might be used, especially if the addition requires matching a crawl space or partial basement. Our engineers assess site-specific conditions to recommend the most appropriate and structurally sound foundation.",
+        "@type": "Answer",
+        "description": "Common foundations include slab-on-grade or stem wall, chosen based on existing foundation, soil conditions, and the addition's design."
+      }
+    }
+  ],
+  "description": "Common foundations include slab-on-grade or stem wall, chosen based on existing foundation, soil conditions, and the addition's design."
+}

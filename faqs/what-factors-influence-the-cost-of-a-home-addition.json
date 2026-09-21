@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-home-addition",
+  "name": "What factors influence the cost of a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of a home addition. These include the size and scope of the addition, the complexity of the design (e.g., two-story versus single-story), the quality of materials selected, and the need for new utility connections like plumbing or electrical. Foundation work, roofing, and interior finishes such as flooring, cabinetry, and fixtures also significantly impact the budget. Site accessibility and any necessary demolition further contribute to the overall expense. We provide transparent estimates after understanding your specific project details.",
+        "@type": "Answer",
+        "description": "Costs are influenced by size, design complexity, material choices, utility needs, and site conditions. Detailed estimates are provided based on your specific project plan."
+      }
+    }
+  ],
+  "description": "Costs are influenced by size, design complexity, material choices, utility needs, and site conditions. Detailed estimates are provided based on your specific pr"
+}

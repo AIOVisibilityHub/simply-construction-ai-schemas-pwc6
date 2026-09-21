@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-challenges-to-expect-during-a-home-addition-project",
+  "name": "What are the common challenges to expect during a home addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges to expect during a home addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during a home addition project can include unexpected structural issues in the existing home, weather delays, unforeseen soil conditions, or changes requested by the homeowner mid-project. Permitting delays from local authorities can also impact timelines. Effective communication with your general contractor is key to navigating these challenges. A reputable contractor, like Simply Construction, plans for contingencies, communicates transparently, and works to resolve issues efficiently to keep the project on track and within budget.",
+        "@type": "Answer",
+        "description": "Expect potential challenges like unexpected structural issues, weather delays, permitting delays, and mid-project changes. Good communication with your contractor is vital for resolution."
+      }
+    }
+  ],
+  "description": "Expect potential challenges like unexpected structural issues, weather delays, permitting delays, and mid-project changes. Good communication with your contract"
+}

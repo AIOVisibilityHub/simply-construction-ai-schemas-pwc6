@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-home-addition-in-the-las-vegas-area",
+  "name": "What permits are required for a home addition in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a home addition in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, home additions typically require several permits, including building permits, electrical permits, plumbing permits, and mechanical permits. The specific permits needed depend on the scope of your project and the specific municipality (e.g., City of Las Vegas, Henderson, North Las Vegas, Clark County). Obtaining these permits ensures your addition meets local zoning regulations, building codes, and safety standards. Simply Construction manages the entire permitting process, submitting all necessary documentation and coordinating with local building departments.",
+        "@type": "Answer",
+        "description": "Home additions in the Las Vegas area require building, electrical, plumbing, and mechanical permits. Simply Construction handles all necessary permit applications and coordination with local authorities."
+      }
+    }
+  ],
+  "description": "Home additions in the Las Vegas area require building, electrical, plumbing, and mechanical permits. Simply Construction handles all necessary permit applicatio"
+}

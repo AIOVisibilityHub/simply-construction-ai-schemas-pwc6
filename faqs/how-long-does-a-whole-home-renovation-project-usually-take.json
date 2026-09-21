@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-whole-home-renovation-project-usually-take",
+  "name": "How long does a whole-home renovation project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a whole-home renovation project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a whole-home renovation varies significantly based on the project's scope, the size of the home, and the complexity of the changes. A cosmetic refresh might take a few weeks to a couple of months, while a more extensive renovation involving structural changes, new layouts, or system upgrades could span several months, typically three to six months or more. Unexpected issues during demolition or material delays can also influence the timeline. We provide a detailed project schedule upfront to set clear expectations.",
+        "@type": "Answer",
+        "description": "The duration of a whole-home renovation varies from weeks to several months, depending on the project's scope, home size, and complexity. Detailed schedules are provided."
+      }
+    }
+  ],
+  "description": "The duration of a whole-home renovation varies from weeks to several months, depending on the project's scope, home size, and complexity. Detailed schedules are"
+}

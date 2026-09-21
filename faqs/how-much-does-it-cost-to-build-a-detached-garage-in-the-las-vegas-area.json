@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-build-a-detached-garage-in-the-las-vegas-area",
+  "name": "How much does it cost to build a detached garage in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a detached garage in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a detached garage in the Las Vegas area varies significantly based on size, materials, foundation type, chosen amenities, and site preparation needs. A basic single-car garage might start around $20,000, while a larger two-car garage with custom finishes, electrical, and plumbing could range from $40,000 to $70,000 or more. Obtaining detailed quotes from local contractors is essential to get an accurate estimate tailored to your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs for a detached garage in Las Vegas vary widely, from $20,000 for a basic single-car to over $70,000 for a larger, customized build. Factors include size, materials, and features."
+      }
+    }
+  ],
+  "description": "Costs for a detached garage in Las Vegas vary widely, from $20,000 for a basic single-car to over $70,000 for a larger, customized build. Factors include size,"
+}

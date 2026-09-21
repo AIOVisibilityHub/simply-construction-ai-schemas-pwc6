@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-adding-a-bedroom-in-las-vegas",
+  "name": "What is the average cost of adding a bedroom in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of adding a bedroom in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of adding a bedroom in the Las Vegas area can vary widely, but typically ranges from $40,000 to $80,000 or more, depending on several factors. These include the size of the room, the quality of finishes chosen, whether a new bathroom is included, and any necessary site preparation. Factors like extending HVAC systems or electrical panels can also impact the final price. We provide detailed, transparent quotes after understanding your specific project requirements.",
+        "@type": "Answer",
+        "description": "In Las Vegas, a bedroom addition generally costs $40,000 to $80,000+, depending on size, finishes, and included features. Specific project details affect the final price."
+      }
+    }
+  ],
+  "description": "In Las Vegas, a bedroom addition generally costs $40,000 to $80,000+, depending on size, finishes, and included features. Specific project details affect the fi"
+}

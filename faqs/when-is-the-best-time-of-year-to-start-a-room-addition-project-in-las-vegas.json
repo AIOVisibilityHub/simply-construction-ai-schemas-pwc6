@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-of-year-to-start-a-room-addition-project-in-las-vegas",
+  "name": "When is the best time of year to start a room addition project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to start a room addition project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While room additions can be started year-round, many homeowners prefer to begin projects in the spring or fall in Las Vegas. These seasons offer more moderate temperatures, which can be ideal for exterior work like foundation pouring and framing, making conditions more comfortable for construction crews. Summer's extreme heat can sometimes slow exterior progress, and winter, while mild, can still present cooler temperatures. We can accommodate projects throughout the year, considering weather impacts in our planning.",
+        "@type": "Answer",
+        "description": "Spring or fall are often preferred for room additions in Las Vegas due to moderate temperatures, which aid exterior construction. Projects can be done year-round."
+      }
+    }
+  ],
+  "description": "Spring or fall are often preferred for room additions in Las Vegas due to moderate temperatures, which aid exterior construction. Projects can be done year-roun"
+}

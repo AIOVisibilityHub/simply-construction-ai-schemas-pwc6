@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-of-year-to-build-an-addition-in-las-vegas",
+  "name": "When is the best time of year to build an addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to build an addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a family room addition in Las Vegas can typically be done year-round, but many homeowners prefer starting in the fall or winter. This avoids the intense summer heat, which can be challenging for outdoor work and can sometimes cause minor project delays. While summer construction is feasible with proper planning for heat, the milder temperatures of fall and winter often provide a more comfortable working environment for our crews and can sometimes lead to smoother project progress without weather-related interruptions.",
+        "@type": "Answer",
+        "description": "Fall or winter are often preferred for additions in Las Vegas to avoid extreme summer heat, though construction is possible year-round."
+      }
+    }
+  ],
+  "description": "Fall or winter are often preferred for additions in Las Vegas to avoid extreme summer heat, though construction is possible year-round."
+}

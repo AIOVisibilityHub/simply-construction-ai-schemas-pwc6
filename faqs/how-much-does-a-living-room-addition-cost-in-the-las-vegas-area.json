@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-living-room-addition-cost-in-the-las-vegas-area",
+  "name": "How much does a living room addition cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a living room addition cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a living room addition in the Las Vegas area varies significantly based on several factors, including size, complexity, materials chosen, and interior finishes. Basic additions might start from $150 per square foot, while more custom or luxurious designs can exceed $300 per square foot. These figures are estimates and do not include potential architectural fees, specific site preparation, or high-end custom features. A detailed estimate requires an on-site consultation to assess your specific project scope and desired features.",
+        "@type": "Answer",
+        "description": "Costs for living room additions in Las Vegas vary widely, typically ranging from $150 to over $300 per square foot, depending on size, materials, and complexity."
+      }
+    }
+  ],
+  "description": "Costs for living room additions in Las Vegas vary widely, typically ranging from $150 to over $300 per square foot, depending on size, materials, and complexity"
+}

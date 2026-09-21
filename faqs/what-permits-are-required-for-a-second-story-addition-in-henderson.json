@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-second-story-addition-in-henderson",
+  "name": "What permits are required for a second-story addition in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a second-story addition in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a second-story addition in Henderson, you will need to obtain various permits from the City of Henderson Building and Fire Safety Department. These typically include building permits, and potentially electrical, plumbing, and mechanical permits, depending on the scope. Architectural plans and structural engineering reports are usually required for permit application. Our team assists with navigating the specific permitting requirements and submission process to ensure compliance.",
+        "@type": "Answer",
+        "description": "In Henderson, a second-story addition requires building permits, and possibly electrical, plumbing, and mechanical permits from the city's building department."
+      }
+    }
+  ],
+  "description": "In Henderson, a second-story addition requires building permits, and possibly electrical, plumbing, and mechanical permits from the city's building department."
+}

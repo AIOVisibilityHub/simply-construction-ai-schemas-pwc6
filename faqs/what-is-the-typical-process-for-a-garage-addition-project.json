@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-a-garage-addition-project",
+  "name": "What is the typical process for a garage addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a garage addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a garage addition begins with an initial consultation and site assessment to discuss your needs and ideas. This is followed by design and architectural planning, leading to detailed blueprints. Next, permits are secured from local authorities. Construction then commences with site preparation, foundation pouring, framing, roofing, and exterior finishes. Finally, interior work, utility connections, and final inspections complete the project. Throughout, communication with your contractor is key to a smooth process.",
+        "@type": "Answer",
+        "description": "The garage addition process involves consultation, design, permitting, site preparation, construction (foundation, framing, roofing, finishes), interior work, and final inspections."
+      }
+    }
+  ],
+  "description": "The garage addition process involves consultation, design, permitting, site preparation, construction (foundation, framing, roofing, finishes), interior work, a"
+}

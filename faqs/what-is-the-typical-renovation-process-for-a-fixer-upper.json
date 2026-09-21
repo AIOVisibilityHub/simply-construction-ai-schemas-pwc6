@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-renovation-process-for-a-fixer-upper",
+  "name": "What is the typical renovation process for a fixer-upper?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical renovation process for a fixer-upper?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our renovation process typically begins with an initial consultation to discuss your vision and budget. Next, we conduct an on-site assessment and provide a detailed estimate. Once approved, we move to design planning and permit acquisition. The construction phase involves demolition, structural work, rough-ins for plumbing and electrical, installations, and finishes. We maintain open communication throughout, culminating in a final walkthrough to ensure your satisfaction and project completion.",
+        "@type": "Answer",
+        "description": "The process includes consultation, assessment, estimate, design, permits, demolition, construction, installations, and a final walkthrough."
+      }
+    }
+  ],
+  "description": "The process includes consultation, assessment, estimate, design, permits, demolition, construction, installations, and a final walkthrough."
+}

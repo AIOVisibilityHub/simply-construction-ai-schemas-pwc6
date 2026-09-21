@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-home-modernization-in-henderson",
+  "name": "What permits are needed for home modernization in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for home modernization in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For home modernization projects in Henderson, the required permits depend on the scope of work. Minor cosmetic updates typically don't require permits, but structural changes, electrical work, plumbing modifications, or additions will. This includes significant changes to floor plans, window replacements, or adding new living spaces. The City of Henderson Department of Community Development issues these permits, ensuring projects meet local building codes and safety standards. Simply Construction assists clients with navigating the permitting process to ensure compliance for all projects.",
+        "@type": "Answer",
+        "description": "Permits in Henderson are required for structural changes, electrical, plumbing, or additions, but not minor cosmetic updates. Simply Construction helps navigate the permitting process."
+      }
+    }
+  ],
+  "description": "Permits in Henderson are required for structural changes, electrical, plumbing, or additions, but not minor cosmetic updates. Simply Construction helps navigate"
+}

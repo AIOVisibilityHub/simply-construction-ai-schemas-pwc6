@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-considerations-for-an-attached-garage-addition",
+  "name": "What are common design considerations for an attached garage addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for an attached garage addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for an attached garage addition include matching the architectural style and materials of your existing home for a cohesive look. You'll need to decide on the number of bays, door styles, and window placement. Interior considerations include lighting, electrical outlets (including potential EV charging), insulation, and flooring. Proper drainage, foundation type, and roofline integration are also crucial. Our design team works to ensure the addition is functional, aesthetically pleasing, and complies with all local regulations.",
+        "@type": "Answer",
+        "description": "Design considerations include matching your home's style, bay count, door/window types, electrical needs, insulation, and seamless roofline integration."
+      }
+    }
+  ],
+  "description": "Design considerations include matching your home's style, bay count, door/window types, electrical needs, insulation, and seamless roofline integration."
+}

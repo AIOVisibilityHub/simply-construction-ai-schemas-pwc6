@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-of-a-primary-suite-addition-in-the-las-vegas-area",
+  "name": "What is the typical cost of a primary suite addition in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a primary suite addition in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a primary suite addition in the Las Vegas area varies widely based on size, selected finishes, bathroom features, and site conditions. Factors like the complexity of the design, accessibility of the construction area, and the need for new utility connections also influence the total. Expect a significant investment due to materials, labor, permits, and design fees. A detailed estimate requires an on-site consultation to assess your specific project requirements and desires. Costs are generally higher for premium materials or extensive custom features.",
+        "@type": "Answer",
+        "description": "The typical cost for a primary suite addition in Las Vegas depends on size, finishes, and complexity, requiring a custom estimate."
+      }
+    }
+  ],
+  "description": "The typical cost for a primary suite addition in Las Vegas depends on size, finishes, and complexity, requiring a custom estimate."
+}

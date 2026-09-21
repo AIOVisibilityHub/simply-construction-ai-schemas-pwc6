@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-primary-suite-addition-in-southern-nevada",
+  "name": "What permits are required for a primary suite addition in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a primary suite addition in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a primary suite addition in Southern Nevada, you will typically need several permits from the relevant local jurisdiction (e.g., City of Las Vegas, Clark County, Henderson). These usually include building permits, and potentially separate permits for electrical, plumbing, and mechanical work. Depending on the scope, zoning approvals or specific neighborhood association clearances might also be necessary. A reputable general contractor will handle the permit application process and ensure all work complies with local codes and regulations.",
+        "@type": "Answer",
+        "description": "Permits for a primary suite addition in Southern Nevada typically include building, electrical, plumbing, and mechanical permits from the local jurisdiction."
+      }
+    }
+  ],
+  "description": "Permits for a primary suite addition in Southern Nevada typically include building, electrical, plumbing, and mechanical permits from the local jurisdiction."
+}

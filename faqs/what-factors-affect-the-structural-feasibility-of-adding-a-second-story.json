@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-affect-the-structural-feasibility-of-adding-a-second-story",
+  "name": "What factors affect the structural feasibility of adding a second story?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors affect the structural feasibility of adding a second story?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine the structural feasibility of a second-story addition. These include the existing foundation's condition and capacity, the integrity of the lower-level walls, and the overall structural design of your current home. Soil conditions, roof type, and the age of the house also play a role. A structural engineer will conduct a thorough assessment to ensure the property can safely support the added weight and construction.",
+        "@type": "Answer",
+        "description": "Structural feasibility depends on the existing foundation, lower-level walls, overall home design, soil conditions, and roof type."
+      }
+    }
+  ],
+  "description": "Structural feasibility depends on the existing foundation, lower-level walls, overall home design, soil conditions, and roof type."
+}

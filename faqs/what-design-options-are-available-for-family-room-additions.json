@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-options-are-available-for-family-room-additions",
+  "name": "What design options are available for family room additions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design options are available for family room additions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Design options for family room additions are extensive and can be tailored to your preferences. You can choose from various architectural styles to match or complement your existing home, such as modern, traditional, or contemporary. Considerations include ceiling height (vaulted, tray), window types and placement for natural light, flooring materials (hardwood, tile, carpet), built-in shelving or entertainment centers, and fireplace designs. We work with you to create a custom design that meets your aesthetic and functional desires.",
+        "@type": "Answer",
+        "description": "Design options include various architectural styles, ceiling heights, window configurations, flooring, built-ins, and fireplace designs."
+      }
+    }
+  ],
+  "description": "Design options include various architectural styles, ceiling heights, window configurations, flooring, built-ins, and fireplace designs."
+}

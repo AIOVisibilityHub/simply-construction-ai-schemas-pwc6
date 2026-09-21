@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-house-extension-increase-my-property-value",
+  "name": "Will a house extension increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a house extension increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-planned and executed house extension can significantly increase your property value, especially if it adds functional living space, extra bedrooms, or enhances desirable areas like kitchens and bathrooms. The return on investment varies based on the type of extension, the quality of materials, the local real estate market, and whether the addition aligns with neighborhood expectations. Over-improving for your area might limit the return, so consider comparable homes.",
+        "@type": "Answer",
+        "description": "A well-planned house extension can increase property value, particularly if it adds functional living space, bedrooms, or enhances key areas like kitchens."
+      }
+    }
+  ],
+  "description": "A well-planned house extension can increase property value, particularly if it adds functional living space, bedrooms, or enhances key areas like kitchens."
+}

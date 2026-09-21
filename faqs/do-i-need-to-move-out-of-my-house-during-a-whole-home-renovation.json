@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-move-out-of-my-house-during-a-whole-home-renovation",
+  "name": "Do I need to move out of my house during a whole-home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my house during a whole-home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to move out during a whole-home renovation depends on the scope and invasiveness of the project. If major structural changes, extensive plumbing or electrical work, or significant dust and noise will impact essential living areas (like all bathrooms or the kitchen), temporarily relocating might be necessary for comfort and safety. For less invasive projects, living in the home might be feasible with proper containment and staging. We will discuss this potential need with you during the planning phase, advising on the best approach for your specific project.",
+        "@type": "Answer",
+        "description": "Moving out during a whole-home renovation depends on the project's scope and invasiveness. Major structural or system work may require temporary relocation for safety and comfort; less invasive projects might allow you to stay."
+      }
+    }
+  ],
+  "description": "Moving out during a whole-home renovation depends on the project's scope and invasiveness. Major structural or system work may require temporary relocation for"
+}

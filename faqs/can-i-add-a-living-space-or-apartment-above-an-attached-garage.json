@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-a-living-space-or-apartment-above-an-attached-garage",
+  "name": "Can I add a living space or apartment above an attached garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a living space or apartment above an attached garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to incorporate a living space or apartment above an attached garage, commonly referred to as an Accessory Dwelling Unit (ADU) or a bonus room. This requires careful planning and design to ensure structural integrity, proper insulation, utility connections (electrical, plumbing, HVAC), and compliance with local zoning and building codes. Adding such a space can significantly increase your property's functionality and value, offering potential rental income or extra living quarters for family. We can help assess feasibility and design options.",
+        "@type": "Answer",
+        "description": "Yes, adding a living space or ADU above an attached garage is possible with proper design, structural considerations, and adherence to local codes."
+      }
+    }
+  ],
+  "description": "Yes, adding a living space or ADU above an attached garage is possible with proper design, structural considerations, and adherence to local codes."
+}

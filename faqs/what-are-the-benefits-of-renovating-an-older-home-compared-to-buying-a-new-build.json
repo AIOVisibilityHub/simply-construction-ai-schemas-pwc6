@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-renovating-an-older-home-compared-to-buying-a-new-build",
+  "name": "What are the benefits of renovating an older home compared to buying a new build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of renovating an older home compared to buying a new build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovating an older home offers unique benefits compared to buying a new build. Older homes often feature established neighborhoods, larger lots, unique architectural character, and mature landscaping that new developments lack. Renovations allow for custom designs tailored to your specific preferences, rather than choosing from limited builder options. While new builds offer modern amenities from the start, a renovated older home can combine historical charm with contemporary comforts, potentially increasing its value and energy efficiency.",
+        "@type": "Answer",
+        "description": "Renovating an older home offers character, larger lots, established neighborhoods, and custom design. You combine historic charm with modern comforts, unlike limited new build options."
+      }
+    }
+  ],
+  "description": "Renovating an older home offers character, larger lots, established neighborhoods, and custom design. You combine historic charm with modern comforts, unlike li"
+}

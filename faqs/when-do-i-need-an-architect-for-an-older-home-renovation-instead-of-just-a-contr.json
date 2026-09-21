@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-do-i-need-an-architect-for-an-older-home-renovation-instead-of-just-a-contr",
+  "name": "When do I need an architect for an older home renovation instead of just a contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need an architect for an older home renovation instead of just a contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally need an architect for older home renovations that involve significant structural changes, adding square footage, altering the home's footprint, or if you desire complex design solutions that require detailed drawings and engineering. For simpler renovations like kitchen or bathroom remodels without structural modifications, a skilled general contractor can often manage the design and build process using their in-house capabilities or trusted design partners. We can help you determine if architectural services are necessary for your project.",
+        "@type": "Answer",
+        "description": "An architect is typically needed for major structural changes, additions, or complex design. For simpler renovations, a contractor can often manage it."
+      }
+    }
+  ],
+  "description": "An architect is typically needed for major structural changes, additions, or complex design. For simpler renovations, a contractor can often manage it."
+}

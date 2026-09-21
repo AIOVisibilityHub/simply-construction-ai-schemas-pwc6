@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-a-garage-addition-in-las-vegas",
+  "name": "What permits are needed for a garage addition in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a garage addition in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an attached garage addition in Las Vegas, you will typically need building permits from the local jurisdiction, such as the City of Las Vegas or Clark County Department of Building and Fire Prevention. These permits ensure the addition complies with local zoning ordinances, structural safety codes, and fire regulations. Depending on the scope, you might also need electrical, plumbing, or mechanical permits. Simply Construction handles the permit application process, ensuring all necessary approvals are secured before construction begins to avoid delays and ensure compliance.",
+        "@type": "Answer",
+        "description": "Building permits from the City of Las Vegas or Clark County are required for attached garage additions to ensure compliance with local codes."
+      }
+    }
+  ],
+  "description": "Building permits from the City of Las Vegas or Clark County are required for attached garage additions to ensure compliance with local codes."
+}

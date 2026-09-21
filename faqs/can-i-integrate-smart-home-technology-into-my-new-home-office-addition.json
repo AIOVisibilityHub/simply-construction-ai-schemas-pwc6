@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-integrate-smart-home-technology-into-my-new-home-office-addition",
+  "name": "Can I integrate smart home technology into my new home office addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I integrate smart home technology into my new home office addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Integrating smart home technology into your new home office addition is a popular request and highly recommended. This can include smart lighting for adjustable ambiance, automated climate control for comfort and energy efficiency, integrated security cameras, and smart outlets for convenient device charging. Planning for these technologies during the design phase allows for seamless wiring and installation, ensuring your office is modern, efficient, and fully connected from day one.",
+        "@type": "Answer",
+        "description": "Yes, smart home technology like lighting, climate control, security, and smart outlets can be seamlessly integrated during the design and build phase."
+      }
+    }
+  ],
+  "description": "Yes, smart home technology like lighting, climate control, security, and smart outlets can be seamlessly integrated during the design and build phase."
+}

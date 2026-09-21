@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-a-room-addition-construction",
+  "name": "Can I live in my home during a room addition construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during a room addition construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during construction depends on the extent and nature of the room addition. For smaller, less disruptive projects, it might be possible to remain in your home, especially if the work is confined to a specific area with minimal impact on essential services. However, larger additions, like a second-story or extensive renovations, often require temporary relocation due to noise, dust, utility interruptions, and safety concerns. We'll discuss this during planning.",
+        "@type": "Answer",
+        "description": "Living at home during an addition depends on project size. Small projects might allow it, but large or disruptive ones may require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living at home during an addition depends on project size. Small projects might allow it, but large or disruptive ones may require temporary relocation."
+}

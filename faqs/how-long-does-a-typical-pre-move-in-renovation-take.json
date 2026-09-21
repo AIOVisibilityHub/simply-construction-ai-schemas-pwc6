@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-pre-move-in-renovation-take",
+  "name": "How long does a typical pre-move-in renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical pre-move-in renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a pre-move-in renovation varies widely depending on the scope of work. Minor updates like painting and light fixture changes might take a few days to a week. Larger projects, such as a full kitchen overhaul or multiple bathroom renovations, can extend from several weeks to a few months. Factors like material availability, permit processing times, and the complexity of custom designs also influence the timeline. We provide a detailed project schedule after assessing your specific renovation plans.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; minor updates take days, while major renovations like kitchens can take weeks to months. Material availability and permits also affect the timeline."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; minor updates take days, while major renovations like kitchens can take weeks to months. Material availability and permits als"
+}
