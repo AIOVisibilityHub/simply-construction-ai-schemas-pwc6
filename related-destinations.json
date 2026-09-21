@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-21T20:10:46.763Z",
+  "generatedAt": "2026-09-21T20:11:25.280Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/",
       "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
     }
   }

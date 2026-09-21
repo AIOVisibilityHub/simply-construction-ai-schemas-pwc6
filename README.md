@@ -23,6 +23,7 @@ Canonical AI Data Package for Simply Construction.
 - [canonical] Simply Construction — canonical website — https://simplyconstructionlv.aiovisibility.net
 - [ai-data-hub] Simply Construction — AI Data Hub — https://simplyconstructionlv.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6
+- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
