@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-replace-kitchen-cabinets",
+  "name": "How long does it take to replace kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to replace kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for kitchen cabinet replacement typically ranges from 1 to 3 weeks, though this can vary. The duration depends on the scope of the project, whether you choose stock, semi-custom, or custom cabinets, and the availability of materials. Installation itself often takes a few days to a week, but the overall process includes design, ordering, demolition, and preparation. Custom cabinets naturally have longer lead times. Your contractor can provide a more precise schedule after understanding your specific choices.",
+        "@type": "Answer",
+        "description": "Replacement usually takes 1 to 3 weeks. This includes design, ordering, delivery, demolition, and installation. Custom cabinets may extend this timeline."
+      }
+    }
+  ],
+  "description": "Replacement usually takes 1 to 3 weeks. This includes design, ordering, delivery, demolition, and installation. Custom cabinets may extend this timeline."
+}

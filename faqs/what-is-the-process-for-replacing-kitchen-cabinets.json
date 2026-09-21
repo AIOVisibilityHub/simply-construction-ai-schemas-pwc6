@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-kitchen-cabinets",
+  "name": "What is the process for replacing kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a consultation to discuss your vision, budget, and material preferences. This is followed by design and measurement, where detailed plans are created. Once cabinets are ordered and arrive, the old cabinets are carefully demolished and removed. Preparation of the space, including minor repairs or adjustments, occurs before the new cabinets are installed. Finally, hardware, trim, and any finishing touches are applied. Throughout the process, your contractor manages logistics and ensures quality.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, measurement, ordering, demolition, site preparation, installation, and final touches. A contractor manages each step."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, measurement, ordering, demolition, site preparation, installation, and final touches. A contractor manages each step."
+}

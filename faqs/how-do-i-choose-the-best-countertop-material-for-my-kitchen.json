@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-best-countertop-material-for-my-kitchen",
+  "name": "How do I choose the best countertop material for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best countertop material for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the best countertop material depends on your lifestyle, budget, aesthetic preferences, and how you use your kitchen. Consider factors like durability, heat resistance, scratch resistance, maintenance requirements, and overall appearance. For heavy use, quartz or granite are excellent. For a classic look, marble is beautiful but requires more care. Discussing your priorities with our experts can help you make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider your lifestyle, budget, aesthetics, and kitchen use when choosing a material. Durability, maintenance, and appearance are key factors."
+      }
+    }
+  ],
+  "description": "Consider your lifestyle, budget, aesthetics, and kitchen use when choosing a material. Durability, maintenance, and appearance are key factors."
+}

@@ -1,0 +1,26 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-you-licensed-and-insured",
+  "name": "Are you licensed and insured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are you licensed and insured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we are a licensed, bonded, and insured general contractor in Nevada. Our Nevada contractor license number is #0087469. We carry workers compensation and liability insurance for your protection.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we are a licensed, bonded, and insured general contractor in Nevada. Our Nevada contractor license number is #0087469. We carry workers compensation and li"
+}

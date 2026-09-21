@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-to-replace-kitchen-cabinets-during-a-renovation",
+  "name": "When is the best time to replace kitchen cabinets during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to replace kitchen cabinets during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to replace kitchen cabinets during a renovation is typically after demolition, rough plumbing, and electrical work are completed, but before flooring, countertops, and appliances are installed. This sequence protects your new cabinets from potential damage during messy construction phases and allows for accurate measurements for countertops. It also ensures utilities are in their final positions before cabinets are permanently fixed. We meticulously plan the project timeline to optimize efficiency and protect your investment.",
+        "@type": "Answer",
+        "description": "Replace kitchen cabinets after rough plumbing and electrical, but before flooring, countertops, and appliances, to protect them and ensure accuracy."
+      }
+    }
+  ],
+  "description": "Replace kitchen cabinets after rough plumbing and electrical, but before flooring, countertops, and appliances, to protect them and ensure accuracy."
+}

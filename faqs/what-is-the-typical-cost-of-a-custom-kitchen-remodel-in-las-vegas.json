@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-of-a-custom-kitchen-remodel-in-las-vegas",
+  "name": "What is the typical cost of a custom kitchen remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of a custom kitchen remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a custom kitchen remodel in Las Vegas varies significantly based on factors like size, materials, appliances, and the extent of structural changes. A basic remodel might start around $20,000, while a high-end custom project with premium finishes and major layout alterations could exceed $100,000. We provide detailed, transparent quotes after an initial consultation and design phase, ensuring all aspects of your vision are accounted for within your budget.",
+        "@type": "Answer",
+        "description": "Custom kitchen remodel costs in Las Vegas vary widely, from around $20,000 for basic updates to over $100,000 for high-end projects. A detailed quote is provided after consultation."
+      }
+    }
+  ],
+  "description": "Custom kitchen remodel costs in Las Vegas vary widely, from around $20,000 for basic updates to over $100,000 for high-end projects. A detailed quote is provide"
+}

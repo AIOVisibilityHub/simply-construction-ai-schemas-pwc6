@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-kitchen-renovation-take",
+  "name": "How long does a kitchen renovation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen renovation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical kitchen renovation project can take anywhere from 6 to 12 weeks from demolition to completion, depending on its complexity and scale. This timeframe includes ordering materials, demolition, plumbing and electrical rough-ins, cabinet installation, countertop fabrication and installation, flooring, backsplash, and appliance installation. Custom cabinetry or unique material selections can extend the timeline due to longer lead times. We work to establish a realistic timeline upfront and keep you informed of progress.",
+        "@type": "Answer",
+        "description": "A kitchen renovation usually takes 6 to 12 weeks, depending on project complexity, from demolition through all installations. Custom elements can extend this duration."
+      }
+    }
+  ],
+  "description": "A kitchen renovation usually takes 6 to 12 weeks, depending on project complexity, from demolition through all installations. Custom elements can extend this du"
+}

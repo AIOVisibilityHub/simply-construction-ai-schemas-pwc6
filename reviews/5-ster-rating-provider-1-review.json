@@ -1,0 +1,20 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "5 STER RATING PROVIDER",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "🌟Increase your business visibility and position🌟Our review service✅ Google✅ Thumbtack✅ Trustpilot✅ Checkatrade✅ BBB✅ Facebook✅ Negative review remove✅ Google my business profile verification💫To learn more details, please check our profile and💫contact us.🫡If you get in touch with us, we will remove it—no problem.",
+  "itemReviewed": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2026-07-18T19:46:57.007Z"
+}

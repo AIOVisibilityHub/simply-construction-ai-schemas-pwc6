@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-house-during-a-kitchen-remodel",
+  "name": "Can I live in my house during a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my house during a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in your house during a kitchen remodel is possible, but it requires careful planning and a high tolerance for disruption. The kitchen will be a construction zone, often without functional appliances, running water, or dust control. Most contractors will seal off the work area to minimize dust and disruption in other parts of your home. You'll need to set up a temporary cooking and cleaning station elsewhere, such as a garage or laundry room, utilizing a microwave, toaster oven, or grill. Discuss temporary living arrangements and dust mitigation strategies with your contractor before the project begins to set clear expectations.",
+        "@type": "Answer",
+        "description": "You can live at home during a kitchen remodel, but expect significant disruption; plan for a temporary kitchen and discuss dust control with your contractor."
+      }
+    }
+  ],
+  "description": "You can live at home during a kitchen remodel, but expect significant disruption; plan for a temporary kitchen and discuss dust control with your contractor."
+}

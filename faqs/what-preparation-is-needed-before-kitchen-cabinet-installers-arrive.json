@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-preparation-is-needed-before-kitchen-cabinet-installers-arrive",
+  "name": "What preparation is needed before kitchen cabinet installers arrive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before kitchen cabinet installers arrive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before kitchen cabinet installers arrive, it's crucial to clear out your existing kitchen. Remove all contents from old cabinets and countertops, disconnect plumbing and electrical appliances, and ensure the space is empty. We recommend having your old cabinets removed and any necessary wall repairs or painting completed beforehand. Ensure clear access to the kitchen area for our team and materials. We will confirm specific preparations during our pre-installation briefing to ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Before installers arrive, clear out your kitchen, remove old cabinets, disconnect utilities, and ensure the space is ready for new installation."
+      }
+    }
+  ],
+  "description": "Before installers arrive, clear out your kitchen, remove old cabinets, disconnect utilities, and ensure the space is ready for new installation."
+}

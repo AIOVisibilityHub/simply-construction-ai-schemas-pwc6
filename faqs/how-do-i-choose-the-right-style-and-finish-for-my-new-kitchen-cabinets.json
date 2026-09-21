@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-style-and-finish-for-my-new-kitchen-cabinets",
+  "name": "How do I choose the right style and finish for my new kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right style and finish for my new kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right style and finish involves considering your home's overall aesthetic, your personal taste, and the desired functionality of your kitchen. Look at existing flooring, wall colors, and other design elements to ensure coherence. Popular styles range from traditional and rustic to modern and minimalist. Consider durability and ease of cleaning for finishes, especially in high-traffic areas. Visiting showrooms, browsing design magazines, and consulting with a kitchen designer or contractor can help you visualize options and make an informed decision.",
+        "@type": "Answer",
+        "description": "Consider your home's aesthetic, personal taste, and desired functionality. Match styles and finishes to existing elements. Consult with a designer or contractor for guidance."
+      }
+    }
+  ],
+  "description": "Consider your home's aesthetic, personal taste, and desired functionality. Match styles and finishes to existing elements. Consult with a designer or contractor"
+}

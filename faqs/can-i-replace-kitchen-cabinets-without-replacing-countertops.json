@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-replace-kitchen-cabinets-without-replacing-countertops",
+  "name": "Can I replace kitchen cabinets without replacing countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I replace kitchen cabinets without replacing countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to replace kitchen cabinets without replacing countertops, but it requires careful planning and execution. The existing countertops must be gently removed and then reinstalled onto the new cabinets. This is more feasible with certain countertop materials, like laminate or solid surface, which are less prone to breaking during removal. Brittle materials like granite or quartz are at a higher risk of damage. Your contractor can assess the feasibility and potential risks based on your specific countertop material and cabinet layout.",
+        "@type": "Answer",
+        "description": "Yes, it's possible but challenging. Existing countertops must be carefully removed and reinstalled, which is easier with flexible materials like laminate. Brittle materials risk damage."
+      }
+    }
+  ],
+  "description": "Yes, it's possible but challenging. Existing countertops must be carefully removed and reinstalled, which is easier with flexible materials like laminate. Britt"
+}

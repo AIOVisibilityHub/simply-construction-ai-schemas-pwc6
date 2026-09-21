@@ -1,0 +1,26 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-areas-do-you-serve",
+  "name": "What areas do you serve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you serve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We serve Las Vegas, Henderson, North Las Vegas, Summerlin, Enterprise, Paradise, Spring Valley, Pahrump, Boulder City, and the surrounding areas.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "We serve Las Vegas, Henderson, North Las Vegas, Summerlin, Enterprise, Paradise, Spring Valley, Pahrump, Boulder City, and the surrounding areas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-kitchen-renovation-in-las-vegas",
+  "name": "Do I need permits for a kitchen renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, for most significant kitchen renovations in Las Vegas, you will likely need permits. This is especially true if the project involves altering the layout, moving walls, changing plumbing lines, or modifying electrical systems. Minor cosmetic updates like painting or replacing cabinets in their existing footprint typically do not require permits. We handle the permit application process for our clients, ensuring all work complies with local building codes and regulations in Las Vegas, Henderson, and surrounding areas.",
+        "@type": "Answer",
+        "description": "Most significant kitchen renovations in Las Vegas, especially those altering layout or utilities, require permits. We manage this process for you."
+      }
+    }
+  ],
+  "description": "Most significant kitchen renovations in Las Vegas, especially those altering layout or utilities, require permits. We manage this process for you."
+}

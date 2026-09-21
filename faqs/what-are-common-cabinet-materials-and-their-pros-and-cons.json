@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-cabinet-materials-and-their-pros-and-cons",
+  "name": "What are common cabinet materials and their pros and cons?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common cabinet materials and their pros and cons?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common cabinet materials include solid wood (like maple, oak, cherry), plywood, MDF (Medium-Density Fiberboard), and particleboard. Solid wood offers durability, natural beauty, and can be refinished, but it's prone to warping with humidity and is more expensive. Plywood is strong, stable, and moisture-resistant, making it a good mid-range option. MDF is economical, smooth for painting, and stable, but not as strong as wood or plywood. Particleboard is the most budget-friendly but least durable and susceptible to moisture damage. Your choice balances budget, durability, and aesthetic preference.",
+        "@type": "Answer",
+        "description": "Common cabinet materials include solid wood (durable but can warp), plywood (strong, stable), MDF (economical, smooth), and particleboard (least durable)."
+      }
+    }
+  ],
+  "description": "Common cabinet materials include solid wood (durable but can warp), plywood (strong, stable), MDF (economical, smooth), and particleboard (least durable)."
+}

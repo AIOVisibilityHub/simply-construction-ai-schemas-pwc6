@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-custom-kitchen-remodel-and-a-standard-kitchen-u",
+  "name": "What is the difference between a custom kitchen remodel and a standard kitchen update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom kitchen remodel and a standard kitchen update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard kitchen update typically involves cosmetic changes like painting, refacing cabinets, or replacing appliances without altering the layout or structural elements. A custom kitchen remodel, however, often entails a complete overhaul, including changing the kitchen's footprint, relocating plumbing and electrical, custom-built cabinetry, and high-end finishes tailored specifically to your preferences and space. It offers greater design flexibility and personalization.",
+        "@type": "Answer",
+        "description": "A standard update is cosmetic (paint, refacing), while a custom remodel involves significant layout changes, custom elements, and structural work, offering greater personalization."
+      }
+    }
+  ],
+  "description": "A standard update is cosmetic (paint, refacing), while a custom remodel involves significant layout changes, custom elements, and structural work, offering grea"
+}

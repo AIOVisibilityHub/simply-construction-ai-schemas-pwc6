@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-cabinet-materials-are-available-for-kitchen-replacement",
+  "name": "What types of cabinet materials are available for kitchen replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cabinet materials are available for kitchen replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common cabinet materials include solid wood (like maple, oak, cherry), which offers durability and a classic look. Plywood, particleboard, and medium-density fiberboard (MDF) are often used for cabinet boxes and can be finished with veneers or laminates for a variety of styles. Melamine and thermofoil provide budget-friendly options with diverse finishes. For countertops and sometimes doors, engineered materials like quartz or laminates are popular. Each material offers different aesthetic, durability, and cost benefits.",
+        "@type": "Answer",
+        "description": "Available materials include solid wood (maple, oak), plywood, particleboard, MDF, melamine, and thermofoil. Each offers different looks, durability, and price points."
+      }
+    }
+  ],
+  "description": "Available materials include solid wood (maple, oak), plywood, particleboard, MDF, melamine, and thermofoil. Each offers different looks, durability, and price p"
+}

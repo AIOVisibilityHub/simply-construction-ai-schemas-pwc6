@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-choose-custom-semi-custom-or-stock-cabinets-for-my-kitchen",
+  "name": "Should I choose custom, semi-custom, or stock cabinets for my kitchen?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I choose custom, semi-custom, or stock cabinets for my kitchen?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your choice between custom, semi-custom, and stock cabinets depends on your budget, design preferences, and kitchen layout. Stock cabinets are the most affordable and readily available but offer limited sizes and styles. Semi-custom cabinets provide more options for sizes, finishes, and accessories, allowing for a better fit and personalized look without the full cost of custom. Custom cabinets offer limitless design possibilities, precise fit for unique spaces, and the highest quality materials, but come at a premium price and longer lead time. We can help you weigh these options to find the best fit for your home.",
+        "@type": "Answer",
+        "description": "Choose custom for unique designs and precise fit, semi-custom for more options and better fit than stock, and stock for budget-friendliness and quick availability."
+      }
+    }
+  ],
+  "description": "Choose custom for unique designs and precise fit, semi-custom for more options and better fit than stock, and stock for budget-friendliness and quick availabili"
+}

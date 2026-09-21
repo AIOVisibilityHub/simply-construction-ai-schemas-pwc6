@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-return-on-investment-roi-for-a-kitchen-remodel",
+  "name": "What is the return on investment (ROI) for a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the return on investment (ROI) for a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen remodel generally offers one of the best returns on investment among home improvement projects, though the exact ROI can vary significantly. Mid-range kitchen remodels often recoup 50-70% of their cost at resale. High-end remodels may see a slightly lower percentage return, but they can greatly enhance a home's appeal and market value, particularly in competitive markets like Las Vegas. The ROI is influenced by the quality of work, the materials chosen, and how well the remodel aligns with neighborhood expectations and current design trends. Focus on functionality and timeless design for the best potential return.",
+        "@type": "Answer",
+        "description": "Kitchen remodels typically offer a strong return on investment, with mid-range projects often recouping 50-70% of costs at resale by enhancing home value and appeal."
+      }
+    }
+  ],
+  "description": "Kitchen remodels typically offer a strong return on investment, with mid-range projects often recouping 50-70% of costs at resale by enhancing home value and ap"
+}

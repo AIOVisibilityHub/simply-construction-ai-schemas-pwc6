@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-kitchen-cabinet-replacement-in-las-vegas",
+  "name": "What permits are required for kitchen cabinet replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for kitchen cabinet replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For simple cabinet replacement where the layout and plumbing/electrical connections remain unchanged, permits are typically not required in Las Vegas. However, if your project involves altering the kitchen's layout, moving plumbing lines, changing electrical outlets or wiring, or making structural modifications, permits from the city or county building department will likely be necessary. Your contractor should be knowledgeable about local regulations and can advise on specific permit requirements for your project.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for simple cabinet replacement without layout or utility changes. If plumbing, electrical, or layout is altered, permits are typically required from local building authorities."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for simple cabinet replacement without layout or utility changes. If plumbing, electrical, or layout is altered, permits are typi"
+}

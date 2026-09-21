@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-custom-kitchen-remodel-usually-take",
+  "name": "How long does a custom kitchen remodel usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a custom kitchen remodel usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a custom kitchen remodel depends on its complexity and scope. A smaller, cosmetic update might be completed in 4-6 weeks, while a full custom renovation involving layout changes, custom cabinetry, and high-end finishes typically takes 8-16 weeks from demolition to completion. This timeframe includes design, material ordering, and construction. Unexpected issues or material delays can occasionally extend the project duration.",
+        "@type": "Answer",
+        "description": "Custom kitchen remodels typically take 4-16 weeks, depending on complexity. This includes design, material ordering, and construction phases."
+      }
+    }
+  ],
+  "description": "Custom kitchen remodels typically take 4-16 weeks, depending on complexity. This includes design, material ordering, and construction phases."
+}

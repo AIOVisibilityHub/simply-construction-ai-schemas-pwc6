@@ -1,0 +1,20 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Rose Miller",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Gabby is so knowledgeable and also incredibly kind hearted! He is very thorough in what he does! Would highly recommend",
+  "itemReviewed": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2026-05-29T15:29:14.805Z"
+}

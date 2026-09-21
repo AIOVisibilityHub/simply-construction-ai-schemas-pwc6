@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-existing-kitchen-countertops",
+  "name": "What is the process for replacing existing kitchen countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing existing kitchen countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with a consultation and material selection. Next, we remove your old countertops carefully to minimize disruption. After removal, precise templates of your cabinets are made to ensure an exact fit. The new countertops are then fabricated based on these templates. Finally, the new countertops are delivered and professionally installed, including any necessary cutouts for sinks and cooktops, and sealing if required.",
+        "@type": "Answer",
+        "description": "The process involves consultation, old countertop removal, templating, fabrication, and professional installation of the new countertops."
+      }
+    }
+  ],
+  "description": "The process involves consultation, old countertop removal, templating, fabrication, and professional installation of the new countertops."
+}

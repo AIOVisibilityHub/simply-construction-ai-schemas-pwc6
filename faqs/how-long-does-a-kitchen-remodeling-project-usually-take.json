@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-kitchen-remodeling-project-usually-take",
+  "name": "How long does a kitchen remodeling project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a kitchen remodeling project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a kitchen remodeling project depends on its complexity. A basic cosmetic update involving painting, new fixtures, and appliance replacement might be completed in 3-4 weeks. A more extensive remodel that includes new cabinets, countertops, flooring, and minor layout changes typically takes 6-10 weeks from demolition to completion. Projects involving significant structural changes, custom cabinetry, or extensive plumbing and electrical work can extend to 10-16 weeks or longer. Unexpected issues, material delays, or changes during the project can also impact the timeline. We provide a detailed project schedule before starting work.",
+        "@type": "Answer",
+        "description": "Kitchen remodels can take from 3-4 weeks for basic updates to 10-16 weeks for extensive projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "description": "Kitchen remodels can take from 3-4 weeks for basic updates to 10-16 weeks for extensive projects, depending on complexity and scope."
+}

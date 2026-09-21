@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-a-kitchen-remodel-in-las-vegas",
+  "name": "What is the typical cost range for a kitchen remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a kitchen remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a kitchen remodel in Las Vegas varies significantly based on factors like the size of your kitchen, the quality of materials selected, and the extent of structural changes. Minor remodels, such as refacing cabinets and updating appliances, might range from $15,000 to $30,000. Mid-range remodels, which could include new semi-custom cabinets, new countertops, and some layout adjustments, often fall between $30,000 and $70,000. High-end, custom kitchen remodels involving extensive reconfigurations, premium materials, and professional-grade appliances can exceed $70,000 to $100,000 or more. A detailed estimate requires an on-site consultation.",
+        "@type": "Answer",
+        "description": "Kitchen remodel costs in Las Vegas typically range from $15,000 for minor updates to over $70,000 for high-end, custom projects, depending on size, materials, and scope."
+      }
+    }
+  ],
+  "description": "Kitchen remodel costs in Las Vegas typically range from $15,000 for minor updates to over $70,000 for high-end, custom projects, depending on size, materials, a"
+}

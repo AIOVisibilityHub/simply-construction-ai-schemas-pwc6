@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-be-present-during-the-countertop-installation",
+  "name": "Do I need to be present during the countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present during the countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly required for you to be present for the entire installation, we recommend that you are available at the beginning and end of the installation day. This allows you to address any immediate questions the installers may have and to review the finished work upon completion. We understand scheduling challenges and can work with you to arrange convenient times.",
+        "@type": "Answer",
+        "description": "We recommend being available at the start and end of installation to answer questions and review the finished work."
+      }
+    }
+  ],
+  "description": "We recommend being available at the start and end of installation to answer questions and review the finished work."
+}

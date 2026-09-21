@@ -1,0 +1,26 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-you-offer-free-estimates",
+  "name": "Do you offer free estimates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer free estimates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer a free, no-obligation estimate for your project. Simply contact us to schedule an appointment.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, we offer a free, no-obligation estimate for your project. Simply contact us to schedule an appointment."
+}

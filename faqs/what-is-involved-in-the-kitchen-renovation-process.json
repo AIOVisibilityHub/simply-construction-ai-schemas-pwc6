@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-kitchen-renovation-process",
+  "name": "What is involved in the kitchen renovation process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the kitchen renovation process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The kitchen renovation process typically begins with an initial consultation and design phase, where we discuss your vision, budget, and functional needs. This is followed by material selection, detailed planning, and securing any necessary permits. Construction then starts with demolition, followed by rough-ins for plumbing and electrical. Next are cabinet installation, countertop templating and installation, flooring, backsplash, and finally, appliance installation and finishing touches. Throughout, we manage the project to ensure a smooth progression.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, material selection, permitting, demolition, rough-ins, installations of cabinets, countertops, flooring, and appliances."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, material selection, permitting, demolition, rough-ins, installations of cabinets, countertops, flooring, and applianc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-kitchen-renovation-typically-cost-in-las-vegas",
+  "name": "How much does a kitchen renovation typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a kitchen renovation typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kitchen renovation costs in Las Vegas vary widely based on the scope of work, materials chosen, and the size of your kitchen. A minor refresh might start from $15,000, while a mid-range remodel could range from $30,000 to $70,000. High-end custom renovations with premium materials and significant layout changes can exceed $100,000. Factors like new cabinetry, countertops, appliances, flooring, and plumbing or electrical reconfigurations all impact the final price. We provide detailed estimates after an initial consultation to understand your specific needs.",
+        "@type": "Answer",
+        "description": "Kitchen renovation costs in Las Vegas vary greatly, from $15,000 for minor updates to over $100,000 for high-end projects, depending on materials and scope."
+      }
+    }
+  ],
+  "description": "Kitchen renovation costs in Las Vegas vary greatly, from $15,000 for minor updates to over $100,000 for high-end projects, depending on materials and scope."
+}

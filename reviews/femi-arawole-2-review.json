@@ -1,0 +1,20 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Femi Arawole",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "Best in Las Vegas!",
+  "itemReviewed": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2026-06-16T21:26:34.152Z"
+}

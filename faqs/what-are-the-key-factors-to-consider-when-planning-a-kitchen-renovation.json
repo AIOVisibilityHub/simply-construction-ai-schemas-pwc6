@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-key-factors-to-consider-when-planning-a-kitchen-renovation",
+  "name": "What are the key factors to consider when planning a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key factors to consider when planning a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a kitchen renovation, consider your budget, desired functionality, aesthetic preferences, and how long you plan to stay in your home. Think about your current kitchen's pain points and what improvements would enhance your daily life, such as more storage, better workflow, or updated appliances. Material choices for countertops, cabinets, and flooring should align with your lifestyle and maintenance expectations. Also, consider the overall style of your home to ensure a cohesive design.",
+        "@type": "Answer",
+        "description": "Key factors include budget, desired functionality, aesthetic style, material choices, and how the renovation will improve your daily use of the space."
+      }
+    }
+  ],
+  "description": "Key factors include budget, desired functionality, aesthetic style, material choices, and how the renovation will improve your daily use of the space."
+}

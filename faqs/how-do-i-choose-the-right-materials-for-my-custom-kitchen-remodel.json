@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-materials-for-my-custom-kitchen-remodel",
+  "name": "How do I choose the right materials for my custom kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right materials for my custom kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right materials involves balancing aesthetics, durability, functionality, and budget. Consider your lifestyle and how you use your kitchen. For instance, natural stone or quartz are popular for countertops due to durability and appearance. Cabinetry ranges from cost-effective laminates to high-end custom wood. Flooring options include tile, wood, or luxury vinyl. Our design team guides you through material selections, showcasing options that align with your style and practical needs.",
+        "@type": "Answer",
+        "description": "Consider your lifestyle, aesthetics, durability, and budget when choosing materials like countertops, cabinetry, and flooring. Our design team assists with selections."
+      }
+    }
+  ],
+  "description": "Consider your lifestyle, aesthetics, durability, and budget when choosing materials like countertops, cabinetry, and flooring. Our design team assists with sele"
+}

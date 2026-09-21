@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-ensure-the-cabinet-installation-in-my-las-vegas-home-meets-local-buildi",
+  "name": "How do I ensure the cabinet installation in my Las Vegas home meets local building codes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure the cabinet installation in my Las Vegas home meets local building codes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring cabinet installation in your Las Vegas home meets local building codes is part of our standard process. We are a licensed general contractor familiar with regulations in Las Vegas, North Las Vegas, Henderson, and surrounding areas. Our team stays updated on local codes, which typically cover structural integrity, accessibility, electrical, and plumbing aspects related to cabinet installation. We handle all necessary permits and inspections as part of the project scope, ensuring your new kitchen is not only beautiful but also compliant and safe.",
+        "@type": "Answer",
+        "description": "As a licensed general contractor in Las Vegas, we ensure all cabinet installations meet local building codes, handling permits and inspections."
+      }
+    }
+  ],
+  "description": "As a licensed general contractor in Las Vegas, we ensure all cabinet installations meet local building codes, handling permits and inspections."
+}

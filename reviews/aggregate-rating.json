@@ -1,0 +1,12 @@
+{
+  "url": "http://simplyconstructionlv.com",
+  "name": "Simply Construction",
+  "@type": "Organization",
+  "@context": "https://schema.org",
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "bestRating": 5,
+    "ratingValue": 5,
+    "reviewCount": 4
+  }
+}

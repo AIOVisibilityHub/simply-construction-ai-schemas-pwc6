@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-hire-a-separate-plumber-or-electrician-for-cabinet-installation",
+  "name": "Do I need to hire a separate plumber or electrician for cabinet installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire a separate plumber or electrician for cabinet installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, you will need a plumber and/or electrician if your cabinet installation involves relocating sinks, dishwashers, or changing the layout that affects electrical outlets or lighting. Our general contracting service means we can coordinate these trades for you, integrating their work seamlessly into the overall project timeline. For simpler installations where existing utility lines are not altered, separate professionals may not be required. We will identify any necessary utility work during the initial assessment.",
+        "@type": "Answer",
+        "description": "Separate plumbers or electricians are needed if cabinet installation involves relocating sinks, appliances, or changing electrical layouts."
+      }
+    }
+  ],
+  "description": "Separate plumbers or electricians are needed if cabinet installation involves relocating sinks, appliances, or changing electrical layouts."
+}

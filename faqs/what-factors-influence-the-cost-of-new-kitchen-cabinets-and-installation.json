@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-new-kitchen-cabinets-and-installation",
+  "name": "What factors influence the cost of new kitchen cabinets and installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of new kitchen cabinets and installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of new kitchen cabinets and installation is determined by several key factors. These include the cabinet material (e.g., MDF, solid wood, plywood), construction style (stock, semi-custom, or custom), finish, hardware selections, and the overall size and layout of your kitchen. Installation costs are influenced by labor rates, the complexity of the design, and any necessary modifications to the space. We provide a comprehensive quote after a consultation to ensure all aspects are covered.",
+        "@type": "Answer",
+        "description": "Cabinet material, construction style, finish, hardware, kitchen size, and labor rates all influence the cost of new kitchen cabinets and installation."
+      }
+    }
+  ],
+  "description": "Cabinet material, construction style, finish, hardware, kitchen size, and labor rates all influence the cost of new kitchen cabinets and installation."
+}

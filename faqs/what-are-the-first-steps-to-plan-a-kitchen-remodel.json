@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-first-steps-to-plan-a-kitchen-remodel",
+  "name": "What are the first steps to plan a kitchen remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to plan a kitchen remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps in planning a kitchen remodel involve defining your goals and budget. Start by identifying what you dislike about your current kitchen and what you hope to achieve, such as improved functionality, aesthetics, or storage. Research design styles and gather inspiration. Next, establish a realistic budget, including a contingency fund for unexpected costs. Finally, begin researching and contacting reputable general contractors in the Las Vegas area. A good contractor can help refine your vision, provide design insights, and offer accurate cost estimates for your project.",
+        "@type": "Answer",
+        "description": "Begin by defining your remodel goals, desired style, and budget. Then, research and contact local general contractors to discuss your vision and get estimates."
+      }
+    }
+  ],
+  "description": "Begin by defining your remodel goals, desired style, and budget. Then, research and contact local general contractors to discuss your vision and get estimates."
+}

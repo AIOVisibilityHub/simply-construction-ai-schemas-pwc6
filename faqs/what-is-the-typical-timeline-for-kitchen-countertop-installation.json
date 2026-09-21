@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-kitchen-countertop-installation",
+  "name": "What is the typical timeline for kitchen countertop installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for kitchen countertop installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for kitchen countertop installation can range from 1 to 3 weeks, depending on the material and project scope. After material selection, templating usually takes place within a few days. Fabrication can take 5-10 business days. Installation itself often takes 1-2 days. Custom orders or unusual materials may extend this timeframe. We strive to communicate clear timelines throughout the process.",
+        "@type": "Answer",
+        "description": "Installation timelines usually range from 1 to 3 weeks, including templating, fabrication, and installation."
+      }
+    }
+  ],
+  "description": "Installation timelines usually range from 1 to 3 weeks, including templating, fabrication, and installation."
+}

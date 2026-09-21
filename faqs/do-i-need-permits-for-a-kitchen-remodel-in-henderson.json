@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-kitchen-remodel-in-henderson",
+  "name": "Do I need permits for a kitchen remodel in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a kitchen remodel in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are typically required for most kitchen remodels in Henderson, especially if the project involves changes to plumbing, electrical, or structural elements, or if walls are being moved or removed. Even minor layout changes can necessitate permits to ensure compliance with local building codes and safety standards. Simply Construction manages the entire permitting process for your project, ensuring all work meets local regulations.",
+        "@type": "Answer",
+        "description": "Yes, permits are usually required for kitchen remodels in Henderson if plumbing, electrical, or structural changes are involved. We handle the entire permitting process."
+      }
+    }
+  ],
+  "description": "Yes, permits are usually required for kitchen remodels in Henderson if plumbing, electrical, or structural changes are involved. We handle the entire permitting"
+}

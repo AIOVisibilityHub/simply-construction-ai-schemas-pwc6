@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-do-to-prepare-my-home-for-a-kitchen-renovation",
+  "name": "What should I do to prepare my home for a kitchen renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do to prepare my home for a kitchen renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your kitchen renovation begins, it's advisable to clear out all cabinets and drawers, removing food, dishes, and small appliances. Set up a temporary kitchen in another area of your home if possible, with a microwave, refrigerator, and sink access. Protect adjacent rooms and furniture from dust by covering them with plastic sheeting and closing off doorways. Discuss with your contractor about utility shut-offs and access points to ensure a smooth start to the project.",
+        "@type": "Answer",
+        "description": "Prepare by clearing out the kitchen, setting up a temporary cooking area, protecting adjacent rooms from dust, and discussing utility access with your contractor."
+      }
+    }
+  ],
+  "description": "Prepare by clearing out the kitchen, setting up a temporary cooking area, protecting adjacent rooms from dust, and discussing utility access with your contracto"
+}

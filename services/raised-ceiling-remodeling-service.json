@@ -1,0 +1,109 @@
+{
+  "url": "http://simplyconstructionlv.com",
+  "name": "raised ceiling remodeling Services",
+  "@type": "GeneralContractor",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Las Vegas"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "GeneralContractor",
+    "telephone": "(702) 954-2840"
+  },
+  "telephone": "(702) 954-2840",
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "description": "Simply Construction provides raised ceiling remodeling in Las Vegas, North Las Vegas, Summerlin. Simply Construction is a full-service, licensed general contractor in Las Vegas, Nevada, providing remodeling, renovation, construction, repair, and improvement services for residential, multi-family, investment, and small commercial properties. We are licensed, bonded, and insured, with more than 30 years of hands-on experience helping property owners plan, permit, build, renovate, and maintain projects of all sizes.\n\nWe handle complete home remodeling projects, including custom kitchen remodeling, kitchen cabinet and countertop installation, bathroom renovations, walk-in showers, tub-to-shower conversions, tile work, vanity installation, flooring, lighting, layout changes, and open-concept remodeling. Our team also completes whole-home renovations, interior remodels, older-home updates, fixer-upper renovations, pre-move-in improvements, accessible remodeling, and aging-in-place home modifications.\n\nFor homeowners who need more space, Simply Construction builds room additions, home additions, bedroom additions, primary-suite additions, bathroom additions, family-room additions, home-office additions, second-story additions, garage additions, attached and detached garages, guest suites, in-law suites, and multigenerational living spaces. We also construct ADUs, casitas, granny flats, detached guest houses, backyard offices, pool houses, workshops, and garage conversions for bedrooms, living areas, home offices, guest suites, and rental units.\n\nOur structural remodeling capabilities include load-bearing wall removal, interior wall removal, structural beam installation, floor-plan redesign, home reconfiguration, kitchen expansion, living-room expansion, raised ceilings, vaulted ceiling conversions, and open-concept renovations. We coordinate the necessary planning, permits, inspections, demolition, trade scheduling, and construction work needed to complete complex improvement projects safely and in accordance with applicable Nevada requirements.\n\nSimply Construction also provides roofing services for residential and small commercial properties, including roof installation, roof replacement, roof repair, roof leak repair, storm-damage repair, tile roof repair, shingle roof replacement, flat roof repair and replacement, roof inspections, fascia repair, and soffit repair.\n\nExterior improvement services include window replacement, energy-efficient window installation, exterior door replacement, front door installation, sliding glass door replacement, patio door installation, French door installation, stucco repair, exterior renovation, concrete work, masonry, retaining walls, block walls, privacy walls, driveways, walkways, patios, slabs, pads, garage floors, and foundation-related concrete work.\n\nFor Las Vegas outdoor spaces, we design and build backyard remodels, covered patios, patio covers, concrete patios, paver patios, pergolas, gazebos, shade structures, outdoor kitchens, BBQ islands, built-in grills, outdoor fireplaces, fire pits, pool-deck improvements, landscaping, artificial turf, low-maintenance landscaping, drainage solutions, retaining walls, and other outdoor living features tailored to the property and how the owner plans to use the space.\n\nWe also serve commercial and income-producing properties with office remodeling, retail store remodeling, restaurant remodeling, medical office remodeling, commercial build-outs, tenant improvements, commercial restroom remodeling, commercial flooring installation, apartment renovations, rental property renovations, duplex and townhome renovations, condo remodeling, rental turnover renovations, make-ready work, and property maintenance remodeling.\n\nSimply Construction serves Las Vegas, North Las Vegas, Henderson, Summerlin, Paradise, Spring Valley, and surrounding Las Vegas Valley communities. Contact us to request a free, no-obligation estimate for your remodeling, construction, roofing, concrete, outdoor living, window and door, or commercial improvement project.",
+  "serviceType": "raised ceiling remodeling"
+}

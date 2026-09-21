@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-order-custom-kitchen-cabinets",
+  "name": "How long does it take to order custom kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to order custom kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lead time for custom kitchen cabinets can vary significantly. Once the design is finalized and measurements are confirmed, production typically takes between 6 to 12 weeks. This duration accounts for material sourcing, precise craftsmanship, and finishing processes. Factors like the complexity of the design, chosen materials, and the manufacturer's current workload can influence this timeline. It's important to plan accordingly, especially if you have a specific project completion date in mind.",
+        "@type": "Answer",
+        "description": "Ordering custom kitchen cabinets typically takes 6 to 12 weeks from finalized design to delivery, depending on complexity and materials."
+      }
+    }
+  ],
+  "description": "Ordering custom kitchen cabinets typically takes 6 to 12 weeks from finalized design to delivery, depending on complexity and materials."
+}

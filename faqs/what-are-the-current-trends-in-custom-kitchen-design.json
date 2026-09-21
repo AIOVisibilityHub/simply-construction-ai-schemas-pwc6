@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-current-trends-in-custom-kitchen-design",
+  "name": "What are the current trends in custom kitchen design?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the current trends in custom kitchen design?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current custom kitchen trends emphasize functionality, smart technology integration, and personalized aesthetics. Popular styles include modern farmhouse, transitional, and minimalist designs. We often see requests for large islands with seating, hidden pantries, integrated smart appliances, touchless faucets, and a mix of open shelving with traditional cabinetry. Sustainable and durable materials are also highly valued, as are spaces that flow seamlessly with adjoining living areas.",
+        "@type": "Answer",
+        "description": "Current trends include functional layouts, smart technology, large islands, hidden pantries, and sustainable materials. Popular styles are modern farmhouse and minimalist designs."
+      }
+    }
+  ],
+  "description": "Current trends include functional layouts, smart technology, large islands, hidden pantries, and sustainable materials. Popular styles are modern farmhouse and"
+}

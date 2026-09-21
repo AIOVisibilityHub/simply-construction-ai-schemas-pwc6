@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-replace-or-reface-my-kitchen-cabinets",
+  "name": "Should I replace or reface my kitchen cabinets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I replace or reface my kitchen cabinets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between replacing and refacing depends on your existing cabinet structure, budget, and desired outcome. Refacing, which involves replacing doors, drawer fronts, and applying new veneer, is a good option if your cabinet boxes are structurally sound and you're satisfied with their current layout. It's generally less expensive and quicker than full replacement. However, if your cabinets are damaged, have a poor layout, or you desire a completely new look and functionality, full replacement offers more design flexibility and a longer-lasting solution.",
+        "@type": "Answer",
+        "description": "Reface if existing cabinets are sound and you like the layout; it's faster and cheaper. Replace if cabinets are damaged, poorly laid out, or you want a completely new design and functionality."
+      }
+    }
+  ],
+  "description": "Reface if existing cabinets are sound and you like the layout; it's faster and cheaper. Replace if cabinets are damaged, poorly laid out, or you want a complete"
+}

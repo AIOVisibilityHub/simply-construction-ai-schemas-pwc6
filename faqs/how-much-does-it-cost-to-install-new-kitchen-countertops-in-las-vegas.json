@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-install-new-kitchen-countertops-in-las-vegas",
+  "name": "How much does it cost to install new kitchen countertops in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install new kitchen countertops in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of kitchen countertop installation in Las Vegas varies widely based on material, complexity of the project, and the total square footage. High-end materials like natural stone or premium quartz will be more expensive than laminate or basic solid surface. Additional factors include edge profiles, cutouts for sinks or cooktops, and removal of old countertops. We provide detailed, itemized quotes after a consultation to assess your specific needs.",
+        "@type": "Answer",
+        "description": "Countertop installation costs in Las Vegas vary by material, square footage, and project complexity. We provide custom quotes."
+      }
+    }
+  ],
+  "description": "Countertop installation costs in Las Vegas vary by material, square footage, and project complexity. We provide custom quotes."
+}

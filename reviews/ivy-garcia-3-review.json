@@ -1,0 +1,20 @@
+{
+  "@type": "Review",
+  "author": {
+    "name": "Ivy Garcia",
+    "@type": "Person"
+  },
+  "@context": "https://schema.org",
+  "reviewBody": "They recently remodeled our walk-in shower. They are detailed oriented, taking extra care that everything was exactly what we wanted. This is a very professional company.",
+  "itemReviewed": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2026-06-05T17:12:20.746Z"
+}

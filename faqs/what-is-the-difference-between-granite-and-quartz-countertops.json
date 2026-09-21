@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-granite-and-quartz-countertops",
+  "name": "What is the difference between granite and quartz countertops?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between granite and quartz countertops?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Granite is a natural stone, quarried from the earth, offering unique patterns and variations. It is durable, heat resistant, and requires periodic sealing. Quartz countertops are engineered stone, made from natural quartz crystals combined with resins and pigments. Quartz is non-porous, highly resistant to stains and scratches, and requires no sealing. Both are excellent choices, but quartz offers consistent patterns while granite provides natural uniqueness.",
+        "@type": "Answer",
+        "description": "Granite is natural stone, unique and requires sealing. Quartz is engineered, non-porous, consistent, and low maintenance."
+      }
+    }
+  ],
+  "description": "Granite is natural stone, unique and requires sealing. Quartz is engineered, non-porous, consistent, and low maintenance."
+}

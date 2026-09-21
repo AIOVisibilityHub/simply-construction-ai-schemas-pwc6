@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-that-my-kitchen-cabinets-need-to-be-replaced",
+  "name": "What are the signs that my kitchen cabinets need to be replaced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my kitchen cabinets need to be replaced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating your kitchen cabinets may need replacement include visible water damage, persistent mold or mildew growth, structural instability causing doors to sag or drawers to stick, and outdated styles that no longer match your home's aesthetic or functionality needs. Significant wear and tear, such as peeling laminate or deep scratches, can also warrant replacement, especially if repairs are no longer cost-effective or possible. Replacing cabinets can significantly improve kitchen efficiency and home value.",
+        "@type": "Answer",
+        "description": "Look for water damage, mold, structural instability, or significant wear and tear. Outdated styles that affect functionality or aesthetics are also strong indicators."
+      }
+    }
+  ],
+  "description": "Look for water damage, mold, structural instability, or significant wear and tear. Outdated styles that affect functionality or aesthetics are also strong indic"
+}

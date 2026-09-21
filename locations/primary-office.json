@@ -1,0 +1,14 @@
+{
+  "url": "http://simplyconstructionlv.com",
+  "name": "Simply Construction - Primary Office",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "89101",
+    "addressRegion": "Nevada",
+    "streetAddress": "723 S 3rd St",
+    "addressLocality": "Las Vegas"
+  },
+  "@context": "https://schema.org",
+  "telephone": "(702) 954-2840"
+}
