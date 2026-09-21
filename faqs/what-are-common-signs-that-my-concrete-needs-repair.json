@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-my-concrete-needs-repair",
+  "name": "What are common signs that my concrete needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that my concrete needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs that your concrete may need repair include cracks (especially if they are wide, deep, or spreading), spalling (flaking or chipping of the surface), uneven sections that can create tripping hazards, and discoloration or deterioration. Water pooling on concrete surfaces can also indicate an issue with drainage or settling. Addressing these issues early can prevent more extensive and costly repairs down the line.",
+        "@type": "Answer",
+        "description": "Look for cracks, spalling, uneven sections, or discoloration. Water pooling can also be a sign of concrete damage."
+      }
+    }
+  ],
+  "description": "Look for cracks, spalling, uneven sections, or discoloration. Water pooling can also be a sign of concrete damage."
+}

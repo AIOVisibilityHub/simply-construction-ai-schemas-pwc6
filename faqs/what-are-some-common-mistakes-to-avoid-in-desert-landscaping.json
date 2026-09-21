@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-some-common-mistakes-to-avoid-in-desert-landscaping",
+  "name": "What are some common mistakes to avoid in desert landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some common mistakes to avoid in desert landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes in desert landscaping include overwatering or underwatering, using non-drought-tolerant plants, and improper soil preparation. Overcrowding plants is another error, leading to poor air circulation and disease. Neglecting drainage can cause root rot, while insufficient planning results in a disjointed look. Also, choosing plants that are not suitable for the specific sun exposure or microclimate can lead to failure. It's crucial to select appropriate plants for the local desert environment and ensure efficient irrigation.",
+        "@type": "Answer",
+        "description": "Avoid over/underwatering, using unsuitable plants, poor soil prep, overcrowding, and bad drainage in desert landscaping. Plan for specific sun exposure."
+      }
+    }
+  ],
+  "description": "Avoid over/underwatering, using unsuitable plants, poor soil prep, overcrowding, and bad drainage in desert landscaping. Plan for specific sun exposure."
+}

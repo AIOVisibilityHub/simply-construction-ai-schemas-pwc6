@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-types-of-property-wall-damage",
+  "name": "What are common types of property wall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common types of property wall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property walls can experience various types of damage, including cracks due to foundation settlement or expansion and contraction from temperature changes. Water damage, often from leaks, can lead to rot in wooden structures or mold growth. Impact damage from vehicles or accidents is also common, especially for exterior walls. Additionally, general wear and tear, termite infestation, or poor original construction can contribute to wall deterioration, requiring professional assessment and repair to maintain structural integrity and appearance.",
+        "@type": "Answer",
+        "description": "Common wall damage includes cracks from settlement, water damage, impact damage, and general wear or pest infestation."
+      }
+    }
+  ],
+  "description": "Common wall damage includes cracks from settlement, water damage, impact damage, and general wear or pest infestation."
+}

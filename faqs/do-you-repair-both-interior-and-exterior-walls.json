@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-you-repair-both-interior-and-exterior-walls",
+  "name": "Do you repair both interior and exterior walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you repair both interior and exterior walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as a general contractor, we specialize in repairing both interior and exterior walls. Interior wall repairs often involve patching drywall, repairing plaster, fixing holes, or addressing water damage from leaks, ensuring a smooth and paint-ready finish. Exterior wall repairs can be more complex, encompassing stucco repair, brick repointing, siding replacement, or rectifying damage caused by weather, impact, or pests. We are equipped to handle diverse materials and conditions to restore the integrity and appearance of all types of property walls.",
+        "@type": "Answer",
+        "description": "Yes, we repair both interior walls (e.g., drywall, plaster, water damage) and exterior walls (e.g., stucco, brick, siding) to restore integrity and appearance."
+      }
+    }
+  ],
+  "description": "Yes, we repair both interior walls (e.g., drywall, plaster, water damage) and exterior walls (e.g., stucco, brick, siding) to restore integrity and appearance."
+}

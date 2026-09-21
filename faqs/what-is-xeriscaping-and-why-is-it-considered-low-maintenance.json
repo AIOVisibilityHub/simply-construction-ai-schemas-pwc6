@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-xeriscaping-and-why-is-it-considered-low-maintenance",
+  "name": "What is xeriscaping and why is it considered low-maintenance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is xeriscaping and why is it considered low-maintenance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Xeriscaping is a landscaping method focused on water conservation, primarily achieved through drought-tolerant plants and efficient irrigation. It's considered low-maintenance because it significantly reduces the need for watering, mowing, and extensive fertilizing. By choosing plants native to arid regions, like those found around Las Vegas, landscapes require less intervention to thrive. This approach also often incorporates mulches like gravel or decomposed granite, which suppress weeds and retain soil moisture, further minimizing upkeep.",
+        "@type": "Answer",
+        "description": "Xeriscaping is a water-efficient landscaping method using drought-tolerant plants, reducing the need for watering, mowing, and fertilizing. It's low-maintenance because it thrives with minimal intervention."
+      }
+    }
+  ],
+  "description": "Xeriscaping is a water-efficient landscaping method using drought-tolerant plants, reducing the need for watering, mowing, and fertilizing. It's low-maintenance"
+}

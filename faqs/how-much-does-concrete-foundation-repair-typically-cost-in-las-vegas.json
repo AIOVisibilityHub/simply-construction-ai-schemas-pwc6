@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-concrete-foundation-repair-typically-cost-in-las-vegas",
+  "name": "How much does concrete foundation repair typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does concrete foundation repair typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete foundation repair in Las Vegas varies significantly based on the extent of the damage, the repair method required, and the size of your home. Minor crack repairs might be hundreds of dollars, while more extensive structural issues involving piering or slab jacking could range from several thousand to tens of thousands of dollars. A professional inspection is necessary to provide an accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on damage extent and repair methods, from hundreds for minor cracks to thousands for structural issues. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on damage extent and repair methods, from hundreds for minor cracks to thousands for structural issues. An inspection provides an accura"
+}

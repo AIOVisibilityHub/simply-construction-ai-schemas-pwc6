@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-does-driveway-expansion-affect-drainage-and-landscaping",
+  "name": "How does driveway expansion affect drainage and landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does driveway expansion affect drainage and landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Driveway expansion significantly impacts drainage and landscaping. A poorly planned expansion can disrupt natural water flow, leading to pooling, erosion, or water damage to your home or yard. We meticulously plan expansions to incorporate proper grading and drainage solutions, such as channels or catch basins, to redirect water effectively. For landscaping, we work to minimize disruption, and in many cases, the expanded driveway can be designed to integrate seamlessly, enhancing the overall aesthetic of your property.",
+        "@type": "Answer",
+        "description": "Driveway expansion must be carefully planned to ensure proper drainage and avoid water issues. We design solutions to integrate with your landscaping and prevent water damage."
+      }
+    }
+  ],
+  "description": "Driveway expansion must be carefully planned to ensure proper drainage and avoid water issues. We design solutions to integrate with your landscaping and preven"
+}

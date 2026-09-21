@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-customize-the-look-of-my-new-concrete-driveway",
+  "name": "Can I customize the look of my new concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the look of my new concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, concrete driveways offer a wide range of customization options. You can choose from various finishes, including broom finish, exposed aggregate, or stamped concrete which can mimic the look of natural stone, brick, or pavers. Color pigments can be added to the concrete mix or applied as stains to achieve specific aesthetic effects. These options allow you to design a driveway that complements your home's style.",
+        "@type": "Answer",
+        "description": "Concrete driveways can be customized with various finishes like stamped, exposed aggregate, and different colors or stains."
+      }
+    }
+  ],
+  "description": "Concrete driveways can be customized with various finishes like stamped, exposed aggregate, and different colors or stains."
+}

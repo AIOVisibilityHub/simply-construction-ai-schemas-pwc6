@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-type-of-artificial-turf-for-my-yard",
+  "name": "How do I choose the right type of artificial turf for my yard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right type of artificial turf for my yard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right artificial turf involves considering your primary needs and aesthetic preferences. Factors include fiber height (pile height), density, color, and backing material. For high-traffic areas, such as play zones or pet runs, a shorter, denser pile with robust backing is often recommended for durability. If aesthetics are paramount, a taller, softer pile might be preferred for a lush look. Consider also the shade and hue that best complement your landscape design. We can guide you through samples and discuss the pros and cons of different turf styles based on your specific application and budget during a consultation.",
+        "@type": "Answer",
+        "description": "Select artificial turf based on pile height, density, color, and backing material, considering traffic, aesthetics, and specific uses, with expert guidance available."
+      }
+    }
+  ],
+  "description": "Select artificial turf based on pile height, density, color, and backing material, considering traffic, aesthetics, and specific uses, with expert guidance avai"
+}

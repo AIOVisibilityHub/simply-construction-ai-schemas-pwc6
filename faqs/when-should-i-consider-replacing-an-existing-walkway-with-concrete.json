@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-replacing-an-existing-walkway-with-concrete",
+  "name": "When should I consider replacing an existing walkway with concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider replacing an existing walkway with concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider replacing an existing walkway with concrete if it shows significant signs of deterioration such as extensive cracking, crumbling, uneven settlement, or pervasive weed growth between pavers. These issues not only create safety hazards but also detract from your property's curb appeal. Upgrading to a new concrete walkway offers a fresh, durable, and aesthetically pleasing solution that enhances both the look and functionality of your outdoor space.",
+        "@type": "Answer",
+        "description": "Replace an existing walkway with concrete if it has extensive cracks, crumbling, uneven sections, or pervasive weeds, as these indicate significant deterioration and safety issues."
+      }
+    }
+  ],
+  "description": "Replace an existing walkway with concrete if it has extensive cracks, crumbling, uneven sections, or pervasive weeds, as these indicate significant deterioratio"
+}

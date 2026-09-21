@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-dry-stacked-and-mortared-stone-installation",
+  "name": "What is the difference between dry-stacked and mortared stone installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between dry-stacked and mortared stone installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Dry-stacked stone installation involves carefully fitting stones together without mortar, relying on gravity, friction, and the stone's natural shape for stability. This method often creates a rustic, permeable aesthetic, ideal for garden walls or natural-looking features. Mortared installation, conversely, uses a cement-based mixture to bind stones together, creating a more rigid, durable, and less permeable structure. Mortared applications are common for load-bearing walls, patios, and outdoor fireplaces, offering greater structural integrity and a more refined finish.",
+        "@type": "Answer",
+        "description": "Dry-stacked stone uses no mortar, relying on stone fit for a rustic, permeable look. Mortared stone uses cement to bind, creating a rigid, durable, and less permeable structure for load-bearing or refined features."
+      }
+    }
+  ],
+  "description": "Dry-stacked stone uses no mortar, relying on stone fit for a rustic, permeable look. Mortared stone uses cement to bind, creating a rigid, durable, and less per"
+}

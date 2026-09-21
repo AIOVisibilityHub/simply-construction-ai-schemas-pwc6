@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-concrete-walkway-in-las-vegas",
+  "name": "What factors influence the cost of a concrete walkway in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a concrete walkway in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a concrete walkway in Las Vegas is determined by several factors, including the total square footage, the thickness of the concrete, required site preparation (e.g., excavation, grading), the type of finish chosen (e.g., broom, stamped, exposed aggregate), and any special design elements like curves or steps. Accessibility to the site can also impact labor costs. We provide a detailed estimate after assessing your specific project needs.",
+        "@type": "Answer",
+        "description": "Cost factors include walkway size, concrete thickness, site preparation, chosen finish, design complexity, and site accessibility, all common in Las Vegas projects."
+      }
+    }
+  ],
+  "description": "Cost factors include walkway size, concrete thickness, site preparation, chosen finish, design complexity, and site accessibility, all common in Las Vegas proje"
+}

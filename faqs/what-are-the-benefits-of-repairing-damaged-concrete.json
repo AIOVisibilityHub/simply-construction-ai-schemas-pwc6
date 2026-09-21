@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-repairing-damaged-concrete",
+  "name": "What are the benefits of repairing damaged concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of repairing damaged concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing damaged concrete offers several key benefits. It restores the structural integrity of your surfaces, preventing further deterioration and extending their lifespan. Repair also improves safety by eliminating trip hazards caused by cracks or unevenness. Aesthetically, it enhances your property's appearance and can increase its curb appeal. Timely repairs are generally more cost-effective than full concrete replacement, saving you money in the long term while maintaining functionality.",
+        "@type": "Answer",
+        "description": "Repairing damaged concrete restores structural integrity, improves safety by removing trip hazards, enhances appearance, and is more cost-effective than full replacement."
+      }
+    }
+  ],
+  "description": "Repairing damaged concrete restores structural integrity, improves safety by removing trip hazards, enhances appearance, and is more cost-effective than full re"
+}

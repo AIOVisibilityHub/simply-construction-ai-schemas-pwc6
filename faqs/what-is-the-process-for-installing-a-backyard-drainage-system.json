@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-backyard-drainage-system",
+  "name": "What is the process for installing a backyard drainage system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a backyard drainage system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with a site assessment to identify the source and path of water issues. Next, a customized drainage plan is designed. Installation involves excavation of trenches, laying down drainage fabric, placing pipes or other drainage components, backfilling with appropriate materials like gravel and soil, and restoring the landscape. Final steps include testing the system to ensure proper water flow and cleanup. Permitting may be required depending on the scope.",
+        "@type": "Answer",
+        "description": "The process involves assessment, design, excavation, component installation, backfilling, landscape restoration, and system testing."
+      }
+    }
+  ],
+  "description": "The process involves assessment, design, excavation, component installation, backfilling, landscape restoration, and system testing."
+}

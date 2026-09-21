@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-pour-and-cure-a-concrete-foundation",
+  "name": "How long does it take to pour and cure a concrete foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to pour and cure a concrete foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pouring of a concrete foundation for a typical residential home can often be completed in one day, assuming proper site preparation is done beforehand. However, the concrete then needs to cure. While it reaches about 70% of its strength within the first 7 days, a full cure can take 28 days or more, depending on the mix and environmental conditions. Construction can often proceed on the foundation after a few days to a week, but full strength is achieved later.",
+        "@type": "Answer",
+        "description": "Pouring takes about one day, but concrete needs 7 days for initial curing and 28+ days for full strength. Construction can often start after a few days."
+      }
+    }
+  ],
+  "description": "Pouring takes about one day, but concrete needs 7 days for initial curing and 28+ days for full strength. Construction can often start after a few days."
+}

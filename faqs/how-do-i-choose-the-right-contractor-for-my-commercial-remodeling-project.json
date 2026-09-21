@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-commercial-remodeling-project",
+  "name": "How do I choose the right contractor for my commercial remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my commercial remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a commercial remodeling contractor, look for experience with similar projects, valid licensing and insurance, and a strong portfolio. Request references from previous commercial clients and verify their satisfaction. A good contractor should offer transparent communication, detailed proposals, and a clear understanding of your business needs and project goals. Ensure they are familiar with local Las Vegas building codes and have a proven track record of completing projects on time and within budget. Obtain multiple bids for comparison.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, valid licensing, insurance, strong references, clear communication, and local code familiarity, and compare bids."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, valid licensing, insurance, strong references, clear communication, and local code familiarity, and compare bids."
+}

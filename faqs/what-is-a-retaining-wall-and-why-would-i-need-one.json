@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-retaining-wall-and-why-would-i-need-one",
+  "name": "What is a retaining wall and why would I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a retaining wall and why would I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A retaining wall is a structure designed to hold back soil and prevent erosion on slopes. They are commonly used in landscaping to create level areas, manage water runoff, and enhance usable space in yards. You might need one if you have a sloped property, wish to prevent soil erosion, or want to create terraced gardens. They also provide structural support for foundations or other landscape features on uneven terrain, helping to stabilize the ground and improve property aesthetics and functionality. For properties in areas like Las Vegas, managing water flow and erosion can be particularly important due to the desert climate and potential for flash floods.",
+        "@type": "Answer",
+        "description": "A retaining wall holds back soil on slopes to prevent erosion, create level areas, or manage water runoff. They are essential for stabilizing uneven terrain and improving landscape functionality."
+      }
+    }
+  ],
+  "description": "A retaining wall holds back soil on slopes to prevent erosion, create level areas, or manage water runoff. They are essential for stabilizing uneven terrain and"
+}

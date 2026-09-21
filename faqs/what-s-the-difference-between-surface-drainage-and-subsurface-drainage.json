@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-surface-drainage-and-subsurface-drainage",
+  "name": "What's the difference between surface drainage and subsurface drainage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between surface drainage and subsurface drainage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surface drainage deals with water that flows across the ground. Solutions include grading your yard to direct water away, installing catch basins or trench drains to collect runoff, and using swales. Subsurface drainage addresses water beneath the ground's surface. French drains are a common subsurface solution, using perforated pipes underground to collect and channel away excess groundwater before it can cause problems. Often, a combination of both is most effective.",
+        "@type": "Answer",
+        "description": "Surface drainage manages water on the ground (e.g., grading), while subsurface drainage manages water beneath the ground (e.g., French drains)."
+      }
+    }
+  ],
+  "description": "Surface drainage manages water on the ground (e.g., grading), while subsurface drainage manages water beneath the ground (e.g., French drains)."
+}

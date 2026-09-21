@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-concrete-driveway-repairs-are-available",
+  "name": "What types of concrete driveway repairs are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of concrete driveway repairs are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common concrete driveway repairs include crack filling for minor surface cracks, patching for spalled or pitted areas, and slab jacking (or mudjacking/polyjacking) to lift sunken concrete sections back to their original level. For more extensive damage, partial slab replacement may be necessary, where only damaged sections are removed and repoured. The chosen repair method depends on the type, size, and depth of the damage, aiming to restore both functionality and appearance.",
+        "@type": "Answer",
+        "description": "Available repairs include crack filling, patching, slab jacking for sunken areas, and partial slab replacement for extensive damage."
+      }
+    }
+  ],
+  "description": "Available repairs include crack filling, patching, slab jacking for sunken areas, and partial slab replacement for extensive damage."
+}

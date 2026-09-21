@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-causes-cracks-and-damage-in-concrete-driveways",
+  "name": "What causes cracks and damage in concrete driveways?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes cracks and damage in concrete driveways?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cracks and damage in concrete driveways are often caused by various factors, including ground movement due to expansive soils or settling, freeze-thaw cycles, heavy vehicle loads, improper installation with inadequate sub-base preparation, and tree root intrusion. Water infiltration can also exacerbate existing cracks, leading to further deterioration. Over time, normal wear and tear and exposure to the elements contribute to the degradation of the concrete surface. Identifying the root cause helps determine the most effective repair strategy.",
+        "@type": "Answer",
+        "description": "Cracks are typically caused by ground movement, freeze-thaw cycles, heavy loads, improper installation, tree roots, and water infiltration."
+      }
+    }
+  ],
+  "description": "Cracks are typically caused by ground movement, freeze-thaw cycles, heavy loads, improper installation, tree roots, and water infiltration."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-prepare-before-contacting-a-contractor-for-my-remodel",
+  "name": "What should I prepare before contacting a contractor for my remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a contractor for my remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a contractor, it's helpful to have a clear vision of your remodeling goals, including what you want to achieve functionally and aesthetically. Consider your budget range, desired timeline, and any specific requirements or ideas you have for the space. Gathering inspiration photos, a general idea of materials, and understanding your business's operational needs will make the initial consultation more productive and allow the contractor to provide a more accurate assessment.",
+        "@type": "Answer",
+        "description": "Prepare your remodeling goals, budget, timeline, and any specific requirements or ideas you have. Gathering inspiration and material preferences is also helpful."
+      }
+    }
+  ],
+  "description": "Prepare your remodeling goals, budget, timeline, and any specific requirements or ideas you have. Gathering inspiration and material preferences is also helpful"
+}

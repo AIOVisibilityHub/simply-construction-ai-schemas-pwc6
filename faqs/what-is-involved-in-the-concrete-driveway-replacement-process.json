@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-concrete-driveway-replacement-process",
+  "name": "What is involved in the concrete driveway replacement process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the concrete driveway replacement process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The concrete driveway replacement process typically involves several key steps. First, the old driveway is demolished and removed. Next, the sub-base is prepared and compacted to ensure a stable foundation, often including grading for proper drainage. Forms are then set, and any necessary rebar or wire mesh is laid. Finally, the new concrete is poured, leveled, and finished. After pouring, the concrete requires a specific curing period before use.",
+        "@type": "Answer",
+        "description": "The process includes demolition, sub-base preparation, setting forms, pouring and finishing new concrete, followed by a curing period."
+      }
+    }
+  ],
+  "description": "The process includes demolition, sub-base preparation, setting forms, pouring and finishing new concrete, followed by a curing period."
+}

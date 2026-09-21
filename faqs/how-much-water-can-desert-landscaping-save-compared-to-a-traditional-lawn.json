@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-water-can-desert-landscaping-save-compared-to-a-traditional-lawn",
+  "name": "How much water can desert landscaping save compared to a traditional lawn?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much water can desert landscaping save compared to a traditional lawn?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Desert landscaping can significantly reduce water usage, often by 50% to 75% or even more, compared to traditional grass lawns. A typical lawn requires frequent, deep watering, especially in arid climates, which leads to high water consumption. Drought-tolerant plants, on the other hand, are adapted to thrive with minimal supplemental irrigation once established. Implementing efficient drip irrigation further maximizes water savings by delivering water directly to plant roots with less evaporation.",
+        "@type": "Answer",
+        "description": "Desert landscaping can save 50-75% or more water compared to traditional lawns due to drought-tolerant plants and efficient irrigation."
+      }
+    }
+  ],
+  "description": "Desert landscaping can save 50-75% or more water compared to traditional lawns due to drought-tolerant plants and efficient irrigation."
+}

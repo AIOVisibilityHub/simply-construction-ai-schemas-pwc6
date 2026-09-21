@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-concrete-garage-floor-repair-usually-take",
+  "name": "How long does concrete garage floor repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does concrete garage floor repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of concrete garage floor repair depends on the scope of the project. Small crack repairs or minor patching might be completed in a single day. More extensive work, such as surface resurfacing, slab leveling, or significant structural repairs, can take several days to a week. The curing time for materials like epoxy or new concrete overlays also adds to the overall timeline before the garage floor can be fully used. Your contractor can provide an estimated timeframe after assessing the damage.",
+        "@type": "Answer",
+        "description": "Repair time varies from a single day for minor work to several days or a week for extensive projects, plus curing time."
+      }
+    }
+  ],
+  "description": "Repair time varies from a single day for minor work to several days or a week for extensive projects, plus curing time."
+}

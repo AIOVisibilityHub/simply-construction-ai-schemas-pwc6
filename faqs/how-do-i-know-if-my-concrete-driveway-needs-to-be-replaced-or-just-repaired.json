@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-my-concrete-driveway-needs-to-be-replaced-or-just-repaired",
+  "name": "How do I know if my concrete driveway needs to be replaced or just repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my concrete driveway needs to be replaced or just repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your concrete driveway has extensive cracking (especially spiderweb or deep, wide cracks), large potholes, significant unevenness that causes tripping hazards or drainage issues, or crumbling sections, replacement is generally recommended. Minor, hairline cracks or small spalling might be repairable. A professional inspection can accurately determine the best course of action based on the damage extent and underlying causes.",
+        "@type": "Answer",
+        "description": "Extensive cracking, large potholes, or significant unevenness usually indicate replacement is needed. Minor damage may be repairable."
+      }
+    }
+  ],
+  "description": "Extensive cracking, large potholes, or significant unevenness usually indicate replacement is needed. Minor damage may be repairable."
+}

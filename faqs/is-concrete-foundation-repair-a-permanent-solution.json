@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/is-concrete-foundation-repair-a-permanent-solution",
+  "name": "Is concrete foundation repair a permanent solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is concrete foundation repair a permanent solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When performed correctly by experienced professionals using appropriate methods, concrete foundation repair is designed to be a long-lasting and often permanent solution. The goal is to stabilize the foundation and address the underlying causes of settlement or cracking. Many repair methods, such as piering, offer lifetime transferable warranties. However, ongoing maintenance, like proper drainage around the foundation, is still important to prevent new issues from developing.",
+        "@type": "Answer",
+        "description": "Yes, professional concrete foundation repair is designed to be a long-lasting solution, often with warranties, but proper drainage is still key."
+      }
+    }
+  ],
+  "description": "Yes, professional concrete foundation repair is designed to be a long-lasting solution, often with warranties, but proper drainage is still key."
+}

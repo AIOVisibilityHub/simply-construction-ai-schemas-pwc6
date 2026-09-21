@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-prevent-future-damage-to-my-concrete-driveway",
+  "name": "How can I prevent future damage to my concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future damage to my concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preventing future driveway damage involves several key practices. Ensure proper drainage away from the driveway to prevent water accumulation. Avoid parking extremely heavy vehicles beyond the driveway's design capacity. Promptly seal cracks as they appear to prevent water infiltration and freeze-thaw damage. Consider applying a concrete sealer every few years to protect the surface from weather and chemical exposure. Regularly sweeping and cleaning the driveway also helps identify small issues before they escalate.",
+        "@type": "Answer",
+        "description": "Prevent damage by ensuring drainage, avoiding heavy loads, sealing cracks promptly, applying a concrete sealer, and regular cleaning."
+      }
+    }
+  ],
+  "description": "Prevent damage by ensuring drainage, avoiding heavy loads, sealing cracks promptly, applying a concrete sealer, and regular cleaning."
+}

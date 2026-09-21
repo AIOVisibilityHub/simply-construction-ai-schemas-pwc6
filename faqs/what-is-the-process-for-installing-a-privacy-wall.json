@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-privacy-wall",
+  "name": "What is the process for installing a privacy wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a privacy wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The privacy wall installation process typically begins with an initial consultation and site assessment to understand your needs and property layout. This is followed by design finalization and material selection. Once plans are approved and permits (if needed) are secured, the site is prepared, which may involve clearing and grading. Footings are then laid, and the wall structure is erected. The final steps include finishing touches, cleanup, and a final walkthrough. We ensure clear communication throughout each stage.",
+        "@type": "Answer",
+        "description": "The process includes consultation, design, material selection, permitting, site preparation, construction, and finishing, with clear communication at every step."
+      }
+    }
+  ],
+  "description": "The process includes consultation, design, material selection, permitting, site preparation, construction, and finishing, with clear communication at every step"
+}

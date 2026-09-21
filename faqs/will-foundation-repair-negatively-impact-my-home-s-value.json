@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-foundation-repair-negatively-impact-my-home-s-value",
+  "name": "Will foundation repair negatively impact my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will foundation repair negatively impact my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "On the contrary, properly executed foundation repair can preserve or even increase your home's value. Undisclosed or unrepaired foundation issues can significantly deter buyers and reduce property value. By addressing the problems and ensuring the structural integrity of your home, you eliminate a major concern for potential buyers and protect your investment. Many repairs come with transferable warranties, which can be an attractive selling point.",
+        "@type": "Answer",
+        "description": "Properly done foundation repair protects and can increase your home's value by resolving a major structural concern, often with a transferable warranty."
+      }
+    }
+  ],
+  "description": "Properly done foundation repair protects and can increase your home's value by resolving a major structural concern, often with a transferable warranty."
+}

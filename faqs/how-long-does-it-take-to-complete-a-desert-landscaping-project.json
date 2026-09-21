@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-complete-a-desert-landscaping-project",
+  "name": "How long does it take to complete a desert landscaping project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a desert landscaping project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a desert landscaping project depends on its scope and complexity. A small-scale conversion or refresh might be completed within a few days to a week. Larger projects involving extensive hardscaping, grading, irrigation installation, and multiple planting zones could take several weeks, or even a few months for very intricate designs. Factors like weather, material availability, and permit requirements (if applicable) can also influence the timeline. Your contractor can provide a more precise schedule after design finalization.",
+        "@type": "Answer",
+        "description": "Project duration varies: small desert landscaping can take days to a week, while larger, complex designs may take several weeks to months."
+      }
+    }
+  ],
+  "description": "Project duration varies: small desert landscaping can take days to a week, while larger, complex designs may take several weeks to months."
+}

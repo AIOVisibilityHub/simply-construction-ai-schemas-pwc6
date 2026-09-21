@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-a-small-business-remodeling-project",
+  "name": "What is the typical process for a small business remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a small business remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The remodeling process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, our team will conduct an on-site visit to assess the space and gather necessary measurements. We then develop a detailed proposal including design concepts, material selections, and a transparent cost estimate. Once approved, we handle permitting, scheduling, and project management, keeping you informed at each stage from demolition to final walk-through. Our goal is to minimize disruption to your business operations.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site assessment, proposal development, permitting, and project execution, with clear communication throughout."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site assessment, proposal development, permitting, and project execution, with clear communication throughout."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-stone-retaining-wall",
+  "name": "What is the process for installing a stone retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a stone retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Installing a stone retaining wall involves several key steps to ensure stability and longevity. First, the site is prepared, including excavation for the foundation and proper drainage. A stable base, often gravel and compacted soil, is then established. Stones are carefully laid in courses, typically with a slight backward lean, and secured using mortar or interlocking mechanisms, depending on the wall type. Backfilling and compaction complete the process, ensuring the wall effectively holds back soil and manages erosion.",
+        "@type": "Answer",
+        "description": "The process for installing a stone retaining wall includes site preparation, foundation excavation, creating a stable base, carefully laying and securing stones, and proper backfilling."
+      }
+    }
+  ],
+  "description": "The process for installing a stone retaining wall includes site preparation, foundation excavation, creating a stable base, carefully laying and securing stones"
+}

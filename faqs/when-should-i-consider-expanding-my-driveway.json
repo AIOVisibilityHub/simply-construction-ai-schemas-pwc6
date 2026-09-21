@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-expanding-my-driveway",
+  "name": "When should I consider expanding my driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider expanding my driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider expanding your driveway if your current parking space is insufficient for your vehicles, if you frequently host guests and need more off-street parking, or if you plan to add a new garage or carport. Expanding can also improve vehicle maneuverability, reduce lawn damage from parking on grass, and enhance your home's curb appeal and functionality. It's a practical solution for growing families or those seeking to optimize their property's utility.",
+        "@type": "Answer",
+        "description": "Consider expanding your driveway if you need more parking, better vehicle maneuverability, or want to enhance curb appeal and prevent lawn damage."
+      }
+    }
+  ],
+  "description": "Consider expanding your driveway if you need more parking, better vehicle maneuverability, or want to enhance curb appeal and prevent lawn damage."
+}

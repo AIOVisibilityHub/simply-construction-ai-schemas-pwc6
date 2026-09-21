@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-installing-a-stone-water-feature",
+  "name": "When should I consider installing a stone water feature?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing a stone water feature?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider installing a stone water feature if you want to add tranquility, visual interest, and a unique focal point to your landscape. They are ideal for creating calming sounds, attracting local wildlife, and enhancing the overall ambiance of your outdoor living space. A water feature can also help to mask unwanted noise and provide a cool, refreshing element, particularly beneficial in arid climates like Las Vegas. It's an excellent addition for those seeking to elevate their garden's sensory experience.",
+        "@type": "Answer",
+        "description": "Install a stone water feature to add tranquility, visual interest, and a unique focal point to your landscape, creating calming sounds and enhancing ambiance."
+      }
+    }
+  ],
+  "description": "Install a stone water feature to add tranquility, visual interest, and a unique focal point to your landscape, creating calming sounds and enhancing ambiance."
+}

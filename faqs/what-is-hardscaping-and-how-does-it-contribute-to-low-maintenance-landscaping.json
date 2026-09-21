@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-hardscaping-and-how-does-it-contribute-to-low-maintenance-landscaping",
+  "name": "What is hardscaping and how does it contribute to low-maintenance landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is hardscaping and how does it contribute to low-maintenance landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hardscaping refers to the non-living elements in a landscape design, such as patios, walkways, retaining walls, decorative rocks, and fire pits. It significantly contributes to low-maintenance landscaping by reducing the amount of planted area, which in turn minimizes water usage and the need for weeding, mowing, and pruning. Materials like pavers, concrete, or stone are durable and require minimal upkeep beyond occasional cleaning. Incorporating hardscaping elements creates functional outdoor spaces that enhance your property's aesthetics with very little ongoing effort.",
+        "@type": "Answer",
+        "description": "Hardscaping includes non-living elements like patios and walkways. It reduces planted areas, minimizing water usage and maintenance needs for weeding and mowing."
+      }
+    }
+  ],
+  "description": "Hardscaping includes non-living elements like patios and walkways. It reduces planted areas, minimizing water usage and maintenance needs for weeding and mowing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-a-reinforced-concrete-slab-versus-a-standard-one",
+  "name": "When should I consider a reinforced concrete slab versus a standard one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a reinforced concrete slab versus a standard one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reinforced concrete slabs are essential when the slab needs to withstand heavy loads, prevent cracking due to soil movement, or span greater distances. Standard slabs are suitable for light-duty applications, such as small patios or shed bases where structural integrity is less critical. For projects like driveways, foundations for structures, or areas with expansive soils common in parts of Las Vegas, reinforcement with rebar or wire mesh significantly increases the slab's strength, durability, and resistance to tensile stresses, prolonging its lifespan and preventing premature failure.",
+        "@type": "Answer",
+        "description": "Consider reinforced concrete for heavy loads, structural foundations, or areas with unstable soil to prevent cracking and ensure durability."
+      }
+    }
+  ],
+  "description": "Consider reinforced concrete for heavy loads, structural foundations, or areas with unstable soil to prevent cracking and ensure durability."
+}

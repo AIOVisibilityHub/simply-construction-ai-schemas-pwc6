@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-driveway-expansion-project",
+  "name": "What is involved in a driveway expansion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a driveway expansion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Driveway expansion involves increasing the width or length of your existing driveway. This typically includes site preparation, such as excavation and grading, followed by the installation of a new base layer. Depending on your current driveway material, the expansion will then be paved with a matching or complementary material like concrete or pavers. We ensure proper drainage and seamless integration with your current driveway and landscaping. The process also includes obtaining necessary permits, especially in areas like Las Vegas or Henderson, to comply with local regulations.",
+        "@type": "Answer",
+        "description": "Driveway expansion involves site preparation, base installation, and paving with a suitable material to extend the driveway's width or length, including necessary permits."
+      }
+    }
+  ],
+  "description": "Driveway expansion involves site preparation, base installation, and paving with a suitable material to extend the driveway's width or length, including necessa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-problems-or-issues-with-retaining-walls",
+  "name": "What are the common problems or issues with retaining walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common problems or issues with retaining walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common issues with retaining walls often stem from improper design or installation. These can include leaning or bulging walls due to inadequate drainage or insufficient base preparation, cracking from soil movement or improper reinforcement, and erosion at the base if water isn't effectively managed. Other problems might involve material deterioration over time or shifting sections. Addressing these issues early is crucial to prevent further damage and maintain the wall's structural integrity and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Common retaining wall problems include leaning, bulging, or cracking due to poor drainage, improper base, or soil movement. Early detection prevents further damage."
+      }
+    }
+  ],
+  "description": "Common retaining wall problems include leaning, bulging, or cracking due to poor drainage, improper base, or soil movement. Early detection prevents further dam"
+}

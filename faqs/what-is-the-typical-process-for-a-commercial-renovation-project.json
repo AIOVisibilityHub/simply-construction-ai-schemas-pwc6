@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-a-commercial-renovation-project",
+  "name": "What is the typical process for a commercial renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a commercial renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our commercial renovation process begins with an initial consultation and needs assessment, followed by proposal development and design collaboration. Once approved, we handle permitting, demolition (if needed), construction, and regular progress updates. The project concludes with final inspections and handover. We prioritize clear communication and efficient project management from start to finish.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, design, permitting, construction, and final inspection, with ongoing communication."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, design, permitting, construction, and final inspection, with ongoing communication."
+}

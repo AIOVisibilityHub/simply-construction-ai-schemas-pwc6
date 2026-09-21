@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-lifespan-of-a-concrete-garage-floor",
+  "name": "What is the typical lifespan of a concrete garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a concrete garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A properly installed and maintained concrete garage floor can last 20 to 30 years, or even longer. Factors such as the quality of the concrete mix, proper sub-base preparation, and professional installation significantly contribute to its durability. Regular cleaning and prompt attention to spills or cracks can extend its lifespan. In Las Vegas's climate, protecting the surface from extreme heat and occasional heavy loads will also help preserve its integrity over decades.",
+        "@type": "Answer",
+        "description": "A well-installed concrete garage floor typically lasts 20-30 years, depending on concrete quality, installation, and maintenance."
+      }
+    }
+  ],
+  "description": "A well-installed concrete garage floor typically lasts 20-30 years, depending on concrete quality, installation, and maintenance."
+}

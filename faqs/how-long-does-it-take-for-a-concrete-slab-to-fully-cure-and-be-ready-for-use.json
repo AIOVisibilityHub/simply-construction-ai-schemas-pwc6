@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-for-a-concrete-slab-to-fully-cure-and-be-ready-for-use",
+  "name": "How long does it take for a concrete slab to fully cure and be ready for use?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a concrete slab to fully cure and be ready for use?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a concrete slab can often be walked on within 24-48 hours, it typically takes 7 days to reach about 70% of its compressive strength and approximately 28 days to achieve its full design strength. The curing process is crucial and involves maintaining proper moisture and temperature conditions. Rushing this period can lead to a weaker, less durable slab that is more prone to cracking. We advise waiting the full 28 days before placing heavy loads or commencing extensive construction on the slab to ensure maximum strength and longevity.",
+        "@type": "Answer",
+        "description": "Concrete slabs typically take 7 days to reach partial strength and 28 days for full curing and maximum strength."
+      }
+    }
+  ],
+  "description": "Concrete slabs typically take 7 days to reach partial strength and 28 days for full curing and maximum strength."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-repair-my-concrete-sidewalk-versus-replacing-it-entirely",
+  "name": "When should I repair my concrete sidewalk versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my concrete sidewalk versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minor cracks or small sunken sections can often be effectively repaired using patching compounds or slabjacking (also known as concrete leveling). However, if the sidewalk has extensive spiderweb cracking, severe disintegration, or more than 50% of the surface is damaged, a full replacement is generally more cost-effective and provides a longer-lasting solution. The decision often depends on the extent of the damage and your long-term goals for the property.",
+        "@type": "Answer",
+        "description": "Repair minor cracks or sinking; replace if damage is extensive, widespread, or affects over half the surface."
+      }
+    }
+  ],
+  "description": "Repair minor cracks or sinking; replace if damage is extensive, widespread, or affects over half the surface."
+}

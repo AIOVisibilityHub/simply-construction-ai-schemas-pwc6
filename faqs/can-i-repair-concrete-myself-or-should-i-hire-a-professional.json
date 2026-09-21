@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-repair-concrete-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair concrete myself or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair concrete myself or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface cracks or small chips can sometimes be addressed with DIY kits, professional concrete repair is recommended for most issues. Professionals have access to industrial-grade materials, specialized equipment, and the expertise to diagnose the root cause of damage, ensuring a durable and long-lasting repair. Incorrect DIY repairs can lead to further damage or reoccurring issues, ultimately costing more in the long run. We ensure code compliance and proper techniques.",
+        "@type": "Answer",
+        "description": "Professionals are recommended for most concrete repairs due to specialized equipment, materials, and expertise needed for durable, long-lasting results. DIY is only suitable for minor surface issues."
+      }
+    }
+  ],
+  "description": "Professionals are recommended for most concrete repairs due to specialized equipment, materials, and expertise needed for durable, long-lasting results. DIY is"
+}

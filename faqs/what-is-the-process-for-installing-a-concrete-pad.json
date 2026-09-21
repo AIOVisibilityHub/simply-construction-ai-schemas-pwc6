@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-concrete-pad",
+  "name": "What is the process for installing a concrete pad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a concrete pad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The concrete pad installation process typically begins with site preparation, which involves clearing and leveling the area. Next, forms are set up to define the pad's dimensions and shape. A gravel base is often laid for drainage and stability, followed by the placement of rebar or mesh for reinforcement. Finally, concrete is poured, leveled, and finished according to the desired texture. Proper curing then ensures strength and durability.",
+        "@type": "Answer",
+        "description": "The process includes site prep, setting forms, adding a gravel base and reinforcement, pouring and finishing concrete, and curing."
+      }
+    }
+  ],
+  "description": "The process includes site prep, setting forms, adding a gravel base and reinforcement, pouring and finishing concrete, and curing."
+}

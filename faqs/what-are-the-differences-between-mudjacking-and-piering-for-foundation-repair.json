@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-differences-between-mudjacking-and-piering-for-foundation-repair",
+  "name": "What are the differences between mudjacking and piering for foundation repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between mudjacking and piering for foundation repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Mudjacking (also known as slab jacking or concrete lifting) involves drilling small holes in the concrete slab and pumping a grout mixture underneath to lift and stabilize it. It's often used for sunken concrete patios, driveways, or lightly settled slabs. Piering, on the other hand, involves installing steel or concrete piers deep into the ground until they reach stable soil or bedrock, then using them to support and lift the foundation. Piering is typically used for more severe structural settlement issues.",
+        "@type": "Answer",
+        "description": "Mudjacking lifts concrete by pumping grout underneath for minor settlement, while piering uses deep-driven piers for severe structural issues."
+      }
+    }
+  ],
+  "description": "Mudjacking lifts concrete by pumping grout underneath for minor settlement, while piering uses deep-driven piers for severe structural issues."
+}

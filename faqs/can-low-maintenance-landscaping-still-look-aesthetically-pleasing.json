@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-low-maintenance-landscaping-still-look-aesthetically-pleasing",
+  "name": "Can low-maintenance landscaping still look aesthetically pleasing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can low-maintenance landscaping still look aesthetically pleasing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Low-maintenance landscaping does not mean sacrificing beauty or design. With thoughtful planning, you can create stunning outdoor spaces using a variety of textures, colors, and elevations. Combining architectural hardscaping, vibrant drought-tolerant plants, decorative rock features, and strategically placed lighting can result in a sophisticated and visually appealing landscape. Modern low-maintenance designs often emphasize clean lines, natural materials, and native flora to create a harmonious and inviting environment that is both beautiful and easy to care for.",
+        "@type": "Answer",
+        "description": "Yes, low-maintenance landscaping can be very aesthetic. Thoughtful design using hardscaping, drought-tolerant plants, and decorative elements creates beautiful, easy-to-care-for spaces."
+      }
+    }
+  ],
+  "description": "Yes, low-maintenance landscaping can be very aesthetic. Thoughtful design using hardscaping, drought-tolerant plants, and decorative elements creates beautiful,"
+}

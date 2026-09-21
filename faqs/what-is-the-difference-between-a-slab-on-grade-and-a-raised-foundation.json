@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-slab-on-grade-and-a-raised-foundation",
+  "name": "What is the difference between a slab-on-grade and a raised foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a slab-on-grade and a raised foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A slab-on-grade foundation is a single layer of concrete poured directly on a prepared ground surface, often with a thickened edge. It's common in warmer climates like Las Vegas due to its cost-effectiveness and quick installation. A raised foundation (or pier-and-beam/crawl space) involves constructing a perimeter stem wall or piers that elevate the structure, creating a crawl space beneath. This allows for easier access to plumbing and electrical systems, and can be beneficial in areas prone to expansive soils.",
+        "@type": "Answer",
+        "description": "Slab-on-grade is concrete directly on the ground; a raised foundation elevates the structure, creating a crawl space for access and soil considerations."
+      }
+    }
+  ],
+  "description": "Slab-on-grade is concrete directly on the ground; a raised foundation elevates the structure, creating a crawl space for access and soil considerations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-repair-my-concrete-driveway-versus-replacing-it-entirely",
+  "name": "When should I repair my concrete driveway versus replacing it entirely?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I repair my concrete driveway versus replacing it entirely?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between repair and replacement depends on the extent and nature of the damage. Minor issues like small cracks, spalling, or superficial pitting can often be effectively repaired, extending the driveway's lifespan at a lower cost. However, if there are widespread, deep cracks, significant settling, severe crumbling, or extensive structural damage, replacement is usually the more cost-effective and long-lasting solution. A professional assessment can determine if the underlying structure is compromised, guiding the best course of action.",
+        "@type": "Answer",
+        "description": "Repair is suitable for minor damage like small cracks; replacement is needed for widespread, deep cracks, significant settling, or severe structural issues."
+      }
+    }
+  ],
+  "description": "Repair is suitable for minor damage like small cracks; replacement is needed for widespread, deep cracks, significant settling, or severe structural issues."
+}

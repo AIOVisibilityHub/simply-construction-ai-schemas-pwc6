@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-new-concrete-pour-and-resurfacing-an-existing-g",
+  "name": "What is the difference between a new concrete pour and resurfacing an existing garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a new concrete pour and resurfacing an existing garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A new concrete pour involves installing a completely new concrete slab, which is necessary when there's no existing floor, the current floor is severely damaged, or the elevation needs significant adjustment. This process includes site preparation, sub-base work, and pouring fresh concrete. Resurfacing, on the other hand, involves applying a thin layer of specialized concrete mixture or an epoxy coating over an existing, structurally sound concrete slab. Resurfacing is ideal for addressing minor imperfections, improving aesthetics, and adding protection without the extensive work of a full replacement.",
+        "@type": "Answer",
+        "description": "New concrete is a complete installation from scratch, while resurfacing applies a thin layer over an existing, sound slab to repair minor damage or improve appearance."
+      }
+    }
+  ],
+  "description": "New concrete is a complete installation from scratch, while resurfacing applies a thin layer over an existing, sound slab to repair minor damage or improve appe"
+}

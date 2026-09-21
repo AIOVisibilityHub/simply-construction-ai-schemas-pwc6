@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-expand-a-driveway-in-the-las-vegas-area",
+  "name": "How much does it cost to expand a driveway in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to expand a driveway in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of driveway expansion in the Las Vegas area varies significantly based on several factors. These include the size of the expansion, the chosen material (e.g., concrete, pavers, asphalt), the complexity of the site (e.g., grading, demolition of existing structures), and any necessary drainage solutions. Permits and local regulations can also influence the total cost. We provide detailed estimates after an on-site assessment to give you an accurate understanding of the investment required for your specific project.",
+        "@type": "Answer",
+        "description": "Driveway expansion costs in Las Vegas depend on size, materials, site complexity, drainage, and permit requirements. We offer detailed estimates after an on-site assessment."
+      }
+    }
+  ],
+  "description": "Driveway expansion costs in Las Vegas depend on size, materials, site complexity, drainage, and permit requirements. We offer detailed estimates after an on-sit"
+}

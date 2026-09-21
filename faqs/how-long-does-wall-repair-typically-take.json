@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-wall-repair-typically-take",
+  "name": "How long does wall repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does wall repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of wall repair depends on the scope and complexity of the damage. Small patches or minor crack repairs might be completed within a day or two. Larger projects, such as repairing significant water damage, extensive drywall replacement, or structural issues, can take several days to over a week, especially if multiple layers or specialized drying are required. External factors like weather conditions for exterior repairs or the need for materials to cure also influence the timeline. Your contractor can provide a more precise schedule after assessing the specific repair needs.",
+        "@type": "Answer",
+        "description": "Wall repair time varies from a day for small patches to over a week for extensive damage, depending on complexity, materials, and curing time."
+      }
+    }
+  ],
+  "description": "Wall repair time varies from a day for small patches to over a week for extensive damage, depending on complexity, materials, and curing time."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-warranty-or-guarantee-do-you-offer-on-concrete-sidewalk-repairs",
+  "name": "What kind of warranty or guarantee do you offer on concrete sidewalk repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty or guarantee do you offer on concrete sidewalk repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We stand behind the quality of our concrete sidewalk repair work. Our warranties typically cover the structural integrity of the repair against defects in workmanship for a specified period, often 1-2 years, depending on the repair type and materials used. We will provide detailed warranty information with your project estimate, outlining what is covered and for how long. Customer satisfaction is our priority.",
+        "@type": "Answer",
+        "description": "We offer warranties on our repair work, typically 1-2 years, covering workmanship defects. Specifics are provided with your estimate."
+      }
+    }
+  ],
+  "description": "We offer warranties on our repair work, typically 1-2 years, covering workmanship defects. Specifics are provided with your estimate."
+}

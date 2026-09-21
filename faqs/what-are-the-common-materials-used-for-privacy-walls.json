@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-materials-used-for-privacy-walls",
+  "name": "What are the common materials used for privacy walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common materials used for privacy walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Privacy walls are typically constructed from various materials, each offering distinct aesthetics, durability, and maintenance requirements. Popular options include wood, such as cedar or redwood, known for its natural beauty and versatility; vinyl, favored for its low maintenance and resistance to weathering; composite materials, which blend wood and plastic for enhanced durability; and masonry, like concrete blocks or stucco, providing robust security and a long lifespan. Your choice will depend on your budget, desired look, and local climate considerations.",
+        "@type": "Answer",
+        "description": "Common materials include wood, vinyl, composite, and masonry, each with different looks, durability, and maintenance."
+      }
+    }
+  ],
+  "description": "Common materials include wood, vinyl, composite, and masonry, each with different looks, durability, and maintenance."
+}

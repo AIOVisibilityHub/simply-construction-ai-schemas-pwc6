@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-reliable-contractor-for-wall-repair-in-las-vegas",
+  "name": "How do I choose a reliable contractor for wall repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable contractor for wall repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To choose a reliable wall repair contractor in Las Vegas, start by checking for proper licensing and insurance. Look for contractors with a strong local reputation, verified through online reviews and testimonials. Request references from previous clients and follow up on them. Obtain multiple detailed bids that clearly outline the scope of work, materials, timeline, and cost. Ensure the contractor provides a written contract and warranty for their work. A reputable contractor will also offer a thorough inspection and clear communication throughout the repair process.",
+        "@type": "Answer",
+        "description": "Choose a reliable Las Vegas wall repair contractor by checking licenses, insurance, local reputation, references, and getting detailed written bids and contracts."
+      }
+    }
+  ],
+  "description": "Choose a reliable Las Vegas wall repair contractor by checking licenses, insurance, local reputation, references, and getting detailed written bids and contract"
+}

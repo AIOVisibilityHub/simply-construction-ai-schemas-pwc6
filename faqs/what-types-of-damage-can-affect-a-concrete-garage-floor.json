@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-damage-can-affect-a-concrete-garage-floor",
+  "name": "What types of damage can affect a concrete garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of damage can affect a concrete garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete garage floors can experience various forms of damage due to heavy vehicle traffic, temperature fluctuations, and chemical spills. Common issues include cracks (hairline to structural), spalling (surface flaking), pitting from de-icing salts or impacts, and uneven settling. Water intrusion, oil stains, and abrasion from tools or equipment can also degrade the concrete over time, compromising its integrity and appearance. Addressing these problems early can prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Common concrete garage floor damage includes cracks, spalling, pitting, and uneven settling, often caused by vehicle traffic, weather, or chemical exposure."
+      }
+    }
+  ],
+  "description": "Common concrete garage floor damage includes cracks, spalling, pitting, and uneven settling, often caused by vehicle traffic, weather, or chemical exposure."
+}

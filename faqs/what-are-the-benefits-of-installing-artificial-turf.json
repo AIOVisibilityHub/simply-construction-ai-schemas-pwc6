@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-installing-artificial-turf",
+  "name": "What are the benefits of installing artificial turf?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing artificial turf?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Artificial turf offers numerous benefits, making it a popular low-maintenance landscaping choice, especially in arid climates. It eliminates the need for watering, mowing, fertilizing, and pest control, saving significant time and resources. The turf maintains a lush, green appearance year-round, regardless of weather conditions, without fading or developing bare spots. It's also durable, pet-friendly, and can withstand heavy use. While the initial investment might be higher than natural grass, the long-term savings on water bills and maintenance often make it a cost-effective solution.",
+        "@type": "Answer",
+        "description": "Artificial turf eliminates watering, mowing, and fertilizing, staying green year-round. It's durable, pet-friendly, and saves money on water and maintenance long-term."
+      }
+    }
+  ],
+  "description": "Artificial turf eliminates watering, mowing, and fertilizing, staying green year-round. It's durable, pet-friendly, and saves money on water and maintenance lon"
+}

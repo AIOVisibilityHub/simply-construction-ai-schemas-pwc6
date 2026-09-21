@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-concrete-foundation-repair-usually-take",
+  "name": "How long does concrete foundation repair usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does concrete foundation repair usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of concrete foundation repair depends on the complexity and scale of the project. Simple crack repairs might be completed in a single day. More extensive work, such as installing piers or significant slab jacking, can take anywhere from a few days to a couple of weeks. Factors like weather conditions, property accessibility, and the specific repair method chosen can also influence the timeline. Your contractor can provide a more precise schedule after assessing the damage.",
+        "@type": "Answer",
+        "description": "Repair time varies from one day for simple cracks to a few days or weeks for extensive work, depending on project complexity."
+      }
+    }
+  ],
+  "description": "Repair time varies from one day for simple cracks to a few days or weeks for extensive work, depending on project complexity."
+}

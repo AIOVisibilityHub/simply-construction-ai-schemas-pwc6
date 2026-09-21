@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-help-with-design-ideas-for-my-business-space",
+  "name": "Can you help with design ideas for my business space?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with design ideas for my business space?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our primary role is general contracting, we often collaborate with clients to refine their design ideas or recommend professional designers if needed. We can offer practical advice on layouts, material choices, and finishes that align with your business's function and aesthetic goals. Our experience with various commercial projects allows us to suggest solutions that are both visually appealing and highly functional, helping you maximize your space's potential.",
+        "@type": "Answer",
+        "description": "We can help refine design ideas and offer practical advice on layouts and materials. We also recommend professional designers if further assistance is needed."
+      }
+    }
+  ],
+  "description": "We can help refine design ideas and offer practical advice on layouts and materials. We also recommend professional designers if further assistance is needed."
+}

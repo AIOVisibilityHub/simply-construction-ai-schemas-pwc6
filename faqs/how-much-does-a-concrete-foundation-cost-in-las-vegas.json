@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-concrete-foundation-cost-in-las-vegas",
+  "name": "How much does a concrete foundation cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a concrete foundation cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a concrete foundation in the Las Vegas area varies significantly based on factors like the size and complexity of the structure, soil preparation requirements, type of foundation (slab, crawl space, basement), and access to the site. Expect to pay anywhere from $5 to $15 per square foot for a basic slab, but complex projects with significant excavation or engineering needs will be higher. It's best to obtain a detailed quote from a local contractor.",
+        "@type": "Answer",
+        "description": "Concrete foundation costs in Las Vegas vary widely, typically from $5 to $15 per square foot for a basic slab, depending on project specifics."
+      }
+    }
+  ],
+  "description": "Concrete foundation costs in Las Vegas vary widely, typically from $5 to $15 per square foot for a basic slab, depending on project specifics."
+}

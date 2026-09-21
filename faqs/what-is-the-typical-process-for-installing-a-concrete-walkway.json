@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-installing-a-concrete-walkway",
+  "name": "What is the typical process for installing a concrete walkway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing a concrete walkway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The concrete walkway installation process begins with site preparation, which involves excavating the area, ensuring proper drainage, and preparing a stable base. Next, forms are set up to define the walkway's shape and elevation. Reinforcement, such as rebar or wire mesh, is then placed. Concrete is poured, leveled, and finished according to the desired aesthetic. Finally, control joints are cut, and the concrete is allowed to cure properly to achieve maximum strength and durability.",
+        "@type": "Answer",
+        "description": "The process includes site preparation, setting forms, placing reinforcement, pouring and finishing concrete, cutting control joints, and proper curing."
+      }
+    }
+  ],
+  "description": "The process includes site preparation, setting forms, placing reinforcement, pouring and finishing concrete, cutting control joints, and proper curing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-benefit-of-hiring-a-general-contractor-for-a-small-business-remodel",
+  "name": "What is the benefit of hiring a general contractor for a small business remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the benefit of hiring a general contractor for a small business remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a general contractor simplifies the remodeling process by providing a single point of contact responsible for managing all aspects of the project. This includes overseeing subcontractors, coordinating schedules, managing budgets, ensuring quality control, and handling all necessary permits. A general contractor streamlines communication, reduces stress for the business owner, and ensures the project stays on track and within budget, delivering a cohesive and professional outcome.",
+        "@type": "Answer",
+        "description": "A general contractor simplifies remodeling by managing all project aspects, including subcontractors, schedules, budgets, and permits, ensuring a cohesive outcome."
+      }
+    }
+  ],
+  "description": "A general contractor simplifies remodeling by managing all project aspects, including subcontractors, schedules, budgets, and permits, ensuring a cohesive outco"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-new-concrete-driveway-in-the-las-vegas-area",
+  "name": "What is the average cost of a new concrete driveway in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a new concrete driveway in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a new concrete driveway in Las Vegas can vary significantly based on factors such as square footage, thickness, reinforcement needs, decorative finishes (e.g., stamping, coloring), and site accessibility. While we provide detailed quotes after an on-site evaluation, homeowners can expect to pay anywhere from $8 to $15 per square foot for a standard installation. Decorative options or complex designs will fall on the higher end of this range. We recommend a consultation to get an accurate estimate tailored to your specific project.",
+        "@type": "Answer",
+        "description": "The average cost for a concrete driveway in Las Vegas ranges from $8 to $15 per square foot, varying with size, thickness, reinforcement, and decorative finishes. A site evaluation provides an accurate quote."
+      }
+    }
+  ],
+  "description": "The average cost for a concrete driveway in Las Vegas ranges from $8 to $15 per square foot, varying with size, thickness, reinforcement, and decorative finishe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-reputable-contractor-for-my-concrete-driveway-project",
+  "name": "How do I choose a reputable contractor for my concrete driveway project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reputable contractor for my concrete driveway project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, look for companies with good local reputations and specific experience in concrete driveway replacement. Check their licenses, insurance, and ask for references. Review their portfolio of past work and read customer testimonials. A reputable contractor will provide a detailed, written estimate, answer your questions thoroughly, and clearly outline the project scope, timeline, and warranty information.",
+        "@type": "Answer",
+        "description": "Choose a contractor with experience, good references, proper licensing, and insurance. Request a detailed, written estimate and review their portfolio."
+      }
+    }
+  ],
+  "description": "Choose a contractor with experience, good references, proper licensing, and insurance. Request a detailed, written estimate and review their portfolio."
+}

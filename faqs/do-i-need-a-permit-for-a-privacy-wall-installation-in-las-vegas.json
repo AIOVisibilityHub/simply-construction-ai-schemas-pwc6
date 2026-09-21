@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-privacy-wall-installation-in-las-vegas",
+  "name": "Do I need a permit for a privacy wall installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a privacy wall installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas of Las Vegas, including North Las Vegas, Henderson, and unincorporated Clark County, a building permit is often required for new privacy wall installations, especially if the wall exceeds a certain height (e.g., 6 feet in residential areas). Specific regulations can vary by municipality and homeowner association (HOA) rules. Our team can help you understand the local permit requirements and assist with the application process, ensuring your project complies with all local codes and ordinances before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, permits are often required for privacy wall installations in Las Vegas, especially for walls over a certain height. Regulations vary by municipality and HOA."
+      }
+    }
+  ],
+  "description": "Yes, permits are often required for privacy wall installations in Las Vegas, especially for walls over a certain height. Regulations vary by municipality and HO"
+}

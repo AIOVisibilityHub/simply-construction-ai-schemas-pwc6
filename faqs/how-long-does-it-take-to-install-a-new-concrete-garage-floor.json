@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-new-concrete-garage-floor",
+  "name": "How long does it take to install a new concrete garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a new concrete garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a new concrete garage floor varies based on size and complexity, but generally, the process takes 2 to 4 days from excavation to the initial pour and finishing. This includes preparing the sub-base, setting forms, pouring the concrete, and initial curing. While the floor can be walked on within 24-48 hours, it's crucial to allow the concrete to cure for at least 7 days before light vehicle use and 28 days for full strength and heavy vehicle parking. This ensures maximum durability and prevents premature damage.",
+        "@type": "Answer",
+        "description": "Installation of a concrete garage floor typically takes 2-4 days, with light use possible after 7 days and full strength reached around 28 days."
+      }
+    }
+  ],
+  "description": "Installation of a concrete garage floor typically takes 2-4 days, with light use possible after 7 days and full strength reached around 28 days."
+}

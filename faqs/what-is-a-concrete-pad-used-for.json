@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-concrete-pad-used-for",
+  "name": "What is a concrete pad used for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a concrete pad used for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A concrete pad serves as a durable, level, and stable foundation for various outdoor structures and equipment. Common uses include shed foundations, air conditioning unit bases, hot tub pads, garbage can enclosures, patio extensions, or small equipment pads. Its strength and resistance to moisture make it ideal for supporting weight and providing a long-lasting surface, protecting items from direct ground contact and improving stability.",
+        "@type": "Answer",
+        "description": "Concrete pads provide a durable and stable foundation for structures like sheds, AC units, hot tubs, or patios."
+      }
+    }
+  ],
+  "description": "Concrete pads provide a durable and stable foundation for structures like sheds, AC units, hot tubs, or patios."
+}

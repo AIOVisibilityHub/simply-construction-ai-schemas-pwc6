@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-to-build-a-privacy-wall-in-las-vegas",
+  "name": "What is the average cost to build a privacy wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost to build a privacy wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a privacy wall in the Las Vegas area can vary significantly. Factors influencing the price include the material type (wood, vinyl, composite, masonry), the total linear footage, height requirements, site accessibility, and any necessary ground preparation. Generally, wood or vinyl options are more budget-friendly, while custom designs or masonry walls can be a larger investment. We provide transparent, detailed quotes after an on-site consultation to ensure accuracy and address your specific project needs.",
+        "@type": "Answer",
+        "description": "Privacy wall costs in Las Vegas vary based on material, length, height, and site conditions. Wood and vinyl are generally more affordable, while masonry is a greater investment."
+      }
+    }
+  ],
+  "description": "Privacy wall costs in Las Vegas vary based on material, length, height, and site conditions. Wood and vinyl are generally more affordable, while masonry is a gr"
+}

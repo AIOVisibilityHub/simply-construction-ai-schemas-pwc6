@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-preparing-the-site-for-a-new-concrete-garage-floor",
+  "name": "What is the process for preparing the site for a new concrete garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for preparing the site for a new concrete garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Site preparation is a critical step for a durable concrete garage floor. It typically involves several stages. First, any existing material or old concrete slab is removed, followed by excavation to the proper depth. The sub-base is then prepared, which often includes compacting the soil and adding a layer of gravel or crushed rock to ensure a stable foundation and proper drainage. Next, forms are set up to define the slab's dimensions and elevation. Finally, a vapor barrier may be installed to prevent moisture from rising through the concrete.",
+        "@type": "Answer",
+        "description": "Site preparation involves removing old material, excavating, compacting the sub-base with gravel, setting forms, and potentially installing a vapor barrier."
+      }
+    }
+  ],
+  "description": "Site preparation involves removing old material, excavating, compacting the sub-base with gravel, setting forms, and potentially installing a vapor barrier."
+}

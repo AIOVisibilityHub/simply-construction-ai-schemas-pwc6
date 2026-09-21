@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-have-a-concrete-walkway-installed-on-a-sloped-property",
+  "name": "Can I have a concrete walkway installed on a sloped property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I have a concrete walkway installed on a sloped property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, concrete walkways can be successfully installed on sloped properties. Proper grading and drainage are crucial for these installations to prevent water pooling and erosion. We often incorporate steps, terraces, or specific drainage solutions into the design to ensure safety, functionality, and longevity. Our team specializes in assessing sloped terrains to create a durable and aesthetically pleasing walkway that complements your landscape and manages water flow effectively.",
+        "@type": "Answer",
+        "description": "Yes, concrete walkways can be installed on slopes, requiring proper grading, drainage solutions, and sometimes steps or terraces for safety and function."
+      }
+    }
+  ],
+  "description": "Yes, concrete walkways can be installed on slopes, requiring proper grading, drainage solutions, and sometimes steps or terraces for safety and function."
+}

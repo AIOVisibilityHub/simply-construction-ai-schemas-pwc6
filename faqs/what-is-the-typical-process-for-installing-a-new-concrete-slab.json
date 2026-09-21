@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-installing-a-new-concrete-slab",
+  "name": "What is the typical process for installing a new concrete slab?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for installing a new concrete slab?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for installing a concrete slab generally involves several key steps. First, the site is prepared by clearing debris and grading the area to ensure proper drainage. Next, forms are set to outline the slab's dimensions and provide support during pouring. A sub-base of gravel or crushed stone is often laid down and compacted. Reinforcement, such as rebar or wire mesh, is then placed within the forms for added strength. Finally, concrete is poured, leveled using screeds, and allowed to cure, which is critical for achieving its full strength and durability. Professional installation ensures each step is performed correctly for a long-lasting result.",
+        "@type": "Answer",
+        "description": "The process involves site preparation, setting forms, laying a sub-base, adding reinforcement, pouring, and curing the concrete."
+      }
+    }
+  ],
+  "description": "The process involves site preparation, setting forms, laying a sub-base, adding reinforcement, pouring, and curing the concrete."
+}

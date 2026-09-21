@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-block-wall-and-a-concrete-wall",
+  "name": "What is the difference between a block wall and a concrete wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a block wall and a concrete wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A block wall is constructed from individual concrete masonry units (CMUs) laid with mortar, creating a segmented structure. These blocks come in various sizes and shapes and can be reinforced with rebar. A poured concrete wall, on the other hand, is formed by pouring liquid concrete into temporary forms, which then cures to create a solid, monolithic structure. While both offer durability, block walls allow for more design flexibility with different block patterns and finishes, whereas poured concrete walls are often chosen for their seamless strength and density.",
+        "@type": "Answer",
+        "description": "A block wall is made from individual, mortared concrete blocks, while a poured concrete wall is a solid, monolithic structure formed by liquid concrete."
+      }
+    }
+  ],
+  "description": "A block wall is made from individual, mortared concrete blocks, while a poured concrete wall is a solid, monolithic structure formed by liquid concrete."
+}

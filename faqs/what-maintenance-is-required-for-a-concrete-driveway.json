@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-concrete-driveway",
+  "name": "What maintenance is required for a concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete driveways are relatively low-maintenance but benefit from regular care. This includes cleaning away dirt, debris, and oil spills promptly using a hose and mild detergent. It's recommended to reseal your concrete driveway every 2-5 years to protect it from moisture penetration, UV damage, and staining, especially in the intense Las Vegas sun. Promptly addressing any small cracks or spalling can prevent them from worsening. Avoid using de-icing salts, as they can damage the concrete surface.",
+        "@type": "Answer",
+        "description": "Maintain your concrete driveway by cleaning it regularly and resealing it every 2-5 years to protect it from damage. Address small cracks promptly and avoid de-icing salts."
+      }
+    }
+  ],
+  "description": "Maintain your concrete driveway by cleaning it regularly and resealing it every 2-5 years to protect it from damage. Address small cracks promptly and avoid de-"
+}

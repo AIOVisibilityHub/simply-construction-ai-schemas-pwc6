@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-drainage-does-artificial-turf-offer-especially-in-heavy-rain",
+  "name": "What kind of drainage does artificial turf offer, especially in heavy rain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of drainage does artificial turf offer, especially in heavy rain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern artificial turf systems are designed with excellent drainage capabilities. The turf backing itself is typically permeable, allowing water to pass through to the prepared sub-base. Below the turf, a compacted aggregate base creates a stable, porous layer that facilitates water percolation into the soil beneath. Our installation process ensures proper grading of the sub-base to direct water effectively, preventing pooling and ensuring efficient runoff, even during occasional heavy rainfall events. This design helps prevent waterlogging and maintains a dry, usable surface.",
+        "@type": "Answer",
+        "description": "Artificial turf features permeable backing and a sloped, compacted aggregate base, ensuring excellent drainage and preventing water pooling, even in heavy rain."
+      }
+    }
+  ],
+  "description": "Artificial turf features permeable backing and a sloped, compacted aggregate base, ensuring excellent drainage and preventing water pooling, even in heavy rain."
+}

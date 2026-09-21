@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-a-concrete-walkway-installation-in-las-vegas",
+  "name": "Do I need a permit for a concrete walkway installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for a concrete walkway installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a permit is required for a concrete walkway in Las Vegas depends on the specific scope of the project and local regulations. Typically, if the walkway is entirely on private property and does not alter drainage patterns or connect to public sidewalks, a permit might not be needed. However, any work impacting public right-of-way, significant grading changes, or complex installations may require one. We can help determine if a permit is necessary for your specific project.",
+        "@type": "Answer",
+        "description": "A permit may be required in Las Vegas if the walkway impacts public right-of-way, involves significant grading, or connects to public sidewalks."
+      }
+    }
+  ],
+  "description": "A permit may be required in Las Vegas if the walkway impacts public right-of-way, involves significant grading, or connects to public sidewalks."
+}

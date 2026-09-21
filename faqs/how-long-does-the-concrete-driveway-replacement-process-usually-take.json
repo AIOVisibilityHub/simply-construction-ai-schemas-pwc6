@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-the-concrete-driveway-replacement-process-usually-take",
+  "name": "How long does the concrete driveway replacement process usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the concrete driveway replacement process usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The complete process for concrete driveway replacement typically takes 3 to 7 days from start to finish. This includes old driveway removal, site preparation, pouring the new concrete, and allowing for initial curing. However, the concrete needs at least 7 days to cure before it can withstand light vehicle traffic and up to 28 days to reach its full strength. Weather conditions can also influence the timeline.",
+        "@type": "Answer",
+        "description": "The process usually takes 3 to 7 days, with light traffic possible after 7 days and full strength reached in 28 days."
+      }
+    }
+  ],
+  "description": "The process usually takes 3 to 7 days, with light traffic possible after 7 days and full strength reached in 28 days."
+}

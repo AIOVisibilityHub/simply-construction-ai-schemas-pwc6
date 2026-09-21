@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-concrete-damage-can-be-repaired",
+  "name": "What types of concrete damage can be repaired?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of concrete damage can be repaired?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We can repair various types of concrete damage, including hairline cracks, structural cracks, spalling (surface flaking), pitting, scaling, and minor settlement issues that cause unevenness. Damage to concrete steps, driveways, patios, and foundations can often be restored. The appropriate repair method is chosen based on the type, depth, and cause of the damage to ensure a lasting solution.",
+        "@type": "Answer",
+        "description": "We repair hairline cracks, structural cracks, spalling, pitting, scaling, and minor settlement issues on various concrete surfaces like driveways and patios."
+      }
+    }
+  ],
+  "description": "We repair hairline cracks, structural cracks, spalling, pitting, scaling, and minor settlement issues on various concrete surfaces like driveways and patios."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-hire-a-professional-for-wall-repair-instead-of-doing-it-myself",
+  "name": "When should I hire a professional for wall repair instead of doing it myself?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a professional for wall repair instead of doing it myself?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a professional for wall repair when the damage is extensive, involves structural elements, or if you suspect underlying issues like water leaks, mold, or foundation problems. Professionals have the expertise, tools, and experience to correctly diagnose the root cause of damage and perform lasting repairs that meet safety and building standards. Attempting complex repairs yourself without proper knowledge can lead to further damage, costly mistakes, or compromise the structural integrity of your property. For minor cosmetic issues, DIY might be feasible, but anything more significant warrants expert intervention.",
+        "@type": "Answer",
+        "description": "Hire a professional for extensive, structural, or underlying wall damage like leaks or foundation issues, as they have the expertise to ensure proper, lasting repairs."
+      }
+    }
+  ],
+  "description": "Hire a professional for extensive, structural, or underlying wall damage like leaks or foundation issues, as they have the expertise to ensure proper, lasting r"
+}

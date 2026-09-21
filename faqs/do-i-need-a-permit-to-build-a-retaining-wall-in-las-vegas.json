@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-build-a-retaining-wall-in-las-vegas",
+  "name": "Do I need a permit to build a retaining wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to build a retaining wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including Las Vegas and surrounding communities like Paradise or Spring Valley, permits are often required for retaining walls above a certain height, typically 3 or 4 feet. The exact requirements depend on local building codes and the wall's proximity to property lines or structures. Permitting ensures the wall is built safely and in compliance with structural standards, especially for walls designed to hold significant soil weight. We can help guide you through the permitting process and ensure your project meets all local regulations, avoiding potential issues down the line.",
+        "@type": "Answer",
+        "description": "Permits are typically required for retaining walls above 3 or 4 feet in Las Vegas, depending on local building codes. We assist with the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are typically required for retaining walls above 3 or 4 feet in Las Vegas, depending on local building codes. We assist with the permitting process."
+}

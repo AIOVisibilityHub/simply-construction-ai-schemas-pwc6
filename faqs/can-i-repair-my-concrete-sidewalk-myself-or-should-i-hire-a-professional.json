@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-repair-my-concrete-sidewalk-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my concrete sidewalk myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my concrete sidewalk myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor patching of small, superficial cracks can be a DIY project, complex repairs like concrete leveling or replacing large sections of a sidewalk are best handled by professionals. These jobs require specialized equipment, knowledge of concrete mixes, sub-base preparation, and proper curing techniques to ensure safety, durability, and a smooth finish. Hiring a professional helps avoid costly mistakes and ensures the repair meets local standards.",
+        "@type": "Answer",
+        "description": "Minor crack patching can be DIY, but professional help is recommended for complex repairs like leveling or replacing large sections to ensure quality and safety."
+      }
+    }
+  ],
+  "description": "Minor crack patching can be DIY, but professional help is recommended for complex repairs like leveling or replacing large sections to ensure quality and safety"
+}

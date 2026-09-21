@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-preparation-is-needed-before-pouring-a-concrete-foundation",
+  "name": "What preparation is needed before pouring a concrete foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before pouring a concrete foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper site preparation is crucial for a durable concrete foundation. This typically includes clearing the site of debris and vegetation, excavation to the correct depth, grading the land for proper drainage, and compacting the soil to achieve a stable base. Often, a layer of gravel or crushed stone is laid down, followed by a vapor barrier to prevent moisture intrusion. Formwork is then built to shape the foundation, and rebar or mesh is installed for reinforcement.",
+        "@type": "Answer",
+        "description": "Preparation involves site clearing, excavation, grading, soil compaction, adding gravel/vapor barrier, and setting formwork with rebar."
+      }
+    }
+  ],
+  "description": "Preparation involves site clearing, excavation, grading, soil compaction, adding gravel/vapor barrier, and setting formwork with rebar."
+}

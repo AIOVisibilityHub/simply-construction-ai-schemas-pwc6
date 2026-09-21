@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-typical-backyard-drainage-system",
+  "name": "How long does it take to install a typical backyard drainage system?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a typical backyard drainage system?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation time for a backyard drainage system depends on its complexity and scope. Smaller projects, like installing a few catch basins or downspout extensions, might take one to two days. More extensive systems, such as a comprehensive French drain network or significant regrading, could take several days to a week or more. Weather conditions and property accessibility can also influence the project timeline. We provide a clear timeline after assessing your specific needs.",
+        "@type": "Answer",
+        "description": "Installation time ranges from one day for simple systems to a week or more for complex projects, depending on scope and weather."
+      }
+    }
+  ],
+  "description": "Installation time ranges from one day for simple systems to a week or more for complex projects, depending on scope and weather."
+}

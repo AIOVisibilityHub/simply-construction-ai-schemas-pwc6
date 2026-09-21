@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-repairing-a-concrete-garage-floor-instead-of-replacing",
+  "name": "What are the benefits of repairing a concrete garage floor instead of replacing it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of repairing a concrete garage floor instead of replacing it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a concrete garage floor is often more cost-effective and less disruptive than full replacement. Repairs address specific damage areas, preserving the existing slab when feasible. This approach saves on material costs, labor for demolition and disposal, and reduces the time your garage is unusable. It also minimizes environmental impact by reducing waste. Replacement is usually only necessary for widespread structural failure, severe cracking, or extensive settling that cannot be effectively repaired.",
+        "@type": "Answer",
+        "description": "Repairing is often cheaper, faster, and less disruptive than full replacement, saving costs, labor, and reducing waste while extending the floor's life."
+      }
+    }
+  ],
+  "description": "Repairing is often cheaper, faster, and less disruptive than full replacement, saving costs, labor, and reducing waste while extending the floor's life."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-a-concrete-slab-foundation",
+  "name": "What is the process for repairing a concrete slab foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a concrete slab foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing a concrete slab foundation typically begins with a thorough inspection to identify the cause and extent of the damage. Depending on the findings, methods may include crack injection with epoxy or polyurethane, mudjacking/slab jacking to lift settled sections using a grout mixture, or piering using steel or concrete piers to provide stable support beneath the foundation. The chosen method aims to stabilize the structure and prevent further settlement.",
+        "@type": "Answer",
+        "description": "Foundation repair involves inspection, then methods like crack injection, slab jacking to lift settled areas, or piering for structural support."
+      }
+    }
+  ],
+  "description": "Foundation repair involves inspection, then methods like crack injection, slab jacking to lift settled areas, or piering for structural support."
+}

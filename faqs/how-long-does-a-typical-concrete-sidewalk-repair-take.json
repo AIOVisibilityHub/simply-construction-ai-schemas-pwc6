@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-concrete-sidewalk-repair-take",
+  "name": "How long does a typical concrete sidewalk repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical concrete sidewalk repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a concrete sidewalk repair varies significantly based on the repair method and the extent of the damage. Small crack repairs might take a few hours. For concrete leveling (slabjacking) of a section, the work could be completed within a day. A full replacement of a sidewalk section can take 1-3 days, including removal, preparation, pouring, and initial curing. We provide a time estimate after assessing your specific project.",
+        "@type": "Answer",
+        "description": "Repair times vary; small fixes take hours, while larger leveling or replacement jobs can take 1-3 days depending on the scope."
+      }
+    }
+  ],
+  "description": "Repair times vary; small fixes take hours, while larger leveling or replacement jobs can take 1-3 days depending on the scope."
+}

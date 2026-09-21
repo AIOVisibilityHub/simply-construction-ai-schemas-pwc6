@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-concrete-leveling-slabjacking-and-pouring-new-con",
+  "name": "What is the difference between concrete leveling (slabjacking) and pouring new concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between concrete leveling (slabjacking) and pouring new concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete leveling, or slabjacking, lifts existing sunken concrete by injecting material underneath, which is faster, less invasive, and often more affordable. Pouring new concrete involves breaking up and removing the old slab, preparing the sub-base, and then pouring fresh concrete, which provides a completely new surface but is more labor-intensive and costly. Leveling is ideal for sound but sunken slabs, while new concrete is best for extensively damaged or disintegrated sections.",
+        "@type": "Answer",
+        "description": "Slabjacking lifts existing concrete; pouring new concrete replaces it. Leveling is faster and cheaper for sunken slabs; replacement is for severe damage."
+      }
+    }
+  ],
+  "description": "Slabjacking lifts existing concrete; pouring new concrete replaces it. Leveling is faster and cheaper for sunken slabs; replacement is for severe damage."
+}

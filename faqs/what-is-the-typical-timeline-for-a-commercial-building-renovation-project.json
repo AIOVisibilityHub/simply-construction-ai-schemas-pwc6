@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-commercial-building-renovation-project",
+  "name": "What is the typical timeline for a commercial building renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a commercial building renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a commercial renovation varies significantly based on project scope, building size, and required permits. A small interior refresh might take a few weeks, while a major structural overhaul or tenant improvement can extend to several months. Factors like material lead times, subcontractor availability, and local inspection schedules also influence the overall duration. We provide a detailed project schedule and communicate progress regularly.",
+        "@type": "Answer",
+        "description": "Commercial renovation timelines vary, from weeks for minor updates to months for major overhauls, depending on scope and permits."
+      }
+    }
+  ],
+  "description": "Commercial renovation timelines vary, from weeks for minor updates to months for major overhauls, depending on scope and permits."
+}

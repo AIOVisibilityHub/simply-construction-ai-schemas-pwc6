@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-materials-are-commonly-used-for-retaining-walls",
+  "name": "What types of materials are commonly used for retaining walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of materials are commonly used for retaining walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Retaining walls can be constructed from various materials, each offering different aesthetic and structural benefits. Common options include segmental concrete blocks, which are popular for their interlocking design and versatility; natural stone, offering a rustic and durable appearance; poured concrete, known for its strength and customizability; and timber, often chosen for a more natural, economical, or temporary solution. The best material choice depends on the wall's height, design requirements, budget, and desired aesthetic integration with your property. Each material has specific installation requirements and durability characteristics.",
+        "@type": "Answer",
+        "description": "Common retaining wall materials include segmental concrete blocks, natural stone, poured concrete, and timber. The best choice depends on design, budget, and aesthetic preference."
+      }
+    }
+  ],
+  "description": "Common retaining wall materials include segmental concrete blocks, natural stone, poured concrete, and timber. The best choice depends on design, budget, and ae"
+}

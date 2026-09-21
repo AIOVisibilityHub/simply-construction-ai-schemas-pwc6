@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-i-need-a-backyard-drainage-solution",
+  "name": "What are common signs I need a backyard drainage solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs I need a backyard drainage solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs you need a backyard drainage solution include standing water after rain, water pooling near your home's foundation, eroded landscaping, soggy grass that doesn't dry, or water seeping into your basement or crawl space. These issues can lead to structural damage, mold growth, mosquito infestations, and damage to plants. Addressing drainage problems early can prevent more significant and costly repairs.",
+        "@type": "Answer",
+        "description": "Signs include standing water, erosion, soggy grass, or water near your foundation or entering your home."
+      }
+    }
+  ],
+  "description": "Signs include standing water, erosion, soggy grass, or water near your foundation or entering your home."
+}

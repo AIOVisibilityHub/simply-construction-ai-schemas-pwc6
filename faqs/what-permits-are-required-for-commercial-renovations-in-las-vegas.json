@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-commercial-renovations-in-las-vegas",
+  "name": "What permits are required for commercial renovations in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for commercial renovations in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial renovations in Las Vegas typically require various permits, including building, electrical, plumbing, and mechanical permits, depending on the scope of work. Structural changes, changes in occupancy, or significant interior modifications almost always necessitate permits. Our team manages the entire permitting process, ensuring compliance with local building codes and regulations in municipalities like Las Vegas, Henderson, and North Las Vegas.",
+        "@type": "Answer",
+        "description": "Most commercial renovations in Las Vegas require building, electrical, plumbing, and mechanical permits, managed by our team."
+      }
+    }
+  ],
+  "description": "Most commercial renovations in Las Vegas require building, electrical, plumbing, and mechanical permits, managed by our team."
+}

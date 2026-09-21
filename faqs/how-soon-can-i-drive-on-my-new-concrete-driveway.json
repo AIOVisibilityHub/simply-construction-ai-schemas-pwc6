@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-soon-can-i-drive-on-my-new-concrete-driveway",
+  "name": "How soon can I drive on my new concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon can I drive on my new concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While concrete driveways can generally be walked on within 24-48 hours after pouring, it's crucial to wait longer before driving on them to allow for adequate curing and strength development. We recommend waiting at least 7 days before driving a standard passenger vehicle on your new driveway. For heavier vehicles, such as trucks or RVs, it's best to wait 28 days for the concrete to reach its full design strength. Proper curing prevents damage and ensures the longevity of your investment.",
+        "@type": "Answer",
+        "description": "You can typically walk on a new concrete driveway within 24-48 hours. Wait at least 7 days for standard passenger vehicles and 28 days for heavier vehicles to allow for proper curing and strength development."
+      }
+    }
+  ],
+  "description": "You can typically walk on a new concrete driveway within 24-48 hours. Wait at least 7 days for standard passenger vehicles and 28 days for heavier vehicles to a"
+}

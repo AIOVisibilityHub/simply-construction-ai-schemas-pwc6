@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-outdoor-stone-features",
+  "name": "What maintenance is required for outdoor stone features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for outdoor stone features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for outdoor stone features varies by stone type and exposure to elements. Generally, it involves regular cleaning to remove dirt, debris, and prevent moss or algae growth, especially in shaded or damp areas. Pressure washing can be effective for durable stones, while gentler cleaning agents are suitable for more porous types. Sealing may be recommended for certain stones to protect against staining and moisture absorption, prolonging their appearance and structural integrity. Annual inspections can help identify and address any issues early.",
+        "@type": "Answer",
+        "description": "Maintenance typically includes regular cleaning to prevent dirt and growth, and potentially sealing for porous stones to protect against stains and moisture."
+      }
+    }
+  ],
+  "description": "Maintenance typically includes regular cleaning to prevent dirt and growth, and potentially sealing for porous stones to protect against stains and moisture."
+}

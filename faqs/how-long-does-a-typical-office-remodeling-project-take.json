@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-office-remodeling-project-take",
+  "name": "How long does a typical office remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical office remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an office remodeling project varies greatly depending on its scope and complexity. A small cosmetic update might take a few weeks, while a complete gut renovation of a large space could extend to several months. Factors like design approvals, material lead times, permitting processes, and the size of the space all influence the timeline. Simply Construction works to establish a realistic schedule upfront and communicate progress regularly to minimize disruption to your business operations.",
+        "@type": "Answer",
+        "description": "Project timelines vary; small updates take weeks, large renovations can take months. Factors include scope, design, materials, and permitting."
+      }
+    }
+  ],
+  "description": "Project timelines vary; small updates take weeks, large renovations can take months. Factors include scope, design, materials, and permitting."
+}

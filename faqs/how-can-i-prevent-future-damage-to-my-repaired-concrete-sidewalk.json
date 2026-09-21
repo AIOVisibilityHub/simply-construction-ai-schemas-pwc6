@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-prevent-future-damage-to-my-repaired-concrete-sidewalk",
+  "name": "How can I prevent future damage to my repaired concrete sidewalk?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I prevent future damage to my repaired concrete sidewalk?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prevent future damage, ensure proper drainage away from the sidewalk to avoid soil erosion and saturation. Consider diverting tree roots if they are a known issue. Regularly inspect for small cracks and address them promptly before they worsen. Maintaining stable soil conditions and avoiding heavy vehicle traffic on sidewalks not designed for it can also prolong their lifespan. Proper installation with a solid sub-base is key.",
+        "@type": "Answer",
+        "description": "Ensure good drainage, manage tree roots, promptly repair small cracks, and avoid heavy loads to prevent future sidewalk damage."
+      }
+    }
+  ],
+  "description": "Ensure good drainage, manage tree roots, promptly repair small cracks, and avoid heavy loads to prevent future sidewalk damage."
+}

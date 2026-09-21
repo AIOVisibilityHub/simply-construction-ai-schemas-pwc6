@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-for-stone-feature-installation-in-henderson",
+  "name": "Do I need a permit for stone feature installation in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit for stone feature installation in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Henderson, certain stone feature installations may require a permit, especially if they involve significant structural changes, extensive excavation, or exceed specific height or size limitations. For example, retaining walls above a certain height or large outdoor fireplaces often need permits to ensure compliance with local building codes and safety regulations. It's crucial to check with the City of Henderson's Building and Safety Department or consult with your contractor before starting any project to determine permit requirements.",
+        "@type": "Answer",
+        "description": "In Henderson, permits may be required for stone features involving structural changes, extensive excavation, or exceeding height/size limits. Check with the city's Building and Safety Department."
+      }
+    }
+  ],
+  "description": "In Henderson, permits may be required for stone features involving structural changes, extensive excavation, or exceeding height/size limits. Check with the cit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-concrete-driveway-repairs-durable-and-how-long-do-they-last",
+  "name": "Are concrete driveway repairs durable, and how long do they last?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are concrete driveway repairs durable, and how long do they last?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The durability and lifespan of concrete driveway repairs depend significantly on the quality of the materials used, the expertise of the contractor, and the original cause of the damage. Well-executed repairs, particularly for minor issues, can last many years, often as long as the remaining lifespan of the surrounding concrete. However, if the underlying issues, such as poor drainage or unstable sub-base, are not addressed, repairs may fail prematurely. Regular maintenance and proper use also contribute to their longevity.",
+        "@type": "Answer",
+        "description": "Durable repairs can last many years if quality materials and expertise are used and underlying issues are addressed; longevity depends on maintenance."
+      }
+    }
+  ],
+  "description": "Durable repairs can last many years if quality materials and expertise are used and underlying issues are addressed; longevity depends on maintenance."
+}

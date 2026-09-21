@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-poor-drainage-damage-my-home-s-foundation",
+  "name": "Can poor drainage damage my home's foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can poor drainage damage my home's foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, poor drainage can significantly damage your home's foundation. When water consistently pools around the foundation, it can erode the soil, leading to uneven settling of the house. This can cause cracks in the foundation, walls, and even the slab. Excess moisture can also lead to hydrostatic pressure against basement walls, causing cracks and leaks. Addressing drainage issues is crucial for maintaining your home's structural integrity.",
+        "@type": "Answer",
+        "description": "Yes, standing water around your foundation can cause soil erosion, uneven settling, cracks, and leaks, compromising structural integrity."
+      }
+    }
+  ],
+  "description": "Yes, standing water around your foundation can cause soil erosion, uneven settling, cracks, and leaks, compromising structural integrity."
+}

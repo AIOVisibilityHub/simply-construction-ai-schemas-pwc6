@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/is-concrete-repair-a-permanent-solution",
+  "name": "Is concrete repair a permanent solution?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is concrete repair a permanent solution?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The permanence of concrete repair depends on several factors, including the type of damage, the repair method used, and the underlying cause. While many repairs can be highly durable and last for many years, no concrete repair is absolutely 'permanent' if the original underlying issues (like poor drainage, soil settlement, or tree roots) are not also addressed. We aim to provide the most long-lasting solution possible for the identified damage, often advising on preventative measures.",
+        "@type": "Answer",
+        "description": "Concrete repair can be highly durable, but its permanence depends on the damage type, repair method, and if underlying causes are addressed. We strive for long-lasting solutions."
+      }
+    }
+  ],
+  "description": "Concrete repair can be highly durable, but its permanence depends on the damage type, repair method, and if underlying causes are addressed. We strive for long-"
+}

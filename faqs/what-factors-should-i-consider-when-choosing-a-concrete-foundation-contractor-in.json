@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-concrete-foundation-contractor-in",
+  "name": "What factors should I consider when choosing a concrete foundation contractor in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a concrete foundation contractor in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor in Southern Nevada, look for experience with the local climate and soil conditions, which can be expansive. Verify they are licensed, bonded, and insured. Ask for references and view their previous work. A reputable contractor will provide a detailed proposal, clearly outlining the scope of work, materials, timeline, and warranty. Communication style, responsiveness, and their understanding of local building codes are also key indicators of a reliable partner for your foundation project.",
+        "@type": "Answer",
+        "description": "Choose a contractor experienced with local conditions, licensed, bonded, and insured. Verify references, review proposals, and ensure they understand local building codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor experienced with local conditions, licensed, bonded, and insured. Verify references, review proposals, and ensure they understand local buil"
+}

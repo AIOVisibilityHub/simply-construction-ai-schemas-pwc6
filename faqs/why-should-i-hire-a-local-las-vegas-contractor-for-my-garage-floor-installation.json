@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/why-should-i-hire-a-local-las-vegas-contractor-for-my-garage-floor-installation",
+  "name": "Why should I hire a local Las Vegas contractor for my garage floor installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I hire a local Las Vegas contractor for my garage floor installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hiring a local Las Vegas contractor like Simply Construction for your garage floor installation offers several advantages. Local contractors are familiar with the specific soil conditions, building codes, and permit requirements unique to the Las Vegas Valley, North Las Vegas, Henderson, and surrounding areas. They often have established relationships with local suppliers, potentially leading to better material pricing and availability. Furthermore, a local presence means easier communication, quicker response times, and accountability for long-term satisfaction, as they rely on their local reputation.",
+        "@type": "Answer",
+        "description": "Local Las Vegas contractors understand regional soil, codes, and permits, offer better communication, and are accountable to their local reputation."
+      }
+    }
+  ],
+  "description": "Local Las Vegas contractors understand regional soil, codes, and permits, offer better communication, and are accountable to their local reputation."
+}

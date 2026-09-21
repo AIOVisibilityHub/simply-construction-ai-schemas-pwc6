@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-concrete-driveway-replacement-in-las-vegas",
+  "name": "What is the typical cost range for concrete driveway replacement in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for concrete driveway replacement in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete driveway replacement in Las Vegas can vary significantly based on factors like driveway size, existing driveway removal needs, concrete thickness, any special finishes or colors requested, and site accessibility. Generally, costs can range from $5 to $15 per square foot, with total project costs often falling between $4,000 and $15,000 or more for average-sized driveways. Getting multiple quotes provides the most accurate estimate for your specific project.",
+        "@type": "Answer",
+        "description": "Costs typically range from $5 to $15 per square foot, depending on size, complexity, and finishes, often totaling $4,000 to $15,000."
+      }
+    }
+  ],
+  "description": "Costs typically range from $5 to $15 per square foot, depending on size, complexity, and finishes, often totaling $4,000 to $15,000."
+}

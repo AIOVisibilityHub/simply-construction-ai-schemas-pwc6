@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-commercial-building-renovation-cost-in-the-las-vegas-area",
+  "name": "How much does commercial building renovation cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does commercial building renovation cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial renovation costs in Las Vegas depend on factors such as project size, material choices, the extent of structural changes, and the building's current condition. Costs per square foot can range widely. A basic office remodel will differ greatly from a specialized retail or restaurant build-out. We offer detailed proposals after an initial consultation to provide accurate cost estimates tailored to your specific needs.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on project size, materials, and scope. We provide detailed proposals after an initial consultation."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on project size, materials, and scope. We provide detailed proposals after an initial consultation."
+}

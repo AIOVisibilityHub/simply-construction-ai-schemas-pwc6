@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-stone-patio-or-walkway-installation-take",
+  "name": "How long does a typical stone patio or walkway installation take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical stone patio or walkway installation take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a stone patio or walkway installation varies based on size, complexity, stone type, and site conditions. A smaller, straightforward patio might take 3-5 days, while larger or more intricate designs, such as those involving multiple stone types or complex patterns, could extend to 1-2 weeks or more. Factors like ground preparation, weather, and accessibility also play a role. A detailed project plan will provide a more precise timeline.",
+        "@type": "Answer",
+        "description": "Installation time for stone patios or walkways varies, typically ranging from 3-5 days for smaller projects to 1-2 weeks for larger, more complex designs."
+      }
+    }
+  ],
+  "description": "Installation time for stone patios or walkways varies, typically ranging from 3-5 days for smaller projects to 1-2 weeks for larger, more complex designs."
+}

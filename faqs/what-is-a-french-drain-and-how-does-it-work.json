@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-french-drain-and-how-does-it-work",
+  "name": "What is a French drain and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a French drain and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A French drain is a trench filled with gravel, containing a perforated pipe, that redirects surface and groundwater away from an area. Water seeps into the trench, flows through the gravel and into the pipe, which then carries it to a more suitable discharge point, such as a storm drain, dry well, or lower-lying area. This prevents water from accumulating and causing damage to foundations or landscapes.",
+        "@type": "Answer",
+        "description": "A French drain is a gravel-filled trench with a perforated pipe that collects and redirects excess water away from your property."
+      }
+    }
+  ],
+  "description": "A French drain is a gravel-filled trench with a perforated pipe that collects and redirects excess water away from your property."
+}

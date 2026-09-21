@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-thick-should-a-concrete-walkway-be",
+  "name": "How thick should a concrete walkway be?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How thick should a concrete walkway be?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most residential concrete walkways, a thickness of 4 inches is generally sufficient to withstand foot traffic and light loads without cracking, assuming a properly prepared sub-base. However, for areas that might experience occasional heavier loads, such as a utility access path, a 5-6 inch thickness might be recommended. We will assess your specific usage and soil conditions to recommend the optimal thickness for your project.",
+        "@type": "Answer",
+        "description": "Most residential concrete walkways require 4 inches of thickness; heavier loads may necessitate 5-6 inches for durability."
+      }
+    }
+  ],
+  "description": "Most residential concrete walkways require 4 inches of thickness; heavier loads may necessitate 5-6 inches for durability."
+}

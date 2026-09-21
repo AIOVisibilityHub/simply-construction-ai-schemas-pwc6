@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-concrete-slab-installation",
+  "name": "What factors influence the cost of concrete slab installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of concrete slab installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete slab installation is influenced by several factors. These include the size and thickness of the slab, the type of concrete mix required (e.g., higher strength mixes cost more), and the need for any special finishes or additives. Site preparation, such as excavation or extensive grading, can also impact the price. Additionally, accessibility to the site for concrete trucks and equipment, and the inclusion of reinforcement like rebar, will affect the overall cost. Obtaining a detailed quote based on your specific project needs is the best way to understand the expense.",
+        "@type": "Answer",
+        "description": "Cost factors include slab size and thickness, concrete mix type, site preparation needs, and accessibility for equipment."
+      }
+    }
+  ],
+  "description": "Cost factors include slab size and thickness, concrete mix type, site preparation needs, and accessibility for equipment."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/is-artificial-turf-safe-for-pets-and-children",
+  "name": "Is artificial turf safe for pets and children?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is artificial turf safe for pets and children?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, artificial turf is generally safe for pets and children. Modern artificial grasses are made from non-toxic, lead-free materials, making them suitable for areas where families and pets play. The turf provides a consistent, cushioned surface that can reduce scrapes and falls compared to uneven natural ground. For pets, artificial turf eliminates mud and common outdoor allergens. Pet-specific turf options often feature enhanced drainage systems and antimicrobial infills to help manage odors and maintain hygiene. Regular rinsing is recommended to keep the area clean and fresh.",
+        "@type": "Answer",
+        "description": "Modern artificial turf is safe for pets and children, made from non-toxic materials, offering a clean, consistent play surface while reducing mud and allergens."
+      }
+    }
+  ],
+  "description": "Modern artificial turf is safe for pets and children, made from non-toxic materials, offering a clean, consistent play surface while reducing mud and allergens."
+}

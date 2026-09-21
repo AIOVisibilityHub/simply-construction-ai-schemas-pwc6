@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-concrete-repair-in-las-vegas",
+  "name": "How do I choose the right contractor for concrete repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for concrete repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a concrete repair contractor in Las Vegas, look for companies with proven experience, relevant licenses, and positive customer reviews. Request detailed, written estimates that outline the scope of work, materials, and costs. Inquire about their warranty or guarantee on repairs. A reputable contractor will conduct a thorough inspection before providing recommendations and will be transparent about the repair process and expected outcomes. Verifying their local presence and reputation is key.",
+        "@type": "Answer",
+        "description": "Choose a concrete repair contractor in Las Vegas by checking for experience, licenses, positive reviews, detailed estimates, and warranties. Ensure they perform thorough inspections."
+      }
+    }
+  ],
+  "description": "Choose a concrete repair contractor in Las Vegas by checking for experience, licenses, positive reviews, detailed estimates, and warranties. Ensure they perform"
+}

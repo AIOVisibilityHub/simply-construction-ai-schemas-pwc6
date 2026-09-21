@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-repair-a-damaged-wall-in-las-vegas",
+  "name": "How much does it cost to repair a damaged wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a damaged wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of wall repair in Las Vegas varies significantly based on the type, extent, and location of the damage. Minor repairs like small cracks might range from a few hundred dollars, while extensive issues such as structural damage, large holes, or water-damaged sections requiring drywall replacement, insulation work, or stucco repair could cost several thousand dollars. Factors influencing the price include materials needed, labor rates, and whether the damage affects interior or exterior walls. A professional inspection is necessary for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Wall repair costs in Las Vegas vary widely based on damage type and extent, from a few hundred for minor fixes to thousands for structural issues. An inspection provides an accurate estimate."
+      }
+    }
+  ],
+  "description": "Wall repair costs in Las Vegas vary widely based on damage type and extent, from a few hundred for minor fixes to thousands for structural issues. An inspection"
+}

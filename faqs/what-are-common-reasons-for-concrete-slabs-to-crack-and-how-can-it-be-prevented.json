@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-reasons-for-concrete-slabs-to-crack-and-how-can-it-be-prevented",
+  "name": "What are common reasons for concrete slabs to crack, and how can it be prevented?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common reasons for concrete slabs to crack, and how can it be prevented?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete slabs can crack for several reasons, including improper sub-base preparation, inadequate expansion/control joints, rapid drying during curing, excessive weight, or unstable soil movement. Cracks can be minimized by ensuring a well-compacted, stable sub-base, correctly placed control joints to allow for concrete expansion and contraction, and a thorough, extended curing process that keeps the concrete moist. Proper concrete mix design, appropriate reinforcement (like rebar or mesh), and professional installation that accounts for anticipated loads and local soil conditions also play crucial roles in preventing significant cracking and ensuring a long-lasting slab.",
+        "@type": "Answer",
+        "description": "Cracks are caused by poor sub-base, lack of joints, rapid drying, or heavy loads; prevention involves proper prep, reinforcement, and curing."
+      }
+    }
+  ],
+  "description": "Cracks are caused by poor sub-base, lack of joints, rapid drying, or heavy loads; prevention involves proper prep, reinforcement, and curing."
+}

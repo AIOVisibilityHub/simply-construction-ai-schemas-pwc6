@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-concrete-repair-typically-take",
+  "name": "How long does concrete repair typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does concrete repair typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of concrete repair depends heavily on the scope of the project. Small, isolated crack repairs might be completed within a few hours to a day. More extensive repairs, such as addressing significant spalling or replacing large sections of concrete, could take several days. We provide an estimated timeline during the initial assessment, considering factors like cure times for materials, which are crucial for durability. Weather conditions can also influence the schedule.",
+        "@type": "Answer",
+        "description": "Concrete repair times vary from a few hours for small cracks to several days for extensive damage, depending on project scope and material cure times."
+      }
+    }
+  ],
+  "description": "Concrete repair times vary from a few hours for small cracks to several days for extensive damage, depending on project scope and material cure times."
+}

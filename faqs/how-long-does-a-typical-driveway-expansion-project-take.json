@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-driveway-expansion-project-take",
+  "name": "How long does a typical driveway expansion project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical driveway expansion project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a driveway expansion project varies based on its size, complexity, and the chosen materials. A smaller, straightforward expansion might take a few days, while larger or more intricate projects involving extensive grading, drainage work, or specialized materials could extend to one to two weeks. This timeline also includes the time for necessary permits to be approved by local authorities in areas like Las Vegas or Henderson. We provide a projected timeline after assessing your specific project details.",
+        "@type": "Answer",
+        "description": "Project duration for driveway expansion varies, from a few days for simple expansions to one to two weeks for complex ones, including permit approvals."
+      }
+    }
+  ],
+  "description": "Project duration for driveway expansion varies, from a few days for simple expansions to one to two weeks for complex ones, including permit approvals."
+}

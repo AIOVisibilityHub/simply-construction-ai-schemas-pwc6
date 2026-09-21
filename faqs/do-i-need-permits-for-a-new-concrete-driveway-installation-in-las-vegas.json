@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-new-concrete-driveway-installation-in-las-vegas",
+  "name": "Do I need permits for a new concrete driveway installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a new concrete driveway installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas of Las Vegas, including some parts of the city and surrounding municipalities, permits may be required for new concrete driveway installations, especially if the project alters existing drainage patterns, affects public sidewalks, or involves significant excavation. Requirements vary by specific location within the broader Las Vegas valley (e.g., City of Las Vegas, Henderson, Clark County). It is always best to check with your local planning or building department before starting any project. We can assist in guiding you through this process.",
+        "@type": "Answer",
+        "description": "Permits may be required for new concrete driveway installations in parts of Las Vegas, especially if drainage or public areas are affected. Check with your local planning department as requirements vary by municipality."
+      }
+    }
+  ],
+  "description": "Permits may be required for new concrete driveway installations in parts of Las Vegas, especially if drainage or public areas are affected. Check with your loca"
+}

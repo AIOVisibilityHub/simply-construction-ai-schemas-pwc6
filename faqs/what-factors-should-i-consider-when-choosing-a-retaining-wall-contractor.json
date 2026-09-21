@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-retaining-wall-contractor",
+  "name": "What factors should I consider when choosing a retaining wall contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a retaining wall contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a retaining wall contractor, it's important to consider their experience with similar projects, especially in the local Las Vegas climate. Look for contractors who are licensed and insured, offer detailed proposals, and can provide references. Evaluate their understanding of drainage solutions, material options, and local building codes. A reputable contractor will also prioritize safety, communicate clearly, and stand behind their work with warranties. Ensuring they have a proven track record for quality and reliability will give you peace of mind.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with experience, local knowledge, and good references. Prioritize clear communication, detailed proposals, and understanding of drainage and codes."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with experience, local knowledge, and good references. Prioritize clear communication, detailed proposals, and understandi"
+}

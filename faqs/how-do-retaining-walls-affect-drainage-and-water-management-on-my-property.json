@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-retaining-walls-affect-drainage-and-water-management-on-my-property",
+  "name": "How do retaining walls affect drainage and water management on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do retaining walls affect drainage and water management on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properly designed and installed retaining walls are crucial for effective drainage and water management. They prevent soil erosion by stabilizing slopes and can redirect water flow away from foundations or other sensitive areas. A well-engineered wall will include a robust drainage system, such as gravel backfill and weep holes or a perforated pipe, to relieve hydrostatic pressure behind the wall. This prevents water from saturating the soil and potentially compromising the wall's structure, which is especially vital in areas prone to heavy rainfall or flash flooding, like parts of Nevada.",
+        "@type": "Answer",
+        "description": "Retaining walls manage water by preventing erosion and redirecting flow. Proper design includes drainage systems like gravel and weep holes to relieve hydrostatic pressure and ensure stability."
+      }
+    }
+  ],
+  "description": "Retaining walls manage water by preventing erosion and redirecting flow. Proper design includes drainage systems like gravel and weep holes to relieve hydrostat"
+}

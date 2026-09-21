@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-plants-are-best-for-desert-landscaping",
+  "name": "What types of plants are best for desert landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of plants are best for desert landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective desert landscaping utilizes plants adapted to arid conditions. Common choices include succulents like agave and cacti, which store water efficiently. Drought-tolerant shrubs such as oleander, bougainvillea, and some varieties of sage and lavender are popular. Ground covers like creeping thyme or sedum can also be incorporated. For trees, consider palo verde, mesquite, or desert willow. The best selection depends on your specific microclimate, sun exposure, and desired aesthetic.",
+        "@type": "Answer",
+        "description": "Best desert plants include succulents, cacti, drought-tolerant shrubs (e.g., oleander, sage), and trees like palo verde or mesquite, all adapted to arid conditions."
+      }
+    }
+  ],
+  "description": "Best desert plants include succulents, cacti, drought-tolerant shrubs (e.g., oleander, sage), and trees like palo verde or mesquite, all adapted to arid conditi"
+}

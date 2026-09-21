@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-a-low-maintenance-landscaping-project-with-simp",
+  "name": "What is the process for starting a low-maintenance landscaping project with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a low-maintenance landscaping project with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting your low-maintenance landscaping project with Simply Construction begins with an initial consultation. During this meeting, we discuss your vision, budget, and specific needs. Our design team then develops a customized plan incorporating suitable low-maintenance elements like xeriscaping, artificial turf, or hardscaping. Once the design is approved, we provide a detailed proposal and timeline. Our experienced team handles all aspects of the installation, from site preparation to final touches, ensuring a smooth and efficient process tailored to your Southern Nevada property.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation to discuss your vision and budget. We then create a custom design, provide a proposal, and our team manages the full installation."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation to discuss your vision and budget. We then create a custom design, provide a proposal, and our team manages the full inst"
+}

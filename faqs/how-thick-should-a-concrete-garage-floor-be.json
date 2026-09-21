@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-thick-should-a-concrete-garage-floor-be",
+  "name": "How thick should a concrete garage floor be?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How thick should a concrete garage floor be?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a standard residential garage that will house passenger vehicles, a concrete slab thickness of 4 inches is generally sufficient and widely recommended. If the garage is intended for heavier vehicles, such as trucks, RVs, or includes a workshop area with heavy equipment, increasing the thickness to 5 or 6 inches, along with additional reinforcement like rebar, is advisable. Proper thickness ensures the floor can withstand the expected loads without cracking or settling over time.",
+        "@type": "Answer",
+        "description": "A 4-inch concrete slab is standard for residential garages; 5-6 inches is recommended for heavier vehicles or equipment."
+      }
+    }
+  ],
+  "description": "A 4-inch concrete slab is standard for residential garages; 5-6 inches is recommended for heavier vehicles or equipment."
+}

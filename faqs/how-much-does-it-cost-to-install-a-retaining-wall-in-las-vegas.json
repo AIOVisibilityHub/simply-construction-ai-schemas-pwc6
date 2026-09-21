@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-install-a-retaining-wall-in-las-vegas",
+  "name": "How much does it cost to install a retaining wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a retaining wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of retaining wall installation in the Las Vegas area can vary significantly based on several factors. These include the wall's height, length, chosen material, site preparation requirements, and the complexity of the design. Walls requiring extensive excavation, drainage systems, or specialized engineering will naturally cost more. A simple, low block wall will be less expensive than a tall, engineered natural stone wall. We provide detailed estimates after an on-site evaluation to ensure accuracy, considering the specific conditions of your property and local regulations for projects in areas like Henderson or Summerlin.",
+        "@type": "Answer",
+        "description": "Retaining wall costs in Las Vegas vary based on height, length, material, site prep, and design complexity. We provide detailed, on-site estimates."
+      }
+    }
+  ],
+  "description": "Retaining wall costs in Las Vegas vary based on height, length, material, site prep, and design complexity. We provide detailed, on-site estimates."
+}

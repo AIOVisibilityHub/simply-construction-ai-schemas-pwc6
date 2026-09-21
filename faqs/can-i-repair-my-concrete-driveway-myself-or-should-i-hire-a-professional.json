@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-repair-my-concrete-driveway-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my concrete driveway myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my concrete driveway myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface crack filling kits are available for DIY enthusiasts, professional repair is generally recommended for optimal results and longevity. Professionals have the right tools, materials, and expertise to accurately assess the damage, prepare the surface correctly, and apply the appropriate repair techniques. Attempting complex repairs without experience can lead to ineffective results, further damage, or a need for more costly professional intervention later. For structural issues or significant damage, always consult a professional.",
+        "@type": "Answer",
+        "description": "Minor crack filling can be DIY, but professional repair is advised for most damage to ensure proper assessment, effective techniques, and lasting results."
+      }
+    }
+  ],
+  "description": "Minor crack filling can be DIY, but professional repair is advised for most damage to ensure proper assessment, effective techniques, and lasting results."
+}

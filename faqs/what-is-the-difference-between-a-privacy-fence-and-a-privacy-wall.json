@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-privacy-fence-and-a-privacy-wall",
+  "name": "What is the difference between a privacy fence and a privacy wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a privacy fence and a privacy wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a privacy fence typically refers to a structure made primarily of wood, vinyl, or composite panels, often pre-fabricated, designed to block views. A privacy wall, on the other hand, often implies a more substantial, permanent structure, frequently built from masonry like concrete, stucco, or brick. Walls tend to offer greater sound attenuation, security, and a longer lifespan compared to fences. Both serve the purpose of seclusion but differ in construction, durability, and cost.",
+        "@type": "Answer",
+        "description": "A privacy fence is usually a lighter structure like wood or vinyl panels, while a privacy wall is a more substantial, permanent masonry construction, offering greater durability and sound blocking."
+      }
+    }
+  ],
+  "description": "A privacy fence is usually a lighter structure like wood or vinyl panels, while a privacy wall is a more substantial, permanent masonry construction, offering g"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-stone-type-for-my-outdoor-project",
+  "name": "How do I choose the right stone type for my outdoor project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right stone type for my outdoor project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right stone involves considering several factors: the feature's purpose, your aesthetic preference, durability needs, and budget. For high-traffic areas like patios, opt for dense, slip-resistant stones such as granite or bluestone. For decorative accents, lighter or more varied stones like travertine or flagstone might be suitable. Research the stone's porosity, hardness, and climate compatibility. Consulting with a professional can help you select a stone that meets both your design vision and practical requirements.",
+        "@type": "Answer",
+        "description": "Choose stone based on purpose, aesthetics, durability, and budget. Consider density and slip-resistance for high-traffic areas, and consult a professional for climate compatibility."
+      }
+    }
+  ],
+  "description": "Choose stone based on purpose, aesthetics, durability, and budget. Consider density and slip-resistance for high-traffic areas, and consult a professional for c"
+}

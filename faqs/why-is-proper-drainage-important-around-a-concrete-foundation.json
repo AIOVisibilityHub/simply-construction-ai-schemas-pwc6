@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/why-is-proper-drainage-important-around-a-concrete-foundation",
+  "name": "Why is proper drainage important around a concrete foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is proper drainage important around a concrete foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper drainage is vital to protect your concrete foundation from water damage. Poor drainage allows water to accumulate around the foundation, which can lead to soil erosion, hydrostatic pressure against foundation walls, and moisture intrusion into basements or crawl spaces. This can cause cracks, settlement, and even mold growth. Effective drainage solutions like grading, gutters, downspouts, and French drains direct water away, safeguarding the foundation's integrity and the home's stability.",
+        "@type": "Answer",
+        "description": "Good drainage prevents water accumulation, protecting the foundation from erosion, hydrostatic pressure, and moisture damage, which can lead to cracks and settlement."
+      }
+    }
+  ],
+  "description": "Good drainage prevents water accumulation, protecting the foundation from erosion, hydrostatic pressure, and moisture damage, which can lead to cracks and settl"
+}

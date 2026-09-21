@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-a-sunken-concrete-sidewalk",
+  "name": "What is the process for repairing a sunken concrete sidewalk?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a sunken concrete sidewalk?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For sunken sections, we typically use a method called slabjacking or concrete leveling. This involves drilling small holes into the sunken concrete and injecting a material, such as a specialized grout or polyurethane foam, beneath the slab. The injected material expands, lifting the concrete back to its original level. The holes are then patched, leaving a stable and even surface. This method is often quicker and less disruptive than full replacement.",
+        "@type": "Answer",
+        "description": "Sunken sidewalks are usually repaired via slabjacking: injecting material under the slab to lift it, then patching the holes."
+      }
+    }
+  ],
+  "description": "Sunken sidewalks are usually repaired via slabjacking: injecting material under the slab to lift it, then patching the holes."
+}

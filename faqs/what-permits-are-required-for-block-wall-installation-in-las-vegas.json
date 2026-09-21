@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-block-wall-installation-in-las-vegas",
+  "name": "What permits are required for block wall installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for block wall installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, a building permit is generally required for block wall installations, especially if the wall exceeds a certain height, typically 3 or 4 feet, or is part of a retaining structure. Specific requirements can vary by jurisdiction within the Las Vegas Valley (e.g., City of Las Vegas, Clark County, Henderson). Our team assists with identifying and obtaining the necessary permits, ensuring your project complies with all local zoning ordinances and building codes before construction begins.",
+        "@type": "Answer",
+        "description": "Permits are usually required for block walls exceeding 3-4 feet in height in Las Vegas; requirements vary by specific city or county jurisdiction."
+      }
+    }
+  ],
+  "description": "Permits are usually required for block walls exceeding 3-4 feet in height in Las Vegas; requirements vary by specific city or county jurisdiction."
+}

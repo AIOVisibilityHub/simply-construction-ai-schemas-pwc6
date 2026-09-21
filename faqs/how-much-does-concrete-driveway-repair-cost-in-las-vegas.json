@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-concrete-driveway-repair-cost-in-las-vegas",
+  "name": "How much does concrete driveway repair cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does concrete driveway repair cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete driveway repair in the Las Vegas area varies significantly based on the type of repair needed, the extent of the damage, and the size of the area requiring work. Minor crack filling might cost a few hundred dollars, while slab jacking can range from several hundred to a few thousand dollars per section. Extensive repairs or partial replacements will naturally be more expensive. It's recommended to get an on-site estimate for an accurate quote tailored to your specific driveway condition and local material/labor costs.",
+        "@type": "Answer",
+        "description": "Costs vary based on repair type and damage extent, from a few hundred dollars for minor cracks to thousands for more extensive work in Las Vegas."
+      }
+    }
+  ],
+  "description": "Costs vary based on repair type and damage extent, from a few hundred dollars for minor cracks to thousands for more extensive work in Las Vegas."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-new-concrete-driveway",
+  "name": "What is the process for installing a new concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a new concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process typically begins with site preparation, which involves excavating and grading the area to ensure proper drainage. Next, a compacted aggregate base is laid, followed by the placement of forms to define the driveway's shape and size. Reinforcement, such as rebar or wire mesh, is then installed. The concrete is poured, leveled, and finished according to the desired texture and aesthetic. Finally, control joints are cut to prevent cracking, and the driveway is allowed to cure before an optional sealant is applied.",
+        "@type": "Answer",
+        "description": "The process includes site excavation and grading, base preparation, form setting, reinforcement installation, concrete pouring and finishing, and cutting control joints, followed by curing."
+      }
+    }
+  ],
+  "description": "The process includes site excavation and grading, base preparation, form setting, reinforcement installation, concrete pouring and finishing, and cutting contro"
+}

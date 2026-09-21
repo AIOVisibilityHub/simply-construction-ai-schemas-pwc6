@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-installing-a-block-wall",
+  "name": "What is the process for installing a block wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for installing a block wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation process begins with site preparation, including surveying and excavation for the foundation. Next, a concrete footing is poured to create a stable base. Once the footing cures, concrete blocks are laid layer by layer, with mortar securing each course. Rebar is often used vertically and horizontally for structural integrity. Finally, the wall is capped, and any desired finishes, such as stucco or paint, are applied. Inspections occur at various stages to ensure compliance with local building codes.",
+        "@type": "Answer",
+        "description": "The process involves site preparation, pouring a foundation, laying blocks with mortar and rebar, capping the wall, and applying finishes, with inspections throughout."
+      }
+    }
+  ],
+  "description": "The process involves site preparation, pouring a foundation, laying blocks with mortar and rebar, capping the wall, and applying finishes, with inspections thro"
+}

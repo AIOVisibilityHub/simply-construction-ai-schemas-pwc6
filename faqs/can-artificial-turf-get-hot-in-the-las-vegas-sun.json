@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-artificial-turf-get-hot-in-the-las-vegas-sun",
+  "name": "Can artificial turf get hot in the Las Vegas sun?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can artificial turf get hot in the Las Vegas sun?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Artificial turf can absorb and retain heat, causing its surface temperature to be higher than natural grass, especially under direct, intense Las Vegas sunlight. The degree of heat retention varies by turf type, color, and infill material. Lighter-colored turf and certain infills can help mitigate some heat. While it may feel warm to the touch, it typically cools down quickly once shaded or sprayed with water. If heat is a significant concern for your specific application, we can discuss turf options and cooling strategies, such as misting systems or strategic shading, during your consultation.",
+        "@type": "Answer",
+        "description": "Artificial turf can get hot in direct Las Vegas sun, but its temperature varies by turf type and infill, and it cools quickly with shade or water."
+      }
+    }
+  ],
+  "description": "Artificial turf can get hot in direct Las Vegas sun, but its temperature varies by turf type and infill, and it cools quickly with shade or water."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-retaining-wall-installation",
+  "name": "What is the process for retaining wall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for retaining wall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The retaining wall installation process generally begins with site assessment and design, followed by obtaining necessary permits. Next, the site is prepared, which involves excavation and ensuring a stable base. A proper drainage system is then installed behind the wall to prevent hydrostatic pressure buildup. The wall material is laid according to the design, ensuring correct leveling and reinforcement. Finally, backfilling occurs, and the area is graded. We ensure each step is performed with precision to guarantee the wall's structural integrity and longevity.",
+        "@type": "Answer",
+        "description": "Installation involves site assessment, design, permitting, excavation, base preparation, drainage installation, wall construction, and backfilling. Each step is crucial for longevity."
+      }
+    }
+  ],
+  "description": "Installation involves site assessment, design, permitting, excavation, base preparation, drainage installation, wall construction, and backfilling. Each step is"
+}

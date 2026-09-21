@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-cracks-in-a-concrete-garage-floor",
+  "name": "What is the process for repairing cracks in a concrete garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing cracks in a concrete garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The repair process for concrete cracks typically begins with cleaning the crack to remove debris and loose material. Depending on the crack's size and nature, it may be routed to create a V-shape for better adhesion. A suitable filler material, such as epoxy, polyurethane, or a cementitious patching compound, is then applied to seal the crack. For structural cracks, injecting epoxy might be necessary. The repaired area is then smoothed and allowed to cure, often followed by a protective coating to prevent future damage.",
+        "@type": "Answer",
+        "description": "Crack repair involves cleaning, routing, filling with an appropriate material like epoxy, smoothing, and curing, sometimes followed by a protective coating."
+      }
+    }
+  ],
+  "description": "Crack repair involves cleaning, routing, filling with an appropriate material like epoxy, smoothing, and curing, sometimes followed by a protective coating."
+}

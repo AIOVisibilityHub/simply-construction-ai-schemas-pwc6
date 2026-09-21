@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-artificial-turf-installation",
+  "name": "What is the typical process for artificial turf installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for artificial turf installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our artificial turf installation process begins with an on-site consultation to assess your space and discuss your vision. Next, we prepare the area by removing existing grass or debris, ensuring the ground is properly leveled and compacted for a stable base. A layer of crushed aggregate is then installed and compacted, followed by a weed barrier. The artificial turf rolls are precisely cut, laid, seamed together, and secured around the edges. Finally, infill material (like sand or crumb rubber) is spread and brushed into the fibers to help them stand upright and provide cushioning, completing your new, vibrant lawn.",
+        "@type": "Answer",
+        "description": "The installation process involves consultation, site preparation, laying a compacted aggregate base and weed barrier, cutting and seaming turf, and spreading infill for a durable finish."
+      }
+    }
+  ],
+  "description": "The installation process involves consultation, site preparation, laying a compacted aggregate base and weed barrier, cutting and seaming turf, and spreading in"
+}

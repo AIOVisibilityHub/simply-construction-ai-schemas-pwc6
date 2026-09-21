@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-low-maintenance-landscaping-typically-cost",
+  "name": "How much does low-maintenance landscaping typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does low-maintenance landscaping typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of low-maintenance landscaping varies significantly based on factors like yard size, material choices, and design complexity. Basic installations, such as gravel and a few desert-adapted plants, can start lower, while elaborate designs with artificial turf, intricate hardscaping, or advanced irrigation systems will be higher. Artificial turf, for instance, has a higher upfront cost but saves on water and maintenance long-term. Consulting with a local contractor will provide a more accurate estimate tailored to your specific project and budget.",
+        "@type": "Answer",
+        "description": "Costs vary based on yard size, materials, and design. Artificial turf has a higher upfront cost but saves money long-term."
+      }
+    }
+  ],
+  "description": "Costs vary based on yard size, materials, and design. Artificial turf has a higher upfront cost but saves money long-term."
+}

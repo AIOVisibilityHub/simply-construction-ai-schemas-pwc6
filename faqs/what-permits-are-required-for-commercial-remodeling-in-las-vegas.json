@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-commercial-remodeling-in-las-vegas",
+  "name": "What permits are required for commercial remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for commercial remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial remodeling projects in Las Vegas typically require various permits from the City of Las Vegas or Clark County, depending on the specific location and scope of work. Common permits include building permits, electrical permits, plumbing permits, and mechanical permits. Additionally, projects might need specific permits for signage, fire suppression systems, or accessibility upgrades. A qualified general contractor will help identify and obtain all necessary permits to ensure compliance with local building codes and regulations before construction begins.",
+        "@type": "Answer",
+        "description": "Various permits (building, electrical, plumbing, mechanical) are required for commercial remodeling in Las Vegas, depending on the project scope and location."
+      }
+    }
+  ],
+  "description": "Various permits (building, electrical, plumbing, mechanical) are required for commercial remodeling in Las Vegas, depending on the project scope and location."
+}

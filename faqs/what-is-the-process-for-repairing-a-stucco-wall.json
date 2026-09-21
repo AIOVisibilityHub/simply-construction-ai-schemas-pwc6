@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-a-stucco-wall",
+  "name": "What is the process for repairing a stucco wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing a stucco wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairing a stucco wall typically involves several steps. First, the damaged area is carefully assessed to determine the extent of the issue and identify any underlying problems like water intrusion. Loose or crumbling stucco is removed, and the substrate is prepared, often involving cleaning and ensuring a stable base. Next, a new lath (mesh) may be applied if needed, followed by multiple layers of stucco – scratch coat, brown coat, and a finish coat – each allowed to cure properly. The final step involves texturing and painting to match the existing wall, ensuring a seamless and durable repair.",
+        "@type": "Answer",
+        "description": "Stucco wall repair involves assessing damage, removing loose material, preparing the substrate, applying new lath and multiple stucco layers, then texturing and painting for a seamless finish."
+      }
+    }
+  ],
+  "description": "Stucco wall repair involves assessing damage, removing loose material, preparing the substrate, applying new lath and multiple stucco layers, then texturing and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-installing-a-block-wall-on-my-property",
+  "name": "What are the benefits of installing a block wall on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of installing a block wall on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Block walls offer durability, security, and noise reduction for your property. They are highly resistant to weather and pests, requiring minimal maintenance over their lifespan. Beyond practical advantages, block walls can enhance curb appeal and increase property value, particularly in areas requiring robust boundary solutions or decorative landscaping features. They also provide excellent privacy and can help define property lines clearly.",
+        "@type": "Answer",
+        "description": "Block walls provide durability, security, noise reduction, and enhanced privacy, while also improving curb appeal and property value."
+      }
+    }
+  ],
+  "description": "Block walls provide durability, security, noise reduction, and enhanced privacy, while also improving curb appeal and property value."
+}

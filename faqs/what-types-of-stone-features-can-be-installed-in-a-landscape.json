@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-stone-features-can-be-installed-in-a-landscape",
+  "name": "What types of stone features can be installed in a landscape?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of stone features can be installed in a landscape?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Stone features enhance outdoor spaces with natural beauty and durability. Common installations include natural stone patios, walkways, retaining walls, decorative stone veneers for outdoor kitchens or fireplaces, and water features like ponds or waterfalls. Each type offers distinct aesthetic and functional benefits, from creating inviting gathering areas to managing land contours or adding calming elements. The choice depends on your design goals, property layout, and desired level of maintenance.",
+        "@type": "Answer",
+        "description": "Common stone features include patios, walkways, retaining walls, decorative veneers for outdoor kitchens or fireplaces, and water features like ponds or waterfalls."
+      }
+    }
+  ],
+  "description": "Common stone features include patios, walkways, retaining walls, decorative veneers for outdoor kitchens or fireplaces, and water features like ponds or waterfa"
+}

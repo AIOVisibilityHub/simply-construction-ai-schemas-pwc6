@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-concrete-repair-and-replacement",
+  "name": "What is the difference between concrete repair and replacement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between concrete repair and replacement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete repair focuses on fixing specific damaged areas of an existing concrete slab, such as cracks, spalling, or minor unevenness, often using patching, sealing, or lifting techniques. Concrete replacement involves removing the entire damaged slab and pouring new concrete. Repair is generally more cost-effective and less disruptive for localized issues, while replacement is necessary for widespread structural failure, severe damage, or significant changes in elevation. We assess which approach is most appropriate for your situation.",
+        "@type": "Answer",
+        "description": "Concrete repair fixes specific damaged sections, while replacement involves removing and pouring an entirely new slab. Repair is for localized issues, replacement for severe or widespread damage."
+      }
+    }
+  ],
+  "description": "Concrete repair fixes specific damaged sections, while replacement involves removing and pouring an entirely new slab. Repair is for localized issues, replaceme"
+}

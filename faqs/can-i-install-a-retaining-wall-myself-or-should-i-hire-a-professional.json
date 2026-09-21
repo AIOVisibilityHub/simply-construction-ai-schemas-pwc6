@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-install-a-retaining-wall-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a retaining wall myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a retaining wall myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small, non-structural retaining walls may be a feasible DIY project for experienced homeowners, larger or taller walls typically require professional installation. Retaining walls must be engineered correctly to withstand significant soil pressure and manage drainage effectively. Improper construction can lead to structural failure, property damage, and potential safety hazards. Professionals have the expertise, equipment, and knowledge of local building codes in areas like North Las Vegas to ensure the wall is built safely, durably, and to code, saving you time, effort, and potential costly repairs in the long run.",
+        "@type": "Answer",
+        "description": "Small retaining walls can be DIY for experienced individuals, but larger, structural walls require professional installation. Professionals ensure safety, durability, and code compliance."
+      }
+    }
+  ],
+  "description": "Small retaining walls can be DIY for experienced individuals, but larger, structural walls require professional installation. Professionals ensure safety, durab"
+}

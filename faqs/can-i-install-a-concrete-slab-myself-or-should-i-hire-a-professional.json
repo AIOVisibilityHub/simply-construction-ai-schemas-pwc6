@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-install-a-concrete-slab-myself-or-should-i-hire-a-professional",
+  "name": "Can I install a concrete slab myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I install a concrete slab myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While small, non-structural concrete projects like stepping stones might be a DIY possibility for experienced individuals, installing a concrete slab correctly, especially for driveways, patios, or any structural application, is complex and best left to professionals. It requires specific knowledge of site preparation, proper drainage, formwork, concrete mixing, pouring techniques, leveling, and curing processes. Mistakes can lead to costly issues like cracking, uneven surfaces, or drainage problems. Professionals have the necessary equipment, expertise, and experience to ensure the slab is durable, safe, and meets local building codes.",
+        "@type": "Answer",
+        "description": "Professional installation is recommended for concrete slabs due to the complexity of site prep, pouring, and curing, which ensures durability and adherence to codes."
+      }
+    }
+  ],
+  "description": "Professional installation is recommended for concrete slabs due to the complexity of site prep, pouring, and curing, which ensures durability and adherence to c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-commercial-renovation-and-commercial-remodeling",
+  "name": "What is the difference between commercial renovation and commercial remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between commercial renovation and commercial remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, commercial renovation typically refers to restoring a space to a good state of repair or updating its finishes without significant structural changes. This might include repainting, new flooring, or updated fixtures. Commercial remodeling, however, generally implies more extensive changes, often involving altering the layout, removing or adding walls, or making substantial changes to electrical, plumbing, or HVAC systems to achieve a new function or aesthetic. Remodeling usually requires more complex permits and design work.",
+        "@type": "Answer",
+        "description": "Renovation updates finishes without major structural changes, while remodeling involves more extensive alterations to layout, structure, or utilities."
+      }
+    }
+  ],
+  "description": "Renovation updates finishes without major structural changes, while remodeling involves more extensive alterations to layout, structure, or utilities."
+}

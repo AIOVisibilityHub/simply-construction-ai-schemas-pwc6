@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-small-business-renovation-usually-take",
+  "name": "How long does a small business renovation usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a small business renovation usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a small business renovation varies significantly based on the project's scope, complexity, and local permitting requirements. Minor cosmetic updates might take a few weeks, while structural changes or extensive build-outs could extend to several months. During the planning phase, we provide a detailed project schedule that outlines key milestones and an estimated completion date. Our team prioritizes efficient project management to complete work promptly while maintaining quality standards.",
+        "@type": "Answer",
+        "description": "Renovation timelines vary by project scope; minor updates take weeks, while extensive work can take months. We provide a detailed schedule during planning."
+      }
+    }
+  ],
+  "description": "Renovation timelines vary by project scope; minor updates take weeks, while extensive work can take months. We provide a detailed schedule during planning."
+}

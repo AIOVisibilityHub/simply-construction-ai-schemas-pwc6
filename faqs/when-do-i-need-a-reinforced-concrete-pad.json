@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-do-i-need-a-reinforced-concrete-pad",
+  "name": "When do I need a reinforced concrete pad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a reinforced concrete pad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need a reinforced concrete pad when the pad will support heavy loads, such as large HVAC units, hot tubs, or heavy equipment, or when it will be exposed to significant traffic or potential ground movement. Reinforcement, usually in the form of rebar or wire mesh, adds tensile strength to the concrete, preventing cracks and increasing its overall durability and load-bearing capacity. Your project's specific requirements will determine if reinforcement is necessary.",
+        "@type": "Answer",
+        "description": "Reinforcement is needed for heavy loads like hot tubs or large equipment, or when anticipating significant traffic or ground movement, to prevent cracking and add strength."
+      }
+    }
+  ],
+  "description": "Reinforcement is needed for heavy loads like hot tubs or large equipment, or when anticipating significant traffic or ground movement, to prevent cracking and a"
+}

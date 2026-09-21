@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-repair-my-concrete-garage-floor-myself-or-should-i-hire-a-professional",
+  "name": "Can I repair my concrete garage floor myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I repair my concrete garage floor myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While minor surface blemishes or hairline cracks might be tackled with DIY kits, significant damage like wide cracks, deep pitting, or uneven slabs often requires professional expertise. Professionals have access to specialized tools, industrial-grade materials, and the experience to correctly diagnose underlying issues, such as soil settlement or poor drainage. Improper DIY repairs can lead to further damage, costly re-dos, and may not resolve the root cause, making a professional more economical in the long run for substantial problems.",
+        "@type": "Answer",
+        "description": "Minor repairs can be DIY, but significant damage like wide cracks or uneven slabs usually requires professional contractors for proper diagnosis and lasting solutions."
+      }
+    }
+  ],
+  "description": "Minor repairs can be DIY, but significant damage like wide cracks or uneven slabs usually requires professional contractors for proper diagnosis and lasting sol"
+}

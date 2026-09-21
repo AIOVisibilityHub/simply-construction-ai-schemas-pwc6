@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-an-office-remodel-in-las-vegas",
+  "name": "What is the average cost of an office remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of an office remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an office remodel in the Las Vegas area can range widely, typically from $25 to $150 per square foot, or even higher for premium finishes and complex structural changes. This range depends on factors such as the extent of demolition, chosen materials, plumbing and electrical work, and specialized installations. It's best to discuss your specific needs with a contractor like Simply Construction to get a detailed estimate. We provide transparent pricing based on your project's unique requirements.",
+        "@type": "Answer",
+        "description": "Office remodel costs in Las Vegas vary widely, from $25 to over $150 per square foot, based on scope and materials. Get a detailed estimate for your specific project."
+      }
+    }
+  ],
+  "description": "Office remodel costs in Las Vegas vary widely, from $25 to over $150 per square foot, based on scope and materials. Get a detailed estimate for your specific pr"
+}

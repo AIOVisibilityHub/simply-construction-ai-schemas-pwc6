@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-causes-concrete-sidewalks-to-crack-or-sink",
+  "name": "What causes concrete sidewalks to crack or sink?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes concrete sidewalks to crack or sink?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cracks and sinking in concrete sidewalks are commonly caused by shifting soil due to moisture changes, tree root growth, or improper sub-base preparation during installation. In Las Vegas, extreme temperature fluctuations can also contribute to concrete expansion and contraction, leading to stress and eventual cracking. Water erosion beneath the slab can wash away supporting soil, causing sections to settle unevenly.",
+        "@type": "Answer",
+        "description": "Common causes include shifting soil, tree root intrusion, poor sub-base, and temperature fluctuations, especially in the Las Vegas climate."
+      }
+    }
+  ],
+  "description": "Common causes include shifting soil, tree root intrusion, poor sub-base, and temperature fluctuations, especially in the Las Vegas climate."
+}

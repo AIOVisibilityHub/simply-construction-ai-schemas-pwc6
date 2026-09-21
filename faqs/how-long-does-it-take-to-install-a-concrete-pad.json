@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-concrete-pad",
+  "name": "How long does it take to install a concrete pad?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a concrete pad?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeframe for a concrete pad varies depending on its size, complexity, weather conditions, and site preparation needs. Generally, a typical residential concrete pad can be installed within one to three days, including excavation, forming, pouring, and initial finishing. However, the concrete requires a curing period, usually several days to a week, before it can bear significant weight. We provide an estimated timeline during the initial consultation.",
+        "@type": "Answer",
+        "description": "Installation typically takes 1-3 days, depending on size and complexity, with several more days needed for proper curing."
+      }
+    }
+  ],
+  "description": "Installation typically takes 1-3 days, depending on size and complexity, with several more days needed for proper curing."
+}

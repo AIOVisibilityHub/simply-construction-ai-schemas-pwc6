@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-professional-concrete-foundation-repair-versus-diy-soluti",
+  "name": "When should I consider professional concrete foundation repair versus DIY solutions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider professional concrete foundation repair versus DIY solutions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For minor, non-structural concrete cracks that are hairline or purely cosmetic, DIY sealants might be an option. However, for any cracks that are wider than a quarter-inch, horizontal, diagonal, or those accompanied by other signs of structural distress like sticking doors or uneven floors, professional repair is strongly recommended. Foundation issues can be complex and require specialized knowledge and equipment to diagnose and fix correctly, ensuring the long-term stability and safety of your home.",
+        "@type": "Answer",
+        "description": "Consider DIY only for minor cosmetic cracks. For wider, structural cracks or other signs of damage, professional repair is essential for safety and stability."
+      }
+    }
+  ],
+  "description": "Consider DIY only for minor cosmetic cracks. For wider, structural cracks or other signs of damage, professional repair is essential for safety and stability."
+}

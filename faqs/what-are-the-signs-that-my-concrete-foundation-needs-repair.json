@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-that-my-concrete-foundation-needs-repair",
+  "name": "What are the signs that my concrete foundation needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that my concrete foundation needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs indicating potential foundation issues include cracks in walls (especially diagonal ones near doors and windows), uneven floors, doors and windows that stick or don't close properly, and gaps around window or door frames. Exterior signs can include cracks in the foundation itself, brickwork, or a chimney pulling away from the house. If you notice any of these, it's advisable to consult a professional for an inspection to determine the cause and necessary repairs.",
+        "@type": "Answer",
+        "description": "Signs of foundation issues include wall cracks, uneven floors, sticking doors/windows, and exterior foundation cracks. Consult a professional if these appear."
+      }
+    }
+  ],
+  "description": "Signs of foundation issues include wall cracks, uneven floors, sticking doors/windows, and exterior foundation cracks. Consult a professional if these appear."
+}

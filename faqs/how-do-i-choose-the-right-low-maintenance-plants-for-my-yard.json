@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-low-maintenance-plants-for-my-yard",
+  "name": "How do I choose the right low-maintenance plants for my yard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right low-maintenance plants for my yard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right low-maintenance plants involves considering your local climate, soil type, and sun exposure. For areas like Las Vegas, prioritize drought-tolerant and native desert plants that are naturally adapted to arid conditions and require minimal water once established. Look for plants with slow growth rates to reduce pruning needs and those resistant to common local pests. Consulting with a landscaping professional can help you select species that will thrive in your specific microclimate and complement your overall design aesthetic without demanding constant attention.",
+        "@type": "Answer",
+        "description": "Choose drought-tolerant, native desert plants based on your local climate, soil, and sun exposure. Consider slow-growing and pest-resistant varieties. A professional can help with selection."
+      }
+    }
+  ],
+  "description": "Choose drought-tolerant, native desert plants based on your local climate, soil, and sun exposure. Consider slow-growing and pest-resistant varieties. A profess"
+}

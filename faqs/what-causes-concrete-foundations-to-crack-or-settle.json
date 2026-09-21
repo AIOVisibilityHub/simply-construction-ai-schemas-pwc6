@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-causes-concrete-foundations-to-crack-or-settle",
+  "name": "What causes concrete foundations to crack or settle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What causes concrete foundations to crack or settle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete foundations can crack or settle due to several factors, primarily related to soil conditions. Poor soil compaction during construction, expansive clay soils that swell and shrink with moisture changes, and erosion from poor drainage are common culprits. Extreme weather fluctuations, seismic activity (even minor tremors), and plumbing leaks under the slab can also contribute to foundation movement. Understanding the cause is crucial for effective repair.",
+        "@type": "Answer",
+        "description": "Foundations crack or settle due to poor soil conditions, expansive clays, erosion, weather changes, seismic activity, or plumbing leaks."
+      }
+    }
+  ],
+  "description": "Foundations crack or settle due to poor soil conditions, expansive clays, erosion, weather changes, seismic activity, or plumbing leaks."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-after-repair-can-i-drive-my-car-on-the-garage-floor",
+  "name": "How long after repair can I drive my car on the garage floor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long after repair can I drive my car on the garage floor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time before you can drive your car on a repaired concrete garage floor depends entirely on the type of repair material used and the extent of the work. For minor crack fillers, it might be as little as 24-48 hours. However, for larger patches, resurfacing, or new concrete overlays, it could take several days to a week or even longer for the materials to achieve full strength and ensure durability. Always follow your contractor's specific instructions for curing times to avoid damaging the fresh repair.",
+        "@type": "Answer",
+        "description": "Driving time varies from 24-48 hours for minor repairs to several days or a week for larger projects; always follow your contractor's specific curing instructions."
+      }
+    }
+  ],
+  "description": "Driving time varies from 24-48 hours for minor repairs to several days or a week for larger projects; always follow your contractor's specific curing instructio"
+}

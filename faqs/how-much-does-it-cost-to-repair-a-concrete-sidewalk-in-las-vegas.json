@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-repair-a-concrete-sidewalk-in-las-vegas",
+  "name": "How much does it cost to repair a concrete sidewalk in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to repair a concrete sidewalk in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete sidewalk repair in Las Vegas depends on several factors: the repair method (patching, leveling, or replacement), the size of the damaged area, and accessibility. Minor crack repairs are less expensive than lifting an entire section or replacing a large slab. We offer free, no-obligation estimates after a site visit to accurately assess the damage and provide a detailed quote tailored to your specific needs.",
+        "@type": "Answer",
+        "description": "Cost varies by repair type, damage size, and accessibility. We provide free estimates after a site assessment."
+      }
+    }
+  ],
+  "description": "Cost varies by repair type, damage size, and accessibility. We provide free estimates after a site assessment."
+}

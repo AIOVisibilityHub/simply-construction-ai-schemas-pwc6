@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-signs-that-my-concrete-foundation-needs-repair",
+  "name": "What are the common signs that my concrete foundation needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common signs that my concrete foundation needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common signs of a concrete foundation issue include cracks in exterior brick, interior drywall, or flooring. You might also notice doors and windows sticking or not closing properly, uneven floors, or gaps around window and door frames. In basements or crawl spaces, look for dampness, musty odors, or bowing walls. Catching these signs early can help prevent more extensive and costly repairs.",
+        "@type": "Answer",
+        "description": "Look for cracks in walls or floors, sticking doors/windows, uneven floors, or dampness in basements/crawl spaces."
+      }
+    }
+  ],
+  "description": "Look for cracks in walls or floors, sticking doors/windows, uneven floors, or dampness in basements/crawl spaces."
+}

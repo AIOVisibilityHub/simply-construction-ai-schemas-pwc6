@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-small-businesses-do-you-typically-remodel",
+  "name": "What types of small businesses do you typically remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of small businesses do you typically remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in remodeling a diverse range of small businesses, including retail stores, offices, medical and dental practices, restaurants, and salons. Our experience encompasses various commercial spaces, from updating aesthetics to reconfiguring layouts for improved functionality and customer flow. We work closely with each business owner to understand their specific operational needs and brand identity.",
+        "@type": "Answer",
+        "description": "We remodel various small businesses, including retail, offices, medical practices, restaurants, and salons, focusing on functionality and brand identity."
+      }
+    }
+  ],
+  "description": "We remodel various small businesses, including retail, offices, medical practices, restaurants, and salons, focusing on functionality and brand identity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-maintenance-can-help-prevent-future-concrete-garage-floor-damage",
+  "name": "What kind of maintenance can help prevent future concrete garage floor damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance can help prevent future concrete garage floor damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regular maintenance is key to preventing future damage to your concrete garage floor. Promptly clean up oil, grease, and chemical spills to avoid staining and etching. Avoid using metal shovels or harsh de-icing salts, which can damage the surface. Seal your concrete every few years to protect it from moisture penetration, chemicals, and abrasion. Address small cracks as they appear to prevent them from expanding, and ensure proper drainage around your garage to divert water away from the foundation.",
+        "@type": "Answer",
+        "description": "Prevent damage by promptly cleaning spills, avoiding harsh chemicals, regularly sealing the concrete, addressing small cracks, and ensuring proper drainage."
+      }
+    }
+  ],
+  "description": "Prevent damage by promptly cleaning spills, avoiding harsh chemicals, regularly sealing the concrete, addressing small cracks, and ensuring proper drainage."
+}

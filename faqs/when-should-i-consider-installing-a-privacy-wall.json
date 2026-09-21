@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-installing-a-privacy-wall",
+  "name": "When should I consider installing a privacy wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider installing a privacy wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider installing a privacy wall if you desire increased seclusion in your outdoor living areas, want to reduce noise from neighbors or traffic, or wish to enhance your property's security. It's also a good option if you have an unappealing view you want to block, or if you need to define property lines more clearly. Many homeowners choose a privacy wall to create a more intimate and functional backyard space, especially in densely populated areas, or to complement specific landscaping designs.",
+        "@type": "Answer",
+        "description": "Consider a privacy wall for increased seclusion, noise reduction, enhanced security, blocking undesirable views, or defining property lines to create a more intimate outdoor space."
+      }
+    }
+  ],
+  "description": "Consider a privacy wall for increased seclusion, noise reduction, enhanced security, blocking undesirable views, or defining property lines to create a more int"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-best-low-maintenance-landscaping-options-for-a-desert-climate-like",
+  "name": "What are the best low-maintenance landscaping options for a desert climate like Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best low-maintenance landscaping options for a desert climate like Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For Las Vegas's desert climate, excellent low-maintenance landscaping options include xeriscaping with native plants such as desert marigolds, brittlebush, and agave. Artificial turf is another popular choice, eliminating the need for watering or mowing. Gravel, decomposed granite, and drought-tolerant groundcovers reduce water usage and upkeep. Consider drip irrigation systems for any plants to minimize water waste and simplify watering schedules. These choices help conserve water and reduce the time spent on yard work, making them ideal for the local environment.",
+        "@type": "Answer",
+        "description": "Xeriscaping with native plants, artificial turf, gravel, and drip irrigation are ideal low-maintenance options for Las Vegas's desert climate."
+      }
+    }
+  ],
+  "description": "Xeriscaping with native plants, artificial turf, gravel, and drip irrigation are ideal low-maintenance options for Las Vegas's desert climate."
+}

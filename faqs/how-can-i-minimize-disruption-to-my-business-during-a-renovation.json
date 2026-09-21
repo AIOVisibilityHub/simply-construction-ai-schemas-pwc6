@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-minimize-disruption-to-my-business-during-a-renovation",
+  "name": "How can I minimize disruption to my business during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I minimize disruption to my business during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimizing disruption during renovation is crucial for small businesses. Strategies include scheduling work during off-hours, weekends, or holidays whenever possible. We can also implement phased construction, allowing certain areas of your business to remain operational while others are under renovation. Clear communication, setting up temporary barriers, and maintaining a clean worksite are also key to ensuring your business can continue to function effectively.",
+        "@type": "Answer",
+        "description": "Minimize disruption by scheduling work during off-hours or weekends, using phased construction, clear communication, and maintaining a clean worksite."
+      }
+    }
+  ],
+  "description": "Minimize disruption by scheduling work during off-hours or weekends, using phased construction, clear communication, and maintaining a clean worksite."
+}

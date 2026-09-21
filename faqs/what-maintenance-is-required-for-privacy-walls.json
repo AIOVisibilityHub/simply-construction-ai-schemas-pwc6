@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-privacy-walls",
+  "name": "What maintenance is required for privacy walls?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for privacy walls?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Maintenance for privacy walls varies significantly by material. Wood walls may require periodic staining, sealing, or painting to prevent weathering, rot, and insect damage, typically every 2-5 years. Vinyl and composite walls are generally low-maintenance, requiring only occasional cleaning with soap and water to remove dirt or mildew. Masonry walls, such as stucco or concrete, are very durable and usually only need cleaning or minor repairs to cracks over time. Regular inspections for damage are recommended for all types.",
+        "@type": "Answer",
+        "description": "Maintenance depends on the material: wood needs periodic sealing/staining; vinyl and composite require occasional cleaning; masonry needs cleaning or minor crack repairs."
+      }
+    }
+  ],
+  "description": "Maintenance depends on the material: wood needs periodic sealing/staining; vinyl and composite require occasional cleaning; masonry needs cleaning or minor crac"
+}

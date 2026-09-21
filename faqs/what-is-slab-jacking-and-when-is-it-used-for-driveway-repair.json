@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-slab-jacking-and-when-is-it-used-for-driveway-repair",
+  "name": "What is slab jacking, and when is it used for driveway repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is slab jacking, and when is it used for driveway repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Slab jacking, also known as mudjacking or polyjacking, is a repair method used to lift sunken concrete slabs back to their original level. It involves drilling small holes into the affected slab and injecting a grout mixture (mudjacking) or polyurethane foam (polyjacking) underneath. This material fills voids and creates upward pressure, raising the concrete. It's used when a driveway section has settled due to soil erosion, poor compaction, or expansive soils, restoring a level surface without full replacement.",
+        "@type": "Answer",
+        "description": "Slab jacking lifts sunken concrete by injecting grout or foam underneath to fill voids and raise the slab to its original level."
+      }
+    }
+  ],
+  "description": "Slab jacking lifts sunken concrete by injecting grout or foam underneath to fill voids and raise the slab to its original level."
+}

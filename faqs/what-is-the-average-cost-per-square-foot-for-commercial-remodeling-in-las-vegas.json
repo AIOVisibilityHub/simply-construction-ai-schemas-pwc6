@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-per-square-foot-for-commercial-remodeling-in-las-vegas",
+  "name": "What is the average cost per square foot for commercial remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per square foot for commercial remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial remodeling costs in Las Vegas can vary widely, typically ranging from $50 to $200+ per square foot. This range depends heavily on the type of space (e.g., office, retail, restaurant), the quality of materials selected, the extent of structural or mechanical changes, and finishes. Basic cosmetic updates will be on the lower end, while projects requiring extensive demolition, new utility lines, or high-end finishes will be significantly more expensive. Initial consultations help determine specific project budgets.",
+        "@type": "Answer",
+        "description": "Costs in Las Vegas range from $50-$200+ per square foot, depending on space type, material quality, and extent of structural or mechanical changes."
+      }
+    }
+  ],
+  "description": "Costs in Las Vegas range from $50-$200+ per square foot, depending on space type, material quality, and extent of structural or mechanical changes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-expand-my-existing-asphalt-driveway-with-concrete",
+  "name": "Can I expand my existing asphalt driveway with concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I expand my existing asphalt driveway with concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's technically possible to expand an asphalt driveway with concrete, it's generally not recommended for a seamless or long-lasting result. Asphalt and concrete have different expansion and contraction rates, which can lead to cracking, uneven surfaces, and premature wear at the junction between the two materials. For optimal durability and appearance, it's usually best to use the same material for the expansion or to consider replacing the entire driveway with a single material. We can discuss the best approach based on your current driveway's condition.",
+        "@type": "Answer",
+        "description": "Expanding an asphalt driveway with concrete is not ideal due to differing expansion rates, which can cause cracking. Using the same material or replacing the entire driveway is usually better."
+      }
+    }
+  ],
+  "description": "Expanding an asphalt driveway with concrete is not ideal due to differing expansion rates, which can cause cracking. Using the same material or replacing the en"
+}

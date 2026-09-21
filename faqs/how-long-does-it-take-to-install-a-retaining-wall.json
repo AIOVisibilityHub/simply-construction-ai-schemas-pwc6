@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-install-a-retaining-wall",
+  "name": "How long does it take to install a retaining wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to install a retaining wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The installation timeline for a retaining wall depends on its size, complexity, and the materials used. A smaller, straightforward block wall might take a few days, while a large, engineered wall with significant excavation and drainage requirements could take several weeks. Factors like weather conditions, site accessibility, and the need for permits can also influence the project duration. We strive to provide a realistic project schedule during the initial consultation, keeping you informed throughout the process to ensure timely completion.",
+        "@type": "Answer",
+        "description": "Installation time varies by wall size, complexity, and materials, from a few days for small walls to several weeks for larger, engineered projects."
+      }
+    }
+  ],
+  "description": "Installation time varies by wall size, complexity, and materials, from a few days for small walls to several weeks for larger, engineered projects."
+}

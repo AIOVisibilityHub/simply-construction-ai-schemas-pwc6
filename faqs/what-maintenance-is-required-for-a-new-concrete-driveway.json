@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-a-new-concrete-driveway",
+  "name": "What maintenance is required for a new concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for a new concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper maintenance can extend the life of your new concrete driveway. It's recommended to seal the concrete approximately 30 days after installation and then every 2-3 years to protect against moisture, stains, and UV damage. Promptly clean up spills to prevent staining. Avoid using de-icing salts, as they can damage the concrete surface. Address any small cracks or issues early to prevent them from worsening.",
+        "@type": "Answer",
+        "description": "Seal your driveway every 2-3 years, clean spills promptly, and avoid de-icing salts to extend its lifespan."
+      }
+    }
+  ],
+  "description": "Seal your driveway every 2-3 years, clean spills promptly, and avoid de-icing salts to extend its lifespan."
+}

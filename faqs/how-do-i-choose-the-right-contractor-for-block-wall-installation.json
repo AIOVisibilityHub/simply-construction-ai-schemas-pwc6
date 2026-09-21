@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-block-wall-installation",
+  "name": "How do I choose the right contractor for block wall installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for block wall installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for block wall installation, look for companies with extensive experience in your local area and a strong portfolio of completed projects. Verify they are licensed, bonded, and insured. Request references and read customer reviews to gauge their reliability and quality of work. A reputable contractor will provide a clear, detailed estimate, explain the process thoroughly, and adhere to local building codes. Ensure they communicate effectively and stand behind their work with guarantees.",
+        "@type": "Answer",
+        "description": "Choose a contractor with local experience, valid licensing and insurance, strong references, clear estimates, and a commitment to quality and communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with local experience, valid licensing and insurance, strong references, clear estimates, and a commitment to quality and communication."
+}

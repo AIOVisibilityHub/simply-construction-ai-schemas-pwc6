@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-can-cause-damage-to-a-concrete-driveway",
+  "name": "What factors can cause damage to a concrete driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors can cause damage to a concrete driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors contribute to concrete driveway damage. Freeze-thaw cycles can cause cracks and spalling, though this is less common in Las Vegas. More significant local factors include expansive soils, which can lead to uneven settling; heavy vehicle loads exceeding the concrete's capacity; improper drainage causing water accumulation; tree root growth; and poor installation, such as inadequate sub-base preparation or insufficient curing. Chemical spills and lack of sealing can also degrade the surface.",
+        "@type": "Answer",
+        "description": "Damage can be caused by heavy loads, improper drainage, tree roots, expansive soils, poor installation, and lack of sealing."
+      }
+    }
+  ],
+  "description": "Damage can be caused by heavy loads, improper drainage, tree roots, expansive soils, poor installation, and lack of sealing."
+}

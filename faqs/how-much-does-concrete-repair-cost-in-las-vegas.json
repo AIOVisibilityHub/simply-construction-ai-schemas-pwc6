@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-concrete-repair-cost-in-las-vegas",
+  "name": "How much does concrete repair cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does concrete repair cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete repair in Las Vegas varies widely depending on the type and extent of the damage, the size of the area needing repair, and the specific repair method chosen. Minor crack filling can be less expensive, while repairing severe structural issues or replacing large sections will incur higher costs. Factors like access to the site and necessary prep work also influence the final price. We provide detailed estimates after a thorough assessment.",
+        "@type": "Answer",
+        "description": "Concrete repair costs in Las Vegas depend on damage type, area size, and repair method. Minor repairs are less expensive, while structural issues cost more."
+      }
+    }
+  ],
+  "description": "Concrete repair costs in Las Vegas depend on damage type, area size, and repair method. Minor repairs are less expensive, while structural issues cost more."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-pour-a-concrete-foundation-myself-or-should-i-hire-a-professional",
+  "name": "Can I pour a concrete foundation myself, or should I hire a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I pour a concrete foundation myself, or should I hire a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it might seem like a DIY project, pouring a concrete foundation requires significant expertise, specialized equipment, and adherence to building codes. Professionals ensure proper site preparation, correct concrete mix, adequate reinforcement, and precise leveling, all critical for a stable and long-lasting foundation. Mistakes in foundation work can lead to expensive and difficult-to-repair structural issues later. For residential or commercial foundations, hiring a licensed contractor is strongly recommended to ensure safety and quality.",
+        "@type": "Answer",
+        "description": "Pouring a concrete foundation requires expertise, equipment, and code adherence. Hiring a professional is highly recommended to prevent costly structural issues."
+      }
+    }
+  ],
+  "description": "Pouring a concrete foundation requires expertise, equipment, and code adherence. Hiring a professional is highly recommended to prevent costly structural issues"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-lifespan-of-artificial-turf-and-what-kind-of-warranty-is-typically-o",
+  "name": "What is the lifespan of artificial turf, and what kind of warranty is typically offered?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the lifespan of artificial turf, and what kind of warranty is typically offered?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The lifespan of high-quality artificial turf typically ranges from 15 to 20 years, depending on the product's quality, installation, and the level of traffic it endures. Most reputable manufacturers offer warranties on the turf itself, covering defects in materials and UV degradation, usually for a period of 8 to 15 years. Our installations come with a separate workmanship warranty, ensuring that the turf is installed correctly and will perform as expected. We use durable, high-grade products designed to withstand the Las Vegas climate, ensuring long-term satisfaction.",
+        "@type": "Answer",
+        "description": "High-quality artificial turf typically lasts 15-20 years, with manufacturers offering 8-15 year warranties on materials, and our installations including a workmanship warranty."
+      }
+    }
+  ],
+  "description": "High-quality artificial turf typically lasts 15-20 years, with manufacturers offering 8-15 year warranties on materials, and our installations including a workm"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-some-low-maintenance-landscaping-ideas-for-a-pool-area",
+  "name": "What are some low-maintenance landscaping ideas for a pool area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are some low-maintenance landscaping ideas for a pool area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a low-maintenance pool area, focus on durable and resilient materials and plants. Artificial turf is an excellent option to reduce watering and mowing. Choose drought-tolerant and slow-growing plants that require minimal pruning and shed less debris, such as succulents, ornamental grasses, or certain native shrubs. Hardscaping elements like extensive paving or decorative gravel beds can also significantly reduce maintenance. Consider smart irrigation systems and LED lighting for efficiency. Minimizing complex flower beds and opting for simpler designs will also save time.",
+        "@type": "Answer",
+        "description": "Low-maintenance pool landscaping includes artificial turf, drought-tolerant and slow-growing plants, extensive hardscaping like paving or gravel, and smart irrigation systems."
+      }
+    }
+  ],
+  "description": "Low-maintenance pool landscaping includes artificial turf, drought-tolerant and slow-growing plants, extensive hardscaping like paving or gravel, and smart irri"
+}

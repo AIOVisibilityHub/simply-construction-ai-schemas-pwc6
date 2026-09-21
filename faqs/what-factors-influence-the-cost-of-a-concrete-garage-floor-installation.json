@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-concrete-garage-floor-installation",
+  "name": "What factors influence the cost of a concrete garage floor installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a concrete garage floor installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete garage floor installation is influenced by several key factors. These include the size and thickness of the slab, the chosen concrete mix (e.g., standard vs. higher strength), site preparation requirements like excavation or old slab removal, and any additional features such as reinforcement (rebar or mesh), specialized finishes (stains, epoxies), or drainage solutions. Labor costs and local material prices in the Las Vegas area also play a role in the overall project expense.",
+        "@type": "Answer",
+        "description": "Cost factors include slab size/thickness, concrete mix, site prep, reinforcement, finishes, and local labor/material rates."
+      }
+    }
+  ],
+  "description": "Cost factors include slab size/thickness, concrete mix, site prep, reinforcement, finishes, and local labor/material rates."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-block-wall-installation-take-in-las-vegas",
+  "name": "How long does a typical block wall installation take in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical block wall installation take in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a block wall installation depends on factors such as the wall's length, height, design complexity, and site conditions. A standard residential block wall, around 50-100 feet in length and 6 feet high, can typically be completed within 3 to 7 business days, assuming good weather and straightforward site access. Larger or more intricate projects, including those with gates or specific design elements, may require more time for planning and construction.",
+        "@type": "Answer",
+        "description": "Most block wall installations take 3 to 7 business days, depending on the wall's size, complexity, and site conditions."
+      }
+    }
+  ],
+  "description": "Most block wall installations take 3 to 7 business days, depending on the wall's size, complexity, and site conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-my-concrete-driveway-crack",
+  "name": "Will my concrete driveway crack?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will my concrete driveway crack?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While concrete is strong, it's susceptible to cracking due to expansion and contraction from temperature changes, ground movement, or heavy loads. However, proper installation techniques significantly minimize this risk. This includes adequate sub-base preparation, correct concrete mix, appropriate thickness, and crucially, the strategic placement of control joints. Control joints are saw-cut lines designed to encourage any potential cracking to occur along these planned lines, making them less noticeable and structurally insignificant.",
+        "@type": "Answer",
+        "description": "Concrete can crack due to temperature changes or ground movement. Proper installation, including sub-base preparation, correct mix, and control joints, minimizes random cracking by guiding potential cracks along planned lines."
+      }
+    }
+  ],
+  "description": "Concrete can crack due to temperature changes or ground movement. Proper installation, including sub-base preparation, correct mix, and control joints, minimize"
+}

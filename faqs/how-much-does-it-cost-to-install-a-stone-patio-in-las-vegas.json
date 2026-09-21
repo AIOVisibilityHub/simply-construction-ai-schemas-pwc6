@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-install-a-stone-patio-in-las-vegas",
+  "name": "How much does it cost to install a stone patio in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to install a stone patio in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a stone patio in the Las Vegas area can vary significantly based on factors like the type of stone (e.g., flagstone, paver, natural stone), the patio's size and shape, site preparation requirements, and the complexity of the design. Expect costs to typically range from $15 to $30 per square foot for basic installations, potentially higher for premium materials or intricate patterns. It's best to get a detailed quote tailored to your specific project needs.",
+        "@type": "Answer",
+        "description": "Stone patio installation costs in Las Vegas vary widely, generally from $15 to $30+ per square foot, depending on stone type, size, and design complexity."
+      }
+    }
+  ],
+  "description": "Stone patio installation costs in Las Vegas vary widely, generally from $15 to $30+ per square foot, depending on stone type, size, and design complexity."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-backyard-drainage-systems-are-available",
+  "name": "What types of backyard drainage systems are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of backyard drainage systems are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various backyard drainage systems can address different issues. French drains are effective for collecting subsurface water and directing it away. Sump pumps remove water from low-lying areas or basements. Surface drains, like trench drains or catch basins, collect surface runoff. Grading and swales reshape the landscape to direct water flow naturally. Downspout extensions move roof water away from the foundation. The best system depends on your specific yard's topography and water problems.",
+        "@type": "Answer",
+        "description": "Common types include French drains, sump pumps, surface drains, grading, and downspout extensions."
+      }
+    }
+  ],
+  "description": "Common types include French drains, sump pumps, surface drains, grading, and downspout extensions."
+}

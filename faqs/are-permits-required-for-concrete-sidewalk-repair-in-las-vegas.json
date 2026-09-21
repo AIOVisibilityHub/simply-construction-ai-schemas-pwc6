@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-permits-required-for-concrete-sidewalk-repair-in-las-vegas",
+  "name": "Are permits required for concrete sidewalk repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits required for concrete sidewalk repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most minor repairs or sections of sidewalk entirely on private property, a permit may not be required. However, if the repair involves significant reconstruction, altering drainage, or impacts a public right-of-way sidewalk, a permit from the City of Las Vegas or relevant municipal authority might be necessary. We can help you determine if your project requires a permit and guide you through the process.",
+        "@type": "Answer",
+        "description": "Minor repairs on private property usually don't need permits. Significant work or public right-of-way repairs may require city permits."
+      }
+    }
+  ],
+  "description": "Minor repairs on private property usually don't need permits. Significant work or public right-of-way repairs may require city permits."
+}

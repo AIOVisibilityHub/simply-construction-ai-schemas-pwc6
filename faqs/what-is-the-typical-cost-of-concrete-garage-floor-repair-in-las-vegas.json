@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-of-concrete-garage-floor-repair-in-las-vegas",
+  "name": "What is the typical cost of concrete garage floor repair in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of concrete garage floor repair in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of concrete garage floor repair in Las Vegas varies significantly based on the type and extent of damage, the chosen repair method, and the size of the area needing work. Minor crack filling might range from a few hundred dollars, while extensive slab replacement or leveling could be several thousand. Factors like specialized materials for oil resistance, decorative finishes, or expedited service can also influence the total cost. A professional assessment provides the most accurate estimate for your specific situation.",
+        "@type": "Answer",
+        "description": "Repair costs in Las Vegas vary widely depending on damage extent and repair type. Minor repairs might be hundreds, while extensive work could be thousands."
+      }
+    }
+  ],
+  "description": "Repair costs in Las Vegas vary widely depending on damage extent and repair type. Minor repairs might be hundreds, while extensive work could be thousands."
+}

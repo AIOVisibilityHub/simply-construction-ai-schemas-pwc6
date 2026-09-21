@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-happens-if-a-concrete-foundation-is-not-properly-reinforced",
+  "name": "What happens if a concrete foundation is not properly reinforced?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if a concrete foundation is not properly reinforced?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a concrete foundation lacks proper reinforcement, such as rebar or mesh, it becomes significantly more susceptible to cracking and structural failure. Concrete is strong under compression but weak under tension. Reinforcement provides the tensile strength needed to withstand forces like soil movement, temperature changes, and the weight of the structure. Without it, the foundation is more likely to settle unevenly, develop severe cracks, or even break apart, leading to costly and hazardous structural problems for the entire building.",
+        "@type": "Answer",
+        "description": "Improperly reinforced concrete foundations are prone to cracking and structural failure, as reinforcement provides the necessary tensile strength against various forces."
+      }
+    }
+  ],
+  "description": "Improperly reinforced concrete foundations are prone to cracking and structural failure, as reinforcement provides the necessary tensile strength against variou"
+}

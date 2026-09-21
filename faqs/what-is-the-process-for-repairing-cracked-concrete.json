@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-repairing-cracked-concrete",
+  "name": "What is the process for repairing cracked concrete?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for repairing cracked concrete?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for repairing cracked concrete typically involves cleaning the crack thoroughly to remove debris. Depending on the crack's size and cause, we might use epoxy injections for structural cracks, flexible sealants for active cracks, or patching compounds for surface damage. For wider cracks, the area may be cut, filled, and then re-leveled. The goal is to restore structural integrity and improve appearance while preventing future water penetration and deterioration.",
+        "@type": "Answer",
+        "description": "Cracked concrete repair involves cleaning the crack, then using suitable materials like epoxy, sealants, or patching compounds based on the crack's type and severity."
+      }
+    }
+  ],
+  "description": "Cracked concrete repair involves cleaning the crack, then using suitable materials like epoxy, sealants, or patching compounds based on the crack's type and sev"
+}

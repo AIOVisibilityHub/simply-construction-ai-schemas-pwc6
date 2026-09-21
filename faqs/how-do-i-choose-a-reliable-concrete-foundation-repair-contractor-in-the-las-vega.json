@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-reliable-concrete-foundation-repair-contractor-in-the-las-vega",
+  "name": "How do I choose a reliable concrete foundation repair contractor in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a reliable concrete foundation repair contractor in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a concrete foundation repair contractor in Las Vegas, look for companies with extensive experience specifically in foundation work and a strong local reputation. Check for proper licensing and insurance, and ask for references or examples of past projects. Obtain multiple detailed bids, ensuring they include clear explanations of the proposed repair methods and warranties. A good contractor will perform a thorough inspection and provide a transparent estimate.",
+        "@type": "Answer",
+        "description": "Choose a contractor with local experience, proper licensing, good reputation, and detailed bids. Ask for references and ensure a thorough inspection."
+      }
+    }
+  ],
+  "description": "Choose a contractor with local experience, proper licensing, good reputation, and detailed bids. Ask for references and ensure a thorough inspection."
+}

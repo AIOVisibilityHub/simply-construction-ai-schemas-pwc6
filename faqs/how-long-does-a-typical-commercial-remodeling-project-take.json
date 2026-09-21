@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-commercial-remodeling-project-take",
+  "name": "How long does a typical commercial remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical commercial remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a commercial remodeling project varies significantly based on its scope, complexity, and the specific type of business being renovated. A small office refresh might take a few weeks, while a large-scale renovation involving structural changes, extensive plumbing, or electrical work could span several months. Factors like permit acquisition, material lead times, and the need to minimize business disruption also influence the timeline. An experienced contractor can provide a more accurate estimate after assessing the project details.",
+        "@type": "Answer",
+        "description": "Project duration varies greatly; small refreshes take weeks, large renovations can take months, depending on scope, complexity, and business needs."
+      }
+    }
+  ],
+  "description": "Project duration varies greatly; small refreshes take weeks, large renovations can take months, depending on scope, complexity, and business needs."
+}

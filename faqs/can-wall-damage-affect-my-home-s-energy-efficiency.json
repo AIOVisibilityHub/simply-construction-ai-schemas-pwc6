@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-wall-damage-affect-my-home-s-energy-efficiency",
+  "name": "Can wall damage affect my home's energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can wall damage affect my home's energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, wall damage can significantly impact your home's energy efficiency. Cracks, holes, or gaps in walls, especially exterior ones, can allow conditioned air to escape and outside air to infiltrate. This leads to drafts and forces your HVAC system to work harder to maintain desired indoor temperatures, resulting in higher energy bills. Damaged insulation behind walls, often associated with water damage or pest intrusion, further exacerbates this issue by reducing thermal resistance. Repairing wall damage promptly helps seal your home, maintain consistent indoor temperatures, and improve overall energy efficiency.",
+        "@type": "Answer",
+        "description": "Yes, wall damage like cracks or holes allows air leaks, making your HVAC work harder and increasing energy bills. Prompt repair improves energy efficiency."
+      }
+    }
+  ],
+  "description": "Yes, wall damage like cracks or holes allows air leaks, making your HVAC work harder and increasing energy bills. Prompt repair improves energy efficiency."
+}

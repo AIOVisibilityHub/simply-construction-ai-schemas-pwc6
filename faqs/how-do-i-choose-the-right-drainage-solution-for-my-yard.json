@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-drainage-solution-for-my-yard",
+  "name": "How do I choose the right drainage solution for my yard?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right drainage solution for my yard?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right drainage solution involves assessing your specific water problems, yard topography, soil type, and budget. Consider where water collects, how severe the pooling is, and if it's affecting your home's foundation. A professional evaluation can accurately identify the source of the problem and recommend the most effective and efficient solution. They can help determine if you need surface drainage, subsurface drainage, or a combination of methods.",
+        "@type": "Answer",
+        "description": "Assess your specific water problems, yard layout, and budget. A professional can evaluate and recommend the best solution."
+      }
+    }
+  ],
+  "description": "Assess your specific water problems, yard layout, and budget. A professional can evaluate and recommend the best solution."
+}

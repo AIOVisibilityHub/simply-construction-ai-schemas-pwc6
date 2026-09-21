@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-concrete-pad-in-las-vegas",
+  "name": "What factors influence the cost of a concrete pad in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a concrete pad in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a concrete pad in the Las Vegas area is influenced by several factors. These include the pad's size (square footage), thickness (which affects concrete volume), site accessibility for equipment, the need for excavation or grading, and any special finishes or reinforcement requirements. Material costs, labor, and local permitting fees also contribute to the overall price. We provide detailed quotes after assessing your specific project needs.",
+        "@type": "Answer",
+        "description": "Cost is influenced by size, thickness, site prep, accessibility, and any special finishes or reinforcement needed for your Las Vegas property."
+      }
+    }
+  ],
+  "description": "Cost is influenced by size, thickness, site prep, accessibility, and any special finishes or reinforcement needed for your Las Vegas property."
+}

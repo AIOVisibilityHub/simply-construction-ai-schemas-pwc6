@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-maintenance-does-a-concrete-walkway-require",
+  "name": "What kind of maintenance does a concrete walkway require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a concrete walkway require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Concrete walkways are relatively low maintenance. Regular sweeping or hosing down to remove dirt and debris is usually sufficient. It's advisable to seal the concrete every 2-5 years, depending on the sealer type and environmental exposure, to protect against stains, moisture, and general wear. Promptly address any cracks or chips to prevent them from worsening. Avoid using de-icing salts, as they can damage the concrete surface over time.",
+        "@type": "Answer",
+        "description": "Maintenance includes regular cleaning, resealing every 2-5 years to protect against stains and moisture, and prompt repair of any damage."
+      }
+    }
+  ],
+  "description": "Maintenance includes regular cleaning, resealing every 2-5 years to protect against stains and moisture, and prompt repair of any damage."
+}

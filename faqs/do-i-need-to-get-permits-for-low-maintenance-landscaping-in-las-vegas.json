@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-get-permits-for-low-maintenance-landscaping-in-las-vegas",
+  "name": "Do I need to get permits for low-maintenance landscaping in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to get permits for low-maintenance landscaping in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for low-maintenance landscaping in Las Vegas typically depend on the scope of work. Minor changes like planting drought-tolerant shrubs or laying gravel generally don't require permits. However, projects involving significant grading, extensive hardscaping (like retaining walls over a certain height), new irrigation systems connecting to the main water supply, or electrical work for lighting, may necessitate permits. It's always best to consult with your general contractor and the local building department in your specific municipality (e.g., City of Las Vegas, Henderson, North Las Vegas) to ensure compliance.",
+        "@type": "Answer",
+        "description": "Permits are usually not needed for minor landscaping. However, significant grading, large hardscaping, or new irrigation/electrical work might require them. Check with local building departments."
+      }
+    }
+  ],
+  "description": "Permits are usually not needed for minor landscaping. However, significant grading, large hardscaping, or new irrigation/electrical work might require them. Che"
+}

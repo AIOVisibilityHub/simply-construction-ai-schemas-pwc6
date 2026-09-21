@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-new-concrete-garage-floor-installation",
+  "name": "Do I need permits for a new concrete garage floor installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a new concrete garage floor installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for a new concrete garage floor installation can vary depending on the scope of the project and your specific location within the Las Vegas Valley (e.g., Las Vegas, North Las Vegas, Henderson). Generally, if the project involves new construction, significant structural changes, or altering drainage patterns, a permit is likely required. It's always best to consult with your general contractor, like Simply Construction, as they can determine the necessary permits and assist with the application process to ensure compliance with local building codes.",
+        "@type": "Answer",
+        "description": "Permits may be needed for new construction or significant structural changes. Consult your contractor to determine specific requirements in the Las Vegas Valley."
+      }
+    }
+  ],
+  "description": "Permits may be needed for new construction or significant structural changes. Consult your contractor to determine specific requirements in the Las Vegas Valley"
+}

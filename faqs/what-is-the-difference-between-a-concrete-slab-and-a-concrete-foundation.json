@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-concrete-slab-and-a-concrete-foundation",
+  "name": "What is the difference between a concrete slab and a concrete foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a concrete slab and a concrete foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A concrete slab typically refers to a flat, horizontal surface used for floors, patios, or driveways, often poured directly on grade or a prepared sub-base. It may or may not be structural, depending on its purpose. A concrete foundation, on the other hand, is specifically designed to support the load of a structure, transferring weight evenly to the ground. Foundations often involve deeper footings, stem walls, or a more complex slab-on-grade design with thickened edges or integrated beams to provide structural integrity for buildings. While both use concrete, their primary function and structural requirements differ significantly.",
+        "@type": "Answer",
+        "description": "A concrete slab is a flat surface for various uses, while a concrete foundation is a structural element designed to support buildings."
+      }
+    }
+  ],
+  "description": "A concrete slab is a flat surface for various uses, while a concrete foundation is a structural element designed to support buildings."
+}

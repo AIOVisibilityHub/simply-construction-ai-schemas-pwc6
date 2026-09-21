@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-look-for-when-choosing-a-concrete-contractor-for-my-driveway",
+  "name": "What should I look for when choosing a concrete contractor for my driveway?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a concrete contractor for my driveway?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a concrete contractor, prioritize experience, proper licensing, and insurance. Look for a contractor with a strong portfolio of concrete driveway projects and positive client testimonials. Ensure they provide a detailed, written estimate outlining all costs, materials, and project timelines. A reputable contractor will also discuss site preparation, drainage solutions, and warranty information. We encourage you to ask for references and check their standing with local licensing boards.",
+        "@type": "Answer",
+        "description": "When choosing a concrete contractor, look for experience, proper licensing and insurance, a strong portfolio, and detailed written estimates. Verify references and check local licensing boards."
+      }
+    }
+  ],
+  "description": "When choosing a concrete contractor, look for experience, proper licensing and insurance, a strong portfolio, and detailed written estimates. Verify references"
+}

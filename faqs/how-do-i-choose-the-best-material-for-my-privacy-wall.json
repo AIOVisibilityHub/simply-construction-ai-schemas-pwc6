@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-best-material-for-my-privacy-wall",
+  "name": "How do I choose the best material for my privacy wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the best material for my privacy wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the best material for your privacy wall involves considering several practical and aesthetic factors. Think about your desired level of privacy, maintenance preferences, budget, and the architectural style of your home. Wood offers a classic look but requires more upkeep, while vinyl is low-maintenance and durable. Masonry provides maximum security and longevity. We can discuss these options during a consultation, helping you weigh the pros and cons to select a material that meets your specific needs and complements your property.",
+        "@type": "Answer",
+        "description": "Choose a material based on desired privacy, maintenance, budget, and home style. Consider wood, vinyl, or masonry to best suit your needs."
+      }
+    }
+  ],
+  "description": "Choose a material based on desired privacy, maintenance, budget, and home style. Consider wood, vinyl, or masonry to best suit your needs."
+}

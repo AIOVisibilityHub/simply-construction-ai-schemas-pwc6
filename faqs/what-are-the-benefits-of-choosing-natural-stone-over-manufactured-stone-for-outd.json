@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-choosing-natural-stone-over-manufactured-stone-for-outd",
+  "name": "What are the benefits of choosing natural stone over manufactured stone for outdoor features?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of choosing natural stone over manufactured stone for outdoor features?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Natural stone offers unique characteristics, including variations in color, texture, and veining, which provide an authentic and timeless aesthetic. It is highly durable, weather-resistant, and typically increases property value. Manufactured stone, while often more uniform in appearance and sometimes lower in upfront cost, may not offer the same longevity or natural appeal. The choice often comes down to aesthetic preference, budget, and desired long-term performance.",
+        "@type": "Answer",
+        "description": "Natural stone offers unique aesthetics, superior durability, and increased property value. Manufactured stone can be more uniform and budget-friendly, but may lack the longevity of natural stone."
+      }
+    }
+  ],
+  "description": "Natural stone offers unique aesthetics, superior durability, and increased property value. Manufactured stone can be more uniform and budget-friendly, but may l"
+}

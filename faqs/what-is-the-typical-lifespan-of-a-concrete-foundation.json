@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-lifespan-of-a-concrete-foundation",
+  "name": "What is the typical lifespan of a concrete foundation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical lifespan of a concrete foundation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-constructed concrete foundation, properly maintained and installed by experienced professionals, can last 50 to 100 years or more. Factors influencing longevity include soil conditions, local climate, concrete mix quality, proper curing, and drainage around the structure. Regular inspections and addressing minor issues promptly can significantly extend the foundation's effective life and prevent major repairs down the line.",
+        "@type": "Answer",
+        "description": "With proper construction and maintenance, a concrete foundation can typically last 50 to 100 years or longer."
+      }
+    }
+  ],
+  "description": "With proper construction and maintenance, a concrete foundation can typically last 50 to 100 years or longer."
+}

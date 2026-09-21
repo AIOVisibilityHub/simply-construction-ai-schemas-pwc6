@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-my-concrete-garage-floor-needs-repair",
+  "name": "How do I know if my concrete garage floor needs repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if my concrete garage floor needs repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for visible signs such as cracks wider than a credit card, crumbling edges, or areas where the surface is flaking or peeling (spalling). If your garage floor is uneven, creating tripping hazards, or if there are significant puddles after rain due to improper drainage, it likely needs professional attention. Persistent moisture, oil stains that penetrate deep, or a noticeable shift in the floor’s level also indicate potential issues that require assessment.",
+        "@type": "Answer",
+        "description": "Signs your garage floor needs repair include wide cracks, crumbling edges, spalling, uneven surfaces, or persistent puddles."
+      }
+    }
+  ],
+  "description": "Signs your garage floor needs repair include wide cracks, crumbling edges, spalling, uneven surfaces, or persistent puddles."
+}

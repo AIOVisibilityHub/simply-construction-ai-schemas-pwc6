@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-maintenance-is-required-for-desert-landscaping",
+  "name": "What maintenance is required for desert landscaping?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What maintenance is required for desert landscaping?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While desert landscaping is low-maintenance, it's not no-maintenance. Routine tasks include occasional weeding, especially during establishment. Pruning is needed to maintain plant shape and health, typically once or twice a year depending on the species. Irrigation systems should be checked periodically for leaks or blockages. Fertilization is rarely necessary for native plants. Replenishing gravel or mulch every few years helps maintain aesthetics and suppress weeds. Overall, the time commitment is considerably less than maintaining a traditional lawn.",
+        "@type": "Answer",
+        "description": "Desert landscaping requires less maintenance than lawns, including occasional weeding, periodic pruning, irrigation checks, and replenishing mulch, but rarely needs fertilizing."
+      }
+    }
+  ],
+  "description": "Desert landscaping requires less maintenance than lawns, including occasional weeding, periodic pruning, irrigation checks, and replenishing mulch, but rarely n"
+}

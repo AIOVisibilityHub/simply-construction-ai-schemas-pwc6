@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-do-before-the-wall-repair-crew-arrives",
+  "name": "What should I do before the wall repair crew arrives?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before the wall repair crew arrives?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before the wall repair crew arrives, clear the work area of furniture, decorations, and any valuables to protect them from dust and damage. Cover nearby items with plastic sheeting if possible. For interior repairs, remove wall hangings, outlet covers, and switch plates from affected walls. If the repair involves plumbing or electrical components, ensure access is clear and, if advised, turn off water or power to the relevant sections. Discuss any specific access instructions or pet arrangements with your contractor beforehand to ensure a smooth start to the project.",
+        "@type": "Answer",
+        "description": "Before repair, clear the work area of furniture and valuables, cover nearby items, remove wall hangings, and ensure access to relevant utilities."
+      }
+    }
+  ],
+  "description": "Before repair, clear the work area of furniture and valuables, cover nearby items, remove wall hangings, and ensure access to relevant utilities."
+}

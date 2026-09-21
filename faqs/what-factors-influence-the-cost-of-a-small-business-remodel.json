@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-a-small-business-remodel",
+  "name": "What factors influence the cost of a small business remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of a small business remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the cost of a small business remodel, including the project's size, the extent of structural changes, the quality and type of materials chosen, and the complexity of finishes or custom elements. Labor costs, permit fees, and the need for specialized trades (e.g., plumbing, electrical, HVAC) also contribute to the overall expense. We provide a comprehensive, transparent estimate early in the process to help you understand all cost components.",
+        "@type": "Answer",
+        "description": "Cost factors include project size, structural changes, material quality, labor, permits, and specialized trades. We provide a detailed estimate."
+      }
+    }
+  ],
+  "description": "Cost factors include project size, structural changes, material quality, labor, permits, and specialized trades. We provide a detailed estimate."
+}

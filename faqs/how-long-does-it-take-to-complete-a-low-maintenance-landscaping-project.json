@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-complete-a-low-maintenance-landscaping-project",
+  "name": "How long does it take to complete a low-maintenance landscaping project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a low-maintenance landscaping project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a low-maintenance landscaping project depends on its scope and complexity. A small-scale project involving simple plant installation and gravel might take a few days. Larger projects, which include extensive hardscaping, artificial turf installation, advanced irrigation systems, or significant grading, can take several weeks. Factors like material availability, weather conditions, and permit requirements can also influence the schedule. Our team will provide a detailed timeline after assessing your specific design and site conditions.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope; small projects take days, larger ones several weeks. Factors like hardscaping, turf, and permits affect the timeline."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope; small projects take days, larger ones several weeks. Factors like hardscaping, turf, and permits affect the timeline."
+}

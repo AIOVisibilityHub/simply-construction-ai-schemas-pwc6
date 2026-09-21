@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-build-a-block-wall-on-a-sloped-property",
+  "name": "Can I build a block wall on a sloped property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I build a block wall on a sloped property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, block walls can be constructed on sloped properties, often serving as retaining walls to manage soil erosion and create level usable spaces. Building on a slope requires careful planning, engineering, and specialized techniques to ensure stability and proper drainage. It typically involves deeper foundations, additional reinforcement, and sometimes stepped designs. It's crucial to consult with an experienced contractor and potentially an engineer to assess the specific conditions of your slope and design a safe, effective solution that complies with all relevant building codes.",
+        "@type": "Answer",
+        "description": "Yes, block walls can be built on slopes, often as retaining walls, but require careful planning, deeper foundations, and possibly engineering for stability."
+      }
+    }
+  ],
+  "description": "Yes, block walls can be built on slopes, often as retaining walls, but require careful planning, deeper foundations, and possibly engineering for stability."
+}

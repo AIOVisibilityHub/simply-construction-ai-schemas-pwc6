@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-maintenance-does-a-concrete-slab-require",
+  "name": "What kind of maintenance does a concrete slab require?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of maintenance does a concrete slab require?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper maintenance for a concrete slab typically involves regular cleaning and sealing. Cleaning with a broom, hose, and mild detergent can remove dirt and grime, preventing stains and accumulation that could degrade the surface over time. Applying a high-quality concrete sealer every few years, depending on traffic and exposure, helps protect the slab from moisture penetration, freeze-thaw cycles, oil stains, and abrasion. Promptly repairing any cracks or spalling as they appear can prevent further damage and extend the slab's life. Good drainage around the slab also minimizes water exposure.",
+        "@type": "Answer",
+        "description": "Concrete slabs require regular cleaning, periodic sealing to protect against moisture and stains, and timely crack repair."
+      }
+    }
+  ],
+  "description": "Concrete slabs require regular cleaning, periodic sealing to protect against moisture and stains, and timely crack repair."
+}

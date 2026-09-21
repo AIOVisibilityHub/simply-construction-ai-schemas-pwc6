@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-empty-my-garage-completely-for-concrete-floor-repair",
+  "name": "Do I need to empty my garage completely for concrete floor repair?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to empty my garage completely for concrete floor repair?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For most concrete garage floor repairs, it is usually necessary to clear the work area completely. This allows the contractors unobstructed access to assess the damage, prepare the surface, and apply repair materials effectively and safely. Removing all vehicles, stored items, and shelving from the floor ensures the best results and prevents damage to your belongings. Your contractor will specify the exact requirements based on the scope of the repair.",
+        "@type": "Answer",
+        "description": "Yes, typically you need to clear the work area of all vehicles, stored items, and shelving to allow contractors full access for effective repair."
+      }
+    }
+  ],
+  "description": "Yes, typically you need to clear the work area of all vehicles, stored items, and shelving to allow contractors full access for effective repair."
+}

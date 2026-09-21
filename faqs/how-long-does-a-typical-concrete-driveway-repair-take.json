@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-concrete-driveway-repair-take",
+  "name": "How long does a typical concrete driveway repair take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical concrete driveway repair take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of concrete driveway repair depends on the complexity and scale of the project. Simple crack filling or patching jobs can often be completed within a few hours to one day. Slab jacking for a few sections might take a full day. More extensive repairs, such as partial slab replacement, could require several days, including time for proper curing. Your contractor will provide an estimated timeline based on the specific work involved and weather conditions.",
+        "@type": "Answer",
+        "description": "Repair time varies from a few hours for minor work to several days for extensive repairs, including curing time."
+      }
+    }
+  ],
+  "description": "Repair time varies from a few hours for minor work to several days for extensive repairs, including curing time."
+}

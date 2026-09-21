@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-of-structural-wall-damage",
+  "name": "What are the signs of structural wall damage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs of structural wall damage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of structural wall damage often include large, continuous cracks (especially diagonal ones) that extend from ceilings or window/door frames, significant bowing or bulging of walls, or walls leaning noticeably. Other indicators can be doors and windows that no longer close or open properly, uneven floors, or persistent water intrusion in specific areas. These issues may point to foundation problems, shifting ground, or severe wood rot, requiring immediate professional assessment to prevent further deterioration and ensure the safety of the structure.",
+        "@type": "Answer",
+        "description": "Structural wall damage signs include large, continuous cracks, bowing or bulging walls, uneven doors/windows, or persistent water intrusion. Seek professional assessment for these issues."
+      }
+    }
+  ],
+  "description": "Structural wall damage signs include large, continuous cracks, bowing or bulging walls, uneven doors/windows, or persistent water intrusion. Seek professional a"
+}

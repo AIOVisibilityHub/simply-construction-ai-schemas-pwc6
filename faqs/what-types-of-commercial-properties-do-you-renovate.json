@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-commercial-properties-do-you-renovate",
+  "name": "What types of commercial properties do you renovate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of commercial properties do you renovate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We specialize in renovating a wide range of commercial properties across the Las Vegas area. This includes office buildings, retail spaces, restaurants, medical offices, industrial facilities, and tenant improvements for various business types. Our expertise covers projects from minor aesthetic updates to comprehensive structural and functional redesigns for diverse commercial sectors.",
+        "@type": "Answer",
+        "description": "We renovate various commercial properties, including offices, retail, restaurants, and medical facilities, across the Las Vegas area."
+      }
+    }
+  ],
+  "description": "We renovate various commercial properties, including offices, retail, restaurants, and medical facilities, across the Las Vegas area."
+}
