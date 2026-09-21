@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-condo-during-the-renovation",
+  "name": "Can I live in my condo during the renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my condo during the renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your condo during renovation depends entirely on the scope of the project. For minor remodels, like a single bathroom refresh, it might be feasible, though disruptive. However, for extensive renovations involving major demolition, plumbing, electrical, or entire room makeovers, it's often safer and more comfortable to temporarily relocate. This also allows the construction team to work more efficiently without occupants present. We discuss these logistics during project planning.",
+        "@type": "Answer",
+        "description": "Living in your condo during renovation depends on the project's scope; minor work might be manageable, but extensive remodels often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living in your condo during renovation depends on the project's scope; minor work might be manageable, but extensive remodels often require temporary relocation"
+}

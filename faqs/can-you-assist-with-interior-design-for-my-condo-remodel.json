@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-assist-with-interior-design-for-my-condo-remodel",
+  "name": "Can you assist with interior design for my condo remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you assist with interior design for my condo remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we can assist with interior design aspects for your condo remodel. While we are general contractors, we have experience working with clients to help select finishes, fixtures, and materials that align with their vision and budget. For more extensive design needs, we can collaborate with your chosen interior designer or recommend trusted local design professionals with whom we have a successful working relationship. Our goal is to ensure a cohesive and aesthetically pleasing result.",
+        "@type": "Answer",
+        "description": "We can assist with interior design selections for your condo remodel, including finishes and fixtures, and can collaborate with or recommend professional designers."
+      }
+    }
+  ],
+  "description": "We can assist with interior design selections for your condo remodel, including finishes and fixtures, and can collaborate with or recommend professional design"
+}

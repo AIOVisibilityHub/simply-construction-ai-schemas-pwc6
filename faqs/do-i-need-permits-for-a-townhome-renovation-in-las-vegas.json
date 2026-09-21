@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-townhome-renovation-in-las-vegas",
+  "name": "Do I need permits for a townhome renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a townhome renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are often required for townhome renovations, especially for projects involving structural changes, electrical work, plumbing, or significant alterations to the layout. Cosmetic updates like painting or new flooring typically do not require permits. Failing to obtain necessary permits can lead to fines, project delays, or even the need to redo work. Our team handles the permit application process to ensure your renovation complies with all local Las Vegas building codes and regulations.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for townhome renovations in Las Vegas if they involve structural, electrical, or plumbing changes. Cosmetic updates generally don't require them. Our team manages permit applications."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for townhome renovations in Las Vegas if they involve structural, electrical, or plumbing changes. Cosmetic updates generally don't r"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-pitfalls-to-avoid-during-an-investment-property-renovation",
+  "name": "What are common pitfalls to avoid during an investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid during an investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls in investment property renovation include underestimating costs, failing to obtain necessary permits, choosing an inexperienced contractor, and poor project management. Other issues can arise from unclear communication, neglecting to budget for contingencies, selecting materials based solely on cost rather than durability, and not having a clear vision for the property's end use. Avoiding these can prevent delays, cost overruns, and ensure a more successful project outcome.",
+        "@type": "Answer",
+        "description": "Avoid underestimating costs, skipping permits, hiring inexperienced contractors, and poor project management. Also, budget for contingencies and use durable materials."
+      }
+    }
+  ],
+  "description": "Avoid underestimating costs, skipping permits, hiring inexperienced contractors, and poor project management. Also, budget for contingencies and use durable mat"
+}

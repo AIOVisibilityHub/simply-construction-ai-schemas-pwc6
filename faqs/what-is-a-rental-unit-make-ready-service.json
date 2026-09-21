@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-rental-unit-make-ready-service",
+  "name": "What is a rental unit make-ready service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a rental unit make-ready service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rental unit make-ready service prepares a property for new tenants after the previous ones move out. This typically involves a comprehensive cleaning, necessary repairs, painting, and ensuring all systems like plumbing, electrical, and HVAC are in good working order. The goal is to make the unit appealing, safe, and fully functional for immediate occupancy, minimizing vacancies and maximizing rental income for property owners. Simply Construction offers tailored make-ready services to meet the specific needs of landlords and property managers.",
+        "@type": "Answer",
+        "description": "A rental unit make-ready service prepares a property for new tenants through cleaning, repairs, and system checks."
+      }
+    }
+  ],
+  "description": "A rental unit make-ready service prepares a property for new tenants through cleaning, repairs, and system checks."
+}

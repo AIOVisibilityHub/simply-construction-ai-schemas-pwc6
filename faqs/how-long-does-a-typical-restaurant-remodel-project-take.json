@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-restaurant-remodel-project-take",
+  "name": "How long does a typical restaurant remodel project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical restaurant remodel project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a restaurant remodel varies widely based on its scale and complexity. A minor cosmetic update might take 4-8 weeks, while a full gut renovation could extend from 12-24 weeks, or even longer for larger, more intricate projects. Key factors include design finalization, permitting processes, material lead times, and the efficiency of the construction schedule. We work to establish a realistic timeline upfront and keep projects on track to minimize disruption to your business operations.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity; minor remodels take 4-8 weeks, full renovations 12-24+ weeks."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity; minor remodels take 4-8 weeks, full renovations 12-24+ weeks."
+}

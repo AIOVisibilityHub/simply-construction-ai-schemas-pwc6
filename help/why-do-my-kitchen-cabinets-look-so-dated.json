@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Why Do My Kitchen Cabinets Look So Dated?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common feeling, right? You walk into your kitchen and suddenly your cabinets just scream '2005!' or even earlier. Beyond just aesthetics, older cabinets often show their age with wear and tear that affects their functionality too. Maybe the finish is peeling, the drawers stick, or the doors don't close properly anymore. These aren't just minor annoyances; they can seriously impact how much you enjoy and use your kitchen every day. Plus, let's be honest, outdated cabinets can drag down the whole look and feel of your home, making it seem less inviting or modern than it could be. Sometimes, it’s not just about age, but also about a layout that no longer works for your family's needs. If your kitchen feels cramped or inefficient, the cabinets might be part of the problem. It’s also possible that your current cabinets are made from materials that are less durable or aesthetically pleasing than newer options available today. When your cabinets are past their prime, you might notice issues like difficulty cleaning, susceptibility to water damage, or even a lack of modern storage solutions. Considering new cabinets isn't just about looks; it’s about improving daily life and adding value to your home. When you’re ready to explore options, Simply Construction in Las Vegas can help you figure out what’s best for your space.",
+  "datePublished": "2026-09-17"
+}

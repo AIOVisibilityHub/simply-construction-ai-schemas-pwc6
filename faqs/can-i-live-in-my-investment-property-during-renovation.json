@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-investment-property-during-renovation",
+  "name": "Can I live in my investment property during renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my investment property during renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living in an investment property during renovation is generally not recommended, especially for major projects. Renovations can be disruptive, noisy, dusty, and may involve utility shut-offs for extended periods. It can also pose safety hazards, particularly during structural work, electrical upgrades, or plumbing modifications. Vacating the property allows contractors unimpeded access, which can significantly speed up the renovation process and ensure a safer, more efficient project completion.",
+        "@type": "Answer",
+        "description": "Living in an investment property during renovation is generally not recommended due to disruption, safety hazards, and potential project delays."
+      }
+    }
+  ],
+  "description": "Living in an investment property during renovation is generally not recommended due to disruption, safety hazards, and potential project delays."
+}

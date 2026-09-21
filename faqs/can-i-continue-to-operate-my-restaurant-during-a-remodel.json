@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-continue-to-operate-my-restaurant-during-a-remodel",
+  "name": "Can I continue to operate my restaurant during a remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I continue to operate my restaurant during a remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Operating during a remodel depends on the project's scope and safety considerations. For minor cosmetic updates, it might be possible to remain open, perhaps with limited sections or hours. However, extensive remodels involving structural changes, kitchen overhauls, or significant utility disruptions often necessitate temporary closure for safety and efficiency. We work with clients to explore phasing options or off-hours work where feasible, minimizing impact while prioritizing safety and compliance with all regulations.",
+        "@type": "Answer",
+        "description": "Operating during a remodel is possible for minor cosmetic work; extensive projects usually require temporary closure."
+      }
+    }
+  ],
+  "description": "Operating during a remodel is possible for minor cosmetic work; extensive projects usually require temporary closure."
+}

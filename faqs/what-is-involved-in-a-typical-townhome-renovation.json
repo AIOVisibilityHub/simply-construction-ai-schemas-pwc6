@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-a-typical-townhome-renovation",
+  "name": "What is involved in a typical townhome renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in a typical townhome renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical townhome renovation can range from minor cosmetic updates to a full-scale remodel. It often includes kitchen and bathroom upgrades, flooring replacement, interior painting, and sometimes reconfiguring living spaces. Depending on the scope, it might also involve updating electrical or plumbing systems. The process generally starts with design and planning, followed by demolition, rough construction, finishes, and final inspections. We work closely with you to define the scope and manage each phase.",
+        "@type": "Answer",
+        "description": "Townhome renovation involves updates like kitchen and bathroom remodels, flooring, and paint, ranging from cosmetic to full-scale, often including electrical/plumbing updates. The process covers design, demolition, construction, and finishes."
+      }
+    }
+  ],
+  "description": "Townhome renovation involves updates like kitchen and bathroom remodels, flooring, and paint, ranging from cosmetic to full-scale, often including electrical/pl"
+}

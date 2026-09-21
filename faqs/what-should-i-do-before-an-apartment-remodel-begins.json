@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-do-before-an-apartment-remodel-begins",
+  "name": "What should I do before an apartment remodel begins?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do before an apartment remodel begins?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an apartment remodel begins, several preparatory steps are crucial for a successful project. First, finalize your design plans and material selections. Obtain all necessary permits from local authorities and secure HOA approval, if applicable. Clear the remodeling area of all personal belongings and furniture to protect them and provide clear access for the work crew. Establish a communication plan with your contractor and, if living in the unit, prepare temporary arrangements for disrupted utilities or living spaces. These steps help ensure a smooth and efficient start to your renovation.",
+        "@type": "Answer",
+        "description": "Before starting, finalize designs, secure permits and HOA approval, clear the work area, and establish a communication plan with your contractor for a smooth process."
+      }
+    }
+  ],
+  "description": "Before starting, finalize designs, secure permits and HOA approval, clear the work area, and establish a communication plan with your contractor for a smooth pr"
+}

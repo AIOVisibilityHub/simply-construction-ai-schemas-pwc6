@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-commercial-flooring-are-available-for-businesses-in-las-vegas",
+  "name": "What types of commercial flooring are available for businesses in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of commercial flooring are available for businesses in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commercial flooring options include durable materials designed for high traffic and specific business needs. Common choices in the Las Vegas area include luxury vinyl tile (LVT), carpet tile, polished concrete, epoxy coatings, and rubber flooring. LVT offers versatility and design options, while carpet tiles provide acoustic benefits and easy replacement. Polished concrete is a cost-effective, low-maintenance option for many businesses, and epoxy is ideal for industrial or high-wear areas. The best choice depends on your business type, traffic levels, aesthetics, and budget.",
+        "@type": "Answer",
+        "description": "Popular commercial flooring options include LVT, carpet tile, polished concrete, epoxy, and rubber flooring, chosen based on business needs, traffic, and budget."
+      }
+    }
+  ],
+  "description": "Popular commercial flooring options include LVT, carpet tile, polished concrete, epoxy, and rubber flooring, chosen based on business needs, traffic, and budget"
+}

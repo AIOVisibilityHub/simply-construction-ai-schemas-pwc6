@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-my-tenant-improvement-project-in-las-vegas",
+  "name": "Do I need permits for my tenant improvement project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for my tenant improvement project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, most tenant improvement projects in Las Vegas, North Las Vegas, Henderson, or Paradise will require permits. This includes any work that involves structural changes, alterations to electrical, plumbing, or mechanical systems, or significant changes to the occupancy or egress. Even non-structural interior modifications often require permits to ensure compliance with local building codes and safety regulations. Your general contractor can help navigate the specific permitting requirements for your project.",
+        "@type": "Answer",
+        "description": "Most tenant improvement projects in the Las Vegas area require permits, especially for structural, electrical, plumbing, or mechanical changes, to ensure code compliance."
+      }
+    }
+  ],
+  "description": "Most tenant improvement projects in the Las Vegas area require permits, especially for structural, electrical, plumbing, or mechanical changes, to ensure code c"
+}

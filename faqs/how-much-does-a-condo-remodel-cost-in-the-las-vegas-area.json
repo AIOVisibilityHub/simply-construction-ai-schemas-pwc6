@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-condo-remodel-cost-in-the-las-vegas-area",
+  "name": "How much does a condo remodel cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a condo remodel cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a condo remodel in Las Vegas depends on factors like the size of the unit, the extent of the renovation, and the quality of materials chosen. A budget-friendly refresh might start around $15,000-$30,000 for specific areas. Mid-range renovations, including new kitchens or bathrooms, can range from $40,000 to $80,000. High-end, luxury remodels can easily exceed $100,000. We provide detailed estimates after an initial consultation and assessment of your project needs.",
+        "@type": "Answer",
+        "description": "Condo remodel costs in Las Vegas vary widely, from $15,000 for minor updates to over $100,000 for luxury renovations, based on scope and materials."
+      }
+    }
+  ],
+  "description": "Condo remodel costs in Las Vegas vary widely, from $15,000 for minor updates to over $100,000 for luxury renovations, based on scope and materials."
+}

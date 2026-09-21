@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-duplex-renovation-typically-take",
+  "name": "How long does a duplex renovation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a duplex renovation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a duplex renovation depends on its complexity and scale. Minor renovations, such as cosmetic updates to a single unit, might take 4-8 weeks. More extensive remodels involving multiple units, structural changes, or significant plumbing and electrical work can take 3-6 months or even longer. Permitting processes, material lead times, and unforeseen issues encountered during demolition can also influence the timeline. We establish a clear project schedule and communicate progress regularly.",
+        "@type": "Answer",
+        "description": "Duplex renovation timelines range from 4-8 weeks for minor updates to 3-6 months or more for extensive remodels, influenced by scope, permits, and material availability."
+      }
+    }
+  ],
+  "description": "Duplex renovation timelines range from 4-8 weeks for minor updates to 3-6 months or more for extensive remodels, influenced by scope, permits, and material avai"
+}

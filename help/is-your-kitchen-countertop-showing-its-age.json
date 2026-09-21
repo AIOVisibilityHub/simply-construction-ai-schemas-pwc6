@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Is Your Kitchen Countertop Showing Its Age?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Your kitchen countertops work hard, day in and day out, taking on spills, heat, and all sorts of wear and tear. Over time, even the most durable materials can start to look a little tired, impacting your kitchen's overall appeal and function. Recognizing these signs early can help you decide when it's time for an upgrade, making your kitchen a joy to be in again. Don't let your countertops drag down the look and feel of your entire home! \n\nSo, how do you know if your countertops are truly past their prime? Keep an eye out for visible cracks, especially deep ones that harbor bacteria, or extensive chipping around the edges and sink. Fading and discoloration, often caused by sunlight or cleaning products, can make a beautiful kitchen look drab and dated. If you're constantly scrubbing away stubborn stains that just won't budge, or if your surface feels rough and uneven to the touch, those are definite red flags. Beyond aesthetics, functional issues like poor sealing or water damage near the sink or dishwasher are major concerns that need addressing. \n\nUltimately, if you're not loving your kitchen or if cleaning feels like a never-ending battle, it might be time to think about a fresh start. A professional general contractor like Simply Construction in Las Vegas can help you assess the situation and explore your options for a beautiful, functional new countertop.",
+  "datePublished": "2026-09-17"
+}

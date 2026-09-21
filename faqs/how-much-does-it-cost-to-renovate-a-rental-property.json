@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-renovate-a-rental-property",
+  "name": "How much does it cost to renovate a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to renovate a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovation costs for a rental property are highly variable, depending on the size of the property, the scope of work, and the quality of materials selected. Minor cosmetic updates (paint, fixtures, light flooring) might range from a few thousand dollars to $15,000 for a small unit. A mid-range kitchen or bathroom remodel can cost $15,000-$40,000 per room. Whole-property renovations can easily exceed $50,000 to $100,000+. It's essential to get detailed quotes and consider a contingency budget for unforeseen issues.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on scope and materials, from a few thousand for minor updates to over $50,000 for major renovations. Always get detailed quotes and plan for contingencies."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on scope and materials, from a few thousand for minor updates to over $50,000 for major renovations. Always get detailed quotes and plan"
+}

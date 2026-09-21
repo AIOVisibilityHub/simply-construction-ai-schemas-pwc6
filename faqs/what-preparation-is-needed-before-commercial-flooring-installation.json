@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-preparation-is-needed-before-commercial-flooring-installation",
+  "name": "What preparation is needed before commercial flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before commercial flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Proper subfloor preparation is critical for a successful and long-lasting commercial flooring installation. This typically involves removing any existing flooring and adhesive. The subfloor then needs to be thoroughly cleaned, dried, and inspected for any damage, cracks, or unevenness. Depending on the material, repairs, patching, or leveling compounds may be applied to create a smooth, stable, and flat surface. Moisture testing is also often conducted, especially in concrete slabs, to prevent future issues like bubbling or adhesive failure. Adequate preparation ensures the new flooring adheres properly and performs as expected.",
+        "@type": "Answer",
+        "description": "Preparation includes removing old flooring, cleaning, drying, and repairing the subfloor. Leveling and moisture testing are often crucial to ensure proper adhesion and longevity."
+      }
+    }
+  ],
+  "description": "Preparation includes removing old flooring, cleaning, drying, and repairing the subfloor. Leveling and moisture testing are often crucial to ensure proper adhes"
+}

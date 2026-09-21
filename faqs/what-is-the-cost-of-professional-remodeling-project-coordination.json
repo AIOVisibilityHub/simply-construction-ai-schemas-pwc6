@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-cost-of-professional-remodeling-project-coordination",
+  "name": "What is the cost of professional remodeling project coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of professional remodeling project coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of professional remodeling project coordination is typically incorporated into the overall general contractor's fee, rather than being a separate line item. This fee covers the project manager's salary, administrative overhead, and the resources used to oversee your project. Factors influencing this cost include the project's size, duration, and complexity. While it represents an investment, effective coordination often saves money by preventing costly errors, delays, and rework, ensuring better budget control.",
+        "@type": "Answer",
+        "description": "The cost of project coordination is usually part of the general contractor's fee, varying by project size and complexity. It's an investment that can prevent costly delays."
+      }
+    }
+  ],
+  "description": "The cost of project coordination is usually part of the general contractor's fee, varying by project size and complexity. It's an investment that can prevent co"
+}

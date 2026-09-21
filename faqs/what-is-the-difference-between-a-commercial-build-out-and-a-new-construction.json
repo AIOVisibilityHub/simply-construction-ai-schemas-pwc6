@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-commercial-build-out-and-a-new-construction",
+  "name": "What is the difference between a commercial build-out and a new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a commercial build-out and a new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A commercial build-out involves customizing an existing interior space within an already constructed building, often transforming a shell space or an older unit into a new business environment. New construction, conversely, refers to building a structure from the ground up on previously undeveloped land or after demolishing an old structure. Build-outs are generally less extensive and have shorter timelines than new construction, focusing on interior modifications rather than foundational or exterior structural development.",
+        "@type": "Answer",
+        "description": "A build-out customizes an existing interior, while new construction builds a structure from the ground up."
+      }
+    }
+  ],
+  "description": "A build-out customizes an existing interior, while new construction builds a structure from the ground up."
+}

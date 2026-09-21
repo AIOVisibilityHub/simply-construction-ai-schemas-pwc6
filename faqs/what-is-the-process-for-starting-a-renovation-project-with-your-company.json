@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-a-renovation-project-with-your-company",
+  "name": "What is the process for starting a renovation project with your company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a renovation project with your company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process for starting a renovation project begins with an initial consultation to understand your goals, budget, and timeline for your rental property. We'll discuss potential improvements and offer design insights. Next, we conduct an on-site visit to assess the property's current condition and gather detailed measurements. Following this, we provide a comprehensive, transparent proposal outlining the scope of work, materials, costs, and project schedule. Once approved, we handle permit acquisition (if necessary) and manage the entire renovation from start to finish, keeping you informed at every stage.",
+        "@type": "Answer",
+        "description": "Our renovation process includes an initial consultation, on-site assessment, detailed proposal, and full project management from start to finish."
+      }
+    }
+  ],
+  "description": "Our renovation process includes an initial consultation, on-site assessment, detailed proposal, and full project management from start to finish."
+}

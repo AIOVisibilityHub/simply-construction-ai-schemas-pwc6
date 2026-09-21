@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-include-in-a-tenant-improvement-scope-of-work",
+  "name": "What should I include in a tenant improvement scope of work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I include in a tenant improvement scope of work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive tenant improvement scope of work should detail every aspect of the project. This includes architectural plans, floor layouts, types of finishes for flooring, walls, and ceilings, lighting fixtures, plumbing fixtures, electrical outlets and data points, HVAC system modifications, and any custom millwork or specialized equipment installations. It should also specify demolition work, permitting responsibilities, and a clear understanding of who is responsible for each component, ensuring all parties are aligned.",
+        "@type": "Answer",
+        "description": "The scope of work should detail all aspects, including architectural plans, finishes, fixtures, system modifications, demolition, and permitting, ensuring clarity for all parties involved."
+      }
+    }
+  ],
+  "description": "The scope of work should detail all aspects, including architectural plans, finishes, fixtures, system modifications, demolition, and permitting, ensuring clari"
+}

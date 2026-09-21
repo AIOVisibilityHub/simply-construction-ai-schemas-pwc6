@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeframe-for-a-standard-rental-unit-renovation",
+  "name": "What is the typical timeframe for a standard rental unit renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a standard rental unit renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for a rental unit renovation varies significantly based on the scope of work. A cosmetic refresh, such as painting and new flooring, might take 1-3 weeks. A more extensive renovation involving kitchen and bathroom remodels could range from 4-8 weeks, sometimes longer depending on material availability and permit requirements. It's essential to plan for potential delays and build some buffer into your schedule, especially if you have an upcoming tenant move-in date. A clear project timeline from your contractor is crucial for managing expectations.",
+        "@type": "Answer",
+        "description": "A standard rental unit renovation can take 1-3 weeks for cosmetic work, or 4-8+ weeks for more extensive remodels, depending on scope."
+      }
+    }
+  ],
+  "description": "A standard rental unit renovation can take 1-3 weeks for cosmetic work, or 4-8+ weeks for more extensive remodels, depending on scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-you-offer-warranties-on-commercial-flooring-installation",
+  "name": "Do you offer warranties on commercial flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer warranties on commercial flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we stand behind the quality of our commercial flooring installations. We typically provide a warranty on our workmanship, covering any issues directly related to the installation process. Additionally, the flooring materials themselves usually come with separate manufacturer warranties, which vary by product and material type. We ensure all installations adhere to manufacturer guidelines to keep material warranties valid. Specific warranty details, including terms and duration, will be provided in your project agreement, giving you peace of mind regarding your investment.",
+        "@type": "Answer",
+        "description": "Yes, we offer a warranty on our installation workmanship, and the flooring materials typically come with separate manufacturer warranties. Details are in the project agreement."
+      }
+    }
+  ],
+  "description": "Yes, we offer a warranty on our installation workmanship, and the flooring materials typically come with separate manufacturer warranties. Details are in the pr"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-challenges-faced-during-duplex-renovations",
+  "name": "What are common challenges faced during duplex renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges faced during duplex renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges during duplex renovations include managing shared utility lines, navigating potential disruptions to tenants in occupied units, dealing with unforeseen structural issues in older buildings, and coordinating multiple trades. Soundproofing between units can also be a complex task, and ensuring compliance with zoning and building codes for multi-family dwellings requires careful attention. Effective communication, meticulous planning, and an experienced general contractor are crucial for successfully addressing these challenges.",
+        "@type": "Answer",
+        "description": "Challenges in duplex renovations include shared utilities, tenant disruption, unforeseen structural issues, trade coordination, soundproofing, and ensuring code compliance for multi-family dwellings."
+      }
+    }
+  ],
+  "description": "Challenges in duplex renovations include shared utilities, tenant disruption, unforeseen structural issues, trade coordination, soundproofing, and ensuring code"
+}

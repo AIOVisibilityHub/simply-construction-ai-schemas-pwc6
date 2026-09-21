@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-general-contractor-and-a-project-coordinator",
+  "name": "What is the difference between a general contractor and a project coordinator?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a general contractor and a project coordinator?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a general contractor typically includes project coordination as a core service, a standalone project coordinator might be hired for oversight if you are managing subcontractors yourself. A general contractor, like Simply Construction, assumes overall responsibility for the entire project, including hiring and managing all trades, ensuring quality, and handling legal compliance. A project coordinator primarily focuses on scheduling, communication, and logistical flow, but may not hold the same legal or financial responsibility as a general contractor.",
+        "@type": "Answer",
+        "description": "A general contractor manages all aspects of a remodel, including coordination, while a project coordinator primarily handles scheduling and logistics."
+      }
+    }
+  ],
+  "description": "A general contractor manages all aspects of a remodel, including coordination, while a project coordinator primarily handles scheduling and logistics."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-office-remodeling-in-las-vegas",
+  "name": "What permits are required for office remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for office remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for office remodeling in Las Vegas depend on the scope of work. Minor cosmetic changes typically don't require permits, but projects involving structural alterations, electrical, plumbing, or HVAC modifications almost always do. Clark County and City of Las Vegas building departments enforce specific codes that must be met. Simply Construction is knowledgeable about local regulations and can manage the entire permitting process on your behalf, ensuring your project complies with all necessary standards.",
+        "@type": "Answer",
+        "description": "Permits are usually required for structural, electrical, plumbing, or HVAC changes in Las Vegas office remodels. Simply Construction handles the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are usually required for structural, electrical, plumbing, or HVAC changes in Las Vegas office remodels. Simply Construction handles the permitting proc"
+}

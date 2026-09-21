@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Unexpected Problems When Removing a Kitchen Wall",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about taking down that kitchen wall to open up your space? It's a fantastic idea for creating a more modern, spacious feel. However, what looks simple on TV can sometimes hide a few surprises in real life. Knowing what to watch out for can save you headaches and budget surprises down the line.\n\nFirst, you've got to determine if the wall is load-bearing. This is probably the biggest hurdle. A load-bearing wall supports the structure above it, and if you remove it without proper support, you're looking at serious structural issues. It’s not always obvious, so a professional needs to assess this carefully. If it is load-bearing, you'll need to install a new beam or other support system, which adds to the complexity and cost.\n\nNext, consider what's inside the wall. Walls aren't just drywall and studs; they often house plumbing pipes, electrical wiring, HVAC ducts, and sometimes even gas lines. Discovering these after demolition begins means rerouting utilities, which can be time-consuming and expensive. This is why thorough planning and sometimes even exploratory demolition are crucial.\n\nThen there's flooring and ceiling. When a wall comes down, you'll have a gap in your flooring and a line on your ceiling where the wall once was. This usually means needing to patch or replace flooring in the affected area, or even throughout the entire connected space for a seamless look. The same goes for the ceiling—you'll need to repair and repaint to blend everything together.\n\nLastly, don't forget about dust and debris. Removing a wall is a messy job, no matter how careful you are. Proper containment and clean-up are essential to protect the rest of your home. Dealing with these potential issues upfront with a skilled general contractor, like Simply Construction, helps ensure your kitchen wall removal project goes smoothly and safely.",
+  "datePublished": "2026-09-17"
+}

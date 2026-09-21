@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-townhome-remodel-and-an-update",
+  "name": "What is the difference between a townhome remodel and an update?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a townhome remodel and an update?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A townhome update generally refers to cosmetic changes that refresh a space without altering its structure or layout, such as painting, new flooring, or replacing fixtures. A remodel, however, involves more significant changes, which can include reconfiguring rooms, moving walls, updating plumbing or electrical systems, or completely overhauling kitchens and bathrooms. Remodels typically require permits and more extensive planning due to their scope. We can help you determine which approach best suits your needs.",
+        "@type": "Answer",
+        "description": "A townhome update involves cosmetic changes like paint or flooring, while a remodel entails significant structural changes, layout alterations, or system updates, often requiring permits. We help determine the best approach."
+      }
+    }
+  ],
+  "description": "A townhome update involves cosmetic changes like paint or flooring, while a remodel entails significant structural changes, layout alterations, or system update"
+}

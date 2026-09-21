@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Worried About the Cost of Kitchen Wall Removal?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Dreaming of an open-concept kitchen but worried about the price tag of taking down a wall? It's a valid concern, as wall removal isn't usually a simple task. However, understanding what goes into the cost can help you budget effectively and avoid surprises. The biggest factor influencing the price is whether the wall is load-bearing or not.\n\nIf the wall isn't load-bearing, meaning it's just dividing space and not holding up the structure above, the cost will generally be lower. You're primarily paying for demolition, drywall repair, and finishing. It's still a job that requires skill to ensure a clean opening and proper patching, but it's less complex.\n\nNow, if the wall *is* load-bearing, the cost will be higher. This is because removing it requires installing a new structural beam (often steel or engineered lumber) to support the weight that the wall once carried. This involves engineering assessments, potentially more extensive demolition, and the specialized installation of the beam, which is critical for your home's safety and integrity. This also means more patching of the ceiling and walls around the new beam.\n\nBeyond the structural aspect, you also need to consider what's *inside* the wall. If there are electrical wires, plumbing pipes, or HVAC ducts, these will need to be rerouted, adding to the labor and material costs. Finishing touches, like matching flooring where the wall once stood, or repainting the newly connected space, also contribute to the overall expense. The best way to get a clear picture of the cost for your specific project in the Las Vegas area is to get a detailed estimate from an experienced contractor like Simply Construction. We can assess your home's unique situation and provide transparent pricing.",
+  "datePublished": "2026-09-17"
+}

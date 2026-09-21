@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-hoa-approval-for-my-condo-renovation",
+  "name": "Do I need HOA approval for my condo renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need HOA approval for my condo renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, almost all condo renovations require approval from your Homeowners Association (HOA) before any work can begin. HOAs typically have specific rules and guidelines regarding modifications to units, especially those that affect common areas, structural elements, or the building's exterior appearance. You will likely need to submit detailed plans, material specifications, and sometimes contractor information for their review and approval. Failing to obtain HOA approval can lead to fines or demands to revert the changes.",
+        "@type": "Answer",
+        "description": "Most condo renovations require prior HOA approval, especially for changes affecting common areas or structural elements. Failure to comply can result in penalties."
+      }
+    }
+  ],
+  "description": "Most condo renovations require prior HOA approval, especially for changes affecting common areas or structural elements. Failure to comply can result in penalti"
+}

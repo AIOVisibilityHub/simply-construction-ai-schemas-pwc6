@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-landlord-renovations-in-the-las-vegas-area",
+  "name": "Do I need permits for landlord renovations in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for landlord renovations in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many landlord renovations in the Las Vegas area require permits. Generally, any structural changes, electrical work, plumbing modifications, or significant alterations to the layout of a property will necessitate permits from the local building department (e.g., Clark County, City of Las Vegas, City of Henderson). Cosmetic updates like painting or replacing flooring typically do not. It's crucial to consult with your general contractor or the local planning department early in the process to determine specific permit requirements for your project to avoid costly delays or fines.",
+        "@type": "Answer",
+        "description": "Permits are often needed for structural, electrical, or plumbing renovations in Las Vegas; cosmetic changes usually do not require them."
+      }
+    }
+  ],
+  "description": "Permits are often needed for structural, electrical, or plumbing renovations in Las Vegas; cosmetic changes usually do not require them."
+}

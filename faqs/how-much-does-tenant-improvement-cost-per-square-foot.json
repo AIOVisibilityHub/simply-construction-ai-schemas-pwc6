@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-tenant-improvement-cost-per-square-foot",
+  "name": "How much does tenant improvement cost per square foot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does tenant improvement cost per square foot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tenant improvement costs per square foot vary widely based on the project's complexity, the quality of finishes, and the existing condition of the space. Basic office or retail finishes might range from $25-$50 per square foot, while more specialized spaces like medical offices or restaurants with extensive build-outs and specialized equipment can easily exceed $100-$200 per square foot. These are general estimates; a detailed quote requires a defined scope of work.",
+        "@type": "Answer",
+        "description": "Costs vary significantly; basic finishes might be $25-$50 per square foot, while specialized spaces can exceed $100-$200 per square foot, depending on complexity and finishes."
+      }
+    }
+  ],
+  "description": "Costs vary significantly; basic finishes might be $25-$50 per square foot, while specialized spaces can exceed $100-$200 per square foot, depending on complexit"
+}

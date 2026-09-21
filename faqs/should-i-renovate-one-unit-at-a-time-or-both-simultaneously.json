@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-renovate-one-unit-at-a-time-or-both-simultaneously",
+  "name": "Should I renovate one unit at a time or both simultaneously?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I renovate one unit at a time or both simultaneously?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to renovate one unit at a time or both simultaneously depends on your budget, timeline, and current occupancy status. Renovating one unit at a time can allow for continued rental income from the other unit, minimizing financial disruption, but it extends the overall project duration. Renovating both simultaneously can be more efficient, potentially reducing total construction time and costs due to economies of scale, but requires both units to be vacant and a larger upfront investment. We can discuss which approach best suits your specific goals.",
+        "@type": "Answer",
+        "description": "Renovating one unit at a time allows for continued rental income but takes longer, while renovating both simultaneously can be more efficient but requires both units to be vacant."
+      }
+    }
+  ],
+  "description": "Renovating one unit at a time allows for continued rental income but takes longer, while renovating both simultaneously can be more efficient but requires both"
+}

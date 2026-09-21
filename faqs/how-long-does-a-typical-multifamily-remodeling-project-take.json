@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-multifamily-remodeling-project-take",
+  "name": "How long does a typical multifamily remodeling project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical multifamily remodeling project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a multifamily remodeling project varies significantly based on the scope, number of units, and the specific types of renovations. A cosmetic refresh of a few units might take weeks, while a comprehensive overhaul of an entire complex, including structural changes or amenity additions, could extend to several months or even over a year. Factors like material availability, permit approvals, and the need to work around existing tenants also influence the timeline. A detailed project schedule will be provided after the initial assessment and design phase to give a clearer estimate.",
+        "@type": "Answer",
+        "description": "Project duration varies by scope, units, and renovation type, from weeks for minor updates to over a year for full complex overhauls. Factors like materials and permits impact the timeline."
+      }
+    }
+  ],
+  "description": "Project duration varies by scope, units, and renovation type, from weeks for minor updates to over a year for full complex overhauls. Factors like materials and"
+}

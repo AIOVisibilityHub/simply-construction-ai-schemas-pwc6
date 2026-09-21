@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-help-with-design-and-material-selection-for-my-townhome-renovation",
+  "name": "Can you help with design and material selection for my townhome renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you help with design and material selection for my townhome renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, we offer comprehensive support for both design and material selection as part of our townhome renovation services. Our team can connect you with experienced designers or work directly with your chosen professionals to bring your vision to life. We guide you through selecting finishes, fixtures, and materials that suit your aesthetic preferences, budget, and durability requirements. Our goal is to ensure a cohesive and functional design that enhances your townhome.",
+        "@type": "Answer",
+        "description": "Yes, we provide comprehensive design and material selection support for your townhome renovation. We help you choose finishes, fixtures, and materials that align with your vision, budget, and durability needs."
+      }
+    }
+  ],
+  "description": "Yes, we provide comprehensive design and material selection support for your townhome renovation. We help you choose finishes, fixtures, and materials that alig"
+}

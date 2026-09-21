@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-major-kitchen-or-bathroom-remodel-in-las-vega",
+  "name": "What is the typical timeline for a major kitchen or bathroom remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a major kitchen or bathroom remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for a major kitchen or bathroom remodel in the Las Vegas area can vary significantly, usually ranging from 4 to 12 weeks from demolition to completion. Factors influencing this include the project's complexity, the availability of materials, and the need for permit inspections. A well-organized contractor will provide a detailed schedule upfront, accounting for each phase of the renovation process.",
+        "@type": "Answer",
+        "description": "Major kitchen or bathroom remodels in Las Vegas typically take 4-12 weeks, depending on complexity, material availability, and permit inspections."
+      }
+    }
+  ],
+  "description": "Major kitchen or bathroom remodels in Las Vegas typically take 4-12 weeks, depending on complexity, material availability, and permit inspections."
+}

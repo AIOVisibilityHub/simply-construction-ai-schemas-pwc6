@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-a-commercial-build-out",
+  "name": "How do I choose the right general contractor for a commercial build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for a commercial build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor, look for experience in commercial build-outs similar to your project, a strong portfolio, and positive client references. Verify their licensing and insurance (e.g., through the Nevada State Contractors Board). Evaluate their communication style, transparency in budgeting, and project management approach. A reputable contractor will provide detailed proposals, realistic timelines, and demonstrate a clear understanding of local building codes and permitting processes in areas like Las Vegas, North Las Vegas, and Henderson.",
+        "@type": "Answer",
+        "description": "Choose a contractor with relevant experience, strong references, proper licensing and insurance, clear communication, and transparent budgeting."
+      }
+    }
+  ],
+  "description": "Choose a contractor with relevant experience, strong references, proper licensing and insurance, clear communication, and transparent budgeting."
+}

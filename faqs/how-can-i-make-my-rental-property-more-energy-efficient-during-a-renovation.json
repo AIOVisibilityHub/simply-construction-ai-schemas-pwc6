@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-make-my-rental-property-more-energy-efficient-during-a-renovation",
+  "name": "How can I make my rental property more energy-efficient during a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I make my rental property more energy-efficient during a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a renovation, several upgrades can significantly improve energy efficiency. Consider replacing old windows and doors with energy-efficient models. Upgrading to LED lighting throughout the property can drastically reduce electricity consumption. Improve insulation in walls, attics, and crawl spaces. Install energy-efficient appliances and a smart thermostat for better climate control. These improvements not only reduce utility costs for tenants, making your property more attractive, but also contribute to long-term savings for the property owner.",
+        "@type": "Answer",
+        "description": "Enhance energy efficiency during renovation by upgrading to LED lighting, improving insulation, installing energy-efficient windows/appliances, and adding smart thermostats."
+      }
+    }
+  ],
+  "description": "Enhance energy efficiency during renovation by upgrading to LED lighting, improving insulation, installing energy-efficient windows/appliances, and adding smart"
+}

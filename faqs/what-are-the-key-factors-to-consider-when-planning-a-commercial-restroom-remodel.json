@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-key-factors-to-consider-when-planning-a-commercial-restroom-remodel",
+  "name": "What are the key factors to consider when planning a commercial restroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key factors to consider when planning a commercial restroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When planning a commercial restroom remodel, consider your budget, the desired aesthetic, durability of materials, and compliance with local building codes, including ADA accessibility standards. Traffic volume in the restroom will influence material choices, favoring durable, easy-to-maintain surfaces. Also, think about the impact on your business operations during construction and how to minimize disruption.",
+        "@type": "Answer",
+        "description": "Key factors include budget, aesthetics, material durability, ADA compliance, local codes, and minimizing business disruption."
+      }
+    }
+  ],
+  "description": "Key factors include budget, aesthetics, material durability, ADA compliance, local codes, and minimizing business disruption."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-scheduling-a-make-ready-service-with-simply-construction",
+  "name": "What is the process for scheduling a make-ready service with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling a make-ready service with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial contact, either by phone or through our website, to discuss your property's needs. We then schedule a convenient time for an on-site visit to assess the rental unit thoroughly. Following the assessment, we provide a detailed proposal outlining the scope of work, timeline, and cost. Once approved, our team schedules the work to commence promptly, keeping you updated throughout the project until completion and final walkthrough.",
+        "@type": "Answer",
+        "description": "Schedule by contacting us, followed by an on-site assessment, proposal, and project scheduling."
+      }
+    }
+  ],
+  "description": "Schedule by contacting us, followed by an on-site assessment, proposal, and project scheduling."
+}

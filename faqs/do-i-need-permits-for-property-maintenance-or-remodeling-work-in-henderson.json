@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-property-maintenance-or-remodeling-work-in-henderson",
+  "name": "Do I need permits for property maintenance or remodeling work in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for property maintenance or remodeling work in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For property maintenance, minor repairs like painting or replacing a broken fixture typically do not require permits. However, most remodeling projects, especially those involving structural changes, electrical work, plumbing modifications, or significant alterations to the building envelope, will require permits from the City of Henderson. Your general contractor should be knowledgeable about local permit requirements and can guide you through the application process to ensure compliance.",
+        "@type": "Answer",
+        "description": "Minor maintenance usually doesn't need permits, but most remodeling work, especially structural or system changes, requires permits from the City of Henderson."
+      }
+    }
+  ],
+  "description": "Minor maintenance usually doesn't need permits, but most remodeling work, especially structural or system changes, requires permits from the City of Henderson."
+}

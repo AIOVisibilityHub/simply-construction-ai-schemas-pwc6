@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-condo-remodel-in-las-vegas",
+  "name": "What permits are required for a condo remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a condo remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for a condo remodel in Las Vegas depend on the scope of the project. Minor cosmetic changes like painting or replacing cabinets generally do not require permits. However, projects involving structural alterations, significant plumbing or electrical work, moving walls, or changes to the footprint of the unit will almost certainly require permits from the City of Las Vegas or Clark County. We handle all necessary permit applications as part of our service.",
+        "@type": "Answer",
+        "description": "Permit needs for condo remodels in Las Vegas depend on scope; major changes to plumbing, electrical, or structure typically require permits."
+      }
+    }
+  ],
+  "description": "Permit needs for condo remodels in Las Vegas depend on scope; major changes to plumbing, electrical, or structure typically require permits."
+}

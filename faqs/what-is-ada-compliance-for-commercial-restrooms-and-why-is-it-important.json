@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-ada-compliance-for-commercial-restrooms-and-why-is-it-important",
+  "name": "What is ADA compliance for commercial restrooms, and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is ADA compliance for commercial restrooms, and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ADA compliance, under the Americans with Disabilities Act, ensures commercial restrooms are accessible to individuals with disabilities. This involves specific requirements for stall dimensions, grab bar placement, sink height, faucet types, and clear floor space. Adhering to ADA standards is not only a legal requirement but also important for providing an inclusive environment for all customers and employees. Non-compliance can lead to legal issues and limited accessibility.",
+        "@type": "Answer",
+        "description": "ADA compliance ensures restrooms are accessible for individuals with disabilities, covering dimensions, fixtures, and clear space; it's legally required and promotes inclusivity."
+      }
+    }
+  ],
+  "description": "ADA compliance ensures restrooms are accessible for individuals with disabilities, covering dimensions, fixtures, and clear space; it's legally required and pro"
+}

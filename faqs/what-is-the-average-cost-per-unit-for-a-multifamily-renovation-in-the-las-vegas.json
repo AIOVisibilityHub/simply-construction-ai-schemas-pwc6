@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-per-unit-for-a-multifamily-renovation-in-the-las-vegas",
+  "name": "What is the average cost per unit for a multifamily renovation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost per unit for a multifamily renovation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost per unit for a multifamily renovation in the Las Vegas area can fluctuate widely. Basic cosmetic updates, such as paint, flooring, and minor fixture replacements, might range from $5,000 to $15,000 per unit. More extensive renovations involving kitchen and bathroom remodels, appliance upgrades, or reconfigurations could cost $20,000 to $50,000 or more per unit. Factors influencing cost include material choices, the extent of structural work, and the need for utility upgrades. We provide detailed, itemized bids based on your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs per unit in Las Vegas vary from $5,000-$15,000 for cosmetic updates to $20,000-$50,000+ for extensive remodels. Material choices and scope significantly impact the final price."
+      }
+    }
+  ],
+  "description": "Costs per unit in Las Vegas vary from $5,000-$15,000 for cosmetic updates to $20,000-$50,000+ for extensive remodels. Material choices and scope significantly i"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-turnaround-time-for-a-quote-after-an-on-site-visit",
+  "name": "What is the typical turnaround time for a quote after an on-site visit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical turnaround time for a quote after an on-site visit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After completing an on-site visit to your rental unit, Simply Construction typically provides a detailed quote within 24 to 48 hours. This timeframe allows us to accurately assess the scope of work, calculate material and labor costs, and ensure all your specific requirements are addressed. For more complex projects, we will communicate an expected timeline for the quote delivery. Our goal is to provide a transparent and comprehensive proposal as quickly as possible.",
+        "@type": "Answer",
+        "description": "We typically provide a detailed make-ready quote within 24 to 48 hours after an on-site visit."
+      }
+    }
+  ],
+  "description": "We typically provide a detailed make-ready quote within 24 to 48 hours after an on-site visit."
+}

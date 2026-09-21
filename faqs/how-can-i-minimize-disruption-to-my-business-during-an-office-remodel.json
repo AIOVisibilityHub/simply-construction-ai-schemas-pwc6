@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-minimize-disruption-to-my-business-during-an-office-remodel",
+  "name": "How can I minimize disruption to my business during an office remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I minimize disruption to my business during an office remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Minimizing business disruption is a key priority during an office remodel. Strategies include scheduling work during off-hours or weekends, creating temporary workspaces, and phasing the project to allow different sections of your office to remain operational. Clear communication between your business and the contractor is essential for planning and adapting. Simply Construction works closely with clients to develop a project plan that aims to keep your operations running as smoothly as possible throughout the renovation.",
+        "@type": "Answer",
+        "description": "Minimize disruption by scheduling work during off-hours, using temporary spaces, and phasing the project. Clear communication with your contractor is crucial."
+      }
+    }
+  ],
+  "description": "Minimize disruption by scheduling work during off-hours, using temporary spaces, and phasing the project. Clear communication with your contractor is crucial."
+}

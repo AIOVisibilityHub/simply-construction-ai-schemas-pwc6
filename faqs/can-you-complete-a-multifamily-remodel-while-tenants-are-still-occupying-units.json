@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-complete-a-multifamily-remodel-while-tenants-are-still-occupying-units",
+  "name": "Can you complete a multifamily remodel while tenants are still occupying units?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you complete a multifamily remodel while tenants are still occupying units?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to complete multifamily remodels while tenants remain in occupancy, but it requires careful planning and coordination. Strategies include phased renovation schedules, minimizing noise and disruption during specific hours, and creating temporary access routes or amenities. Effective communication with tenants about schedules and potential impacts is crucial. Our team works to develop a detailed plan that prioritizes tenant safety and comfort while maintaining project efficiency, aiming to complete work with minimal inconvenience.",
+        "@type": "Answer",
+        "description": "Yes, we can remodel occupied multifamily units with careful planning, phased schedules, disruption control, and clear tenant communication. We prioritize safety and efficiency."
+      }
+    }
+  ],
+  "description": "Yes, we can remodel occupied multifamily units with careful planning, phased schedules, disruption control, and clear tenant communication. We prioritize safety"
+}

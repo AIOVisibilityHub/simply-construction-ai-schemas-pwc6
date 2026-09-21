@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-rental-property-renovations-in-las-vegas",
+  "name": "What permits are needed for rental property renovations in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for rental property renovations in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For rental property renovations in Las Vegas and surrounding areas like Henderson or North Las Vegas, permits are generally required for any structural changes, electrical work, plumbing modifications, or significant alterations to the building's exterior. Cosmetic changes like painting or replacing flooring typically do not require permits. However, it's always best to consult with your general contractor or the local building department (e.g., City of Las Vegas Building & Safety) to confirm specific requirements for your project to avoid delays or penalties.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, electrical, plumbing, or significant exterior changes in Las Vegas. Consult your contractor or local building department to confirm requirements."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, electrical, plumbing, or significant exterior changes in Las Vegas. Consult your contractor or local building departm"
+}

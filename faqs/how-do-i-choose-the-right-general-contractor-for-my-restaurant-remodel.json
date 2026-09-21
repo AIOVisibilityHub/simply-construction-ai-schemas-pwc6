@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-my-restaurant-remodel",
+  "name": "How do I choose the right general contractor for my restaurant remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my restaurant remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor involves several steps. Look for contractors with specific experience in restaurant construction or commercial kitchen remodels, evidenced by a strong portfolio. Verify their licensing and insurance. Request and check references from previous clients. Pay attention to their communication style and project management approach during initial discussions. A reliable contractor should provide transparent proposals, clear timelines, and demonstrate a thorough understanding of health codes and restaurant-specific requirements.",
+        "@type": "Answer",
+        "description": "Choose a contractor with restaurant remodel experience, verified licenses, good references, clear communication, and transparent proposals."
+      }
+    }
+  ],
+  "description": "Choose a contractor with restaurant remodel experience, verified licenses, good references, clear communication, and transparent proposals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-consider-a-design-build-approach-for-my-medical-office-renovation",
+  "name": "Should I consider a design-build approach for my medical office renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a design-build approach for my medical office renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The design-build approach integrates the design and construction phases under a single contract with one entity, which can offer several advantages for a medical office renovation. This method often streamlines communication, reduces overall project timelines, and can simplify budget management as the designer and builder work collaboratively from the outset. It can also minimize potential conflicts between design specifications and constructability. This integrated approach is particularly beneficial for complex projects where specialized healthcare requirements need close coordination between design and execution.",
+        "@type": "Answer",
+        "description": "A design-build approach can streamline medical office renovations by integrating design and construction under one contract, improving communication, and often reducing timelines and budget conflicts."
+      }
+    }
+  ],
+  "description": "A design-build approach can streamline medical office renovations by integrating design and construction under one contract, improving communication, and often"
+}

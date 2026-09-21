@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-tenant-improvement",
+  "name": "What is tenant improvement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is tenant improvement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tenant improvement (TI) refers to modifications made to a commercial interior space by a landlord or tenant to prepare it for a new tenant's occupancy. These modifications often include changes to the layout, finishes, fixtures, and systems like HVAC or electrical, to meet the specific needs and branding of the incoming business. The scope of work can range from minor cosmetic updates to a complete build-out from a shell condition.",
+        "@type": "Answer",
+        "description": "Tenant improvement (TI) involves customizing a commercial space to suit a new tenant's business needs, often including layout, finishes, and system upgrades."
+      }
+    }
+  ],
+  "description": "Tenant improvement (TI) involves customizing a commercial space to suit a new tenant's business needs, often including layout, finishes, and system upgrades."
+}

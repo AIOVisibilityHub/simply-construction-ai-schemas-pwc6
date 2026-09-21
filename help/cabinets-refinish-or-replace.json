@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Cabinets: Refinish or Replace?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to refinish or completely replace your kitchen cabinets is a classic remodeling dilemma! Both options have their pros and cons, and the best choice really depends on your specific situation, budget, and the current condition of your cabinets. Let’s break it down.\n\n**Refinishing:** This option involves sanding down your existing cabinet doors and frames and then applying a new stain or paint. It's generally less expensive and quicker than replacement, making it a great choice if your cabinet boxes are structurally sound, you like your current layout, and you're happy with the door style. Refinishing can give your kitchen a fresh, updated look without the major upheaval of a full tear-out. However, it won't fix structural issues, address poor layouts, or change the door style itself. If your cabinets are really beat up, have warped doors, or if the internal structure is failing, refinishing might just be a temporary fix.\n\n**Replacement:** Going for new cabinet replacement means taking out the old cabinets and installing entirely new ones. This is the way to go if your cabinets are beyond repair, if you want a completely different layout, or if you're looking for a new style, material, or modern storage solutions. While it's a bigger investment and takes more time, replacement offers the most dramatic transformation and can significantly increase your kitchen's functionality and aesthetic appeal. You can choose from a vast array of styles, colors, and configurations that perfectly match your vision. It's also an opportunity to optimize your kitchen's footprint and really make it work for you. If you're unsure which path to take, reaching out to a professional like Simply Construction can help you weigh the options and make an informed decision for your Las Vegas home.",
+  "datePublished": "2026-09-17"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-process-for-a-restaurant-remodel-with-a-general-contractor",
+  "name": "What is the typical process for a restaurant remodel with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a restaurant remodel with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The remodel process typically begins with initial consultations to define your vision and project goals. This leads to design development and architectural planning, followed by material selection. Once designs are finalized and permits secured, construction commences, which involves demolition, structural work, MEP (mechanical, electrical, plumbing) installations, and finishing touches. Throughout construction, there is ongoing communication, quality control, and site management. The project concludes with final inspections and a walkthrough before handover.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction (demolition, MEP, finishes), inspections, and handover."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction (demolition, MEP, finishes), inspections, and handover."
+}

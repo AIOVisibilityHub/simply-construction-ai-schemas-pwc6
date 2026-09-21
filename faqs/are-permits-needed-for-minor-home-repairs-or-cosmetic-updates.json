@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-permits-needed-for-minor-home-repairs-or-cosmetic-updates",
+  "name": "Are permits needed for minor home repairs or cosmetic updates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are permits needed for minor home repairs or cosmetic updates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, minor home repairs and purely cosmetic updates do not require a remodeling permit. This includes tasks such as interior and exterior painting, replacing flooring or carpeting, installing new light fixtures (without altering wiring), updating cabinet hardware, or replacing existing countertops. However, if a cosmetic update involves moving plumbing lines, electrical circuits, or altering structural elements, a permit would likely be necessary. It's always best to clarify with your contractor if you are unsure about your specific project's requirements.",
+        "@type": "Answer",
+        "description": "Minor repairs like painting, flooring, or changing fixtures typically don't need permits. However, if cosmetic updates involve moving plumbing, electrical, or structural elements, a permit is usually required."
+      }
+    }
+  ],
+  "description": "Minor repairs like painting, flooring, or changing fixtures typically don't need permits. However, if cosmetic updates involve moving plumbing, electrical, or s"
+}

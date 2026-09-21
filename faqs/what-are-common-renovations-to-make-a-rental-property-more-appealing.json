@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-renovations-to-make-a-rental-property-more-appealing",
+  "name": "What are common renovations to make a rental property more appealing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common renovations to make a rental property more appealing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common renovations that enhance a rental property's appeal include fresh paint in neutral colors, updating light fixtures, and replacing old flooring with durable, modern options like laminate or vinyl plank. Kitchen and bathroom updates, even minor ones like new countertops or cabinet refacing, offer a significant return on investment. Ensuring appliances are in good working order and adding curb appeal through basic landscaping also make a property more attractive to prospective tenants.",
+        "@type": "Answer",
+        "description": "Popular renovations include fresh paint, updated lighting, new flooring, and minor kitchen or bathroom updates to attract tenants."
+      }
+    }
+  ],
+  "description": "Popular renovations include fresh paint, updated lighting, new flooring, and minor kitchen or bathroom updates to attract tenants."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-commercial-build-out-in-henderson",
+  "name": "What permits are required for a commercial build-out in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a commercial build-out in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For commercial build-outs in Henderson, various permits are typically required by the City of Henderson Building Division, depending on the scope of work. These may include building permits for structural changes, electrical permits, plumbing permits, and mechanical permits. Additionally, specific permits might be needed for fire suppression systems, signage, or changes in occupancy. Your general contractor will be responsible for identifying and securing all necessary permits before construction begins, ensuring compliance with local codes and regulations.",
+        "@type": "Answer",
+        "description": "Commercial build-outs in Henderson require permits like building, electrical, plumbing, and mechanical from the City of Henderson Building Division."
+      }
+    }
+  ],
+  "description": "Commercial build-outs in Henderson require permits like building, electrical, plumbing, and mechanical from the City of Henderson Building Division."
+}

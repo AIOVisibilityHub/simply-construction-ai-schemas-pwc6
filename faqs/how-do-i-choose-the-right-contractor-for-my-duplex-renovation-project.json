@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-duplex-renovation-project",
+  "name": "How do I choose the right contractor for my duplex renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my duplex renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for a duplex renovation involves researching local general contractors with experience in multi-family properties. Look for a contractor with a strong portfolio of similar projects, positive client testimonials, proper licensing and insurance, and transparent communication practices. It's advisable to get detailed bids from at least three reputable contractors and compare their proposed timelines, budgets, and approaches. A good contractor will also assist with permits and provide clear contracts. Simply Construction specializes in these types of projects in the Las Vegas area.",
+        "@type": "Answer",
+        "description": "To choose a duplex renovation contractor, look for experience in multi-family properties, check licenses and insurance, review portfolios, read testimonials, and compare detailed bids from reputable companies."
+      }
+    }
+  ],
+  "description": "To choose a duplex renovation contractor, look for experience in multi-family properties, check licenses and insurance, review portfolios, read testimonials, an"
+}

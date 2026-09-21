@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-commercial-flooring-installation",
+  "name": "What is the process for commercial flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for commercial flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The commercial flooring installation process typically begins with an initial consultation and site assessment to understand your needs and evaluate the space. This is followed by material selection and a detailed quote. Once approved, the existing flooring is removed, and the subfloor is prepared, which may involve cleaning, leveling, or repairing. The new flooring is then installed according to manufacturer specifications and industry best practices. Finally, a thorough cleanup and final inspection ensure the quality of the work and client satisfaction.",
+        "@type": "Answer",
+        "description": "The process involves consultation, site assessment, material selection, quote, old flooring removal, subfloor prep, new flooring installation, and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves consultation, site assessment, material selection, quote, old flooring removal, subfloor prep, new flooring installation, and final inspect"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeframe-for-a-condo-remodel-project",
+  "name": "What is the typical timeframe for a condo remodel project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a condo remodel project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a condo remodel varies significantly based on the scope of work. A minor cosmetic update, like painting and new flooring, might take 2-4 weeks. A full kitchen or bathroom renovation could extend to 6-10 weeks, while a complete gut renovation of an entire condo often requires 3-5 months or more. This timeframe includes design, material selection, permitting (if required), and construction. We provide a detailed project schedule before starting any work.",
+        "@type": "Answer",
+        "description": "Condo remodel timeframes range from a few weeks for minor updates to several months for full renovations, depending on scope."
+      }
+    }
+  ],
+  "description": "Condo remodel timeframes range from a few weeks for minor updates to several months for full renovations, depending on scope."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-duplex-renovation-in-las-vegas",
+  "name": "What permits are required for a duplex renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a duplex renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most duplex renovations in Las Vegas, especially those involving structural changes, plumbing, electrical, or HVAC modifications, require permits from the City of Las Vegas Building Department or the relevant jurisdiction (e.g., Clark County, Henderson). Even cosmetic changes might require permits if they affect egress or fire safety. Our team assists clients in identifying and obtaining all necessary permits before commencing work, ensuring compliance with local building codes and regulations to avoid delays and legal issues.",
+        "@type": "Answer",
+        "description": "Duplex renovations in Las Vegas usually require permits for structural, plumbing, electrical, or HVAC changes from local building departments. We help clients secure these."
+      }
+    }
+  ],
+  "description": "Duplex renovations in Las Vegas usually require permits for structural, plumbing, electrical, or HVAC changes from local building departments. We help clients s"
+}

@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Should You Add a Kitchen Island or Go Without?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "A kitchen island can be a game-changer for many homes, adding extra counter space, storage, and even a casual dining spot. But it's not a one-size-fits-all solution, and deciding whether to install one or stick to your current layout is a big decision. You want to make sure it enhances your kitchen, not hinders it. Let's break down when an island is a fantastic idea and when you might be better off without one, ensuring your kitchen truly functions for you.\n\nFirst, think about your kitchen's size and layout. An island needs adequate clearance around it – typically at least 36 to 48 inches – so you can move freely and open appliance doors. If your kitchen is on the smaller side or has a narrow galley layout, an island might just make it feel cramped and difficult to navigate. Second, consider your needs. Do you constantly feel short on prep space? Need more storage for pots and pans? Wish you had a casual spot for kids to do homework while you cook? An island can solve all these problems, especially if you add features like built-in shelving, drawers, or an overhang for seating. Third, what about plumbing and electrical? If you envision a sink, dishwasher, or cooktop in your island, you'll need to account for running lines, which adds to the complexity and cost of installation. If you just need extra workspace, a simpler, non-plumbed island is much easier. Finally, consider the aesthetic. A well-designed island can become the focal point of your kitchen, tying the whole room together. But a poorly placed or oversized one can throw off the entire balance. If you're on the fence, or unsure about the best configuration for your Las Vegas home, consult with a professional general contractor like Simply Construction. They can help you visualize the possibilities and ensure your kitchen island adds maximum value and functionality.",
+  "datePublished": "2026-09-17"
+}

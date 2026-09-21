@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-request-specific-upgrades-or-renovations-as-part-of-the-make-ready-service",
+  "name": "Can I request specific upgrades or renovations as part of the make-ready service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I request specific upgrades or renovations as part of the make-ready service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. While our standard make-ready focuses on preparing the unit for immediate occupancy, we can certainly incorporate specific upgrades or minor renovations. This could include updating kitchen or bathroom fixtures, replacing flooring, or performing minor remodeling to enhance the unit's appeal and value. Discuss your specific upgrade desires during the initial assessment, and we will integrate them into the proposal and project plan. We aim to customize our services to meet your investment goals.",
+        "@type": "Answer",
+        "description": "Yes, you can request specific upgrades or renovations to be included in the make-ready service."
+      }
+    }
+  ],
+  "description": "Yes, you can request specific upgrades or renovations to be included in the make-ready service."
+}

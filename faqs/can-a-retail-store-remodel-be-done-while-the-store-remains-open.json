@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-retail-store-remodel-be-done-while-the-store-remains-open",
+  "name": "Can a retail store remodel be done while the store remains open?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a retail store remodel be done while the store remains open?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many retail store remodels can be phased to allow the business to remain open, though this depends on the project's scope. Strategies include working after hours, sectioning off construction zones, and implementing temporary barriers to ensure customer safety and minimize disruption. While keeping the store open can impact efficiency and potentially extend the timeline, it helps maintain revenue flow. A skilled general contractor can develop a phased plan to manage this process effectively.",
+        "@type": "Answer",
+        "description": "Yes, remodels can be phased to keep a store open by working after hours or sectioning off areas, though it may impact efficiency."
+      }
+    }
+  ],
+  "description": "Yes, remodels can be phased to keep a store open by working after hours or sectioning off areas, though it may impact efficiency."
+}

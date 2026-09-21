@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-minor-update-and-a-major-apartment-renovation",
+  "name": "What is the difference between a minor update and a major apartment renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a minor update and a major apartment renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A minor update typically involves cosmetic changes that don't alter the layout or structure, such as painting, replacing light fixtures, or installing new flooring without demolition. These projects are usually quicker and less costly. A major renovation, in contrast, involves significant changes like reconfiguring floor plans, moving walls, updating plumbing or electrical systems, or completely gutting and rebuilding kitchens and bathrooms. These projects are more complex, require permits, and have a longer timeline and higher cost due to extensive labor and material changes.",
+        "@type": "Answer",
+        "description": "Minor updates are cosmetic changes without structural alteration, while major renovations involve significant layout, structural, plumbing, or electrical changes, requiring more time and cost."
+      }
+    }
+  ],
+  "description": "Minor updates are cosmetic changes without structural alteration, while major renovations involve significant layout, structural, plumbing, or electrical change"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-tenant-improvement-allowance",
+  "name": "What is a tenant improvement allowance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a tenant improvement allowance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A tenant improvement allowance (TIA) is a sum of money provided by the landlord to the tenant to help fund the build-out or renovation of a leased commercial space. This allowance is usually negotiated as part of the lease agreement and can be structured in various ways, such as a fixed amount per square foot. The tenant typically manages the project, hires contractors, and submits invoices to the landlord for reimbursement, up to the agreed-upon allowance.",
+        "@type": "Answer",
+        "description": "A tenant improvement allowance (TIA) is a landlord-provided fund to help a tenant cover renovation costs in a leased commercial space, negotiated as part of the lease."
+      }
+    }
+  ],
+  "description": "A tenant improvement allowance (TIA) is a landlord-provided fund to help a tenant cover renovation costs in a leased commercial space, negotiated as part of the"
+}

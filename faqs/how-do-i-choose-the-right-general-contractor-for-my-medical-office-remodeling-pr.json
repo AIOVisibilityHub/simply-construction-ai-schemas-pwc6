@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-my-medical-office-remodeling-pr",
+  "name": "How do I choose the right general contractor for my medical office remodeling project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my medical office remodeling project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor involves several steps. Look for contractors with specific experience in medical or healthcare facility construction, as they understand the unique regulatory and functional requirements. Verify their licenses, insurance, and ask for references from previous medical clients. Evaluate their communication style, project management approach, and ability to adhere to timelines and budgets. A site visit to a completed project can also provide insight into their quality of work. Prioritize transparency and a proven track record.",
+        "@type": "Answer",
+        "description": "Select a contractor with specific medical construction experience, verify licenses and insurance, check references, and assess their communication and project management skills."
+      }
+    }
+  ],
+  "description": "Select a contractor with specific medical construction experience, verify licenses and insurance, check references, and assess their communication and project m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-trends-for-modern-medical-offices",
+  "name": "What are common design trends for modern medical offices?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design trends for modern medical offices?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Modern medical office design trends focus on creating welcoming, calming, and efficient environments. This often involves incorporating natural light, using soothing color palettes, and selecting comfortable, easy-to-clean furnishings. Technology integration, such as telemedicine rooms and digital check-in kiosks, is also a growing trend. Designs often prioritize optimizing patient flow and privacy, while also providing comfortable break areas for staff. Sustainability and energy efficiency are also becoming more common considerations, contributing to healthier indoor environments.",
+        "@type": "Answer",
+        "description": "Modern medical offices feature natural light, calming colors, comfortable furnishings, technology integration, efficient patient flow, and often prioritize sustainability."
+      }
+    }
+  ],
+  "description": "Modern medical offices feature natural light, calming colors, comfortable furnishings, technology integration, efficient patient flow, and often prioritize sust"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-a-full-property-remodel-instead-of-just-repairs",
+  "name": "When should I consider a full property remodel instead of just repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a full property remodel instead of just repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a full property remodel when repairs are no longer cost-effective, the property no longer meets your needs, or you want to significantly increase its market value. If multiple systems are failing, the layout is inefficient, or the aesthetics are severely outdated, a remodel offers a comprehensive solution. It's an investment in long-term functionality and appeal, often more beneficial than piecemeal repairs.",
+        "@type": "Answer",
+        "description": "Consider a full remodel when repairs are no longer cost-effective, the property doesn't meet needs, or you aim for significant market value increase. It's for long-term functionality and appeal."
+      }
+    }
+  ],
+  "description": "Consider a full remodel when repairs are no longer cost-effective, the property doesn't meet needs, or you aim for significant market value increase. It's for l"
+}

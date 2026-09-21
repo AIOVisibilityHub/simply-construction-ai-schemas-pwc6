@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-included-in-a-standard-make-ready-service",
+  "name": "What is included in a standard make-ready service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a standard make-ready service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard make-ready service generally includes a deep cleaning of all rooms, bathrooms, and kitchens, including appliances. It also covers minor repairs such as fixing leaky faucets, patching small holes in walls, and replacing worn-out light fixtures. Painting of walls and trim is often included, along with ensuring all doors and windows are functioning correctly. We assess each unit individually to provide a scope of work that meets the property's needs and owner expectations.",
+        "@type": "Answer",
+        "description": "Standard make-ready includes deep cleaning, minor repairs, painting, and ensuring basic functionality."
+      }
+    }
+  ],
+  "description": "Standard make-ready includes deep cleaning, minor repairs, painting, and ensuring basic functionality."
+}

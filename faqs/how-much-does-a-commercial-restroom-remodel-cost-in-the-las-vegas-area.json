@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-commercial-restroom-remodel-cost-in-the-las-vegas-area",
+  "name": "How much does a commercial restroom remodel cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a commercial restroom remodel cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a commercial restroom remodel in the Las Vegas area can vary significantly. Factors influencing price include the size of the restroom, the quality of materials chosen, the extent of plumbing or electrical work required, and whether ADA compliance upgrades are needed. Minor updates might start in the low thousands, while a complete renovation with high-end finishes could reach tens of thousands or more. We provide detailed, tailored estimates after an initial consultation.",
+        "@type": "Answer",
+        "description": "Costs for a commercial restroom remodel in Las Vegas vary widely based on size, materials, and scope, from a few thousand to tens of thousands."
+      }
+    }
+  ],
+  "description": "Costs for a commercial restroom remodel in Las Vegas vary widely based on size, materials, and scope, from a few thousand to tens of thousands."
+}

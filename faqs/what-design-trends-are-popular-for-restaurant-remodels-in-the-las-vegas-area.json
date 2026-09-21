@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-trends-are-popular-for-restaurant-remodels-in-the-las-vegas-area",
+  "name": "What design trends are popular for restaurant remodels in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design trends are popular for restaurant remodels in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current design trends in Las Vegas restaurant remodels often focus on creating unique and immersive dining experiences. This includes incorporating local elements, like desert-inspired textures and colors, alongside sophisticated lighting and art installations. Open kitchens, flexible seating arrangements, and dedicated outdoor dining spaces remain popular. There's also a growing emphasis on sustainable materials, smart technology integration, and biophilic design to enhance ambiance and patron comfort.",
+        "@type": "Answer",
+        "description": "Popular Las Vegas restaurant remodel trends include immersive dining, local elements, open kitchens, outdoor seating, sustainable materials, and smart tech."
+      }
+    }
+  ],
+  "description": "Popular Las Vegas restaurant remodel trends include immersive dining, local elements, open kitchens, outdoor seating, sustainable materials, and smart tech."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-cost-of-a-remodeling-permit",
+  "name": "What is the cost of a remodeling permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a remodeling permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a remodeling permit is not fixed and depends on several factors, including the type and scope of your project, its estimated value, and the specific fees set by the local jurisdiction (e.g., City of Las Vegas, Clark County). Permit fees often include charges for plan review, inspections, and various development fees. While specific figures vary, a small bathroom remodel might have fees in the hundreds, while a large addition could be thousands. Your contractor can help estimate these costs as part of your overall project budget.",
+        "@type": "Answer",
+        "description": "Remodeling permit costs vary based on project type, scope, estimated value, and local jurisdiction fees. Small projects might incur hundreds, while large ones could be thousands. Your contractor can assist with estimates."
+      }
+    }
+  ],
+  "description": "Remodeling permit costs vary based on project type, scope, estimated value, and local jurisdiction fees. Small projects might incur hundreds, while large ones c"
+}

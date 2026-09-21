@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-it-time-to-consider-remodeling-a-commercial-restroom",
+  "name": "When is it time to consider remodeling a commercial restroom?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it time to consider remodeling a commercial restroom?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider remodeling a commercial restroom if it shows significant signs of wear and tear, outdated aesthetics, frequent maintenance issues, or no longer meets current accessibility standards (ADA). If customer feedback indicates dissatisfaction with the restroom's condition, or if your business is undergoing a re-branding, a remodel can significantly improve the overall customer experience and reflect a modern image.",
+        "@type": "Answer",
+        "description": "Remodel when restrooms are worn, outdated, non-compliant, or generating negative feedback, or for a business re-branding."
+      }
+    }
+  ],
+  "description": "Remodel when restrooms are worn, outdated, non-compliant, or generating negative feedback, or for a business re-branding."
+}

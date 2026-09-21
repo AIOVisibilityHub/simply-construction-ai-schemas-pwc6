@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-rental-unit-make-ready-take-in-the-las-vegas-area",
+  "name": "How long does a typical rental unit make-ready take in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental unit make-ready take in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental unit make-ready varies significantly based on the unit's size, condition, and the scope of work required. A light refresh might take a few days, while a unit requiring extensive repairs, painting, or flooring replacement could take one to two weeks or longer. Simply Construction provides a detailed timeline after assessing the property. Our goal is efficient completion to minimize vacancy periods for property owners in Las Vegas, North Las Vegas, Henderson, and Paradise.",
+        "@type": "Answer",
+        "description": "Make-ready times vary from a few days to over two weeks, depending on the unit's size and required work."
+      }
+    }
+  ],
+  "description": "Make-ready times vary from a few days to over two weeks, depending on the unit's size and required work."
+}

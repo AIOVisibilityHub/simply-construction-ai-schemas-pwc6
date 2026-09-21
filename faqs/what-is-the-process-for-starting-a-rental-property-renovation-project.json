@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-a-rental-property-renovation-project",
+  "name": "What is the process for starting a rental property renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a rental property renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The renovation process typically begins with defining your project goals and budget. Next, you'll consult with general contractors to obtain quotes and select the best fit. Once a contractor is chosen, detailed planning and design occur, followed by necessary permit applications. Construction then commences, involving demolition, structural work, rough-ins for electrical and plumbing, and then finishing work. Regular communication with your contractor is crucial throughout to monitor progress and address any issues until final inspection and completion.",
+        "@type": "Answer",
+        "description": "The process involves defining goals, hiring a contractor, detailed planning, permit application, construction (demolition to finishing), and final inspection."
+      }
+    }
+  ],
+  "description": "The process involves defining goals, hiring a contractor, detailed planning, permit application, construction (demolition to finishing), and final inspection."
+}

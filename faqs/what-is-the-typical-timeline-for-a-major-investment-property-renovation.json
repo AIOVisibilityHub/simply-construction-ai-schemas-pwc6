@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-major-investment-property-renovation",
+  "name": "What is the typical timeline for a major investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a major investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a major investment property renovation varies significantly based on the project's scope and complexity. Minor updates like painting and flooring might take a few weeks, while extensive remodels involving structural changes, kitchen, and bathroom overhauls can span several months. Factors such as material availability, permitting processes, and contractor scheduling also influence the duration. It's crucial to establish a realistic timeline with your contractor and include buffer time for unexpected delays.",
+        "@type": "Answer",
+        "description": "Major renovation timelines vary widely based on scope, from weeks for minor updates to several months for extensive remodels. Factors like permits and material availability influence duration."
+      }
+    }
+  ],
+  "description": "Major renovation timelines vary widely based on scope, from weeks for minor updates to several months for extensive remodels. Factors like permits and material"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-it-worth-investing-in-a-major-renovation-for-a-rental-property",
+  "name": "When is it worth investing in a major renovation for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is it worth investing in a major renovation for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Major renovations are often worthwhile when a property has significant deferred maintenance, or if comparable rentals in your Las Vegas neighborhood offer superior features, leading to difficulty in attracting tenants or achieving desired rent prices. A major update can justify a higher rent, reduce vacancy periods, and increase the property's overall market value. Consider the long-term return on investment and current market trends before proceeding with extensive work.",
+        "@type": "Answer",
+        "description": "Major renovations are worth it when properties have significant issues or struggle to compete with comparable rentals, justifying higher rent and reducing vacancies."
+      }
+    }
+  ],
+  "description": "Major renovations are worth it when properties have significant issues or struggle to compete with comparable rentals, justifying higher rent and reducing vacan"
+}

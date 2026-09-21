@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-duplex-renovation-and-how-does-it-differ-from-single-family-home-renov",
+  "name": "What is a duplex renovation and how does it differ from single-family home renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a duplex renovation and how does it differ from single-family home renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A duplex renovation involves updating or remodeling a property with two separate living units. Key differences from single-family renovations often include considerations for shared walls, separate utility systems, soundproofing between units, and maintaining independent access for each tenant. The renovation might focus on improving one unit, both units, or common areas. Often, duplex renovations are undertaken to enhance rental income potential or to create a multi-generational living space, requiring careful planning to minimize disruption to tenants or future occupants.",
+        "@type": "Answer",
+        "description": "A duplex renovation updates a property with two living units, differing from single-family renovations by addressing shared elements, separate utilities, and tenant considerations."
+      }
+    }
+  ],
+  "description": "A duplex renovation updates a property with two living units, differing from single-family renovations by addressing shared elements, separate utilities, and te"
+}

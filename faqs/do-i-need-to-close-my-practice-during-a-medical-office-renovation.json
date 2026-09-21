@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-close-my-practice-during-a-medical-office-renovation",
+  "name": "Do I need to close my practice during a medical office renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to close my practice during a medical office renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need to close your practice during a renovation depends on the project's scope and how it's managed. For minor updates, partial closures or off-hours work might be sufficient. Larger projects, especially those involving significant structural changes or utility shutdowns, may require temporary relocation or full closure for a period. A well-planned renovation strategy often includes phased construction to minimize disruption, allowing some services to continue. Discussing operational continuity with your contractor early in the planning process is important.",
+        "@type": "Answer",
+        "description": "Closing depends on project scope; minor updates may allow partial operation, while extensive renovations might require temporary closure. Phased construction can help minimize disruption."
+      }
+    }
+  ],
+  "description": "Closing depends on project scope; minor updates may allow partial operation, while extensive renovations might require temporary closure. Phased construction ca"
+}

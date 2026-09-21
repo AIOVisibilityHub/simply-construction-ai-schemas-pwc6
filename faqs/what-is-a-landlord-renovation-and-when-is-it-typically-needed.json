@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-landlord-renovation-and-when-is-it-typically-needed",
+  "name": "What is a landlord renovation and when is it typically needed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a landlord renovation and when is it typically needed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A landlord renovation involves updating or improving a rental property for existing or new tenants. These projects range from cosmetic upgrades like painting and new flooring to more extensive overhauls of kitchens or bathrooms. They are typically needed to maintain property value, attract higher-quality tenants, comply with updated building codes, or repair damage between tenancies. Investing in renovations can help maximize rental income and reduce vacancy periods by making the property more appealing and functional in the competitive Las Vegas rental market.",
+        "@type": "Answer",
+        "description": "Landlord renovations update rental properties for tenants, typically needed to maintain value, attract tenants, or repair damage."
+      }
+    }
+  ],
+  "description": "Landlord renovations update rental properties for tenants, typically needed to maintain value, attract tenants, or repair damage."
+}

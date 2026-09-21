@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-a-restaurant-remodel-in-las-vegas",
+  "name": "What permits are needed for a restaurant remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for a restaurant remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Restaurant remodels in Las Vegas typically require permits from the City of Las Vegas Building Department, Clark County Department of Building and Fire Prevention, or specific municipal authorities depending on the exact location (e.g., Henderson, North Las Vegas). These often include building, electrical, plumbing, and mechanical permits. Health department approvals from the Southern Nevada Health District are also crucial, particularly for kitchen renovations involving food preparation areas. Our team assists clients in identifying and securing all necessary permits.",
+        "@type": "Answer",
+        "description": "Permits for Las Vegas restaurant remodels include building, electrical, plumbing, mechanical, and health department approvals, varying by location."
+      }
+    }
+  ],
+  "description": "Permits for Las Vegas restaurant remodels include building, electrical, plumbing, mechanical, and health department approvals, varying by location."
+}

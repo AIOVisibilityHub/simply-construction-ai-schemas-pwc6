@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-commercial-build-out",
+  "name": "What is a commercial build-out?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a commercial build-out?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A commercial build-out, also known as tenant improvement, involves customizing an existing commercial space to suit the specific needs of a new business. This can range from minor cosmetic changes like paint and flooring to significant structural modifications, including new walls, plumbing, electrical systems, and HVAC. The goal is to transform a shell or previously occupied space into a functional and compliant environment ready for business operations, often tailored to the industry and brand aesthetics of the tenant.",
+        "@type": "Answer",
+        "description": "A commercial build-out customizes an existing commercial space to fit a new business's specific operational and aesthetic needs, from minor cosmetic updates to major structural changes."
+      }
+    }
+  ],
+  "description": "A commercial build-out customizes an existing commercial space to fit a new business's specific operational and aesthetic needs, from minor cosmetic updates to"
+}

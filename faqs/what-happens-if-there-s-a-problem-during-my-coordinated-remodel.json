@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-happens-if-there-s-a-problem-during-my-coordinated-remodel",
+  "name": "What happens if there's a problem during my coordinated remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if there's a problem during my coordinated remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a professionally coordinated remodel, unexpected issues are handled proactively and efficiently by your project manager. They serve as the central point of contact for problem-solving, liaising with subcontractors, suppliers, and you to find swift resolutions. This includes addressing material delays, unforeseen structural challenges, or necessary design adjustments. Your project manager communicates the issue, proposes solutions, and manages the implementation, ensuring minimal disruption to the project timeline and budget.",
+        "@type": "Answer",
+        "description": "Your project manager addresses any issues during a remodel, proactively finding solutions with subcontractors and suppliers to minimize disruption."
+      }
+    }
+  ],
+  "description": "Your project manager addresses any issues during a remodel, proactively finding solutions with subcontractors and suppliers to minimize disruption."
+}

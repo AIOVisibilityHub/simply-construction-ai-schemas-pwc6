@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Are My Kitchen Countertops Ready for an Upgrade?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's funny how quickly kitchen trends come and go, and countertops are often the first thing to show their age. But beyond just looking dated, there are several practical signs that your kitchen countertops are really ready for an upgrade. Thinking about these can help you decide if it’s time to invest in something new.\n\n*   **Visible Wear and Tear:** Are your countertops riddled with deep scratches, burns, chips, or stains that just won’t come out? This isn’t just unsightly; it can create uneven surfaces that are difficult to clean and may even harbor bacteria. Extensive damage often means the material has lost its protective qualities and is simply past its prime.\n*   **Outdated Style or Color:** Let's face it, that avocado green or harvest gold laminate might have been cool once, but if it clashes with everything else in your home and makes your kitchen feel old, it's a strong indicator. Countertops are a major visual element, and updating them can drastically change your kitchen's entire ambiance.\n*   **Poor Functionality:** Do your countertops lack sufficient workspace? Are they made of a material that’s not durable enough for your cooking habits, always requiring you to be super careful? An upgrade can mean choosing a material that stands up to daily use better and perhaps even altering the layout for improved workflow.\n*   **Water Damage or Peeling Laminate:** For laminate countertops, edges lifting or swelling from water damage are clear signs of needing replacement. This kind of damage can lead to structural problems and isn't usually fixable in the long term.\n*   **You're Remodeling Anyway:** If you're already planning a major kitchen remodel, doing new countertops at the same time just makes sense. It ensures a cohesive look and saves you from tearing things up twice.\n\nIf any of these sound familiar, it might be time to chat with a professional like Simply Construction. We can help you explore modern, durable, and beautiful countertop options that will truly transform your Las Vegas kitchen.",
+  "datePublished": "2026-09-17"
+}

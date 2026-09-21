@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Cabinets Look Outdated: What Are My Options?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "If your kitchen cabinets are showing their age, you've got a few solid options beyond just living with them! It really comes down to your budget, the cabinets' current condition, and your overall renovation goals. Sometimes, a simple refresh is all you need, while other times, a complete overhaul is the way to go. \n\nFirst, consider refacing. If the cabinet boxes themselves are solid and you like the layout, refacing involves replacing doors and drawer fronts and applying new veneer to the existing boxes. It's quicker and generally less expensive than replacing everything. Second, painting or refinishing can breathe new life into older cabinets. This is a great DIY-friendly option if the cabinets are structurally sound and just need a cosmetic lift. Third, for a more dramatic change, full replacement is the way to go. This allows you to completely change the layout, add new features like pull-out drawers or soft-close hinges, and select from a much wider range of styles and materials. Lastly, if you’re unsure, chat with a professional. A contractor like Simply Construction can help you weigh the pros and cons of each option based on your specific kitchen in Las Vegas and help you understand the long-term value of each investment.",
+  "datePublished": "2026-09-17"
+}

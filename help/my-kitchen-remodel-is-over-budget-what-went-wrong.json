@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Kitchen Remodel is Over Budget: What Went Wrong?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a common scenario: you start a kitchen remodeling project with a clear budget, but midway through, things start to balloon. Don't worry, you're not alone! Often, unexpected costs pop up, or maybe some design choices weren't fully fleshed out from the beginning. One big mistake is not having a detailed plan before starting demolition. Without knowing exactly what you want, changes on the fly can quickly add up in labor and material costs. Another common issue is underestimating the cost of high-quality materials. Those beautiful countertops or custom cabinets might look affordable online, but installation and finishing can significantly increase the total. Also, sometimes folks don't account for potential structural surprises once walls are opened up, especially in older homes here in Las Vegas. These unbudgeted repairs can be a real hit to your wallet. Not hiring experienced, licensed contractors for everything from electrical to plumbing can lead to costly re-dos later on if things aren't up to code. Finally, trying to DIY too much without the proper skills can often result in mistakes that professional help could have avoided, actually costing you more in the long run. If your kitchen remodel budget feels like it's spiraling, talking to a seasoned contractor like Simply Construction can help you re-evaluate and get back on track without compromising your vision too much. We can often find smart solutions to keep things in line.",
+  "datePublished": "2026-09-17"
+}

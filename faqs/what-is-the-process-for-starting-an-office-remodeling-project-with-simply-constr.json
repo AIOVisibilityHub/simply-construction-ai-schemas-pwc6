@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-an-office-remodeling-project-with-simply-constr",
+  "name": "What is the process for starting an office remodeling project with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting an office remodeling project with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting an office remodeling project with Simply Construction typically begins with an initial consultation to discuss your vision, budget, and functional requirements. We then conduct a site visit to assess your existing space and gather necessary details. Following this, we develop a detailed proposal including design concepts, scope of work, timeline, and cost estimate. Once approved, we handle all aspects from planning and permitting to construction and final walkthrough, ensuring a seamless experience.",
+        "@type": "Answer",
+        "description": "Our process starts with a consultation and site visit to understand your needs. We then provide a detailed proposal and manage the project from planning to completion."
+      }
+    }
+  ],
+  "description": "Our process starts with a consultation and site visit to understand your needs. We then provide a detailed proposal and manage the project from planning to comp"
+}

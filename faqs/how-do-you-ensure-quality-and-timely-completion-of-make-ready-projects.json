@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-you-ensure-quality-and-timely-completion-of-make-ready-projects",
+  "name": "How do you ensure quality and timely completion of make-ready projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure quality and timely completion of make-ready projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We ensure quality and timely completion through meticulous planning, skilled project management, and experienced tradespeople. Each project begins with a detailed assessment and a clear scope of work. We assign dedicated teams to each make-ready, using established checklists and quality control measures at every stage. Regular communication with the property owner is maintained, providing updates and addressing any concerns promptly. Our commitment is to deliver a unit ready for occupancy on schedule and to your satisfaction.",
+        "@type": "Answer",
+        "description": "Quality and timely completion are ensured through meticulous planning, skilled teams, project management, and regular communication."
+      }
+    }
+  ],
+  "description": "Quality and timely completion are ensured through meticulous planning, skilled teams, project management, and regular communication."
+}

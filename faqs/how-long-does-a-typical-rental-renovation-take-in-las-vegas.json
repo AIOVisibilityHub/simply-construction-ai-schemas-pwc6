@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-rental-renovation-take-in-las-vegas",
+  "name": "How long does a typical rental renovation take in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical rental renovation take in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rental renovation in the Las Vegas area varies significantly based on the project's scope. Minor updates, such as repainting and light repairs, might take a few days to a week. More extensive renovations involving kitchen or bathroom remodels could extend to several weeks or even a month, depending on material availability and the specific contractor's schedule. Planning and clear communication with your contractor can help manage timelines effectively.",
+        "@type": "Answer",
+        "description": "Renovation timelines in Las Vegas vary from a few days for minor updates to several weeks for extensive remodels, depending on project scope."
+      }
+    }
+  ],
+  "description": "Renovation timelines in Las Vegas vary from a few days for minor updates to several weeks for extensive remodels, depending on project scope."
+}

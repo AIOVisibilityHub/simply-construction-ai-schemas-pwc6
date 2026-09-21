@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-does-a-commercial-restroom-remodel-typically-involve",
+  "name": "What does a commercial restroom remodel typically involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a commercial restroom remodel typically involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A commercial restroom remodel enhances functionality, accessibility, and aesthetics. This often includes updating fixtures like toilets, sinks, and urinals, replacing flooring and wall finishes, improving lighting, and upgrading ventilation. Accessibility compliance (ADA) is a key consideration, ensuring features like grab bars, wider stalls, and appropriate clear space. The scope can range from minor cosmetic updates to a complete reconfiguration of the layout and plumbing systems.",
+        "@type": "Answer",
+        "description": "A commercial restroom remodel updates fixtures, finishes, and ensures accessibility, improving overall functionality and appearance."
+      }
+    }
+  ],
+  "description": "A commercial restroom remodel updates fixtures, finishes, and ensures accessibility, improving overall functionality and appearance."
+}

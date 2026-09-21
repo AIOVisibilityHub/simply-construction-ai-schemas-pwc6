@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Upgrading Your Kitchen: Countertop Replacement vs. Refinishing",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When your kitchen countertops start looking worn, faded, or just plain outdated, you've got a couple of main routes to consider: a full replacement or refinishing. Both options can give your kitchen a fresh face, but they're pretty different in terms of cost, effort, and the final result. Understanding these distinctions helps you make the best decision for your home and your wallet, ensuring you love your kitchen again.\n\nHere’s a quick rundown of the key differences. **Countertop replacement** involves removing your old countertops entirely and installing brand new ones. This gives you the chance to completely change the material, color, and style, offering the most dramatic transformation. You can go from laminate to quartz, or from an old tile to sleek granite. It's generally a more involved process with a higher cost and longer timeline, but the durability and value added can be significant. On the other hand, **countertop refinishing** (sometimes called resurfacing) applies a new coating or surface layer over your existing countertops. This is a more budget-friendly and quicker option, as it doesn't involve demolition. It's great for refreshing the look of your current countertops, changing their color, or repairing minor damage. However, it doesn't change the underlying material or structure, and the durability often isn't on par with a full replacement. If your existing countertops have major structural damage, deep gouges, or you simply crave a completely different material, replacement is usually the better call. If they're structurally sound but just need a cosmetic facelift, refinishing could work. For a clear picture of what's right for your Las Vegas home, reaching out to an experienced general contractor like Simply Construction can help you weigh the pros and cons and make an informed choice.",
+  "datePublished": "2026-09-17"
+}

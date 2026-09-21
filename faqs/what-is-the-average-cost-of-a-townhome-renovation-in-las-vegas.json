@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-townhome-renovation-in-las-vegas",
+  "name": "What is the average cost of a townhome renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a townhome renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a townhome renovation in the Las Vegas area can vary widely. Minor updates might start around $15,000-$30,000, while a mid-range kitchen or bathroom remodel could be $25,000-$75,000 per room. A full-scale, luxury renovation can easily exceed $100,000. These figures are estimates and depend heavily on material choices, labor costs, and the extent of structural changes. We provide detailed, transparent quotes after an initial consultation to accurately reflect your project's specifics.",
+        "@type": "Answer",
+        "description": "Townhome renovation costs in Las Vegas vary: $15,000-$30,000 for minor updates, $25,000-$75,000 per room for mid-range, and over $100,000 for full-scale luxury renovations. Costs depend on materials and scope."
+      }
+    }
+  ],
+  "description": "Townhome renovation costs in Las Vegas vary: $15,000-$30,000 for minor updates, $25,000-$75,000 per room for mid-range, and over $100,000 for full-scale luxury"
+}

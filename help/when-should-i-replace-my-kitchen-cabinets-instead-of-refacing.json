@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When Should I Replace My Kitchen Cabinets Instead of Refacing?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to replace or reface your kitchen cabinets can be a tricky call, but a few clear signs usually point you toward one option or the other. It's not just about looks; it's about functionality and long-term value, especially here in Las Vegas where durable solutions are key. \n\nIf your current cabinet boxes are structurally damaged – think water damage, warping, or crumbling particleboard – then replacement is almost always the smarter move. Refacing won't fix underlying issues. Also, if your current kitchen layout just isn't working for you, and you want to reconfigure the entire space, adding more cabinets, or changing their positions, then new cabinet installation is the way to go. Refacing is limited to the existing footprint. Another big factor is personal preference; if you dream of a completely different style, say from traditional to ultra-modern, the range of door styles and finishes available with full replacement often surpasses what's possible with refacing. While refacing can offer a fresh look, replacing gives you the chance to customize storage, improve flow, and truly upgrade your kitchen's entire aesthetic and function. For complex decisions like this, getting a professional assessment from a general contractor like Simply Construction can provide clarity and ensure you make the best investment for your home.",
+  "datePublished": "2026-09-17"
+}

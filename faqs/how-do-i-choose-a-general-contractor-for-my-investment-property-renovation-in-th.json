@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-general-contractor-for-my-investment-property-renovation-in-th",
+  "name": "How do I choose a general contractor for my investment property renovation in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a general contractor for my investment property renovation in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a general contractor in the Las Vegas area, look for licensed, insured professionals with experience in investment property renovations. Check their portfolio for similar projects, read reviews, and request multiple bids with detailed scopes of work. A reliable contractor should provide clear communication, realistic timelines, and transparent pricing. Verify their local references and ensure they are familiar with local building codes and regulations specific to Las Vegas, Henderson, or Summerlin.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with investment property experience in the Las Vegas area. Check portfolios, reviews, and get multiple detailed bids. Ensure they know local building codes."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with investment property experience in the Las Vegas area. Check portfolios, reviews, and get multiple detailed bids. Ensu"
+}

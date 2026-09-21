@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-standard-rental-property-renovation",
+  "name": "What is the typical timeline for a standard rental property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a standard rental property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a rental property renovation varies significantly based on the scope of work. Minor cosmetic updates, like painting and new flooring in a small unit, might take 2-4 weeks. A full kitchen or bathroom remodel can extend this to 4-8 weeks per area. Larger, multi-room renovations or those involving structural changes can take several months. Factors like material availability, permit approvals, and contractor scheduling also influence the overall project duration. Clear planning with your contractor helps establish realistic expectations.",
+        "@type": "Answer",
+        "description": "Minor renovations typically take 2-4 weeks, while larger projects like kitchen or bathroom remodels can take 4-8 weeks per area. Overall timelines depend on scope and materials."
+      }
+    }
+  ],
+  "description": "Minor renovations typically take 2-4 weeks, while larger projects like kitchen or bathroom remodels can take 4-8 weeks per area. Overall timelines depend on sco"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-influence-the-cost-of-commercial-flooring-installation",
+  "name": "What factors influence the cost of commercial flooring installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of commercial flooring installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors determine the cost of commercial flooring installation. These include the material chosen (e.g., carpet tile vs. polished concrete), the square footage of the area, the complexity of the installation (e.g., intricate designs, multiple material transitions), and the condition of the existing subfloor, which may require extensive preparation or repairs. Other cost considerations can include demolition of old flooring, adhesive types, and any necessary abatement. A detailed estimate is provided after an on-site evaluation of your specific project.",
+        "@type": "Answer",
+        "description": "Cost is influenced by flooring material, project size, installation complexity, and subfloor condition. Old flooring removal and subfloor prep can also add to the expense."
+      }
+    }
+  ],
+  "description": "Cost is influenced by flooring material, project size, installation complexity, and subfloor condition. Old flooring removal and subfloor prep can also add to t"
+}

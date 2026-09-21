@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-a-cosmetic-renovation-and-a-full-renovation",
+  "name": "What's the difference between a cosmetic renovation and a full renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a cosmetic renovation and a full renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cosmetic renovation primarily focuses on surface-level improvements that enhance aesthetics without altering the property's structure or layout. This includes painting, new flooring, updated fixtures, and minor landscaping. A full renovation, conversely, involves more extensive changes, often including structural modifications, reconfiguring layouts, significant electrical and plumbing upgrades, or adding square footage. The choice between the two depends on the property's current condition, budget, and desired outcome for ROI.",
+        "@type": "Answer",
+        "description": "Cosmetic renovations are surface-level aesthetic updates, while full renovations involve structural changes, layout reconfigurations, and major system upgrades."
+      }
+    }
+  ],
+  "description": "Cosmetic renovations are surface-level aesthetic updates, while full renovations involve structural changes, layout reconfigurations, and major system upgrades."
+}

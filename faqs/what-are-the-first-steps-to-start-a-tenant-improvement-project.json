@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-first-steps-to-start-a-tenant-improvement-project",
+  "name": "What are the first steps to start a tenant improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to start a tenant improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial steps for a tenant improvement project typically involve defining your business needs and space requirements. Next, you'll work with an architect or designer to create a preliminary layout and design. This is followed by securing a general contractor who can provide accurate cost estimates and guide you through the permitting process. Clear communication between the tenant, landlord, designer, and contractor from the outset is crucial for a smooth project.",
+        "@type": "Answer",
+        "description": "First steps include defining needs, working with a designer for a layout, then securing a general contractor to manage estimates and permitting."
+      }
+    }
+  ],
+  "description": "First steps include defining needs, working with a designer for a layout, then securing a general contractor to manage estimates and permitting."
+}

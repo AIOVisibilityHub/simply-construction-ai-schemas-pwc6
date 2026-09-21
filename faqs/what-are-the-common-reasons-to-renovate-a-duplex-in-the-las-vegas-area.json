@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-reasons-to-renovate-a-duplex-in-the-las-vegas-area",
+  "name": "What are the common reasons to renovate a duplex in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common reasons to renovate a duplex in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, common reasons to renovate a duplex include increasing rental income by modernizing units, improving property value for resale, or accommodating multi-generational families. Landlords often renovate to attract higher-quality tenants, reduce vacancy rates, or meet current safety and building codes. Specific updates like energy-efficient windows, updated kitchens, and bathrooms are popular as they offer good return on investment in the local market and appeal to renters seeking modern amenities.",
+        "@type": "Answer",
+        "description": "Common reasons to renovate a duplex in Las Vegas include increasing rental income, improving property value, accommodating multi-generational families, and attracting higher-quality tenants."
+      }
+    }
+  ],
+  "description": "Common reasons to renovate a duplex in Las Vegas include increasing rental income, improving property value, accommodating multi-generational families, and attr"
+}

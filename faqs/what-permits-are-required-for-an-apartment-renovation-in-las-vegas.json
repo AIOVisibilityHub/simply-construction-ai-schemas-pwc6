@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-an-apartment-renovation-in-las-vegas",
+  "name": "What permits are required for an apartment renovation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an apartment renovation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renovations in Las Vegas, including areas like Henderson or Summerlin, often require permits from the city or county building department, depending on the specific work. Permits are typically needed for structural changes, significant electrical or plumbing alterations, and any work affecting fire safety or common areas in multi-family dwellings. Cosmetic changes like painting or replacing cabinets usually do not require permits. Simply Construction handles all necessary permit applications and ensures compliance with local building codes, streamlining the process for you.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, electrical, or plumbing changes in Las Vegas; cosmetic work often doesn't require them. We manage the permitting process."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, electrical, or plumbing changes in Las Vegas; cosmetic work often doesn't require them. We manage the permitting proc"
+}

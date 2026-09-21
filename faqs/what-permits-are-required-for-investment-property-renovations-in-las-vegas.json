@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-investment-property-renovations-in-las-vegas",
+  "name": "What permits are required for investment property renovations in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for investment property renovations in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for investment property renovations in Las Vegas depend on the scope of work. Minor cosmetic changes generally don't require permits, but structural alterations, electrical work, plumbing modifications, and significant expansions almost always do. Always consult with your general contractor and the City of Las Vegas Building & Safety Department, or the relevant jurisdiction like Henderson or North Las Vegas, to determine specific permit needs before starting any renovation. Operating without necessary permits can lead to fines and rework.",
+        "@type": "Answer",
+        "description": "Permits are often required for structural, electrical, or plumbing changes in Las Vegas. Always check with your contractor and the local building department to confirm specific needs."
+      }
+    }
+  ],
+  "description": "Permits are often required for structural, electrical, or plumbing changes in Las Vegas. Always check with your contractor and the local building department to"
+}

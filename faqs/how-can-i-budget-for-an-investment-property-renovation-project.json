@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-budget-for-an-investment-property-renovation-project",
+  "name": "How can I budget for an investment property renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I budget for an investment property renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Effective budgeting for an investment property renovation starts with a detailed scope of work. Obtain multiple bids from contractors to compare costs for labor and materials. Allocate funds for unexpected expenses, typically 10-20% of the total project cost, as unforeseen issues often arise. Consider the potential impact on your property's value and rental income when setting your budget. Track all expenditures carefully to stay within your financial plan and ensure profitability.",
+        "@type": "Answer",
+        "description": "Create a detailed scope of work, get multiple bids, and allocate 10-20% for unexpected expenses. Track expenditures to stay on budget."
+      }
+    }
+  ],
+  "description": "Create a detailed scope of work, get multiple bids, and allocate 10-20% for unexpected expenses. Track expenditures to stay on budget."
+}

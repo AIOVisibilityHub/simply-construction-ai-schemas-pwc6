@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What to Consider When Planning a Custom Kitchen Layout",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Planning a custom kitchen layout is exciting because it lets you truly personalize your space, but it also requires careful thought to ensure it's both beautiful and functional. Here are a few key things to really ponder. First, think about your workflow: where do you prep food, cook, and clean? The classic 'work triangle' (sink, stove, refrigerator) is a good starting point, but modern kitchens often involve multiple zones for different tasks. Next, consider storage. Do you need more pantry space, specialized drawers for pots and pans, or an appliance garage? Custom cabinetry can be designed to maximize every inch. Don't forget lighting! A good mix of ambient, task, and accent lighting can transform a kitchen. Also, think about how you entertain. Do you need an island for guests to gather around, or a breakfast bar? Incorporating comfortable seating can make your kitchen the heart of your home. Finally, consider the long-term. Will this layout still work if your family grows or your needs change? It's always a good idea to consult with experienced kitchen remodeling professionals, especially when planning a custom layout. Simply Construction in Las Vegas has tons of experience turning design dreams into practical, stunning custom kitchens, and we can help you navigate all these considerations.",
+  "datePublished": "2026-09-17"
+}

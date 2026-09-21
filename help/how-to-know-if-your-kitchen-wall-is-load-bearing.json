@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How to Know if Your Kitchen Wall is Load-Bearing",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So, you're eyeing that kitchen wall and dreaming of an open-concept layout – exciting! But before you grab a sledgehammer, one of the most critical questions to answer is: Is this wall load-bearing? A load-bearing wall is essential to your home's structural integrity, and removing it without proper support can lead to serious issues, so it's not something to guess about. \n\nOne common sign is its location: walls in the center of your home, or those parallel to the floor joists in the ceiling above, are often load-bearing. However, this isn't a hard-and-fast rule. Another clue might be seeing other walls directly above it on higher floors, or finding that it runs perpendicular to floor joists. If you notice a beam running above the wall in your basement or crawl space, that's another strong indicator.\n\nSometimes, you can get a hint by looking at the ceiling. If there's a slight dip or any visible stress near the wall, it could be bearing a significant load. However, the most reliable way to tell is to consult with a professional. An experienced general contractor or structural engineer can properly assess your home's framing and foundation to determine which walls are critical. They'll look at blueprints, attic spaces, and crawl spaces to get the full picture.\n\nDon't take chances with this one! Attempting to remove a load-bearing wall without the right expertise and permits can compromise your entire home's structure. If you're in Las Vegas and considering a kitchen layout change, get in touch with a professional like Simply Construction. We can safely assess your walls and guide you through the process, ensuring your remodel is both beautiful and structurally sound.",
+  "datePublished": "2026-09-17"
+}

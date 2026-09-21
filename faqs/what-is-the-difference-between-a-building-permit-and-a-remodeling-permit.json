@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-building-permit-and-a-remodeling-permit",
+  "name": "What is the difference between a building permit and a remodeling permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a building permit and a remodeling permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a 'building permit' is a broad term for authorization to construct or modify a structure, whereas a 'remodeling permit' specifically refers to permits needed for altering an existing building. A new construction project would typically require a building permit, while updating a kitchen or adding a room to an existing house would fall under a remodeling permit. Both ensure work meets safety and code standards, but their scope and specific requirements can differ based on the project type.",
+        "@type": "Answer",
+        "description": "A 'building permit' is a general term for construction authorization, while a 'remodeling permit' is specific to altering existing structures. Both ensure safety and code compliance, differing primarily in scope."
+      }
+    }
+  ],
+  "description": "A 'building permit' is a general term for construction authorization, while a 'remodeling permit' is specific to altering existing structures. Both ensure safet"
+}

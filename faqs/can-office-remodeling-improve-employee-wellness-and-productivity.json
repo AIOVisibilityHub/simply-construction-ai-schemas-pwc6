@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-office-remodeling-improve-employee-wellness-and-productivity",
+  "name": "Can office remodeling improve employee wellness and productivity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can office remodeling improve employee wellness and productivity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, office remodeling can significantly improve employee wellness and productivity. Thoughtful design can incorporate elements like natural light, ergonomic furniture, improved air quality systems, and dedicated quiet zones or collaboration areas. Spaces designed with employee comfort and function in mind reduce stress, boost mood, and foster a more engaging work environment. A modern, comfortable, and efficient office space directly contributes to higher job satisfaction and overall business output.",
+        "@type": "Answer",
+        "description": "Office remodeling can improve wellness and productivity through better lighting, ergonomics, air quality, and dedicated work zones. This leads to higher job satisfaction."
+      }
+    }
+  ],
+  "description": "Office remodeling can improve wellness and productivity through better lighting, ergonomics, air quality, and dedicated work zones. This leads to higher job sat"
+}

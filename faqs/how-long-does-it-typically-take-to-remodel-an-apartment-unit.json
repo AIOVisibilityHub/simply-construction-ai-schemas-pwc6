@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-remodel-an-apartment-unit",
+  "name": "How long does it typically take to remodel an apartment unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to remodel an apartment unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an apartment unit remodel varies significantly based on the scope and complexity of the project. A minor refresh, such as painting and new flooring, might take a few weeks. More extensive renovations, involving kitchen or bathroom overhauls, reconfiguring layouts, or addressing structural elements, can extend to several months. Factors like material availability, permitting requirements in Las Vegas, and homeowner association (HOA) regulations can also influence the timeline. We provide a detailed project schedule after the initial design and scope are established.",
+        "@type": "Answer",
+        "description": "Remodel duration depends on scope; minor updates take weeks, extensive renovations can take several months, influenced by material availability and local regulations."
+      }
+    }
+  ],
+  "description": "Remodel duration depends on scope; minor updates take weeks, extensive renovations can take several months, influenced by material availability and local regula"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-costs-associated-with-apartment-unit-remodeling-in-las-vegas",
+  "name": "What are common costs associated with apartment unit remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common costs associated with apartment unit remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Apartment remodeling costs in Las Vegas are highly variable, depending on the extent of the renovation and the quality of materials chosen. Minor updates like paint and new fixtures are less costly, while comprehensive remodels involving kitchen and bathroom renovations, new flooring, and updated electrical or plumbing systems will be a larger investment. Key cost drivers include labor, materials, design fees, and potential permitting costs. We provide detailed, transparent quotes after understanding your project specifics and desired finishes.",
+        "@type": "Answer",
+        "description": "Costs vary based on scope and material quality. Major factors include labor, materials, design, and permits. We provide detailed quotes."
+      }
+    }
+  ],
+  "description": "Costs vary based on scope and material quality. Major factors include labor, materials, design, and permits. We provide detailed quotes."
+}

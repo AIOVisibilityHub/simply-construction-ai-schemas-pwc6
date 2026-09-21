@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-happens-if-i-remodel-without-a-permit",
+  "name": "What happens if I remodel without a permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I remodel without a permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling without a required permit can lead to serious consequences. If the unpermitted work is discovered, you could face stop-work orders, substantial fines, and be compelled to remove or alter the work to meet code, often at significant personal expense. This can also create issues during property resale, as unpermitted work may not be disclosed or could be flagged during inspections. Furthermore, insurance companies may deny claims for damage related to unpermitted construction, leaving you without coverage.",
+        "@type": "Answer",
+        "description": "Remodeling without a permit can lead to stop-work orders, fines, forced removal/alteration of work, and issues during property resale. Insurance claims for unpermitted work may also be denied."
+      }
+    }
+  ],
+  "description": "Remodeling without a permit can lead to stop-work orders, fines, forced removal/alteration of work, and issues during property resale. Insurance claims for unpe"
+}

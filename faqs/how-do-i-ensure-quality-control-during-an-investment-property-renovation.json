@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-ensure-quality-control-during-an-investment-property-renovation",
+  "name": "How do I ensure quality control during an investment property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure quality control during an investment property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring quality control during an investment property renovation involves several steps. Start by selecting a reputable contractor with a proven track record. Establish clear expectations and detailed specifications in the contract. Conduct regular site visits to monitor progress and workmanship. Maintain open communication with your contractor to address any issues promptly. Finally, perform a thorough final walk-through and inspection before issuing the final payment to ensure all work meets agreed-upon standards and local codes.",
+        "@type": "Answer",
+        "description": "Ensure quality control by selecting a reputable contractor, setting clear expectations, regular site visits, open communication, and a thorough final inspection."
+      }
+    }
+  ],
+  "description": "Ensure quality control by selecting a reputable contractor, setting clear expectations, regular site visits, open communication, and a thorough final inspection"
+}

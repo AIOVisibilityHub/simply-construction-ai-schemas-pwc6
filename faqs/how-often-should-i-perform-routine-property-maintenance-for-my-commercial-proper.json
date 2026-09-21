@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-often-should-i-perform-routine-property-maintenance-for-my-commercial-proper",
+  "name": "How often should I perform routine property maintenance for my commercial property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How often should I perform routine property maintenance for my commercial property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The frequency of routine property maintenance depends on the type of property, its age, and its usage. Generally, an annual inspection by a professional can identify potential issues before they become costly problems. HVAC systems often require seasonal checks, and exterior elements like roofing and landscaping may need quarterly or biannual attention. Developing a tailored maintenance schedule with a contractor can ensure your commercial property remains in optimal condition.",
+        "@type": "Answer",
+        "description": "Routine property maintenance frequency varies, but annual professional inspections and seasonal checks for systems like HVAC are generally recommended. A tailored schedule is best."
+      }
+    }
+  ],
+  "description": "Routine property maintenance frequency varies, but annual professional inspections and seasonal checks for systems like HVAC are generally recommended. A tailor"
+}

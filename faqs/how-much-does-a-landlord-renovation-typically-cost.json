@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-landlord-renovation-typically-cost",
+  "name": "How much does a landlord renovation typically cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a landlord renovation typically cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a landlord renovation varies widely depending on the scope, materials chosen, and the size of the property. Minor updates like fresh paint and carpet replacement might start from a few thousand dollars. A mid-range renovation involving kitchen and bathroom updates could be tens of thousands, while a full gut remodel might exceed $50,000. Location in the Las Vegas valley, such as Summerlin or North Las Vegas, can also subtly influence material and labor costs. It's recommended to get detailed, itemized quotes from contractors to understand the full financial commitment.",
+        "@type": "Answer",
+        "description": "Landlord renovation costs range from a few thousand for minor updates to over $50,000 for full remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Landlord renovation costs range from a few thousand for minor updates to over $50,000 for full remodels, depending on scope and materials."
+}

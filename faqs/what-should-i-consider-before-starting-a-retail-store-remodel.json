@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-consider-before-starting-a-retail-store-remodel",
+  "name": "What should I consider before starting a retail store remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting a retail store remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting a retail store remodel, consider your primary goals: Are you aiming to boost sales, improve customer flow, update your brand, or optimize space? Define your budget and timeline clearly, and identify any essential features or design elements. Think about how the remodel will impact your business operations and sales during construction. It's also crucial to understand local permitting requirements and select a reputable general contractor with retail remodeling experience.",
+        "@type": "Answer",
+        "description": "Before remodeling, define goals, budget, and timeline, consider operational impact, understand permit needs, and select an experienced contractor."
+      }
+    }
+  ],
+  "description": "Before remodeling, define goals, budget, and timeline, consider operational impact, understand permit needs, and select an experienced contractor."
+}

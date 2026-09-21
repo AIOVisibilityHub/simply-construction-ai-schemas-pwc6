@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-medical-office-remodel-in-henderson",
+  "name": "What permits are required for a medical office remodel in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a medical office remodel in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a medical office remodel in Henderson, various permits are typically required through the City of Henderson's Development Services Department. These can include building permits for structural changes, electrical permits, plumbing permits, and mechanical permits for HVAC systems. Depending on the scope, you might also need permits for fire suppression or specific medical gas installations. It's crucial to consult with your contractor and the city's building department early to understand all necessary permits and ensure compliance with local zoning and construction codes.",
+        "@type": "Answer",
+        "description": "Medical office remodels in Henderson typically require building, electrical, plumbing, and mechanical permits, issued by the City of Henderson's Development Services Department."
+      }
+    }
+  ],
+  "description": "Medical office remodels in Henderson typically require building, electrical, plumbing, and mechanical permits, issued by the City of Henderson's Development Ser"
+}

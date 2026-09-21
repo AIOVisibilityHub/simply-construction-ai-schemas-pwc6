@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-renovation-process-like-with-simply-construction",
+  "name": "What is the renovation process like with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the renovation process like with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With Simply Construction, the renovation process begins with an initial consultation to understand your goals and assess the property. We then provide a detailed proposal and transparent estimate. Once approved, our team schedules the work, managing all aspects from demolition to final touches, ensuring minimal disruption. We maintain open communication throughout the project, providing regular updates, and conclude with a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, detailed proposal, scheduled work, ongoing communication, and a final walkthrough for your renovation project."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, detailed proposal, scheduled work, ongoing communication, and a final walkthrough for your renovation project."
+}

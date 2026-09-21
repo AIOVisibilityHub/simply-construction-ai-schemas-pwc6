@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-consider-before-starting-an-apartment-renovation",
+  "name": "What should I consider before starting an apartment renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before starting an apartment renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting, consider your budget, desired timeline, and the specific goals for your renovation. Think about how the changes will impact your daily life and if alternative living arrangements are needed. Review your apartment building's rules and HOA regulations regarding renovations, as they may have restrictions on work hours, noise, and approved materials. Additionally, clearly define your style preferences and functional needs for each space. A well-defined plan minimizes surprises and ensures a smoother project.",
+        "@type": "Answer",
+        "description": "Before starting, consider your budget, timeline, goals, HOA rules, and functional needs. A clear plan ensures a smoother renovation process."
+      }
+    }
+  ],
+  "description": "Before starting, consider your budget, timeline, goals, HOA rules, and functional needs. A clear plan ensures a smoother renovation process."
+}

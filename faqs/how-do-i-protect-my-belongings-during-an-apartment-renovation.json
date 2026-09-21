@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-protect-my-belongings-during-an-apartment-renovation",
+  "name": "How do I protect my belongings during an apartment renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I protect my belongings during an apartment renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting your belongings is crucial during a renovation to prevent damage from dust, debris, and accidental impacts. It's best to remove all valuable or fragile items from the renovation area. For items that cannot be moved, cover them thoroughly with heavy-duty plastic sheeting or tarps, secured with painter's tape to create a dust barrier. Consider sealing off the renovation zone from other living areas with temporary dust barriers. Our team also takes precautions to minimize mess and protect surrounding areas.",
+        "@type": "Answer",
+        "description": "Remove valuables and cover immovable items with plastic sheeting to protect them from dust and debris. We also take precautions to minimize mess."
+      }
+    }
+  ],
+  "description": "Remove valuables and cover immovable items with plastic sheeting to protect them from dust and debris. We also take precautions to minimize mess."
+}

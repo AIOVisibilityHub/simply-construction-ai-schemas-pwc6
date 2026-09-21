@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-get-a-remodeling-permit",
+  "name": "How long does it take to get a remodeling permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get a remodeling permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to obtain a remodeling permit can vary significantly based on the project's scope, the completeness of your application, and the current workload of the local building department. Simple permits might be issued in a few days or weeks, while complex projects with extensive plans could take several weeks or even months. Factors like resubmissions due to incomplete information or necessary revisions can also extend the timeline. Your contractor can often provide a more accurate estimate based on their experience with similar projects.",
+        "@type": "Answer",
+        "description": "Permit processing times vary; simple projects may take days or weeks, while complex ones can take months. Factors like project scope and application completeness influence the timeline."
+      }
+    }
+  ],
+  "description": "Permit processing times vary; simple projects may take days or weeks, while complex ones can take months. Factors like project scope and application completenes"
+}

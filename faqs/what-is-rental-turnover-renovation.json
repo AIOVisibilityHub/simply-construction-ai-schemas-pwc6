@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-rental-turnover-renovation",
+  "name": "What is rental turnover renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is rental turnover renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rental turnover renovation involves upgrading a rental property between tenants to maintain its value, attract new renters, and potentially increase rental income. This can range from minor cosmetic updates like painting and carpet cleaning to more extensive projects such as kitchen or bathroom remodels. The scope often depends on the property's condition, market demand, and the landlord's budget and goals for the unit.",
+        "@type": "Answer",
+        "description": "Rental turnover renovation upgrades a property between tenants to maintain value, attract new renters, and potentially increase rental income."
+      }
+    }
+  ],
+  "description": "Rental turnover renovation upgrades a property between tenants to maintain value, attract new renters, and potentially increase rental income."
+}

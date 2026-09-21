@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-hiring-simply-construction-for-an-apartment-renovation",
+  "name": "What is the process for hiring Simply Construction for an apartment renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for hiring Simply Construction for an apartment renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation where we discuss your vision, needs, and budget for the apartment renovation. Following this, we develop a detailed proposal, including design concepts, material selections, a clear scope of work, and a transparent cost estimate. Once approved, we handle all necessary permits and scheduling. Our experienced team then executes the renovation, maintaining regular communication with you throughout the project to ensure it stays on track and meets your expectations, culminating in a final walkthrough.",
+        "@type": "Answer",
+        "description": "Our process includes consultation, proposal, permitting, project execution with regular updates, and a final walkthrough to ensure satisfaction."
+      }
+    }
+  ],
+  "description": "Our process includes consultation, proposal, permitting, project execution with regular updates, and a final walkthrough to ensure satisfaction."
+}

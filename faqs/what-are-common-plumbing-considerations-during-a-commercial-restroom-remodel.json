@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-plumbing-considerations-during-a-commercial-restroom-remodel",
+  "name": "What are common plumbing considerations during a commercial restroom remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common plumbing considerations during a commercial restroom remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common plumbing considerations include upgrading existing pipes, relocating fixtures, ensuring adequate water pressure, and installing water-efficient fixtures to reduce utility costs. Older buildings may require extensive pipe replacement to prevent future leaks or improve flow. Proper drainage and venting are crucial for functionality and code compliance. We assess the existing plumbing infrastructure to determine necessary upgrades or modifications for modern fixtures.",
+        "@type": "Answer",
+        "description": "Plumbing considerations include pipe upgrades, fixture relocation, water pressure, installing water-efficient fixtures, and ensuring proper drainage and venting."
+      }
+    }
+  ],
+  "description": "Plumbing considerations include pipe upgrades, fixture relocation, water pressure, installing water-efficient fixtures, and ensuring proper drainage and venting"
+}

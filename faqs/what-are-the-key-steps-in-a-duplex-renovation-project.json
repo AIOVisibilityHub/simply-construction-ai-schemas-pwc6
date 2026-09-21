@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-key-steps-in-a-duplex-renovation-project",
+  "name": "What are the key steps in a duplex renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in a duplex renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical duplex renovation project begins with an initial consultation and detailed planning, including design and budget establishment. This is followed by permit acquisition, material selection, and a pre-construction meeting. The construction phase involves demolition, structural work (if applicable), rough-ins for plumbing, electrical, and HVAC, insulation, drywall, and then finishing touches like flooring, cabinetry, and painting. Finally, a thorough cleanup and final inspection complete the project, ensuring all work meets quality standards and client expectations.",
+        "@type": "Answer",
+        "description": "Key steps in a duplex renovation include planning, permitting, material selection, demolition, construction phases for utilities and finishes, and a final inspection."
+      }
+    }
+  ],
+  "description": "Key steps in a duplex renovation include planning, permitting, material selection, demolition, construction phases for utilities and finishes, and a final inspe"
+}

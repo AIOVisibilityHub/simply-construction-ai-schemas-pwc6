@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-occupy-my-space-during-a-tenant-improvement-project",
+  "name": "Can I occupy my space during a tenant improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I occupy my space during a tenant improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, occupying a commercial space during significant tenant improvement work is not recommended or, in many cases, not permitted due to safety concerns and construction efficiency. Dust, noise, and the presence of workers and equipment can disrupt business operations and pose hazards. If minor work is involved, a phased approach might be possible, but this requires careful planning to ensure safety and minimal disruption. It's best to plan for a period of non-occupancy.",
+        "@type": "Answer",
+        "description": "Occupying a space during significant tenant improvement is generally not recommended or permitted due to safety hazards and operational disruptions."
+      }
+    }
+  ],
+  "description": "Occupying a space during significant tenant improvement is generally not recommended or permitted due to safety hazards and operational disruptions."
+}

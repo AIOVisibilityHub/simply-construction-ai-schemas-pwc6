@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Custom vs. Stock Kitchen Cabinets: How to Decide",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're upgrading your kitchen in Las Vegas, one of the biggest decisions you'll face is choosing between custom-built cabinets and ready-made stock options. Both have their place, but understanding the key differences can help you make the best choice for your home and budget.\n\nCustom cabinets are made specifically for your kitchen's dimensions and your personal preferences. This means you get a perfect fit, maximize every inch of space, and have a vast array of materials, finishes, and organizational features to choose from. They are ideal for unique layouts, odd-sized spaces, or if you have a very specific vision in mind. Naturally, this level of personalization comes with a higher price tag and a longer lead time. Stock cabinets, on the other hand, are mass-produced in standard sizes and styles. They are typically much more affordable and available quickly. While options are more limited, they can still offer a beautiful and functional solution, especially if your kitchen has standard dimensions. A third option, semi-custom, offers a middle ground with more choices than stock but less customization than full custom. The right choice depends on your budget, timeline, desired aesthetic, and the complexity of your kitchen space. Chatting with Simply Construction can help you explore all these options and find the perfect cabinet solution.",
+  "datePublished": "2026-09-17"
+}

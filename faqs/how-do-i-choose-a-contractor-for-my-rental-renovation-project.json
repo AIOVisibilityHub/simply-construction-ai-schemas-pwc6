@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-contractor-for-my-rental-renovation-project",
+  "name": "How do I choose a contractor for my rental renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my rental renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your rental renovation, look for licensed and insured professionals with experience in rental property updates. Request multiple bids and review their portfolios of similar projects. Check references from previous clients and ensure they have a clear communication process. A reliable contractor should provide a detailed contract outlining the scope of work, timeline, and payment schedule, helping to ensure a smooth project.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with rental renovation experience by requesting bids, checking references, and reviewing their portfolio and contract details."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with rental renovation experience by requesting bids, checking references, and reviewing their portfolio and contract deta"
+}

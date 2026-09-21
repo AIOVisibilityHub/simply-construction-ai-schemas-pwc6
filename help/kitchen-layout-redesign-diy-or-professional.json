@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Kitchen Layout Redesign: DIY or Professional?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Deciding whether to tackle a kitchen layout redesign yourself or hire a professional can be tricky, but understanding the scope helps. For minor cosmetic changes, like painting cabinets or swapping out a backsplash, DIY can be totally fine. You're mostly working with surface-level aesthetics and not moving any major components. However, if you're thinking about moving walls, altering plumbing or electrical lines, or changing the footprint of your kitchen significantly, then a professional general contractor is absolutely essential. These kinds of projects involve permits, structural considerations, and specialized trades like electricians and plumbers. Trying to DIY these complex aspects can lead to code violations, safety hazards, and costly mistakes down the line. A professional like Simply Construction, licensed in Las Vegas, understands the local regulations, can manage the entire project, and ensures everything is done correctly and safely. While DIY might seem cheaper upfront, the potential for error and rework on structural changes can quickly escalate costs and stress. When your redesign involves anything beyond surface-level aesthetics, especially structural or utility changes, it's time to call in the experts. We’re here to help homeowners in Las Vegas, North Las Vegas, and Summerlin create the kitchen of their dreams without the headaches.",
+  "datePublished": "2026-09-17"
+}

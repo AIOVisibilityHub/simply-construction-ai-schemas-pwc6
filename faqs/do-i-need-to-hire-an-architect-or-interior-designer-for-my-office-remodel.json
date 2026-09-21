@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-hire-an-architect-or-interior-designer-for-my-office-remodel",
+  "name": "Do I need to hire an architect or interior designer for my office remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to hire an architect or interior designer for my office remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant office remodels involving structural changes, complex layouts, or specific aesthetic goals, hiring an architect or interior designer is often beneficial. An architect ensures structural integrity and compliance with building codes, while an interior designer focuses on functionality, aesthetics, and space planning. For smaller, more cosmetic updates, a skilled general contractor can often manage the design elements. Simply Construction can advise on whether these professionals are necessary for your project and can collaborate with them effectively.",
+        "@type": "Answer",
+        "description": "An architect or interior designer is often needed for structural or complex remodels. For smaller updates, a general contractor may suffice. We can advise on this."
+      }
+    }
+  ],
+  "description": "An architect or interior designer is often needed for structural or complex remodels. For smaller updates, a general contractor may suffice. We can advise on th"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-white-box-and-a-gray-shell-for-tenant-improveme",
+  "name": "What is the difference between a white box and a gray shell for tenant improvements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a white box and a gray shell for tenant improvements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'gray shell' space is a commercial unit delivered with only the basic structural elements, such as exterior walls, a roof, and a dirt or concrete floor. It lacks interior walls, plumbing, electrical, and HVAC systems. A 'white box' (or warm shell) provides a more finished base, typically including finished walls, a ceiling, basic lighting, a concrete floor, and often a capped off plumbing and electrical stub-out. Tenant improvements for a gray shell are usually more extensive and costly than for a white box.",
+        "@type": "Answer",
+        "description": "A 'gray shell' is a bare structural space, while a 'white box' offers a more finished base with walls, ceilings, and basic utilities, making gray shell TIs more extensive."
+      }
+    }
+  ],
+  "description": "A 'gray shell' is a bare structural space, while a 'white box' offers a more finished base with walls, ceilings, and basic utilities, making gray shell TIs more"
+}

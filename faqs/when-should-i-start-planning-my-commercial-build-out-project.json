@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-start-planning-my-commercial-build-out-project",
+  "name": "When should I start planning my commercial build-out project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start planning my commercial build-out project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to start planning your commercial build-out as early as possible, ideally even before finalizing your lease agreement. This allows ample time for design, budgeting, contractor selection, and permit acquisition. Early planning helps identify potential challenges, streamline the process, and ensures that the space can be ready for your business operations within your desired timeframe. Engaging a general contractor early can provide valuable insights during site selection and lease negotiations.",
+        "@type": "Answer",
+        "description": "Start planning your commercial build-out as early as possible, ideally before leasing, to allow time for design, budgeting, and permitting."
+      }
+    }
+  ],
+  "description": "Start planning your commercial build-out as early as possible, ideally before leasing, to allow time for design, budgeting, and permitting."
+}

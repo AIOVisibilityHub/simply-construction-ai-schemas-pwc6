@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeframe-for-an-apartment-renovation-project",
+  "name": "What is the typical timeframe for an apartment renovation project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for an apartment renovation project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of an apartment renovation varies significantly based on the project's scope. A minor cosmetic update, like painting and new flooring in a single room, might take a few days to a week. A more extensive remodel involving kitchen or bathroom demolition, plumbing, electrical work, and custom finishes can extend from several weeks to a few months. Factors such as material availability, permitting requirements, and unforeseen structural issues can also influence the timeline. We provide a detailed project schedule after the initial consultation and design phase.",
+        "@type": "Answer",
+        "description": "Project timelines vary, from days for minor updates to months for extensive remodels, depending on scope, materials, and permitting."
+      }
+    }
+  ],
+  "description": "Project timelines vary, from days for minor updates to months for extensive remodels, depending on scope, materials, and permitting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-remodeling-project-coordination",
+  "name": "What is the typical timeline for remodeling project coordination?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for remodeling project coordination?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for remodeling project coordination varies significantly based on the project's scope and complexity. Small projects like a bathroom refresh might take 4-8 weeks, while a major home addition or whole-house remodel could span several months, or even over a year. This includes phases like planning, design finalization, permitting, material procurement, construction, and final walkthroughs. Effective coordination aims to minimize delays at each stage, providing realistic timelines upfront.",
+        "@type": "Answer",
+        "description": "Project coordination timelines vary by scope; small remodels take weeks, large ones several months. Effective coordination minimizes delays at each stage."
+      }
+    }
+  ],
+  "description": "Project coordination timelines vary by scope; small remodels take weeks, large ones several months. Effective coordination minimizes delays at each stage."
+}

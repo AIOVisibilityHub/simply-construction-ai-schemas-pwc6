@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-pitfalls-to-avoid-during-a-rental-property-renovation",
+  "name": "What are common pitfalls to avoid during a rental property renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls to avoid during a rental property renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To avoid common pitfalls, ensure you have a clear, realistic budget, including a contingency fund of 10-20% for unforeseen issues. Avoid DIY projects unless you have proven expertise, as professional quality is key for rentals. Do not skip essential permits, as this can lead to costly delays and fines. Get a detailed contract outlining all aspects of the work, timeline, and payment schedule. Poor communication with your contractor can also derail a project, so maintain regular check-ins and address concerns promptly.",
+        "@type": "Answer",
+        "description": "Avoid common pitfalls by setting a realistic budget with contingency, hiring professionals, securing necessary permits, having a detailed contract, and maintaining clear communication with your contractor."
+      }
+    }
+  ],
+  "description": "Avoid common pitfalls by setting a realistic budget with contingency, hiring professionals, securing necessary permits, having a detailed contract, and maintain"
+}

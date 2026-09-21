@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-medical-office-renovation-project-take",
+  "name": "How long does a typical medical office renovation project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical medical office renovation project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a medical office renovation varies significantly based on the project's scope and complexity. A minor cosmetic update might take a few weeks, while a complete overhaul or expansion could extend to several months. Factors like permitting processes, material lead times, and the need to maintain partial operations during construction can impact the timeline. A detailed project plan from your contractor will outline specific phases and estimated durations, helping you anticipate the overall schedule.",
+        "@type": "Answer",
+        "description": "Project duration depends on scope and complexity, ranging from weeks for minor updates to several months for full renovations. Permitting and material lead times also affect the schedule."
+      }
+    }
+  ],
+  "description": "Project duration depends on scope and complexity, ranging from weeks for minor updates to several months for full renovations. Permitting and material lead time"
+}

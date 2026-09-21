@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-my-tenant-improvement-project",
+  "name": "How do I choose the right general contractor for my tenant improvement project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my tenant improvement project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selecting the right general contractor involves several key steps. Look for contractors with proven experience in commercial tenant improvements, especially within your specific industry (e.g., retail, office, medical). Request references and review their portfolio of similar projects. Ensure they are licensed and insured in Nevada. Obtain detailed bids from multiple contractors and compare not just price, but also their proposed timeline, project management approach, and communication style. A good contractor provides transparency and expertise.",
+        "@type": "Answer",
+        "description": "Choose a contractor with commercial TI experience, check references and licenses, and compare detailed bids to find one that aligns with your project needs and communication style."
+      }
+    }
+  ],
+  "description": "Choose a contractor with commercial TI experience, check references and licenses, and compare detailed bids to find one that aligns with your project needs and"
+}

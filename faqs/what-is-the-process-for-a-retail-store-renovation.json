@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-a-retail-store-renovation",
+  "name": "What is the process for a retail store renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a retail store renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a retail store renovation typically begins with consultation and design, where your vision and requirements are discussed and plans are drawn. This is followed by budget finalization and material selection. Next, permits are secured from local authorities. Construction then proceeds, including demolition, structural work, electrical, plumbing, HVAC, and interior finishes. Throughout the project, there's ongoing communication, quality control, and site management, culminating in a final walkthrough and project handover.",
+        "@type": "Answer",
+        "description": "The renovation process includes consultation, design, budgeting, material selection, permitting, construction (demolition to finishes), and final handover."
+      }
+    }
+  ],
+  "description": "The renovation process includes consultation, design, budgeting, material selection, permitting, construction (demolition to finishes), and final handover."
+}

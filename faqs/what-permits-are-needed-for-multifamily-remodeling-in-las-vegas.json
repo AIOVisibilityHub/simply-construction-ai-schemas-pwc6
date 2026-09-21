@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-multifamily-remodeling-in-las-vegas",
+  "name": "What permits are needed for multifamily remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for multifamily remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for multifamily remodeling in Las Vegas depend on the scope of work. Minor cosmetic changes like painting or flooring typically don't require permits. However, projects involving structural alterations, plumbing or electrical system changes, significant layout modifications, or additions will require permits from the City of Las Vegas or Clark County Department of Building and Fire Prevention. Our team assists clients in identifying and securing all necessary permits to ensure compliance with local building codes and regulations, streamlining the approval process.",
+        "@type": "Answer",
+        "description": "Permit needs in Las Vegas depend on the scope of work. Structural, plumbing, electrical, or major layout changes require permits from local building departments. We assist with permit acquisition."
+      }
+    }
+  ],
+  "description": "Permit needs in Las Vegas depend on the scope of work. Structural, plumbing, electrical, or major layout changes require permits from local building departments"
+}

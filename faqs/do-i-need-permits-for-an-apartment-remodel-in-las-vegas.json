@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-an-apartment-remodel-in-las-vegas",
+  "name": "Do I need permits for an apartment remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for an apartment remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you need permits for an apartment remodel in Las Vegas depends on the nature and extent of the work. Generally, projects involving structural changes, alterations to plumbing or electrical systems, or significant changes to the building's footprint or exterior will require permits from the City of Las Vegas or Clark County. Minor cosmetic updates like painting, new flooring, or cabinet replacements typically do not. Our team will assess your specific project and handle all necessary permit applications to ensure compliance with local building codes.",
+        "@type": "Answer",
+        "description": "Permits are usually needed for structural, plumbing, or electrical changes in Las Vegas. Minor cosmetic updates typically do not require them. We manage permit applications."
+      }
+    }
+  ],
+  "description": "Permits are usually needed for structural, plumbing, or electrical changes in Las Vegas. Minor cosmetic updates typically do not require them. We manage permit"
+}

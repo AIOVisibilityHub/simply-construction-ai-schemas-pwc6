@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-information-do-i-need-to-apply-for-a-remodeling-permit",
+  "name": "What information do I need to apply for a remodeling permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to apply for a remodeling permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Applying for a remodeling permit typically requires detailed project plans, blueprints, or drawings that illustrate the scope of work, structural changes, electrical layouts, and plumbing alterations. You'll also need property information, a detailed description of the project, and sometimes material specifications. Depending on the complexity, engineering calculations or surveys may be necessary. A licensed contractor can assist in preparing and submitting all required documentation to ensure accuracy and compliance with local regulations.",
+        "@type": "Answer",
+        "description": "Permit applications generally require detailed project plans, blueprints, property information, and a project description. Complex projects may need engineering calculations. A contractor can help with documentation."
+      }
+    }
+  ],
+  "description": "Permit applications generally require detailed project plans, blueprints, property information, and a project description. Complex projects may need engineering"
+}

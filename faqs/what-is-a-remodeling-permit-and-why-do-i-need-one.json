@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-remodeling-permit-and-why-do-i-need-one",
+  "name": "What is a remodeling permit and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a remodeling permit and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A remodeling permit is an official authorization from your local government that allows you to proceed with construction or renovation work. It ensures that your project complies with local building codes, zoning laws, and safety standards. Permits are necessary for most structural changes, electrical, plumbing, or mechanical work to protect property owners, future occupants, and the community. Obtaining a permit helps prevent costly rework, ensures your project is up to code, and can be crucial for insurance claims or when selling your property.",
+        "@type": "Answer",
+        "description": "A remodeling permit is official permission for construction work, ensuring projects meet local building codes and safety standards. It's required for most structural, electrical, plumbing, or mechanical changes to protect property owners and ensure compliance."
+      }
+    }
+  ],
+  "description": "A remodeling permit is official permission for construction work, ensuring projects meet local building codes and safety standards. It's required for most struc"
+}

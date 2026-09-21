@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-prepare-my-townhome-for-a-renovation",
+  "name": "How do I prepare my townhome for a renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I prepare my townhome for a renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing your townhome for renovation involves several steps to protect your belongings and facilitate the construction process. This typically includes clearing out furniture and personal items from the renovation areas, safely storing valuables, and disconnecting utilities if necessary. You may also need to arrange for temporary living accommodations depending on the scope. We will provide a detailed checklist specific to your project, ensuring a smooth start to the renovation.",
+        "@type": "Answer",
+        "description": "Prepare your townhome for renovation by clearing out items from work areas, storing valuables, and potentially arranging temporary living. We provide a detailed checklist to ensure a smooth project start."
+      }
+    }
+  ],
+  "description": "Prepare your townhome for renovation by clearing out items from work areas, storing valuables, and potentially arranging temporary living. We provide a detailed"
+}

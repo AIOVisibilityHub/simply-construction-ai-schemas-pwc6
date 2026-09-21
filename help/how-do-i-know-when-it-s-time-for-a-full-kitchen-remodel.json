@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "How Do I Know When It's Time for a Full Kitchen Remodel?",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Sometimes it's clear your kitchen needs a refresh, but other times, the signs are more subtle. How do you know when it’s time to stop patching things up and go for a full kitchen remodel? There are definitely some tell-tale signs to look out for. First, if your kitchen layout just isn't working for you anymore, maybe it feels cramped or inefficient. Perhaps you're constantly bumping into things, or there’s no good flow for cooking and entertaining. Second, if your appliances are ancient and constantly breaking down, a full remodel lets you integrate new, energy-efficient models seamlessly. Third, significant wear and tear, like peeling countertops, warped cabinets, or outdated flooring, can really drag down the whole house. Fourth, if your plumbing or electrical systems are frequently acting up, a remodel offers the perfect opportunity to update these essential components and prevent future headaches. Lastly, if your family's needs have changed, maybe you need more space, an open-concept kitchen, or an island for homework and casual meals. These are all great indicators that a comprehensive custom kitchen remodeling project is needed. If you're seeing several of these signs in your Las Vegas home, it's probably time to reach out to a trusted general contractor like Simply Construction. We can help assess the situation and plan a kitchen that truly meets your needs.",
+  "datePublished": "2026-09-17"
+}

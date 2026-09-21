@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-commercial-flooring-installation-typically-take",
+  "name": "How long does commercial flooring installation typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does commercial flooring installation typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a commercial flooring installation project varies significantly based on the size of the area, the type of flooring material selected, and the preparation required for the subfloor. A smaller office might be completed in a few days, while a large retail space with complex flooring patterns could take several weeks. Factors like existing flooring removal, subfloor leveling, and curing times for certain materials (like epoxy) all contribute to the overall timeline. We provide a detailed project schedule after an on-site assessment.",
+        "@type": "Answer",
+        "description": "Installation time varies by project size, flooring type, and subfloor preparation; it can range from a few days for small offices to several weeks for large spaces."
+      }
+    }
+  ],
+  "description": "Installation time varies by project size, flooring type, and subfloor preparation; it can range from a few days for small offices to several weeks for large spa"
+}

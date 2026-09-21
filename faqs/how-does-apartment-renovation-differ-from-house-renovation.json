@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-does-apartment-renovation-differ-from-house-renovation",
+  "name": "How does apartment renovation differ from house renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does apartment renovation differ from house renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Apartment renovations often involve additional considerations compared to house renovations, primarily due to shared walls, common areas, and homeowners' association (HOA) regulations. You typically need to adhere to specific building rules regarding noise, work hours, waste disposal, and material transport, and sometimes require HOA approval for design changes. Structural modifications might be more limited due to shared building integrity. Logistics such as material delivery and debris removal can also be more complex in multi-story buildings. Simply Construction is experienced with these unique challenges.",
+        "@type": "Answer",
+        "description": "Apartment renovations have unique challenges like HOA rules, noise restrictions, shared walls, and complex logistics for material delivery and waste removal compared to house renovations."
+      }
+    }
+  ],
+  "description": "Apartment renovations have unique challenges like HOA rules, noise restrictions, shared walls, and complex logistics for material delivery and waste removal com"
+}

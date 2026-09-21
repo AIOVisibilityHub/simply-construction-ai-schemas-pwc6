@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-an-apartment-renovation-cost",
+  "name": "How much does an apartment renovation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an apartment renovation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Apartment renovation costs are highly variable, depending on the size of the apartment, the rooms being renovated, and the quality of materials and finishes chosen. A basic cosmetic refresh might start from a few thousand dollars, while a full gut renovation of a kitchen or bathroom can range from tens of thousands. High-end finishes, custom cabinetry, and extensive layout changes will increase the overall investment. We provide transparent, detailed quotes tailored to your specific project and budget during our initial consultation.",
+        "@type": "Answer",
+        "description": "Costs vary widely based on scope, size, and material choices. A basic refresh is thousands, while a full renovation can be tens of thousands. We provide detailed quotes."
+      }
+    }
+  ],
+  "description": "Costs vary widely based on scope, size, and material choices. A basic refresh is thousands, while a full renovation can be tens of thousands. We provide detaile"
+}

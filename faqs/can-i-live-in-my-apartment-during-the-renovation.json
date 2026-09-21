@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-apartment-during-the-renovation",
+  "name": "Can I live in my apartment during the renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my apartment during the renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can remain in your apartment during renovation depends on the scope and invasiveness of the work. For minor cosmetic updates, staying might be feasible, though you should expect noise, dust, and some inconvenience. However, for extensive renovations involving significant demolition, plumbing or electrical cut-offs, or work in essential areas like the kitchen or only bathroom, it's generally recommended to make alternative living arrangements for safety and comfort. We will advise you on the best approach based on your specific project plan.",
+        "@type": "Answer",
+        "description": "Living in your apartment during renovation depends on the project's scope. Minor work may allow it, but extensive renovations often require temporary relocation for safety and comfort."
+      }
+    }
+  ],
+  "description": "Living in your apartment during renovation depends on the project's scope. Minor work may allow it, but extensive renovations often require temporary relocation"
+}

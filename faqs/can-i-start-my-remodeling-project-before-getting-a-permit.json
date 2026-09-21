@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-start-my-remodeling-project-before-getting-a-permit",
+  "name": "Can I start my remodeling project before getting a permit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I start my remodeling project before getting a permit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Starting a remodeling project that requires a permit before it is officially issued is strongly discouraged and can lead to significant problems. Performing work without a required permit can result in stop-work orders, fines, penalties, and even the requirement to demolish completed work. It can also complicate future property sales and void insurance policies. Always wait for the permit to be officially approved and posted before beginning any work that falls under permit requirements.",
+        "@type": "Answer",
+        "description": "No, starting work without a required permit can lead to stop-work orders, fines, demolition, and insurance complications. Always wait for permit approval before beginning construction."
+      }
+    }
+  ],
+  "description": "No, starting work without a required permit can lead to stop-work orders, fines, demolition, and insurance complications. Always wait for permit approval before"
+}

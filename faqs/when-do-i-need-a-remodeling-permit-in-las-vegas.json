@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-do-i-need-a-remodeling-permit-in-las-vegas",
+  "name": "When do I need a remodeling permit in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need a remodeling permit in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas, a remodeling permit is typically required for projects that involve structural changes, alterations to the building's footprint, significant electrical or plumbing work, adding or removing walls, or changing the occupancy of a space. Minor cosmetic updates like painting, flooring, or cabinet replacement usually do not require a permit. Always consult with your contractor or the City of Las Vegas Building Department to confirm specific requirements for your project to avoid potential issues.",
+        "@type": "Answer",
+        "description": "In Las Vegas, permits are needed for structural changes, significant electrical/plumbing work, or wall alterations. Minor cosmetic updates generally do not require one, but always confirm with your contractor or the local building department."
+      }
+    }
+  ],
+  "description": "In Las Vegas, permits are needed for structural changes, significant electrical/plumbing work, or wall alterations. Minor cosmetic updates generally do not requ"
+}

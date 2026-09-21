@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-tenant-improvement-project-typically-take",
+  "name": "How long does a tenant improvement project typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a tenant improvement project typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a tenant improvement project varies significantly based on its complexity and scope. Minor renovations might take a few weeks, while extensive build-outs, especially from a gray shell, can require several months. Factors like design finalization, permitting, material procurement, and the availability of subcontractors all influence the timeline. An accurate estimate is usually provided after the design and scope of work are clearly defined.",
+        "@type": "Answer",
+        "description": "Project timelines vary greatly; minor renovations can take weeks, while major build-outs may take several months, depending on scope, design, and permitting."
+      }
+    }
+  ],
+  "description": "Project timelines vary greatly; minor renovations can take weeks, while major build-outs may take several months, depending on scope, design, and permitting."
+}

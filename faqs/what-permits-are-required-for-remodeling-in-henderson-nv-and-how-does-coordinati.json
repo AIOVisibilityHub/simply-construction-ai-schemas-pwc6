@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-remodeling-in-henderson-nv-and-how-does-coordinati",
+  "name": "What permits are required for remodeling in Henderson, NV, and how does coordination handle them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for remodeling in Henderson, NV, and how does coordination handle them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling projects in Henderson, NV, often require permits for structural changes, electrical work, plumbing, and significant alterations to the building envelope. Your project coordinator will identify all necessary permits based on your specific project scope and local building codes. They are responsible for preparing and submitting all applications to the City of Henderson and Clark County, scheduling inspections, and ensuring compliance throughout the project. This ensures your remodel meets all legal requirements and safety standards.",
+        "@type": "Answer",
+        "description": "Remodeling in Henderson, NV, requires permits for structural, electrical, and plumbing work. Coordination handles all applications, inspections, and compliance with local codes."
+      }
+    }
+  ],
+  "description": "Remodeling in Henderson, NV, requires permits for structural, electrical, and plumbing work. Coordination handles all applications, inspections, and compliance"
+}

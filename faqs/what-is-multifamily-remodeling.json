@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-multifamily-remodeling",
+  "name": "What is multifamily remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is multifamily remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Multifamily remodeling involves renovating or upgrading residential properties with multiple separate housing units, such as apartment complexes, condominiums, or townhouses. This type of remodeling can include interior updates to individual units like kitchens and bathrooms, common area improvements such as lobbies and fitness centers, or exterior enhancements like roofing, siding, and landscaping. The goal is often to increase property value, attract new tenants, improve resident satisfaction, or meet current building codes and accessibility standards. It requires careful planning to minimize disruption to existing residents and coordinate work across multiple units.",
+        "@type": "Answer",
+        "description": "Multifamily remodeling involves renovating residential properties with multiple units, including interior, common area, and exterior upgrades. The aim is to enhance value, attract tenants, and improve resident satisfaction."
+      }
+    }
+  ],
+  "description": "Multifamily remodeling involves renovating residential properties with multiple units, including interior, common area, and exterior upgrades. The aim is to enh"
+}

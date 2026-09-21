@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-minimize-vacancy-time-during-a-rental-renovation",
+  "name": "How can I minimize vacancy time during a rental renovation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I minimize vacancy time during a rental renovation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To minimize vacancy time, begin planning your renovation as soon as a tenant gives notice, or even before if possible. Work with a contractor who can provide a realistic timeline and stick to the schedule. Coordinate material deliveries in advance to avoid delays. Marketing the property with 'coming soon' listings and professional photos of the renovated space can also help secure a new tenant quickly, ideally before the renovation is fully complete.",
+        "@type": "Answer",
+        "description": "Minimize vacancy by planning early, coordinating with a reliable contractor on a strict timeline, and pre-marketing the property during renovation."
+      }
+    }
+  ],
+  "description": "Minimize vacancy by planning early, coordinating with a reliable contractor on a strict timeline, and pre-marketing the property during renovation."
+}

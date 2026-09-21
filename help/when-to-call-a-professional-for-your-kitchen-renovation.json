@@ -1,0 +1,114 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "When to Call a Professional for Your Kitchen Renovation",
+  "publisher": {
+    "url": "http://simplyconstructionlv.com",
+    "name": "Simply Construction",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Thinking about a kitchen renovation? It's exciting, but there are definitely times when bringing in a professional general contractor in Las Vegas isn't just helpful, it's essential. Knowing when to call can save you stress, money, and ensure your project is completed safely and correctly. \n\nHere are some clear signs it's time to reach out: \n\n*   **Structural Changes:** If you're planning to move walls, especially load-bearing ones, or alter the footprint of your kitchen, you absolutely need a licensed contractor. This involves permits, engineering, and specialized construction knowledge. \n*   **Plumbing or Electrical Rerouting:** Major changes to your kitchen's layout often mean moving sinks, dishwashers, ovens, or adding new outlets. These tasks require professional plumbers and electricians to meet codes and ensure safety. \n*   **Extensive Layout Redesign:** When you're looking for a complete transformation, not just cosmetic updates, a professional can offer design expertise, optimize flow, and bring innovative ideas to the table. \n*   **Permit Requirements:** Many significant renovations in Las Vegas require permits. A general contractor like Simply Construction handles all the necessary paperwork and inspections, ensuring your project complies with local regulations. \n*   **Time and Stress Savings:** Juggling multiple trades, managing schedules, and troubleshooting issues can be overwhelming. A contractor streamlines the process, keeping your project on track and on budget. \n\nEven if you're handy, for a kitchen renovation that involves anything beyond basic cosmetic updates, a professional general contractor ensures quality, safety, and compliance.",
+  "datePublished": "2026-09-17"
+}

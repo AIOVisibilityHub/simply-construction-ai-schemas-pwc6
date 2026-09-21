@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-typical-duplex-renovation-cost",
+  "name": "How much does a typical duplex renovation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a typical duplex renovation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a duplex renovation varies significantly based on the scope of work, materials chosen, and the existing condition of the property. Minor cosmetic updates might range from $20,000 to $50,000 per unit, while a full gut renovation with structural changes could exceed $150,000 per unit. Factors like kitchen and bathroom remodels, electrical and plumbing upgrades, and exterior improvements all impact the total budget. We provide detailed estimates after an initial consultation and assessment of your specific project goals.",
+        "@type": "Answer",
+        "description": "Duplex renovation costs vary widely, from $20,000 per unit for cosmetic updates to over $150,000 per unit for extensive remodels, depending on scope and materials."
+      }
+    }
+  ],
+  "description": "Duplex renovation costs vary widely, from $20,000 per unit for cosmetic updates to over $150,000 per unit for extensive remodels, depending on scope and materia"
+}

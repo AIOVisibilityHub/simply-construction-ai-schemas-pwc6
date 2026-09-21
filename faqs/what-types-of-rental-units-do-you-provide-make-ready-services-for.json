@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-types-of-rental-units-do-you-provide-make-ready-services-for",
+  "name": "What types of rental units do you provide make-ready services for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of rental units do you provide make-ready services for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Simply Construction provides comprehensive make-ready services for a variety of rental unit types across the Las Vegas metropolitan area. This includes single-family homes, apartments, condos, and townhouses. Our experienced team is equipped to handle different property sizes and conditions, ensuring each unit is thoroughly prepared to welcome new tenants, regardless of its previous occupancy or specific requirements. We tailor our services to suit multi-unit properties as well as individual rentals.",
+        "@type": "Answer",
+        "description": "We provide make-ready services for various rental units, including single-family homes, apartments, condos, and townhouses."
+      }
+    }
+  ],
+  "description": "We provide make-ready services for various rental units, including single-family homes, apartments, condos, and townhouses."
+}

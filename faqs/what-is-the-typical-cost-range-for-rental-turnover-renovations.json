@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-rental-turnover-renovations",
+  "name": "What is the typical cost range for rental turnover renovations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for rental turnover renovations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of rental turnover renovations varies widely based on the scope and property size. Minor updates, such as painting and touch-ups, might range from a few hundred to a couple of thousand dollars. More extensive renovations, including kitchen and bathroom updates or full flooring replacement, can range from $5,000 to over $20,000. It is best to get detailed quotes from contractors based on your specific project needs.",
+        "@type": "Answer",
+        "description": "Costs for rental renovations vary; minor updates are hundreds to thousands, while extensive projects can exceed $20,000. Get detailed quotes."
+      }
+    }
+  ],
+  "description": "Costs for rental renovations vary; minor updates are hundreds to thousands, while extensive projects can exceed $20,000. Get detailed quotes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-remodel-an-apartment-unit-while-tenants-are-living-there",
+  "name": "Can I remodel an apartment unit while tenants are living there?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remodel an apartment unit while tenants are living there?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remodeling an apartment unit while tenants are in residence is challenging but sometimes feasible for minor cosmetic work or if a small portion of the unit is affected. However, extensive renovations that involve significant noise, dust, utility interruptions, or limited access to key areas (like kitchens or bathrooms) typically require the unit to be vacant for tenant safety and to expedite the project. Most leases include clauses regarding construction. It is essential to consider tenant comfort, safety, and local tenant rights regulations, and communicate clearly with tenants about potential disruptions.",
+        "@type": "Answer",
+        "description": "Extensive remodels usually require a vacant unit due to noise, dust, and utility interruptions. Minor work may be possible, but tenant comfort and safety are paramount."
+      }
+    }
+  ],
+  "description": "Extensive remodels usually require a vacant unit due to noise, dust, and utility interruptions. Minor work may be possible, but tenant comfort and safety are pa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-estimated-cost-for-a-medical-office-remodel-in-the-las-vegas-area",
+  "name": "What is the estimated cost for a medical office remodel in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the estimated cost for a medical office remodel in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a medical office remodel in the Las Vegas area can vary widely, typically ranging from $100 to over $300 per square foot, depending on the extent of work. Factors influencing cost include the quality of finishes, the complexity of medical equipment installations, structural changes, and specific regulatory requirements. For example, upgrading electrical systems for new machinery or specialized HVAC for sterile environments can increase costs. Obtaining a detailed estimate from a local contractor is essential for accurate budgeting.",
+        "@type": "Answer",
+        "description": "Costs for medical office remodeling in Las Vegas typically range from $100 to over $300 per square foot, varying with finishes, equipment needs, and structural changes."
+      }
+    }
+  ],
+  "description": "Costs for medical office remodeling in Las Vegas typically range from $100 to over $300 per square foot, varying with finishes, equipment needs, and structural"
+}

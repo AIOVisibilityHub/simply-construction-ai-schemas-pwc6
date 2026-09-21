@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-commercial-restroom-remodel-take",
+  "name": "How long does a typical commercial restroom remodel take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical commercial restroom remodel take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a commercial restroom remodel varies significantly based on its scope and complexity. A small cosmetic update might take 1-2 weeks, while a complete overhaul involving demolition, plumbing re-routing, and new fixture installations could extend to 4-8 weeks or more. Factors like material lead times, inspection schedules, and the size of the restroom also influence the timeline. We provide a detailed project schedule after initial assessment.",
+        "@type": "Answer",
+        "description": "Remodel times range from 1-2 weeks for minor updates to 4-8+ weeks for extensive projects, depending on complexity and scope."
+      }
+    }
+  ],
+  "description": "Remodel times range from 1-2 weeks for minor updates to 4-8+ weeks for extensive projects, depending on complexity and scope."
+}

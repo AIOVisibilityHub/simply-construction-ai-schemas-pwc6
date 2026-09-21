@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/are-there-any-specific-hoa-regulations-i-should-be-aware-of-for-townhome-renovat",
+  "name": "Are there any specific HOA regulations I should be aware of for townhome renovations in Summerlin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific HOA regulations I should be aware of for townhome renovations in Summerlin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, townhomes in Summerlin, like many planned communities, are subject to Homeowners Association (HOA) regulations that can impact renovations. These rules often govern exterior changes, approved materials, acceptable noise levels during construction, and even the appearance of temporary dumpsters. It's crucial to review your specific HOA's CC&Rs (Covenants, Conditions, and Restrictions) and submit any required architectural review applications before starting work. Our team has experience navigating Summerlin HOAs and can assist with this process.",
+        "@type": "Answer",
+        "description": "Townhome renovations in Summerlin are subject to HOA rules governing exterior changes, materials, and construction noise. Review your HOA's CC&Rs and submit architectural applications. We assist with Summerlin HOA compliance."
+      }
+    }
+  ],
+  "description": "Townhome renovations in Summerlin are subject to HOA rules governing exterior changes, materials, and construction noise. Review your HOA's CC&Rs and submit arc"
+}

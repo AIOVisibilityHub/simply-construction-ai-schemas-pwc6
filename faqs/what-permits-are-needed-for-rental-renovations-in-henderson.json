@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-for-rental-renovations-in-henderson",
+  "name": "What permits are needed for rental renovations in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed for rental renovations in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements for rental renovations in Henderson depend on the scope of work. Minor cosmetic changes like painting or flooring typically do not require permits. However, projects involving structural changes, electrical work, plumbing, or significant alterations to the building's footprint will likely require permits from the City of Henderson Building Division. It's crucial to consult with your contractor or the city's building department to ensure compliance with local codes and regulations before starting any major work.",
+        "@type": "Answer",
+        "description": "Permits in Henderson are needed for structural, electrical, plumbing, or significant changes, but not typically for cosmetic updates. Consult your contractor or the city."
+      }
+    }
+  ],
+  "description": "Permits in Henderson are needed for structural, electrical, plumbing, or significant changes, but not typically for cosmetic updates. Consult your contractor or"
+}
