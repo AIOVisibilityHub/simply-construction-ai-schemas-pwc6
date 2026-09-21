@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-09-21T20:10:46.763Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Simply Construction",
+    "canonicalUrl": "https://simplyconstructionlv.aiovisibility.net",
+    "primaryWebsiteUrl": "http://simplyconstructionlv.com",
+    "aiDataHub": "https://simplyconstructionlv.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Simply Construction — canonical website",
+      "url": "https://simplyconstructionlv.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Simply Construction — AI Data Hub",
+      "url": "https://simplyconstructionlv.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
+    }
+  }
+}
