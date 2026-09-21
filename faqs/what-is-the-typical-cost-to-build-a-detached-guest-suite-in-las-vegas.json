@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-to-build-a-detached-guest-suite-in-las-vegas",
+  "name": "What is the typical cost to build a detached guest suite in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build a detached guest suite in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a detached guest suite in the Las Vegas area varies significantly based on size, finishes, and specific features. Factors like plumbing for a bathroom or kitchen, electrical hookups, HVAC systems, and high-end materials will increase the overall investment. Permitting fees and site preparation are also considerations. A basic unit might start around $70,000, while a larger, more luxurious suite could exceed $150,000.",
+        "@type": "Answer",
+        "description": "Costs for a detached guest suite in Las Vegas typically range from $70,000 to over $150,000, depending on size, finishes, and amenities."
+      }
+    }
+  ],
+  "description": "Costs for a detached guest suite in Las Vegas typically range from $70,000 to over $150,000, depending on size, finishes, and amenities."
+}

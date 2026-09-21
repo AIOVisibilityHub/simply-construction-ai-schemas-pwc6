@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-are-important-for-a-casita",
+  "name": "What design considerations are important for a casita?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a casita?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Important design considerations for a casita include its size and layout, ensuring it complements the existing main home and meets local setback requirements. Think about its intended use: will it be a guest suite, a rental, or a workspace? This will inform decisions on plumbing for a kitchen/bathroom, natural light, privacy, and accessibility. Integrating it seamlessly with the existing landscape and utility connections is also key for functionality and aesthetic appeal.",
+        "@type": "Answer",
+        "description": "Key casita design factors include size, layout, intended use (e.g., guest suite, rental), and how it complements the main home. Consider plumbing, natural light, privacy, and utility integration."
+      }
+    }
+  ],
+  "description": "Key casita design factors include size, layout, intended use (e.g., guest suite, rental), and how it complements the main home. Consider plumbing, natural light"
+}

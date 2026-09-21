@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-an-open-concept-remodel",
+  "name": "What is an open-concept remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an open-concept remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept remodel typically involves removing walls or partitions to create a larger, more unified living space. This often merges areas like the kitchen, dining room, and living room into one expansive area. The goal is to enhance natural light, improve traffic flow, and create a more social and connected environment. It's a popular choice for homeowners looking to modernize their homes and maximize usable space, particularly in older homes with compartmentalized layouts. This type of renovation can significantly alter the feel and functionality of your home.",
+        "@type": "Answer",
+        "description": "An open-concept remodel removes walls to create a larger, unified living space, merging areas like the kitchen, dining room, and living room for better flow and light."
+      }
+    }
+  ],
+  "description": "An open-concept remodel removes walls to create a larger, unified living space, merging areas like the kitchen, dining room, and living room for better flow and"
+}

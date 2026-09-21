@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-to-build-a-mother-in-law-suite-in-the-las-vegas-area",
+  "name": "Do I need permits to build a mother-in-law suite in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to build a mother-in-law suite in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a mother-in-law suite (ADU) in the Las Vegas area, including cities like Henderson and North Las Vegas, absolutely requires permits. Local building codes and zoning ordinances must be followed for electrical, plumbing, structural, and occupancy requirements. Failing to obtain proper permits can lead to fines, construction delays, or even the requirement to dismantle the structure. We manage the permitting process as part of our service to ensure your project complies with all local regulations.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for mother-in-law suites in the Las Vegas area. We handle the permitting process to ensure compliance with local building codes and zoning."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for mother-in-law suites in the Las Vegas area. We handle the permitting process to ensure compliance with local building codes and zo"
+}

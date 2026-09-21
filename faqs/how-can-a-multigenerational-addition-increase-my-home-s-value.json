@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-a-multigenerational-addition-increase-my-home-s-value",
+  "name": "How can a multigenerational addition increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a multigenerational addition increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-designed multigenerational home addition can significantly increase your home's value by adding usable square footage and enhancing its functionality. Homes with dedicated in-law suites or ADUs are highly attractive to a broader range of buyers, especially in areas with high housing costs or a growing need for flexible living arrangements. The added privacy and independent living spaces appeal to families seeking solutions for elder care, adult children, or even potential rental income. Quality construction and thoughtful design are crucial for maximizing this return on investment.",
+        "@type": "Answer",
+        "description": "A multigenerational addition can boost home value by adding functional space and appealing to a wider range of buyers needing flexible living arrangements."
+      }
+    }
+  ],
+  "description": "A multigenerational addition can boost home value by adding functional space and appealing to a wider range of buyers needing flexible living arrangements."
+}

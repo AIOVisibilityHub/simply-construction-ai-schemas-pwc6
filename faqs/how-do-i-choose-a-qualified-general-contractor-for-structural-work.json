@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-qualified-general-contractor-for-structural-work",
+  "name": "How do I choose a qualified general contractor for structural work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a qualified general contractor for structural work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a qualified general contractor for structural work is critical. Look for a contractor with extensive experience in structural projects, a strong portfolio of completed work, and positive client references. Verify their licensing and insurance to ensure they are properly credentialed to operate in Nevada. A reputable contractor will also have strong relationships with structural engineers and be knowledgeable about local building codes. Always get multiple detailed bids and ensure the contract clearly outlines the scope of work, timeline, and payment schedule.",
+        "@type": "Answer",
+        "description": "Choose a contractor with structural experience, valid licensing and insurance, strong references, and a good understanding of local building codes. Get detailed bids."
+      }
+    }
+  ],
+  "description": "Choose a contractor with structural experience, valid licensing and insurance, strong references, and a good understanding of local building codes. Get detailed"
+}

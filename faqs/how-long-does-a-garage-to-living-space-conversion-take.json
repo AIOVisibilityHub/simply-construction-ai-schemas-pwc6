@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-garage-to-living-space-conversion-take",
+  "name": "How long does a garage-to-living-space conversion take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage-to-living-space conversion take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage conversion typically ranges from 4 to 12 weeks, though this can vary. Factors influencing the duration include the project's complexity, the extent of structural modifications, the permitting process, material lead times, and the speed of inspections. A simple conversion without extensive plumbing or electrical work will generally be quicker than a complex ADU that requires new utility connections. We provide a detailed project schedule after initial planning.",
+        "@type": "Answer",
+        "description": "A garage conversion usually takes 4-12 weeks, depending on complexity, structural changes, permitting, and material availability. Simpler projects are faster."
+      }
+    }
+  ],
+  "description": "A garage conversion usually takes 4-12 weeks, depending on complexity, structural changes, permitting, and material availability. Simpler projects are faster."
+}

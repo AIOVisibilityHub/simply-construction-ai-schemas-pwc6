@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-garage-to-bedroom-conversion-project",
+  "name": "What is the typical timeline for a garage-to-bedroom conversion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a garage-to-bedroom conversion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage-to-bedroom conversion generally ranges from 4 to 8 weeks, but this can extend based on the project's complexity and local permitting processes. Factors such as structural changes, the addition of new plumbing for a bathroom, extensive electrical work, or unexpected site conditions can impact the schedule. Our team will provide a detailed project schedule after the design and planning phases are complete, ensuring clear communication throughout the process.",
+        "@type": "Answer",
+        "description": "Most garage-to-bedroom conversions take 4 to 8 weeks, depending on project complexity and permitting. We provide a detailed schedule after planning."
+      }
+    }
+  ],
+  "description": "Most garage-to-bedroom conversions take 4 to 8 weeks, depending on project complexity and permitting. We provide a detailed schedule after planning."
+}

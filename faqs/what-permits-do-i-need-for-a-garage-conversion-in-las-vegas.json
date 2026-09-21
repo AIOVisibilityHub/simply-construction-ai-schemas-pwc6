@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-do-i-need-for-a-garage-conversion-in-las-vegas",
+  "name": "What permits do I need for a garage conversion in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits do I need for a garage conversion in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a garage conversion in Las Vegas, you will typically need building permits from your local municipality to ensure the structural integrity, safety, and code compliance of the new living space. This often includes permits for electrical, plumbing, and mechanical work. Depending on the scope, zoning regulations, and whether it's an attached or detached garage, additional permits or approvals for an Accessory Dwelling Unit (ADU) might be required. Simply Construction can guide you through the specific permitting process for your project.",
+        "@type": "Answer",
+        "description": "In Las Vegas, garage conversions require building permits for structural, electrical, plumbing, and mechanical work to ensure code compliance. ADU permits may also be necessary."
+      }
+    }
+  ],
+  "description": "In Las Vegas, garage conversions require building permits for structural, electrical, plumbing, and mechanical work to ensure code compliance. ADU permits may a"
+}

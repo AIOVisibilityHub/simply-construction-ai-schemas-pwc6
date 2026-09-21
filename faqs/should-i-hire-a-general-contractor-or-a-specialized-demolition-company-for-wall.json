@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-hire-a-general-contractor-or-a-specialized-demolition-company-for-wall",
+  "name": "Should I hire a general contractor or a specialized demolition company for wall removal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I hire a general contractor or a specialized demolition company for wall removal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For interior wall removal, especially if it involves structural changes, utility rerouting, or subsequent finishing work, hiring a general contractor is generally recommended. A general contractor can manage the entire project from start to finish, including structural assessments, securing permits, coordinating sub-trades (like electricians and plumbers), and overseeing the finishing touches. A specialized demolition company might be suitable for demolition-only tasks but won't handle the complete project management or finishing work.",
+        "@type": "Answer",
+        "description": "Hire a general contractor for interior wall removal, especially if it involves structural changes, utilities, or finishing work, as they manage the entire project."
+      }
+    }
+  ],
+  "description": "Hire a general contractor for interior wall removal, especially if it involves structural changes, utilities, or finishing work, as they manage the entire proje"
+}

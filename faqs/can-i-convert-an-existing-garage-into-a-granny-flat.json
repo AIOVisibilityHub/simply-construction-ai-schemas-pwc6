@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-an-existing-garage-into-a-granny-flat",
+  "name": "Can I convert an existing garage into a granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing garage into a granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing garage into a granny flat is often a viable option and can sometimes be more cost-effective than new construction. This process involves ensuring the existing structure meets residential building codes, adding insulation, updating electrical and plumbing systems, and installing kitchens and bathrooms. Specific zoning regulations in your Las Vegas community will also dictate feasibility and requirements, including minimum living space and parking provisions. A professional assessment can determine if your garage is suitable for conversion and outline the necessary steps.",
+        "@type": "Answer",
+        "description": "Converting a garage into a granny flat is possible, often cost-effective, but requires ensuring compliance with building codes and zoning regulations."
+      }
+    }
+  ],
+  "description": "Converting a garage into a granny flat is possible, often cost-effective, but requires ensuring compliance with building codes and zoning regulations."
+}

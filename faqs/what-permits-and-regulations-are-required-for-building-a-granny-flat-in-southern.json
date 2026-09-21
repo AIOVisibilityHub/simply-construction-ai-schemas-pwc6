@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-and-regulations-are-required-for-building-a-granny-flat-in-southern",
+  "name": "What permits and regulations are required for building a granny flat in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations are required for building a granny flat in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a granny flat in Southern Nevada requires navigating specific local zoning ordinances, building codes, and obtaining several permits. This typically includes a building permit, electrical permit, plumbing permit, and mechanical permit. You'll also need to comply with local regulations regarding setbacks from property lines, maximum size limitations, height restrictions, and parking requirements. These regulations can vary slightly between jurisdictions like Las Vegas, Henderson, and North Las Vegas. We assist clients in understanding and securing all necessary approvals.",
+        "@type": "Answer",
+        "description": "Granny flats in Southern Nevada require building, electrical, plumbing, and mechanical permits, along with adherence to local zoning and building codes."
+      }
+    }
+  ],
+  "description": "Granny flats in Southern Nevada require building, electrical, plumbing, and mechanical permits, along with adherence to local zoning and building codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-a-wall-is-load-bearing",
+  "name": "How do I know if a wall is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if a wall is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a wall is load-bearing requires professional assessment, as it supports the weight of floors, ceilings, or the roof above it. Common indicators might include walls that continue down to the foundation, walls near the center of the house, or walls with joists or trusses resting directly on them. However, visual inspection alone is often insufficient. A structural engineer or experienced general contractor should always inspect the wall to confirm its function and recommend safe procedures for removal or alteration.",
+        "@type": "Answer",
+        "description": "A load-bearing wall supports structural weight. Professional assessment by an engineer or contractor is essential to confirm if a wall is load-bearing."
+      }
+    }
+  ],
+  "description": "A load-bearing wall supports structural weight. Professional assessment by an engineer or contractor is essential to confirm if a wall is load-bearing."
+}

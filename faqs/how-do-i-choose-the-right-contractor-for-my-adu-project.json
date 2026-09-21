@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-adu-project",
+  "name": "How do I choose the right contractor for my ADU project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my ADU project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor is crucial for a successful ADU project. Look for a general contractor with specific experience in ADU construction, as they understand the unique regulatory and construction challenges involved. Verify their licensing, insurance, and ask for references from previous ADU clients. Review their portfolio to assess the quality of their work and ensure their communication style aligns with your preferences. A transparent and experienced contractor will guide you through each step.",
+        "@type": "Answer",
+        "description": "Choose a contractor with specific ADU experience, verify their license and insurance, check references, and review their portfolio to ensure quality and communication."
+      }
+    }
+  ],
+  "description": "Choose a contractor with specific ADU experience, verify their license and insurance, check references, and review their portfolio to ensure quality and communi"
+}

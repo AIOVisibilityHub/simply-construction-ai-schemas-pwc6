@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-construct-a-backyard-office",
+  "name": "How long does it take to construct a backyard office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a backyard office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Construction timelines for a backyard office typically range from 4 to 12 weeks, depending on the project's complexity. This includes time for design, permit acquisition, site preparation, foundation work, framing, roofing, interior finishes, and utility connections. Simpler, pre-fabricated designs can be quicker, while custom builds with extensive features will take longer. We provide a projected timeline during the planning phase, keeping you informed throughout the entire construction process.",
+        "@type": "Answer",
+        "description": "Construction usually takes 4 to 12 weeks, depending on complexity, design, and features. Simpler designs are faster, while custom builds take longer."
+      }
+    }
+  ],
+  "description": "Construction usually takes 4 to 12 weeks, depending on complexity, design, and features. Simpler designs are faster, while custom builds take longer."
+}

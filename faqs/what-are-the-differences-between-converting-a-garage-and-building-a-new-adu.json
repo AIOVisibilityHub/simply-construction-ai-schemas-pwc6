@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-differences-between-converting-a-garage-and-building-a-new-adu",
+  "name": "What are the differences between converting a garage and building a new ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the differences between converting a garage and building a new ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing garage typically leverages the current foundation and exterior walls, often resulting in lower costs and a faster construction timeline compared to building a detached new ADU from the ground up. However, garage conversions might have limitations regarding size, layout, and utility access. A new ADU offers greater design flexibility and can be tailored precisely to your needs, but generally involves higher expenses and a more extensive construction period due to the need for a new foundation, framing, and full utility connections.",
+        "@type": "Answer",
+        "description": "Garage conversions are generally cheaper and faster, using existing structures, but offer less design flexibility than building a new ADU, which provides full customization at a higher cost."
+      }
+    }
+  ],
+  "description": "Garage conversions are generally cheaper and faster, using existing structures, but offer less design flexibility than building a new ADU, which provides full c"
+}

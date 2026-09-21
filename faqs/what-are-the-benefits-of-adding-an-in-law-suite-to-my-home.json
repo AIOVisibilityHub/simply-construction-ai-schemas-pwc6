@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-adding-an-in-law-suite-to-my-home",
+  "name": "What are the benefits of adding an in-law suite to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding an in-law suite to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding an in-law suite provides multiple benefits, including accommodating multi-generational living, offering privacy for family members, and potentially increasing property value. It can also serve as a flexible space for guests, a home office, or even a rental unit (subject to local zoning). For families with aging parents, it allows for close caregiving while maintaining independence for all residents, making it a practical and valuable home addition.",
+        "@type": "Answer",
+        "description": "Benefits include multi-generational living, privacy for family members, increased property value, and flexible space use."
+      }
+    }
+  ],
+  "description": "Benefits include multi-generational living, privacy for family members, increased property value, and flexible space use."
+}

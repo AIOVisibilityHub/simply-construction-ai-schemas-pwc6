@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-guest-suite-addition-project",
+  "name": "How do I choose the right contractor for my guest suite addition project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my guest suite addition project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your guest suite addition, look for one with extensive experience in similar projects and a strong portfolio of completed work. Verify their licensing, insurance, and ask for references from past clients. A good contractor should communicate clearly, provide a detailed and transparent quote, and demonstrate a thorough understanding of local building codes and permitting processes. It's also crucial to choose a team that understands your vision and can offer practical solutions to bring it to life within your budget and timeline.",
+        "@type": "Answer",
+        "description": "Choose a contractor with proven experience in additions, verifiable licenses and insurance, strong references, clear communication, and a detailed understanding of local building codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor with proven experience in additions, verifiable licenses and insurance, strong references, clear communication, and a detailed understanding"
+}

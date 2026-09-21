@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-building-a-pool-house-in-the-las-vegas-area",
+  "name": "What is the typical cost range for building a pool house in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for building a pool house in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a pool house in the Las Vegas area can vary significantly, generally ranging from $30,000 to over $150,000. Factors influencing this range include the size of the structure, complexity of the design, chosen materials, inclusion of plumbing or electrical work, and interior finishes like kitchens or bathrooms. A basic storage shed style will be on the lower end, while a fully-equipped guest house will be on the higher end.",
+        "@type": "Answer",
+        "description": "Pool house costs in Las Vegas typically range from $30,000 to over $150,000, depending on size, design complexity, materials, and amenities."
+      }
+    }
+  ],
+  "description": "Pool house costs in Las Vegas typically range from $30,000 to over $150,000, depending on size, design complexity, materials, and amenities."
+}

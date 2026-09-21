@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-structural-remodeling-projects-in-the-las-veg",
+  "name": "What is the typical cost range for structural remodeling projects in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for structural remodeling projects in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of structural remodeling in Las Vegas varies widely depending on the project's scope, complexity, and materials. Simple changes, like removing a small load-bearing wall and installing a support beam, might range from $5,000 to $15,000. More extensive projects, such as foundation repair or adding a second story, could cost upwards of $30,000 to $100,000 or more. Factors like engineering fees, permits, and finishing work also contribute to the total. Obtaining detailed bids from licensed contractors is crucial for an accurate estimate.",
+        "@type": "Answer",
+        "description": "Costs for structural remodeling in Las Vegas vary widely from $5,000 for small changes to over $100,000 for major projects. Factors like scope, materials, and permits influence the final price."
+      }
+    }
+  ],
+  "description": "Costs for structural remodeling in Las Vegas vary widely from $5,000 for small changes to over $100,000 for major projects. Factors like scope, materials, and p"
+}

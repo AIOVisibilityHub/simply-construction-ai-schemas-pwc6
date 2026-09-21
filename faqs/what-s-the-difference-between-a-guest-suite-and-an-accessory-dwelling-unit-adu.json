@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-a-guest-suite-and-an-accessory-dwelling-unit-adu",
+  "name": "What's the difference between a guest suite and an Accessory Dwelling Unit (ADU)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a guest suite and an Accessory Dwelling Unit (ADU)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a key difference between a guest suite and an ADU lies in their legal definition and intended use. A guest suite is typically considered part of the main dwelling, primarily for temporary guests, and may share utilities or have limited independent functionality. An ADU, however, is a separate, complete living unit with its own kitchen, bathroom, sleeping area, and often a separate entrance, designed for long-term occupancy or rental, and must meet specific zoning and building codes for independent dwellings. ADUs have more stringent requirements than simple guest suites.",
+        "@type": "Answer",
+        "description": "A guest suite is part of the main home for temporary guests, while an ADU is a legally separate, self-contained living unit with full amenities for independent, long-term occupancy."
+      }
+    }
+  ],
+  "description": "A guest suite is part of the main home for temporary guests, while an ADU is a legally separate, self-contained living unit with full amenities for independent,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-a-floor-plan-redesign-for-my-home",
+  "name": "When should I consider a floor plan redesign for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a floor plan redesign for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a floor plan redesign if your current space no longer meets your needs, feels cramped, lacks functionality, or if you're looking to enhance your home's value and appeal. Common triggers include a growing family, working from home, a desire for open-concept living, or preparing a house for sale. A redesign can address inefficient layouts, poor traffic flow, or outdated room configurations, creating a more suitable and modern living environment.",
+        "@type": "Answer",
+        "description": "Consider a redesign when your space no longer meets your needs, feels cramped, lacks functionality, or if you want to increase home value. It addresses inefficient layouts or outdated configurations."
+      }
+    }
+  ],
+  "description": "Consider a redesign when your space no longer meets your needs, feels cramped, lacks functionality, or if you want to increase home value. It addresses ineffici"
+}

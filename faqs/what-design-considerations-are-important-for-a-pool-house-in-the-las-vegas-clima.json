@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-are-important-for-a-pool-house-in-the-las-vegas-clima",
+  "name": "What design considerations are important for a pool house in the Las Vegas climate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations are important for a pool house in the Las Vegas climate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For the Las Vegas climate, design considerations include effective shading solutions like pergolas or extended eaves to reduce direct sun exposure. Proper insulation and energy-efficient windows are crucial to manage indoor temperatures, especially if the structure will be conditioned. Materials should be durable and resistant to intense UV radiation and extreme heat. Incorporating features like misters or fans can also enhance comfort in outdoor areas.",
+        "@type": "Answer",
+        "description": "In Las Vegas, design for shade, efficient insulation, durable materials resistant to UV/heat, and consider misters or fans for comfort."
+      }
+    }
+  ],
+  "description": "In Las Vegas, design for shade, efficient insulation, durable materials resistant to UV/heat, and consider misters or fans for comfort."
+}

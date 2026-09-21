@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-contractor-for-an-open-concept-remodel",
+  "name": "How do I choose a contractor for an open-concept remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for an open-concept remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right contractor for an open-concept remodel involves several steps. Look for licensed and insured general contractors with specific experience in structural modifications and interior renovations. Check their portfolio for similar projects and ask for references. Verify their license with the Nevada State Contractors Board. Get multiple detailed bids and compare them not just on price, but also on scope of work, timeline, and communication style. A reputable contractor will provide a clear contract, manage permits, and have strong project management skills. Don't hesitate to ask questions and trust your instincts.",
+        "@type": "Answer",
+        "description": "Choose a licensed and insured contractor with structural remodel experience. Check portfolios, references, and licenses. Compare multiple bids and ensure a clear contract."
+      }
+    }
+  ],
+  "description": "Choose a licensed and insured contractor with structural remodel experience. Check portfolios, references, and licenses. Compare multiple bids and ensure a clea"
+}

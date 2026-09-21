@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-garage-conversion-project-usually-take",
+  "name": "How long does a garage conversion project usually take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a garage conversion project usually take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage conversion project typically ranges from 4 to 8 weeks, but this can vary based on the project's complexity and the scope of work. Factors like permit approval times, availability of materials, and the extent of structural or utility modifications can influence the duration. A simple conversion to a living space might be quicker than one that adds a new bathroom or kitchen.",
+        "@type": "Answer",
+        "description": "A garage conversion usually takes 4 to 8 weeks, but this varies based on project complexity, permit approvals, and scope of work."
+      }
+    }
+  ],
+  "description": "A garage conversion usually takes 4 to 8 weeks, but this varies based on project complexity, permit approvals, and scope of work."
+}

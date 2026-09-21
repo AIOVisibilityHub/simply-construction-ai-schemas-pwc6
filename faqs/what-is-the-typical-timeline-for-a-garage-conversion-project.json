@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-a-garage-conversion-project",
+  "name": "What is the typical timeline for a garage conversion project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for a garage conversion project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for converting a garage into a guest house generally ranges from 8 to 16 weeks, though this can vary based on project complexity and permitting processes. Initial design and permitting can take several weeks, followed by demolition, framing, plumbing, electrical, insulation, drywall, and finishing work. Factors such as the need for extensive structural changes, unexpected issues during construction, or delays in material delivery can extend the project duration. We provide a detailed project schedule at the outset to keep you informed.",
+        "@type": "Answer",
+        "description": "A typical garage conversion project takes 8 to 16 weeks, depending on design, permitting, and construction complexity."
+      }
+    }
+  ],
+  "description": "A typical garage conversion project takes 8 to 16 weeks, depending on design, permitting, and construction complexity."
+}

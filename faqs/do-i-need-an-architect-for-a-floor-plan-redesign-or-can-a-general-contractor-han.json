@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-an-architect-for-a-floor-plan-redesign-or-can-a-general-contractor-han",
+  "name": "Do I need an architect for a floor plan redesign, or can a general contractor handle it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an architect for a floor plan redesign, or can a general contractor handle it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For significant structural changes or complex reconfigurations, an architect or structural engineer's expertise is often necessary for design and structural integrity. A general contractor, like Simply Construction, can manage the entire project, coordinating with architects, engineers, and other specialists as needed. For less complex, non-structural alterations, a skilled general contractor with design capabilities can often handle the design and execution. We can advise on the specific requirements for your project.",
+        "@type": "Answer",
+        "description": "For complex structural changes, an architect or engineer may be needed, which a general contractor can coordinate. For simpler non-structural alterations, a skilled general contractor can often manage both design and execution."
+      }
+    }
+  ],
+  "description": "For complex structural changes, an architect or engineer may be needed, which a general contractor can coordinate. For simpler non-structural alterations, a ski"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-backyard-office-project",
+  "name": "How do I choose the right contractor for my backyard office project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my backyard office project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, look for experience in backyard structures, a strong portfolio of completed projects, and positive client testimonials. Ensure they are licensed and insured in Nevada, understand local building codes, and offer transparent communication regarding timelines and costs. A good contractor will conduct a thorough site assessment, provide a detailed proposal, and be able to manage the entire process, including permits and various trades, just like Simply Construction does.",
+        "@type": "Answer",
+        "description": "Choose a licensed, insured contractor with experience in backyard structures, a strong portfolio, positive reviews, and transparent communication, like Simply Construction."
+      }
+    }
+  ],
+  "description": "Choose a licensed, insured contractor with experience in backyard structures, a strong portfolio, positive reviews, and transparent communication, like Simply C"
+}

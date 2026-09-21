@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-build-a-mother-in-law-suite-in-las-vegas",
+  "name": "How much does it cost to build a mother-in-law suite in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a mother-in-law suite in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to build a mother-in-law suite in the Las Vegas area varies significantly based on size, features, and whether it's an attached, detached, or conversion project. Factors influencing price include foundation work, utility connections, finishes, and specific amenities like a full kitchen versus a kitchenette. A simple garage conversion might be less expensive than building a new detached unit from the ground up. We provide detailed estimates after an on-site consultation to understand your specific project requirements.",
+        "@type": "Answer",
+        "description": "Costs vary widely in Las Vegas depending on size, features, type (attached, detached, conversion), and specific amenities. We offer detailed estimates after a consultation."
+      }
+    }
+  ],
+  "description": "Costs vary widely in Las Vegas depending on size, features, type (attached, detached, conversion), and specific amenities. We offer detailed estimates after a c"
+}

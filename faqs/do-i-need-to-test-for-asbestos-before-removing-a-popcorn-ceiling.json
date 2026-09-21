@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-test-for-asbestos-before-removing-a-popcorn-ceiling",
+  "name": "Do I need to test for asbestos before removing a popcorn ceiling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to test for asbestos before removing a popcorn ceiling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your home was built before 1980, it is highly recommended to have your popcorn ceiling tested for asbestos before beginning any removal work. Asbestos was a common component in older building materials, and disturbing it can release hazardous fibers into the air. A professional asbestos testing service can determine its presence and advise on safe handling or removal procedures, which are crucial for safety.",
+        "@type": "Answer",
+        "description": "If your home was built before 1980, test your popcorn ceiling for asbestos before removal to ensure safety."
+      }
+    }
+  ],
+  "description": "If your home was built before 1980, test your popcorn ceiling for asbestos before removal to ensure safety."
+}

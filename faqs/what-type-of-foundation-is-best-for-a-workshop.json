@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-type-of-foundation-is-best-for-a-workshop",
+  "name": "What type of foundation is best for a workshop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of foundation is best for a workshop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best type of foundation for a workshop depends on factors such as soil conditions, climate, the workshop's size and weight, and your budget. Common options include a concrete slab, which is durable, provides a flat surface, and is resistant to moisture. Another option is a post-and-pier foundation, suitable for sloping sites or smaller structures where minimal excavation is desired. A raised wood floor can also be considered for certain applications. Your contractor can assess your site and recommend the most appropriate and cost-effective foundation.",
+        "@type": "Answer",
+        "description": "Foundation choice for a workshop depends on soil, climate, size, and budget. Options include concrete slabs or post-and-pier foundations."
+      }
+    }
+  ],
+  "description": "Foundation choice for a workshop depends on soil, climate, size, and budget. Options include concrete slabs or post-and-pier foundations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-build-a-backyard-office",
+  "name": "How much does it cost to build a backyard office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to build a backyard office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a backyard office varies significantly based on size, materials, level of customization, and included amenities like HVAC, plumbing, or advanced electrical work. A basic shed-style office might start around $15,000, while a fully insulated, custom-designed unit with utilities could range from $30,000 to $70,000 or more. We provide detailed estimates after an initial consultation to understand your specific requirements and site conditions, ensuring transparency and no hidden costs.",
+        "@type": "Answer",
+        "description": "Costs range from $15,000 for basic models to over $70,000 for custom units, depending on size, materials, and amenities. We provide detailed estimates after consultation."
+      }
+    }
+  ],
+  "description": "Costs range from $15,000 for basic models to over $70,000 for custom units, depending on size, materials, and amenities. We provide detailed estimates after con"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-constructing-a-guest-suite-addition",
+  "name": "What is the typical timeline for constructing a guest suite addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a guest suite addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a guest suite addition typically ranges from 3 to 6 months, though this can vary based on the project's complexity, the scope of work, and permit approval times. Initial design and planning can take several weeks, followed by permit acquisition, which might take another 4-8 weeks. The actual construction phase, including foundation, framing, utilities, finishes, and inspections, usually spans 2-4 months. Delays can occur due to material availability, weather, or unexpected site conditions, but a clear project plan helps minimize these.",
+        "@type": "Answer",
+        "description": "A typical guest suite addition takes 3 to 6 months from design to completion, including planning, permits, and construction, depending on complexity."
+      }
+    }
+  ],
+  "description": "A typical guest suite addition takes 3 to 6 months from design to completion, including planning, permits, and construction, depending on complexity."
+}

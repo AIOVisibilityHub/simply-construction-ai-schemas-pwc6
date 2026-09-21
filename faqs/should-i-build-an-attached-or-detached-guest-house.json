@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-build-an-attached-or-detached-guest-house",
+  "name": "Should I build an attached or detached guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an attached or detached guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between an attached or detached guest house depends on your property layout, budget, and intended use. Attached ADUs may be more cost-effective as they can share existing utility lines and walls with the main house, potentially simplifying permitting. Detached units offer more privacy and flexibility in design, creating a separate living space. Consider property setbacks, available space, desired level of independence for occupants, and the aesthetic integration with your primary residence when making this decision.",
+        "@type": "Answer",
+        "description": "Choose between an attached or detached guest house based on budget, property layout, and desired privacy. Attached may be cheaper, detached offers more independence."
+      }
+    }
+  ],
+  "description": "Choose between an attached or detached guest house based on budget, property layout, and desired privacy. Attached may be cheaper, detached offers more independ"
+}

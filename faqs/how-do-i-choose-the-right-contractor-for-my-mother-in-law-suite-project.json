@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-mother-in-law-suite-project",
+  "name": "How do I choose the right contractor for my mother-in-law suite project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my mother-in-law suite project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor, look for one with specific experience in ADU or mother-in-law suite construction. Verify their licensing and insurance. Review their portfolio for similar projects and ask for references from previous clients. A reputable contractor will provide a clear, detailed contract outlining the scope of work, timeline, and payment schedule. Communication is key, so choose a team that is responsive and transparent throughout the process. Ensure they are familiar with local building codes in your specific area.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ADU experience, verify licenses and insurance, check references, review portfolios, and ensure clear communication and detailed contracts."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ADU experience, verify licenses and insurance, check references, review portfolios, and ensure clear communication and detailed contrac"
+}

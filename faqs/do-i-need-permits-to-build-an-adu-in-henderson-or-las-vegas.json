@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-to-build-an-adu-in-henderson-or-las-vegas",
+  "name": "Do I need permits to build an ADU in Henderson or Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to build an ADU in Henderson or Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely. Building an ADU in Henderson or Las Vegas requires obtaining proper permits from the relevant city or county planning department. This ensures the structure meets all local building codes, zoning ordinances, and safety standards. The permitting process typically involves submitting detailed architectural plans, site plans, and engineering documents for review and approval. We assist our clients in navigating this complex process to ensure full compliance.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for ADU construction in Henderson and Las Vegas to ensure compliance with local building codes and zoning."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for ADU construction in Henderson and Las Vegas to ensure compliance with local building codes and zoning."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-rent-out-my-casita-for-income",
+  "name": "Can I rent out my casita for income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my casita for income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ability to rent out your casita for income depends on local zoning regulations and homeowners' association (HOA) rules in your specific area. Many areas in Las Vegas, Henderson, and Clark County permit long-term rentals of ADUs, which often include casitas. However, short-term rentals (like Airbnb) may have stricter limitations or require special permits. It's crucial to verify your property's specific zoning and HOA covenants before planning to rent out your casita.",
+        "@type": "Answer",
+        "description": "Renting out a casita depends on local zoning and HOA rules. Long-term rentals are often permitted for ADUs, but short-term rentals may have stricter rules. Verify regulations beforehand."
+      }
+    }
+  ],
+  "description": "Renting out a casita depends on local zoning and HOA rules. Long-term rentals are often permitted for ADUs, but short-term rentals may have stricter rules. Veri"
+}

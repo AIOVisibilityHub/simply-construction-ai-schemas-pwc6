@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-constructing-a-mother-in-law-suite",
+  "name": "What is the typical timeline for constructing a mother-in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a mother-in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for constructing a mother-in-law suite depends on the project's complexity, permitting processes, and material availability. A garage conversion might take a few months, while a new detached structure could take longer. Generally, from initial design to final inspection, projects can range from 4 to 12 months. Factors like obtaining necessary permits from local authorities in areas like Las Vegas or Henderson can influence the overall schedule. We provide a projected timeline during the planning phase.",
+        "@type": "Answer",
+        "description": "Construction timelines vary from 4 to 12 months, depending on project complexity, permitting, and whether it's a conversion or new build."
+      }
+    }
+  ],
+  "description": "Construction timelines vary from 4 to 12 months, depending on project complexity, permitting, and whether it's a conversion or new build."
+}

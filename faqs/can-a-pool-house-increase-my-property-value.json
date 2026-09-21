@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-pool-house-increase-my-property-value",
+  "name": "Can a pool house increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a pool house increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a well-designed and constructed pool house can increase your property value. It adds functional living space, enhances the appeal of your outdoor entertaining area, and demonstrates a higher level of property amenity. Factors like the quality of construction, functionality, and how well it integrates with your existing home and landscape will influence the extent of the value increase. It's often viewed as a desirable feature by potential buyers.",
+        "@type": "Answer",
+        "description": "A well-designed pool house can increase property value by adding functional space, enhancing outdoor appeal, and demonstrating a higher level of amenity."
+      }
+    }
+  ],
+  "description": "A well-designed pool house can increase property value by adding functional space, enhancing outdoor appeal, and demonstrating a higher level of amenity."
+}

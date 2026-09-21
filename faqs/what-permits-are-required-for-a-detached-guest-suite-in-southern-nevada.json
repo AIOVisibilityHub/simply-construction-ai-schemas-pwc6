@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-detached-guest-suite-in-southern-nevada",
+  "name": "What permits are required for a detached guest suite in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a detached guest suite in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a detached guest suite in Southern Nevada requires several permits to ensure compliance with local codes and safety standards. These typically include building permits, electrical permits, plumbing permits, and mechanical permits. Depending on the project, zoning variances or special use permits might also be necessary, especially for larger structures or if the property has specific overlays. We handle the entire permitting process for our clients.",
+        "@type": "Answer",
+        "description": "In Southern Nevada, permits for a detached guest suite include building, electrical, plumbing, and mechanical, with potential for zoning variances."
+      }
+    }
+  ],
+  "description": "In Southern Nevada, permits for a detached guest suite include building, electrical, plumbing, and mechanical, with potential for zoning variances."
+}

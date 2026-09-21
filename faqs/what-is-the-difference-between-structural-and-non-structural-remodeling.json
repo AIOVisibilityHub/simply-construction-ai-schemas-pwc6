@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-structural-and-non-structural-remodeling",
+  "name": "What is the difference between structural and non-structural remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between structural and non-structural remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural remodeling involves altering or adding to a home's load-bearing components, which are essential for its stability and integrity, such as foundations, beams, or load-bearing walls. This requires engineering assessments, specific permits, and specialized construction techniques. Non-structural remodeling, conversely, focuses on cosmetic or functional changes that do not affect the building's core support system. Examples include painting, cabinet installation, flooring replacement, or reconfiguring non-load-bearing partitions. Non-structural work typically has fewer regulatory hurdles.",
+        "@type": "Answer",
+        "description": "Structural remodeling changes load-bearing elements, impacting a building's stability. Non-structural remodeling is cosmetic or functional, without affecting core support."
+      }
+    }
+  ],
+  "description": "Structural remodeling changes load-bearing elements, impacting a building's stability. Non-structural remodeling is cosmetic or functional, without affecting co"
+}

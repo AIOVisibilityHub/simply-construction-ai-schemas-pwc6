@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-floor-plan-redesign-help-with-energy-efficiency",
+  "name": "Can a floor plan redesign help with energy efficiency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a floor plan redesign help with energy efficiency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a floor plan redesign can contribute to improved energy efficiency. By reconfiguring layouts, you can optimize natural light and ventilation, reducing the need for artificial lighting and air conditioning. Incorporating design elements like strategically placed windows, skylights, or even relocating rooms to take advantage of solar orientation can minimize energy consumption. Simply Construction can integrate energy-efficient design principles into your redesign to help lower utility costs.",
+        "@type": "Answer",
+        "description": "Yes, a redesign can improve energy efficiency by optimizing natural light and ventilation, reducing reliance on artificial lighting and air conditioning. Strategic window placement helps lower utility costs."
+      }
+    }
+  ],
+  "description": "Yes, a redesign can improve energy efficiency by optimizing natural light and ventilation, reducing reliance on artificial lighting and air conditioning. Strate"
+}

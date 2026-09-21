@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-considerations-for-a-guest-house",
+  "name": "What are common design considerations for a guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for a guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for a guest house include maximizing space efficiency, ensuring privacy, and maintaining aesthetic harmony with the main property. Think about the layout to include a functional kitchen, bathroom, and sleeping area within a compact footprint. Incorporate natural light, adequate storage, and ventilation. Exterior design should complement the existing home's style. Accessibility features, such as wider doorways or a no-step entry, can also be valuable for future use. Consider the orientation for energy efficiency.",
+        "@type": "Answer",
+        "description": "Design a guest house to be space-efficient, private, and aesthetically consistent with the main home. Focus on functional layout, natural light, and potential accessibility."
+      }
+    }
+  ],
+  "description": "Design a guest house to be space-efficient, private, and aesthetically consistent with the main home. Focus on functional layout, natural light, and potential a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-to-build-a-granny-flat-in-the-las-vegas-area",
+  "name": "What is the typical cost to build a granny flat in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost to build a granny flat in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a granny flat in the Las Vegas area varies significantly based on size, chosen finishes, site preparation requirements, and whether it's an attached or detached unit. Generally, prices can range from $100,000 to over $250,000. This estimate typically includes design, permitting, materials, and labor. Factors like utility connections and specialized features also impact the final cost. We provide detailed estimates after an initial site assessment and design consultation.",
+        "@type": "Answer",
+        "description": "Costs for building a granny flat in Las Vegas typically range from $100,000 to over $250,000, depending on size, finishes, and site work."
+      }
+    }
+  ],
+  "description": "Costs for building a granny flat in Las Vegas typically range from $100,000 to over $250,000, depending on size, finishes, and site work."
+}

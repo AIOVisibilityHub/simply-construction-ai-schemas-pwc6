@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-structural-beam-and-why-is-it-needed-in-construction",
+  "name": "What is a structural beam and why is it needed in construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a structural beam and why is it needed in construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A structural beam is a horizontal load-bearing element designed to withstand weight and transfer it to vertical supports like columns or walls. Beams are crucial for maintaining a building's integrity, supporting floors, roofs, and walls, and distributing forces evenly throughout the structure. They are typically needed when creating large open spaces, removing load-bearing walls, or adding significant weight to a building, ensuring stability and safety for the occupants and the structure itself. Materials can vary, including wood, steel, or concrete, depending on the load requirements and design.",
+        "@type": "Answer",
+        "description": "A structural beam is a load-bearing element that supports weight and distributes forces, crucial for a building's stability and safety."
+      }
+    }
+  ],
+  "description": "A structural beam is a load-bearing element that supports weight and distributes forces, crucial for a building's stability and safety."
+}

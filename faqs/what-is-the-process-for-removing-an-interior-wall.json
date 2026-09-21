@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-removing-an-interior-wall",
+  "name": "What is the process for removing an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for removing an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for interior wall removal typically begins with an initial consultation to assess the wall's structure and determine if it's load-bearing. If it is, temporary supports are installed. Utilities within the wall (electrical, plumbing, HVAC) are disconnected and rerouted. The wall is then carefully demolished, and debris is removed. Finally, the surrounding areas are finished, including patching, drywall installation, and painting, to seamlessly integrate the new open space.",
+        "@type": "Answer",
+        "description": "Interior wall removal involves assessing the wall, installing supports if load-bearing, disconnecting utilities, demolition, debris removal, and finishing the area."
+      }
+    }
+  ],
+  "description": "Interior wall removal involves assessing the wall, installing supports if load-bearing, disconnecting utilities, demolition, debris removal, and finishing the a"
+}

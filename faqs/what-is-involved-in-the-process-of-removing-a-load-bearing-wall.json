@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-process-of-removing-a-load-bearing-wall",
+  "name": "What is involved in the process of removing a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the process of removing a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process of removing a load-bearing wall involves several key steps. First, a structural engineer designs a suitable replacement support system, typically a new beam and posts. Next, temporary supports are installed to hold the load while the wall is removed. The old wall is then carefully demolished, and the new beam and any necessary columns are installed. Finally, the area is finished with drywall, paint, and flooring to blend seamlessly with your existing space. Permitting is also a crucial early step.",
+        "@type": "Answer",
+        "description": "It involves structural design, installing temporary supports, removing the wall, installing a new beam, and finishing the area, all after obtaining necessary permits."
+      }
+    }
+  ],
+  "description": "It involves structural design, installing temporary supports, removing the wall, installing a new beam, and finishing the area, all after obtaining necessary pe"
+}

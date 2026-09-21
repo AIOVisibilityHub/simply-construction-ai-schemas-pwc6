@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-detached-guest-suite-be-rented-out-for-income",
+  "name": "Can a detached guest suite be rented out for income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a detached guest suite be rented out for income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in many areas of Las Vegas, Henderson, and other Southern Nevada communities, detached guest suites can be rented out, potentially generating additional income. However, it's crucial to verify local zoning ordinances and homeowner association (HOA) rules regarding accessory dwelling units (ADUs) and rental properties. Regulations can vary significantly by jurisdiction and neighborhood, so confirming compliance before planning is essential to avoid future issues.",
+        "@type": "Answer",
+        "description": "Yes, but check local zoning and HOA rules in Las Vegas, Henderson, and other Southern Nevada communities regarding ADU rentals first."
+      }
+    }
+  ],
+  "description": "Yes, but check local zoning and HOA rules in Las Vegas, Henderson, and other Southern Nevada communities regarding ADU rentals first."
+}

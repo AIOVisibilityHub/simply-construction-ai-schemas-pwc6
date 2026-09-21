@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-converting-my-garage-affect-my-property-taxes",
+  "name": "Will converting my garage affect my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage affect my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a habitable rental unit, such as an ADU, will likely affect your property taxes. This type of improvement adds significant value to your property, and local assessors typically reassess properties after such substantial renovations. The exact increase in property taxes will depend on the appraised value of the new living space and the local tax rates in your specific area. It's advisable to consult with a local tax professional or your county assessor's office for precise information relevant to your property.",
+        "@type": "Answer",
+        "description": "Converting a garage to a rental unit typically increases property taxes because it adds significant value to your property, prompting a reassessment by local assessors."
+      }
+    }
+  ],
+  "description": "Converting a garage to a rental unit typically increases property taxes because it adds significant value to your property, prompting a reassessment by local as"
+}

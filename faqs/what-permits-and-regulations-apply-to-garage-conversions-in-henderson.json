@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-and-regulations-apply-to-garage-conversions-in-henderson",
+  "name": "What permits and regulations apply to garage conversions in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and regulations apply to garage conversions in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting a garage into a guest house in Henderson requires adherence to specific local building codes and zoning ordinances. You will need permits for structural changes, plumbing, electrical, and mechanical systems. The City of Henderson has specific requirements regarding setbacks, parking, occupancy, and design standards for accessory dwelling units (ADUs). It's crucial to ensure your plans comply with these regulations to avoid delays or issues. We assist with navigating the permitting process and ensuring all work meets local standards.",
+        "@type": "Answer",
+        "description": "In Henderson, garage conversions need permits for structural, plumbing, electrical, and mechanical work, adhering to specific city building codes and zoning for ADUs."
+      }
+    }
+  ],
+  "description": "In Henderson, garage conversions need permits for structural, plumbing, electrical, and mechanical work, adhering to specific city building codes and zoning for"
+}

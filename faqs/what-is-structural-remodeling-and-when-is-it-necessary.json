@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-structural-remodeling-and-when-is-it-necessary",
+  "name": "What is structural remodeling and when is it necessary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is structural remodeling and when is it necessary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural remodeling involves altering or adding to the load-bearing elements of a building, such as walls, beams, columns, foundations, or roofs. It's necessary when you want to remove a load-bearing wall, add a new level, change the roofline, or correct existing structural issues like sagging floors or foundation cracks. This type of project requires careful planning and adherence to local building codes to ensure safety and structural integrity. A licensed general contractor can assess your specific needs and determine if structural changes are required for your desired renovation.",
+        "@type": "Answer",
+        "description": "Structural remodeling changes load-bearing parts of a building, like walls or foundations. It's needed for major alterations or to fix structural problems."
+      }
+    }
+  ],
+  "description": "Structural remodeling changes load-bearing parts of a building, like walls or foundations. It's needed for major alterations or to fix structural problems."
+}

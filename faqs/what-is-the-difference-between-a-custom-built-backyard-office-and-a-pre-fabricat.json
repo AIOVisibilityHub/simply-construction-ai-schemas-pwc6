@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-custom-built-backyard-office-and-a-pre-fabricat",
+  "name": "What is the difference between a custom-built backyard office and a pre-fabricated one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom-built backyard office and a pre-fabricated one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom-built backyard office is designed from the ground up to your specific aesthetic preferences, functional needs, and site conditions, offering complete control over layout, materials, and features. Pre-fabricated offices are manufactured off-site and assembled on your property, often providing a quicker and sometimes more cost-effective solution with limited customization. Custom builds offer more flexibility for unique spaces and specific requirements, while pre-fabs can be a faster route to a functional workspace.",
+        "@type": "Answer",
+        "description": "Custom-built offices offer full design control and unique adaptation, while pre-fabricated units are quicker, often more affordable, but have limited customization options."
+      }
+    }
+  ],
+  "description": "Custom-built offices offer full design control and unique adaptation, while pre-fabricated units are quicker, often more affordable, but have limited customizat"
+}

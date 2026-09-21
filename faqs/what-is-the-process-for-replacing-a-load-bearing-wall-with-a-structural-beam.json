@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-replacing-a-load-bearing-wall-with-a-structural-beam",
+  "name": "What is the process for replacing a load-bearing wall with a structural beam?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for replacing a load-bearing wall with a structural beam?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for replacing a load-bearing wall with a structural beam involves several key steps. First, a structural engineer assesses the existing wall and designs the appropriate beam and support system. Second, permit applications are submitted based on the engineer's plans. Once approved, the area is prepared, temporary supports are installed to hold the overhead load, and the existing wall is carefully demolished. The new structural beam is then precisely installed, often with new posts or footings. Finally, the temporary supports are removed, and finishes like drywall and paint are repaired. Throughout, adherence to safety and building codes is paramount.",
+        "@type": "Answer",
+        "description": "Replacing a load-bearing wall with a beam involves engineering design, permits, temporary support, wall demolition, beam installation, and finishing work."
+      }
+    }
+  ],
+  "description": "Replacing a load-bearing wall with a beam involves engineering design, permits, temporary support, wall demolition, beam installation, and finishing work."
+}

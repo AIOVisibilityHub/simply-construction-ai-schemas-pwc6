@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-granny-flat-project-in-las-vegas",
+  "name": "How do I choose the right contractor for my granny flat project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my granny flat project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your granny flat project in Las Vegas, look for one with experience in ADU construction and a strong understanding of local zoning and building codes. Verify their licensing and insurance, check references, and review their portfolio of similar projects. A good contractor should offer transparent pricing, clear communication, and a detailed project plan. Obtain multiple bids and ensure the contractor provides a written contract outlining all aspects of the project, including timelines and payment schedules.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ADU experience, local code knowledge, proper licensing, good references, and transparent communication for your Las Vegas project."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ADU experience, local code knowledge, proper licensing, good references, and transparent communication for your Las Vegas project."
+}

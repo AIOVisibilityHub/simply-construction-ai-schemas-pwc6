@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-an-adu-increase-my-property-value-and-rental-income-potential",
+  "name": "Will an ADU increase my property value and rental income potential?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an ADU increase my property value and rental income potential?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building an ADU can significantly increase your property's value by adding usable square footage and a separate living unit. It also offers excellent potential for generating rental income, which can help offset mortgage payments or provide a steady revenue stream. The exact increase in value and rental income depends on factors like the ADU's size, quality of construction, amenities, and market demand in your specific Las Vegas neighborhood.",
+        "@type": "Answer",
+        "description": "An ADU can increase property value and generate rental income, with specifics depending on the unit's quality and local market demand."
+      }
+    }
+  ],
+  "description": "An ADU can increase property value and generate rental income, with specifics depending on the unit's quality and local market demand."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-garage-conversion-in-the-las-vegas-valley",
+  "name": "What permits are required for a garage conversion in the Las Vegas valley?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a garage conversion in the Las Vegas valley?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas valley, converting a garage into a rental unit requires specific permits to ensure compliance with local building codes, zoning ordinances, and safety regulations. These typically include building permits, electrical permits, plumbing permits, and mechanical permits. Depending on the scope, you might also need planning approval for changes to the property's use. It is crucial to work with a contractor who understands the local permitting process in areas like Las Vegas, Henderson, or Summerlin to avoid delays or issues.",
+        "@type": "Answer",
+        "description": "Garage conversions in the Las Vegas valley require building, electrical, plumbing, and mechanical permits, and potentially planning approval, to comply with local codes."
+      }
+    }
+  ],
+  "description": "Garage conversions in the Las Vegas valley require building, electrical, plumbing, and mechanical permits, and potentially planning approval, to comply with loc"
+}

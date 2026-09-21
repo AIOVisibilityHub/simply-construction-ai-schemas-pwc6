@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-design-considerations-should-i-keep-in-mind-for-a-granny-flat",
+  "name": "What design considerations should I keep in mind for a granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What design considerations should I keep in mind for a granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a granny flat, consider functionality, accessibility, and integration with your existing property. Key considerations include maximizing natural light, efficient use of space, and choosing durable, low-maintenance materials. If intended for aging family members, incorporating universal design principles like wider doorways, zero-entry showers, and grab bars can be beneficial. Also, think about privacy for both the main house and the ADU, as well as separate entrances and outdoor spaces. Our design team can help create a plan that meets your specific needs and aesthetic preferences.",
+        "@type": "Answer",
+        "description": "Design considerations for a granny flat include functionality, accessibility, efficient space use, material choices, and ensuring privacy for both dwellings."
+      }
+    }
+  ],
+  "description": "Design considerations for a granny flat include functionality, accessibility, efficient space use, material choices, and ensuring privacy for both dwellings."
+}

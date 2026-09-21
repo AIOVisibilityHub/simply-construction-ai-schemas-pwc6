@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-guest-houses-increase-property-value",
+  "name": "Do guest houses increase property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do guest houses increase property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a guest house or ADU can significantly increase property value. It adds usable living space, which is a key factor for appraisals. A well-designed and constructed guest house can serve multiple purposes, such as providing rental income, accommodating multi-generational families, or offering a dedicated home office. This versatility makes a property more attractive to potential buyers, often resulting in a higher return on investment. The actual increase depends on local market conditions and the quality of the ADU.",
+        "@type": "Answer",
+        "description": "Yes, guest houses generally increase property value by adding versatile living space, improving marketability, and offering potential rental income."
+      }
+    }
+  ],
+  "description": "Yes, guest houses generally increase property value by adding versatile living space, improving marketability, and offering potential rental income."
+}

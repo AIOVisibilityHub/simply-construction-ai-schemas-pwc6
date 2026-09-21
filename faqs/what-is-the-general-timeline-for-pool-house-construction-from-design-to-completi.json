@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-general-timeline-for-pool-house-construction-from-design-to-completi",
+  "name": "What is the general timeline for pool house construction from design to completion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general timeline for pool house construction from design to completion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a pool house typically ranges from 2 to 6 months, though this can vary. The initial design and permitting phase can take 4-8 weeks, depending on local regulations and design complexity. Once permits are secured, the actual construction phase, including foundation, framing, utilities, and finishes, usually takes 6-12 weeks. Larger or more elaborate designs will naturally extend this timeframe.",
+        "@type": "Answer",
+        "description": "Pool house construction usually takes 2-6 months, with 4-8 weeks for design/permitting and 6-12 weeks for physical construction, varying by project scope."
+      }
+    }
+  ],
+  "description": "Pool house construction usually takes 2-6 months, with 4-8 weeks for design/permitting and 6-12 weeks for physical construction, varying by project scope."
+}

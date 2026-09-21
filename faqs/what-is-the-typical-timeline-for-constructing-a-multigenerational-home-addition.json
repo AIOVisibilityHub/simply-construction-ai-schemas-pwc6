@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-constructing-a-multigenerational-home-addition",
+  "name": "What is the typical timeline for constructing a multigenerational home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for constructing a multigenerational home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a multigenerational home addition can range from several months to over a year, depending on its scope and complexity. The process typically begins with design and architectural planning, which can take several weeks or months. Permitting varies by jurisdiction (e.g., Las Vegas, Henderson) but generally adds one to three months. Construction itself can take three to six months or more for larger, more intricate additions. Factors like material availability, weather, and the efficiency of inspections also influence the overall schedule.",
+        "@type": "Answer",
+        "description": "A multigenerational home addition typically takes several months to over a year, including design, permitting, and construction phases."
+      }
+    }
+  ],
+  "description": "A multigenerational home addition typically takes several months to over a year, including design, permitting, and construction phases."
+}

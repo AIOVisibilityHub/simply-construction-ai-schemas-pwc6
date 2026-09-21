@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-casita-and-how-is-it-different-from-an-adu",
+  "name": "What is a casita and how is it different from an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a casita and how is it different from an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A casita, Spanish for 'little house,' typically refers to a detached guesthouse or small living space often found on the same property as a main residence. While similar to an Accessory Dwelling Unit (ADU), the term 'casita' often implies a more aesthetic or culturally inspired design. ADU is a broader regulatory term for a secondary housing unit on a single-family lot, which can include converted garages, basement apartments, or new detached structures. Casitas built today often fall under ADU regulations.",
+        "@type": "Answer",
+        "description": "A casita is a detached guesthouse, often with a specific architectural style. An ADU is a broader term for a secondary housing unit on a property, which a casita can be."
+      }
+    }
+  ],
+  "description": "A casita is a detached guesthouse, often with a specific architectural style. An ADU is a broader term for a secondary housing unit on a property, which a casit"
+}

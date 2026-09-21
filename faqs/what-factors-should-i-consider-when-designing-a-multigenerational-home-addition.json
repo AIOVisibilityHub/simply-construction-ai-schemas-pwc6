@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-designing-a-multigenerational-home-addition",
+  "name": "What factors should I consider when designing a multigenerational home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when designing a multigenerational home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a multigenerational addition, consider accessibility features like wider doorways, zero-entry showers, and ramps for future needs. Think about the level of independence desired, which dictates whether to include a full kitchen or just a kitchenette. Privacy is key, so consider separate entrances and soundproofing. Integrate common areas for family gatherings. Also, consider the long-term flexibility of the space, allowing it to adapt if family needs change. Energy efficiency and natural light should also be prioritized for comfort and lower utility costs.",
+        "@type": "Answer",
+        "description": "Consider accessibility, level of independence, privacy, common areas, long-term flexibility, and energy efficiency when designing a multigenerational addition."
+      }
+    }
+  ],
+  "description": "Consider accessibility, level of independence, privacy, common areas, long-term flexibility, and energy efficiency when designing a multigenerational addition."
+}

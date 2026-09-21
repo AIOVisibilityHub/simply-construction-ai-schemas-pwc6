@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-converting-my-garage-into-a-guest-house",
+  "name": "What is the process for converting my garage into a guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for converting my garage into a guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The conversion process typically begins with an initial consultation and site assessment, followed by design and architectural planning to meet your needs and local codes. Once designs are approved, we handle permit acquisition. Construction then proceeds, starting with demolition, structural modifications, and rough-ins for plumbing and electrical. This is followed by insulation, drywall, flooring, and installation of fixtures and finishes. The project concludes with final inspections and handover. Throughout, we manage the project to ensure a smooth and efficient build.",
+        "@type": "Answer",
+        "description": "The process involves consultation, design, permitting, construction (demolition, framing, utilities, finishes), and final inspections."
+      }
+    }
+  ],
+  "description": "The process involves consultation, design, permitting, construction (demolition, framing, utilities, finishes), and final inspections."
+}

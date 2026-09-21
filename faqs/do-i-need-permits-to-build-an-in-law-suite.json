@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-to-build-an-in-law-suite",
+  "name": "Do I need permits to build an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits to build an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are almost always required for in-law suite construction, whether it's a new addition, conversion of existing space, or a detached structure. Building codes, zoning regulations, and local ordinances, especially in areas like Las Vegas, Henderson, or Summerlin, dictate specific requirements for structural integrity, electrical, plumbing, and safety. Obtaining the necessary permits ensures your project is compliant and safe, avoiding potential fines or complications during resale.",
+        "@type": "Answer",
+        "description": "Yes, permits are typically required for all in-law suite construction to ensure compliance with local building codes and zoning laws."
+      }
+    }
+  ],
+  "description": "Yes, permits are typically required for all in-law suite construction to ensure compliance with local building codes and zoning laws."
+}

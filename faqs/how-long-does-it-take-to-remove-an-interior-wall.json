@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-remove-an-interior-wall",
+  "name": "How long does it take to remove an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration for interior wall removal depends on the wall's complexity and scope of work. A non-load-bearing wall without utilities might be removed in one to three days, including cleanup. If the wall is load-bearing and requires structural modifications (like installing a beam) or extensive utility rerouting, the project could extend to a week or more. This timeframe includes the demolition, structural work, and initial finishing like drywall patching.",
+        "@type": "Answer",
+        "description": "Removing a non-load-bearing wall can take 1-3 days. Load-bearing walls with structural work or utility rerouting may take a week or more."
+      }
+    }
+  ],
+  "description": "Removing a non-load-bearing wall can take 1-3 days. Load-bearing walls with structural work or utility rerouting may take a week or more."
+}

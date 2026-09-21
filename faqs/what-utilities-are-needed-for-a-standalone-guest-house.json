@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-utilities-are-needed-for-a-standalone-guest-house",
+  "name": "What utilities are needed for a standalone guest house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What utilities are needed for a standalone guest house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standalone guest house requires its own connections or sub-connections to essential utilities, similar to a main residence. These typically include electricity, water, sewer or septic, and often natural gas. Dedicated sub-panels for electricity and separate water meters or sub-meters may be necessary depending on local codes and how utilities are charged. Proper trenching and connection to the main service lines on the property or directly to public utilities are critical during construction to ensure full functionality.",
+        "@type": "Answer",
+        "description": "A standalone guest house needs dedicated or sub-connections for electricity, water, sewer/septic, and often natural gas."
+      }
+    }
+  ],
+  "description": "A standalone guest house needs dedicated or sub-connections for electricity, water, sewer/septic, and often natural gas."
+}

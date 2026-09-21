@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-building-a-granny-flat-affect-my-property-taxes",
+  "name": "Will building a granny flat affect my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will building a granny flat affect my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a granny flat typically increases your property's assessed value, which can lead to higher property taxes. The extent of the increase depends on the added value of the ADU, which is influenced by its size, quality of construction, and amenities. Property tax assessments in Clark County consider new improvements. It's advisable to consult with a tax professional or the local assessor's office for a specific estimate based on your project plans, though the exact impact cannot be precisely predicted until the project is complete and assessed.",
+        "@type": "Answer",
+        "description": "Building a granny flat usually increases your property's assessed value, which can result in higher property taxes."
+      }
+    }
+  ],
+  "description": "Building a granny flat usually increases your property's assessed value, which can result in higher property taxes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-starting-a-mother-in-law-suite-construction-project",
+  "name": "What is the process for starting a mother-in-law suite construction project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for starting a mother-in-law suite construction project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, budget, and site feasibility. Next, we move to design, where plans are drawn up to meet your specific needs and local building codes. This is followed by permit acquisition, where we submit plans to the relevant authorities. Once permits are approved, construction begins, involving site preparation, framing, utility installation, interior finishes, and final inspections. We keep you informed at every stage, ensuring a smooth and transparent build.",
+        "@type": "Answer",
+        "description": "The process starts with a consultation, moves to design and permit acquisition, followed by construction (site prep, framing, utilities, finishes), and ends with final inspections."
+      }
+    }
+  ],
+  "description": "The process starts with a consultation, moves to design and permit acquisition, followed by construction (site prep, framing, utilities, finishes), and ends wit"
+}

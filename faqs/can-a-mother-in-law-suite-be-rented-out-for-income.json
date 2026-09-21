@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-a-mother-in-law-suite-be-rented-out-for-income",
+  "name": "Can a mother-in-law suite be rented out for income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a mother-in-law suite be rented out for income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In many areas, including parts of Las Vegas, a mother-in-law suite (ADU) can indeed be rented out, providing a valuable source of income. However, rental regulations can vary by specific zoning districts and local ordinances. It's crucial to understand any restrictions on short-term versus long-term rentals or specific occupancy limits that might apply to ADUs in your particular neighborhood. We can help you understand the general feasibility from a construction standpoint, but we recommend checking specific rental rules with local planning departments.",
+        "@type": "Answer",
+        "description": "Yes, mother-in-law suites can often be rented out for income, but local zoning and rental regulations in areas like Las Vegas vary and should be verified."
+      }
+    }
+  ],
+  "description": "Yes, mother-in-law suites can often be rented out for income, but local zoning and rental regulations in areas like Las Vegas vary and should be verified."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-between-a-steel-beam-and-a-wood-beam-for-my-project",
+  "name": "How do I choose between a steel beam and a wood beam for my project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a steel beam and a wood beam for my project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a steel and wood beam depends on several project-specific factors. Steel beams are ideal for supporting very heavy loads and achieving longer clear spans, making them suitable for large open-concept designs or commercial applications. They offer superior strength-to-weight ratio. Wood beams, including engineered wood products like LVL or Glulam, are generally more cost-effective, lighter, and easier to work with for typical residential renovations. The final decision should be made in consultation with a structural engineer, who will consider load requirements, span, aesthetics, budget, and local building codes to recommend the most appropriate material.",
+        "@type": "Answer",
+        "description": "Choose steel for heavy loads and long spans, or wood for cost-effectiveness and typical residential use; an engineer will make the final material recommendation."
+      }
+    }
+  ],
+  "description": "Choose steel for heavy loads and long spans, or wood for cost-effectiveness and typical residential use; an engineer will make the final material recommendation"
+}

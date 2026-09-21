@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-converting-my-garage-affect-my-property-value-or-insurance",
+  "name": "Will converting my garage affect my property value or insurance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage affect my property value or insurance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage into a bedroom can generally increase your property's usable square footage and, consequently, its market value, especially if done professionally and to code. However, it's advisable to inform your homeowner's insurance provider about the conversion. Your policy may need to be updated to reflect the increased value of your home and the change in its occupancy and structure. This ensures adequate coverage for your newly modified living space.",
+        "@type": "Answer",
+        "description": "A professionally done conversion can increase property value. Inform your homeowner's insurance to update your policy and ensure adequate coverage."
+      }
+    }
+  ],
+  "description": "A professionally done conversion can increase property value. Inform your homeowner's insurance to update your policy and ensure adequate coverage."
+}

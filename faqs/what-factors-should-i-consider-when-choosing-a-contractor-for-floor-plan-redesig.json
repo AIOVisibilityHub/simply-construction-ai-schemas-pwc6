@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-floor-plan-redesig",
+  "name": "What factors should I consider when choosing a contractor for floor plan redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for floor plan redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your floor plan redesign, consider their experience with similar projects, their portfolio, and client testimonials. Verify that they are licensed, bonded, and insured in Nevada. Communication style, transparency in pricing, and their ability to manage the entire process, including permits and subcontractors, are also crucial. Simply Construction emphasizes clear communication, detailed planning, and a proven track record of successful redesigns across the Las Vegas area.",
+        "@type": "Answer",
+        "description": "Choose a contractor based on experience, portfolio, testimonials, licensing, bonding, and insurance. Look for clear communication, transparent pricing, and comprehensive project management abilities."
+      }
+    }
+  ],
+  "description": "Choose a contractor based on experience, portfolio, testimonials, licensing, bonding, and insurance. Look for clear communication, transparent pricing, and comp"
+}

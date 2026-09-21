@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-handle-the-electrical-and-plumbing-connections-for-my-backyard-office",
+  "name": "Can you handle the electrical and plumbing connections for my backyard office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you handle the electrical and plumbing connections for my backyard office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, as a full-service general contractor, we manage all necessary utility connections for your backyard office. This includes extending electrical service for lighting, outlets, and HVAC, as well as plumbing for restrooms or sinks if required. Our team ensures all connections are performed by licensed professionals, meeting local codes and safety standards. Proper utility integration is crucial for a comfortable and functional workspace, and we coordinate all aspects seamlessly.",
+        "@type": "Answer",
+        "description": "Yes, we handle all electrical and plumbing connections, ensuring they meet local codes and safety standards for a fully functional backyard office."
+      }
+    }
+  ],
+  "description": "Yes, we handle all electrical and plumbing connections, ensuring they meet local codes and safety standards for a fully functional backyard office."
+}

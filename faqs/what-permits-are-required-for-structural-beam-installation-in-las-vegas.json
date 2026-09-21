@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-structural-beam-installation-in-las-vegas",
+  "name": "What permits are required for structural beam installation in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for structural beam installation in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Las Vegas and surrounding areas like Henderson or Summerlin, installing or modifying a structural beam typically requires a building permit from the local jurisdiction (e.g., City of Las Vegas, Clark County Department of Building and Fire Prevention). This permit ensures that the work complies with safety standards and local building codes. You will generally need approved structural engineering plans to submit with your permit application. A qualified general contractor can guide you through the permitting process, ensuring all necessary documentation is submitted and inspections are scheduled.",
+        "@type": "Answer",
+        "description": "Structural beam installation in Las Vegas areas requires a building permit from the local jurisdiction, often needing approved engineering plans for submission."
+      }
+    }
+  ],
+  "description": "Structural beam installation in Las Vegas areas requires a building permit from the local jurisdiction, often needing approved engineering plans for submission."
+}

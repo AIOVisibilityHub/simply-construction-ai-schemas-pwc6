@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-the-best-time-to-consider-a-multigenerational-home-addition",
+  "name": "When is the best time to consider a multigenerational home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider a multigenerational home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to consider a multigenerational home addition is typically when you anticipate or experience a change in your family's living situation, such as an aging parent needing care, adult children returning home, or a desire to consolidate living expenses. It's also a good consideration if you have available property space and are looking for a long-term housing solution that supports family proximity while maintaining individual privacy. Planning ahead allows ample time for design, permitting, and construction without immediate pressure.",
+        "@type": "Answer",
+        "description": "Consider a multigenerational addition when family living situations change, or if you seek long-term housing solutions that offer both proximity and privacy."
+      }
+    }
+  ],
+  "description": "Consider a multigenerational addition when family living situations change, or if you seek long-term housing solutions that offer both proximity and privacy."
+}

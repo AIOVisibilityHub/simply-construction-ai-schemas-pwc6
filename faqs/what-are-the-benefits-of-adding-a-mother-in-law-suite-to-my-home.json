@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-adding-a-mother-in-law-suite-to-my-home",
+  "name": "What are the benefits of adding a mother-in-law suite to my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a mother-in-law suite to my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a mother-in-law suite offers several advantages. It provides a private and independent living space for family members, allowing them to be close while maintaining autonomy. This can be beneficial for multi-generational living or caregiving. Additionally, an ADU can increase your property's value and provide a potential source of rental income if not used by family. It also offers flexibility for future use, such as a home office or guest quarters, enhancing the long-term utility of your property.",
+        "@type": "Answer",
+        "description": "Benefits include private living space for family, increased property value, potential rental income, and flexible use for guests or a home office."
+      }
+    }
+  ],
+  "description": "Benefits include private living space for family, increased property value, potential rental income, and flexible use for guests or a home office."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-garage-to-rental-unit-conversion",
+  "name": "What is a garage-to-rental-unit conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage-to-rental-unit conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage-to-rental-unit conversion transforms an existing garage into a habitable living space, often an Accessory Dwelling Unit (ADU). This typically involves adding plumbing for a bathroom and kitchen, electrical upgrades, insulation, windows, and an independent entrance. The goal is to create a self-contained unit that can be rented out, providing additional income or housing for family members. Conversions must comply with local zoning and building codes to ensure safety and legality.",
+        "@type": "Answer",
+        "description": "A garage-to-rental-unit conversion transforms a garage into a habitable, self-contained living space, often an Accessory Dwelling Unit (ADU), for rental income or family housing."
+      }
+    }
+  ],
+  "description": "A garage-to-rental-unit conversion transforms a garage into a habitable, self-contained living space, often an Accessory Dwelling Unit (ADU), for rental income"
+}

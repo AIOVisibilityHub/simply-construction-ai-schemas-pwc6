@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-pool-house-and-what-are-its-common-uses",
+  "name": "What is a pool house and what are its common uses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pool house and what are its common uses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pool house is a separate structure typically built near a swimming pool, offering amenities that enhance the pool experience. Common uses include changing rooms, bathrooms, outdoor kitchens or bars, storage for pool equipment, or even guest accommodations. Its purpose is to provide convenience and comfort for pool users, reducing the need to enter the main home while wet or to carry items back and forth.",
+        "@type": "Answer",
+        "description": "A pool house is a structure near a pool used for changing, bathrooms, kitchens, storage, or guest space, enhancing convenience and comfort."
+      }
+    }
+  ],
+  "description": "A pool house is a structure near a pool used for changing, bathrooms, kitchens, storage, or guest space, enhancing convenience and comfort."
+}

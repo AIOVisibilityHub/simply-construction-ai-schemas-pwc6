@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-an-attached-and-a-detached-mother-in-law-suite",
+  "name": "What's the difference between an attached and a detached mother-in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an attached and a detached mother-in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached mother-in-law suite is physically connected to the main house, often sharing a wall or being built as an extension. It might have a separate entrance but is part of the existing structure. A detached suite is a completely separate building on the property, offering maximum privacy and independence. Attached units can sometimes be more cost-effective due to shared utilities or foundations, while detached units provide greater separation and often more flexibility in design. Your choice depends on space, budget, and privacy needs.",
+        "@type": "Answer",
+        "description": "Attached suites are connected to the main house, while detached suites are separate buildings. Attached units can be more cost-effective; detached offer greater privacy."
+      }
+    }
+  ],
+  "description": "Attached suites are connected to the main house, while detached suites are separate buildings. Attached units can be more cost-effective; detached offer greater"
+}

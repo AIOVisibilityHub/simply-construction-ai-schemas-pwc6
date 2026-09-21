@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-in-law-suite-and-an-adu",
+  "name": "What is the difference between an in-law suite and an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an in-law suite and an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, an in-law suite is typically an attached or integrated part of the main house, designed for a family member, potentially sharing a main entrance or utilities. An Accessory Dwelling Unit (ADU) can be attached or detached, but is generally a fully independent living unit with its own kitchen, bathroom, and often a separate entrance. ADUs are sometimes permitted for rental income, whereas in-law suites are primarily for family use. Zoning regulations often define the distinctions and permissible uses for each type of addition.",
+        "@type": "Answer",
+        "description": "An in-law suite is usually an attached part of the main house for family, while an ADU is a fully independent living unit, often with rental potential."
+      }
+    }
+  ],
+  "description": "An in-law suite is usually an attached part of the main house for family, while an ADU is a fully independent living unit, often with rental potential."
+}

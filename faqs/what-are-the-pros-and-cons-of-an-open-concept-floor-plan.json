@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-pros-and-cons-of-an-open-concept-floor-plan",
+  "name": "What are the pros and cons of an open-concept floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the pros and cons of an open-concept floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Open-concept floor plans offer several advantages, including enhanced natural light, improved social interaction between spaces, a feeling of spaciousness, and increased flexibility in furniture arrangement. They can also boost a home's resale value due to their modern appeal. However, there are downsides. These include less privacy, increased noise transmission between areas, potential for cooking odors to spread, and the challenge of keeping the entire space consistently tidy. Heating and cooling can also be less efficient in larger, open zones. Weighing these factors helps determine if it's the right choice for your lifestyle.",
+        "@type": "Answer",
+        "description": "Pros: more light, better flow, spacious feel. Cons: less privacy, noise, odor spread, potential for higher heating/cooling costs. Consider your lifestyle."
+      }
+    }
+  ],
+  "description": "Pros: more light, better flow, spacious feel. Cons: less privacy, noise, odor spread, potential for higher heating/cooling costs. Consider your lifestyle."
+}

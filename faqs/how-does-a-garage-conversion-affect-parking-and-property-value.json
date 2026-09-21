@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-does-a-garage-conversion-affect-parking-and-property-value",
+  "name": "How does a garage conversion affect parking and property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a garage conversion affect parking and property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage may affect available parking on your property, especially if it eliminates off-street parking. Local zoning ordinances in areas like Las Vegas often have specific requirements for off-street parking, which must be considered. In terms of property value, a well-executed garage conversion that adds functional, high-quality living space generally increases your home's market value, often providing a good return on investment. The impact on value is maximized when the conversion is permitted and professionally done.",
+        "@type": "Answer",
+        "description": "A garage conversion can impact parking, requiring compliance with local ordinances. However, a high-quality, permitted conversion typically increases property value and offers good ROI."
+      }
+    }
+  ],
+  "description": "A garage conversion can impact parking, requiring compliance with local ordinances. However, a high-quality, permitted conversion typically increases property v"
+}

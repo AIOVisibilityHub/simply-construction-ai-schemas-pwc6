@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-remove-a-wall-that-contains-plumbing-or-electrical-wiring",
+  "name": "Can I remove a wall that contains plumbing or electrical wiring?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I remove a wall that contains plumbing or electrical wiring?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a wall containing plumbing or electrical wiring can be removed, but it requires careful planning and professional intervention. Before demolition, all utilities within the wall must be safely disconnected and rerouted. This work should always be performed by licensed professionals, such as electricians and plumbers, to ensure safety, compliance with codes, and proper functionality of your home's systems. Never attempt to disconnect or reroute live utilities yourself.",
+        "@type": "Answer",
+        "description": "Walls with plumbing or electrical wiring can be removed, but utilities must be professionally disconnected and rerouted by licensed electricians and plumbers for safety and code compliance."
+      }
+    }
+  ],
+  "description": "Walls with plumbing or electrical wiring can be removed, but utilities must be professionally disconnected and rerouted by licensed electricians and plumbers fo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-it-cost-to-remove-a-load-bearing-wall-in-las-vegas",
+  "name": "How much does it cost to remove a load-bearing wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to remove a load-bearing wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove a load-bearing wall in the Las Vegas area can vary significantly depending on several factors. These include the wall's length, the complexity of the structural support needed (e.g., steel beam vs. LVL), the need for electrical or plumbing rerouting, and the extent of finish work required. Permitting fees also contribute to the overall cost. A professional consultation is essential to get an accurate estimate tailored to your specific project's scope and local building requirements.",
+        "@type": "Answer",
+        "description": "Costs vary based on wall length, beam type, rerouting needs, finish work, and permits. A professional estimate is required for accuracy."
+      }
+    }
+  ],
+  "description": "Costs vary based on wall length, beam type, rerouting needs, finish work, and permits. A professional estimate is required for accuracy."
+}

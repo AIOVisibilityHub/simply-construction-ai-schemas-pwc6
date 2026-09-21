@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-to-build-a-casita-in-henderson-or-las-vegas",
+  "name": "What permits are required to build a casita in Henderson or Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required to build a casita in Henderson or Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a casita in Henderson or Las Vegas requires several permits, including zoning approval, building permits, and potentially specific permits for plumbing, electrical, and mechanical systems. The exact requirements depend on the municipality (City of Las Vegas, City of Henderson, or unincorporated Clark County) and the casita's design. Your contractor will handle the submission and coordination of all necessary permits to ensure compliance with local building codes and ordinances.",
+        "@type": "Answer",
+        "description": "Permits for casita construction in Henderson or Las Vegas include zoning, building, plumbing, electrical, and mechanical, varying by municipality. Your contractor manages this process."
+      }
+    }
+  ],
+  "description": "Permits for casita construction in Henderson or Las Vegas include zoning, building, plumbing, electrical, and mechanical, varying by municipality. Your contract"
+}

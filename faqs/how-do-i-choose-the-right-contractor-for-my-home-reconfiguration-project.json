@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-home-reconfiguration-project",
+  "name": "How do I choose the right contractor for my home reconfiguration project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my home reconfiguration project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor for your home reconfiguration project, look for experience with similar projects, valid licenses and insurance, and strong references. Review their portfolio to see their quality of work. Ensure clear communication, transparent pricing, and a detailed contract outlining the scope, timeline, and payment schedule. Simply Construction offers all these assurances and specializes in custom home transformations.",
+        "@type": "Answer",
+        "description": "Choose a contractor with proven experience in reconfigurations, valid licenses, insurance, and strong references. Look for clear communication, transparent pricing, and a detailed contract."
+      }
+    }
+  ],
+  "description": "Choose a contractor with proven experience in reconfigurations, valid licenses, insurance, and strong references. Look for clear communication, transparent pric"
+}

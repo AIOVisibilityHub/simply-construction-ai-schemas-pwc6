@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-remove-a-load-bearing-wall",
+  "name": "How long does it take to remove a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to remove a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for removing a load-bearing wall can range from a few days to several weeks, depending on the project's complexity. This includes time for structural engineering plans, permit acquisition, demolition, beam installation, and finishing work. Simple projects might be completed faster, while those requiring extensive rerouting of utilities or complex structural solutions will take longer. Unforeseen issues, like discovering hidden plumbing or electrical lines, can also extend the project duration.",
+        "@type": "Answer",
+        "description": "It typically takes a few days to several weeks, depending on project complexity, permit times, and the extent of demolition and finishing work required."
+      }
+    }
+  ],
+  "description": "It typically takes a few days to several weeks, depending on project complexity, permit times, and the extent of demolition and finishing work required."
+}

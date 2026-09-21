@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-does-an-open-concept-remodel-handle-electrical-and-plumbing-updates",
+  "name": "How does an open-concept remodel handle electrical and plumbing updates?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an open-concept remodel handle electrical and plumbing updates?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept remodel often necessitates significant electrical and plumbing updates, especially if a kitchen or bathroom is involved. When walls are removed, existing wiring and pipes within those walls need to be rerouted. This can involve installing new outlets, switches, light fixtures, and moving plumbing lines for sinks or appliances. Our team coordinates with licensed electricians and plumbers to ensure all new installations meet current building codes and are strategically placed for the new layout. This is a critical phase, as proper planning prevents future issues and ensures the safety and functionality of your renovated space.",
+        "@type": "Answer",
+        "description": "Open-concept remodels require rerouting electrical wiring and plumbing pipes previously located in removed walls, with new installations needing to meet current building codes."
+      }
+    }
+  ],
+  "description": "Open-concept remodels require rerouting electrical wiring and plumbing pipes previously located in removed walls, with new installations needing to meet current"
+}

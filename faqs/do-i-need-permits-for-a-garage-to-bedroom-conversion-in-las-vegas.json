@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-garage-to-bedroom-conversion-in-las-vegas",
+  "name": "Do I need permits for a garage-to-bedroom conversion in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a garage-to-bedroom conversion in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting a garage into a bedroom in Las Vegas typically requires obtaining building permits from the local jurisdiction (e.g., City of Las Vegas, Clark County). This ensures that the conversion meets all safety, structural, and zoning codes. Failing to obtain necessary permits can lead to fines, difficulties with future property sales, and potential safety hazards. Our team handles the permit application process on your behalf, ensuring all work complies with local regulations.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for garage conversions in Las Vegas to ensure compliance with local building and zoning codes. Our team assists with this process."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for garage conversions in Las Vegas to ensure compliance with local building and zoning codes. Our team assists with this process."
+}

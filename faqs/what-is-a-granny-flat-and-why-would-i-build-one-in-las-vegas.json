@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-granny-flat-and-why-would-i-build-one-in-las-vegas",
+  "name": "What is a granny flat, and why would I build one in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a granny flat, and why would I build one in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A granny flat, also known as an Accessory Dwelling Unit (ADU), is a secondary residential structure on the same property as a main house. In Las Vegas, building a granny flat can provide flexible living space for family members, generate rental income, or serve as a dedicated home office or studio. It can also increase property value. Local zoning regulations in areas like Las Vegas, Henderson, and North Las Vegas allow for these structures, but specific requirements regarding size, setbacks, and parking must be met. We handle the entire process from design to completion.",
+        "@type": "Answer",
+        "description": "A granny flat is a secondary dwelling unit on your property. In Las Vegas, it can offer flexible living space, rental income, or increase property value, subject to local zoning rules."
+      }
+    }
+  ],
+  "description": "A granny flat is a secondary dwelling unit on your property. In Las Vegas, it can offer flexible living space, rental income, or increase property value, subjec"
+}

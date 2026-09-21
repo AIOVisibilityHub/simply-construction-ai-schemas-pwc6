@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-value-does-a-detached-guest-suite-add-to-my-property",
+  "name": "How much value does a detached guest suite add to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much value does a detached guest suite add to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-built detached guest suite can significantly increase your property's value, especially in competitive markets like Las Vegas. It adds usable square footage and provides versatile living space, which is highly desirable for potential buyers. The exact value added depends on the suite's size, quality of finishes, and functionality (e.g., if it has a full kitchen for rental potential). It generally provides a strong return on investment, improving both marketability and appraisal value.",
+        "@type": "Answer",
+        "description": "A detached guest suite can significantly increase property value by adding usable space and versatility, offering a strong return on investment."
+      }
+    }
+  ],
+  "description": "A detached guest suite can significantly increase property value by adding usable space and versatility, offering a strong return on investment."
+}

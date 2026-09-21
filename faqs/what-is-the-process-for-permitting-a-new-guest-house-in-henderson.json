@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-permitting-a-new-guest-house-in-henderson",
+  "name": "What is the process for permitting a new guest house in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for permitting a new guest house in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permitting a new guest house in Henderson involves several steps, starting with zoning review to ensure your property can accommodate an ADU. You'll need to submit detailed building plans to the City of Henderson Planning Department, including site plans, floor plans, elevations, and structural drawings. These plans are reviewed for compliance with local building codes, safety regulations, and design standards. Once approved, building permits are issued, allowing construction to begin. Inspections will be required at various stages of construction.",
+        "@type": "Answer",
+        "description": "Permitting a guest house in Henderson requires zoning review, detailed plan submission to the Planning Department, and approval before construction can begin."
+      }
+    }
+  ],
+  "description": "Permitting a guest house in Henderson requires zoning review, detailed plan submission to the Planning Department, and approval before construction can begin."
+}

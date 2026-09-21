@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-mother-in-law-suite",
+  "name": "What is a mother-in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a mother-in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A mother-in-law suite, also known as an Accessory Dwelling Unit (ADU) or granny flat, is a secondary living space on a property. It's designed to be a self-contained unit, typically with its own bedroom, bathroom, and kitchen or kitchenette, separate from the main house. These suites provide independent living for family members, often aging parents, but can also be used for adult children, guests, or as a rental unit. They can be attached to the main home, a converted garage, or a standalone structure.",
+        "@type": "Answer",
+        "description": "A mother-in-law suite is a self-contained secondary living space on a property, typically with a bedroom, bathroom, and kitchen, designed for independent living."
+      }
+    }
+  ],
+  "description": "A mother-in-law suite is a self-contained secondary living space on a property, typically with a bedroom, bathroom, and kitchen, designed for independent living"
+}

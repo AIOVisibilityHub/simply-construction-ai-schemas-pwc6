@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-contractor-for-a-garage-conversio",
+  "name": "What factors should I consider when choosing a contractor for a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a contractor for a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your garage conversion, prioritize experience specifically with ADU or similar conversion projects. Verify their licensing, insurance, and bond status to protect yourself. Review their portfolio and ask for references from past clients to assess their quality of work and reliability. Obtain multiple detailed bids to compare costs and proposed timelines. Effective communication, transparency regarding project scope, and a clear understanding of the permitting process are also crucial indicators of a reputable contractor.",
+        "@type": "Answer",
+        "description": "Choose a contractor with ADU conversion experience, verify their license and insurance, check references, compare multiple bids, and ensure they communicate clearly and understand permitting."
+      }
+    }
+  ],
+  "description": "Choose a contractor with ADU conversion experience, verify their license and insurance, check references, compare multiple bids, and ensure they communicate cle"
+}

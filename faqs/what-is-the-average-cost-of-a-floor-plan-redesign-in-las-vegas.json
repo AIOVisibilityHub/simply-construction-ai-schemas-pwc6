@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-average-cost-of-a-floor-plan-redesign-in-las-vegas",
+  "name": "What is the average cost of a floor plan redesign in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of a floor plan redesign in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a floor plan redesign in Las Vegas depends on the project's scope, materials chosen, and necessary structural changes. Simple non-structural reconfigurations will be less expensive than projects involving load-bearing wall removal, plumbing, or electrical system alterations. Design fees, permits, and labor are also factored in. Simply Construction provides a detailed estimate after a thorough assessment of your specific project requirements.",
+        "@type": "Answer",
+        "description": "Cost varies based on scope, materials, and structural changes. Simple reconfigurations are less expensive than projects involving load-bearing walls, plumbing, or electrical work. We provide estimates after assessment."
+      }
+    }
+  ],
+  "description": "Cost varies based on scope, materials, and structural changes. Simple reconfigurations are less expensive than projects involving load-bearing walls, plumbing,"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-building-a-casita-impact-my-property-taxes",
+  "name": "Will building a casita impact my property taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will building a casita impact my property taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a casita will likely impact your property taxes. Adding a permanent structure that increases the usable living space and overall value of your property typically results in a reassessment by the county assessor's office. This reassessment will usually lead to an increase in your annual property tax bill. It's advisable to consult with the local county assessor's office for specific details on how a casita addition might affect your property taxes.",
+        "@type": "Answer",
+        "description": "Yes, building a casita generally increases property value and will likely lead to a property tax reassessment and higher annual tax bill. Consult your local assessor's office for specifics."
+      }
+    }
+  ],
+  "description": "Yes, building a casita generally increases property value and will likely lead to a property tax reassessment and higher annual tax bill. Consult your local ass"
+}

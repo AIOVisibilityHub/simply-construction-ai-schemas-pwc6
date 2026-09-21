@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-an-existing-structure-like-a-garage-into-a-casita",
+  "name": "Can I convert an existing structure, like a garage, into a casita?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert an existing structure, like a garage, into a casita?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting an existing structure, such as a garage, into a casita is often a viable option, but it involves several considerations. You'll need to ensure the existing foundation and structure are sound and meet current building codes for living spaces. This may require upgrades to insulation, windows, electrical, and plumbing systems. Permitting will still be necessary, and zoning regulations will dictate if such a conversion is allowed and what modifications are required to make it habitable and compliant as a separate dwelling.",
+        "@type": "Answer",
+        "description": "Converting a garage to a casita is possible but requires ensuring the existing structure meets building codes, upgrading systems like insulation and plumbing, and obtaining proper permits and zoning approval."
+      }
+    }
+  ],
+  "description": "Converting a garage to a casita is possible but requires ensuring the existing structure meets building codes, upgrading systems like insulation and plumbing, a"
+}

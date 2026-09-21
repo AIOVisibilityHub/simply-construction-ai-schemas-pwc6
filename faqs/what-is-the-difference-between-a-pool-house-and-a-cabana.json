@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-pool-house-and-a-cabana",
+  "name": "What is the difference between a pool house and a cabana?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pool house and a cabana?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often used interchangeably, a pool house typically refers to a more substantial, enclosed structure with walls and a roof, often including plumbing for bathrooms or kitchens, and sometimes fully-finished interior spaces. A cabana, on the other hand, is usually a lighter, open-sided structure, often with a roof and perhaps one or two walls, primarily providing shade and a changing area, without extensive utilities. Pool houses offer more functionality and permanence.",
+        "@type": "Answer",
+        "description": "A pool house is a substantial, enclosed structure often with plumbing and finished interiors, while a cabana is usually a lighter, open-sided structure for shade and changing."
+      }
+    }
+  ],
+  "description": "A pool house is a substantial, enclosed structure often with plumbing and finished interiors, while a cabana is usually a lighter, open-sided structure for shad"
+}

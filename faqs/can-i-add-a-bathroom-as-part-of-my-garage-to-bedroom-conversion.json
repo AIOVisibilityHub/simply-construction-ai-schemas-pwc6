@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-a-bathroom-as-part-of-my-garage-to-bedroom-conversion",
+  "name": "Can I add a bathroom as part of my garage-to-bedroom conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add a bathroom as part of my garage-to-bedroom conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, adding a bathroom to your garage-to-bedroom conversion is a popular option that significantly enhances the functionality and value of the new space. This requires careful planning for plumbing, drainage, and ventilation systems, which can add to the project's complexity and cost. Our design team can help you integrate a new bathroom efficiently, considering layout, water supply, and waste lines to ensure a fully functional and comfortable living area.",
+        "@type": "Answer",
+        "description": "Yes, a bathroom can be added, enhancing value and functionality. It requires careful planning for plumbing and ventilation, affecting complexity and cost."
+      }
+    }
+  ],
+  "description": "Yes, a bathroom can be added, enhancing value and functionality. It requires careful planning for plumbing and ventilation, affecting complexity and cost."
+}

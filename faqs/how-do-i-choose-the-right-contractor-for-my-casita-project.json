@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-contractor-for-my-casita-project",
+  "name": "How do I choose the right contractor for my casita project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right contractor for my casita project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a contractor for your casita, look for one with experience in ADU or casita construction in the Las Vegas area. Check their licensing, insurance, and references. Review their portfolio for similar projects and ensure they have a clear communication process. A good contractor will provide transparent pricing, a detailed contract, and demonstrate a strong understanding of local building codes and regulations specific to your region.",
+        "@type": "Answer",
+        "description": "Choose a contractor with local casita construction experience, check licenses, insurance, and references. Look for transparent pricing and clear communication, ensuring they understand local building codes."
+      }
+    }
+  ],
+  "description": "Choose a contractor with local casita construction experience, check licenses, insurance, and references. Look for transparent pricing and clear communication,"
+}

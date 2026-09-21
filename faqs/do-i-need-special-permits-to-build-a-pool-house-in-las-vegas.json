@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-special-permits-to-build-a-pool-house-in-las-vegas",
+  "name": "Do I need special permits to build a pool house in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need special permits to build a pool house in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, building a pool house in Las Vegas generally requires specific permits. These typically include building permits, and potentially electrical, plumbing, and mechanical permits if those services are being installed. The specific requirements can vary based on the size, features, and location of the pool house within your property. It's essential to consult with your general contractor to ensure all necessary permits are obtained before construction begins.",
+        "@type": "Answer",
+        "description": "Yes, permits are generally required for pool house construction in Las Vegas, including building, electrical, plumbing, and mechanical permits, depending on the scope."
+      }
+    }
+  ],
+  "description": "Yes, permits are generally required for pool house construction in Las Vegas, including building, electrical, plumbing, and mechanical permits, depending on the"
+}

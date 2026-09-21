@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-convert-my-garage-or-build-an-addition",
+  "name": "Should I convert my garage or build an addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I convert my garage or build an addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between a garage conversion and a home addition depends on your specific needs, budget, and property constraints. A garage conversion is generally more cost-effective and quicker because it utilizes an existing structure, foundation, and roof. It's ideal for adding square footage without expanding your home's footprint. A full addition offers more flexibility in terms of size and layout but is a larger investment and a longer project. Consider your space requirements, budget, and desired level of customization when making this choice.",
+        "@type": "Answer",
+        "description": "A garage conversion is often more cost-effective and quicker, using existing structure. A home addition offers more design flexibility but costs more and takes longer."
+      }
+    }
+  ],
+  "description": "A garage conversion is often more cost-effective and quicker, using existing structure. A home addition offers more design flexibility but costs more and takes"
+}

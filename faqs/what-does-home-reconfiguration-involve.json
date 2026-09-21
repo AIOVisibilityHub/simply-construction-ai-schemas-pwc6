@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-does-home-reconfiguration-involve",
+  "name": "What does home reconfiguration involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does home reconfiguration involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home reconfiguration involves altering the layout or structure of existing spaces within your home. This can include removing or adding walls, changing room sizes, relocating kitchens or bathrooms, or converting unused areas into functional living spaces. The goal is often to improve flow, increase natural light, enhance functionality, or update aesthetics without expanding the home's overall footprint.",
+        "@type": "Answer",
+        "description": "Home reconfiguration means changing the layout or structure of rooms in your house, like moving walls or relocating a kitchen, to improve flow and function."
+      }
+    }
+  ],
+  "description": "Home reconfiguration means changing the layout or structure of rooms in your house, like moving walls or relocating a kitchen, to improve flow and function."
+}

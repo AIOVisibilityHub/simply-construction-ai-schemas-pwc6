@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-live-in-my-home-during-structural-remodeling",
+  "name": "Can I live in my home during structural remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I live in my home during structural remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can live in your home during structural remodeling depends on the project's scope and the areas affected. For minor work, like removing a single interior wall, it might be possible to remain, though expect noise, dust, and limited access to certain areas. However, for extensive projects involving foundations, major load-bearing elements, or significant portions of the roof, temporary relocation is often necessary for safety and efficiency. Your contractor can advise on the best approach for your specific project to minimize disruption.",
+        "@type": "Answer",
+        "description": "Living in your home during structural remodeling depends on the project's scope. Minor work might allow it, but major structural changes often require temporary relocation."
+      }
+    }
+  ],
+  "description": "Living in your home during structural remodeling depends on the project's scope. Minor work might allow it, but major structural changes often require temporary"
+}

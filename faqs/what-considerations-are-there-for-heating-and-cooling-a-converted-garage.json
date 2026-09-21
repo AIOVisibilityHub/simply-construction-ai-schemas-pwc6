@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-considerations-are-there-for-heating-and-cooling-a-converted-garage",
+  "name": "What considerations are there for heating and cooling a converted garage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are there for heating and cooling a converted garage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Heating and cooling a converted garage requires careful planning. Since garages are typically uninsulated, installing proper insulation in walls, ceiling, and often the garage door opening is paramount. Options for HVAC include extending existing ductwork from your main home, installing a dedicated mini-split system for efficient zone control, or using electric baseboard heaters and portable AC units for smaller spaces. We help determine the most efficient and cost-effective solution for your specific needs.",
+        "@type": "Answer",
+        "description": "Heating and cooling options include extending existing HVAC, installing a mini-split system, or using electric heaters and portable AC."
+      }
+    }
+  ],
+  "description": "Heating and cooling options include extending existing HVAC, installing a mini-split system, or using electric heaters and portable AC."
+}

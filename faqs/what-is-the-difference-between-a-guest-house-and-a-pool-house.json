@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-guest-house-and-a-pool-house",
+  "name": "What is the difference between a guest house and a pool house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a guest house and a pool house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While both are accessory structures, a key difference between a guest house and a pool house lies in their primary function and amenities. A guest house (ADU) is designed for independent living, featuring a full kitchen, bathroom, and sleeping area, making it habitable year-round. A pool house, conversely, is primarily built to support swimming pool activities. It typically includes a changing room, a bathroom, and sometimes a wet bar or small kitchenette, but generally lacks full living facilities required for long-term residency. Zoning often distinguishes between the two.",
+        "@type": "Answer",
+        "description": "A guest house is a habitable dwelling with full living amenities, while a pool house primarily supports pool activities with limited amenities like a bathroom and changing room."
+      }
+    }
+  ],
+  "description": "A guest house is a habitable dwelling with full living amenities, while a pool house primarily supports pool activities with limited amenities like a bathroom a"
+}

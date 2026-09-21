@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-garage-conversion-take",
+  "name": "How long does a typical garage conversion take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical garage conversion take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a garage-to-home-office conversion varies based on the scope of work and specific requirements. A standard conversion, involving insulation, drywall, flooring, electrical updates, and basic finishes, usually takes between 4 to 8 weeks from start to finish. More complex projects that include plumbing for a bathroom or extensive structural modifications may extend the duration. We provide a detailed project schedule after the initial consultation.",
+        "@type": "Answer",
+        "description": "A typical garage conversion takes 4-8 weeks, depending on the project's complexity and specific requirements."
+      }
+    }
+  ],
+  "description": "A typical garage conversion takes 4-8 weeks, depending on the project's complexity and specific requirements."
+}

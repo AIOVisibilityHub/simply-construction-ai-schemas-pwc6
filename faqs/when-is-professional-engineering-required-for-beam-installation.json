@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-is-professional-engineering-required-for-beam-installation",
+  "name": "When is professional engineering required for beam installation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is professional engineering required for beam installation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Professional engineering is almost always required for structural beam installation, especially when modifying load-bearing elements. A licensed structural engineer will assess the existing structure, calculate the necessary beam size, material, and support points, and provide stamped drawings. These drawings are essential for obtaining permits and ensuring the installation meets local building codes and safety standards. Skipping this step can lead to structural failure, safety hazards, and significant legal and financial consequences. Always consult with a qualified engineer before beginning any structural modification.",
+        "@type": "Answer",
+        "description": "Professional engineering is typically required for structural beam installation to ensure safety, meet building codes, and obtain necessary permits."
+      }
+    }
+  ],
+  "description": "Professional engineering is typically required for structural beam installation to ensure safety, meet building codes, and obtain necessary permits."
+}

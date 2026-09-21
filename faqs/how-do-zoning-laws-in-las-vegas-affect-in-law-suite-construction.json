@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-zoning-laws-in-las-vegas-affect-in-law-suite-construction",
+  "name": "How do zoning laws in Las Vegas affect in-law suite construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do zoning laws in Las Vegas affect in-law suite construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Zoning laws in the Las Vegas valley, including cities like Henderson and North Las Vegas, significantly impact in-law suite construction by dictating allowable size, setbacks, parking requirements, and whether a detached unit (ADU) is permitted. These regulations vary by specific zone and municipality. Our team navigates these local ordinances to ensure your project design complies with all legal requirements before construction begins, preventing delays or issues.",
+        "@type": "Answer",
+        "description": "Zoning laws in Las Vegas dictate size, setbacks, and parking for in-law suites; we ensure compliance with local ordinances."
+      }
+    }
+  ],
+  "description": "Zoning laws in Las Vegas dictate size, setbacks, and parking for in-law suites; we ensure compliance with local ordinances."
+}

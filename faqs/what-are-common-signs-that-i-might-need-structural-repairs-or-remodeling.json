@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-signs-that-i-might-need-structural-repairs-or-remodeling",
+  "name": "What are common signs that I might need structural repairs or remodeling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common signs that I might need structural repairs or remodeling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several signs can indicate the need for structural repairs or remodeling. These include significant cracks in foundation walls or slabs, uneven or sagging floors, doors or windows that stick or don't close properly, bowing or bulging walls, and persistent leaks in the basement or crawl space. These issues can worsen over time and compromise your home's safety and integrity. If you observe any of these indicators, it's advisable to consult with a structural engineer or experienced general contractor for an assessment.",
+        "@type": "Answer",
+        "description": "Signs you might need structural work include foundation cracks, uneven floors, sticking doors/windows, or bowing walls. Consult a professional for assessment."
+      }
+    }
+  ],
+  "description": "Signs you might need structural work include foundation cracks, uneven floors, sticking doors/windows, or bowing walls. Consult a professional for assessment."
+}

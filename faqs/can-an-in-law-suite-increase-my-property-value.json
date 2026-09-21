@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-an-in-law-suite-increase-my-property-value",
+  "name": "Can an in-law suite increase my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an in-law suite increase my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an in-law suite can significantly increase your property value. It adds functional square footage, enhances desirability for multi-generational families, and offers versatile living options, which are attractive to potential buyers. The exact increase depends on the quality of construction, local market demand, and how well the suite integrates with the existing property. A well-designed and permitted suite is generally considered a valuable asset.",
+        "@type": "Answer",
+        "description": "Yes, an in-law suite can increase property value by adding functional space and appealing to multi-generational buyers."
+      }
+    }
+  ],
+  "description": "Yes, an in-law suite can increase property value by adding functional space and appealing to multi-generational buyers."
+}

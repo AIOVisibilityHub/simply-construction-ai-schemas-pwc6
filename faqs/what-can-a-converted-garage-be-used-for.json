@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-can-a-converted-garage-be-used-for",
+  "name": "What can a converted garage be used for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can a converted garage be used for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A converted garage offers versatile space that can be tailored to various needs. Common uses include creating an additional bedroom, a dedicated home office, a home gym, a play area for children, a media room, or an accessory dwelling unit (ADU) for rental income or extended family. The design possibilities are extensive, allowing for customization to fit specific lifestyle requirements.",
+        "@type": "Answer",
+        "description": "A converted garage can be used for an extra bedroom, home office, gym, play area, media room, or an accessory dwelling unit (ADU)."
+      }
+    }
+  ],
+  "description": "A converted garage can be used for an extra bedroom, home office, gym, play area, media room, or an accessory dwelling unit (ADU)."
+}

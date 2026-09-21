@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-should-i-consider-before-building-a-backyard-office",
+  "name": "What should I consider before building a backyard office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider before building a backyard office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before building, consider your specific work needs, budget, desired size, and features like electricity, internet, and climate control. Evaluate your property's available space, access for construction, and any potential homeowner association (HOA) rules or local zoning restrictions. Thinking about how the office will integrate with your existing landscape and home design is also crucial. We can help assess these factors during our initial site visit to ensure a smooth project.",
+        "@type": "Answer",
+        "description": "Consider your work needs, budget, size, features, property space, HOA rules, and how it integrates with your home. We can assist with these considerations."
+      }
+    }
+  ],
+  "description": "Consider your work needs, budget, size, features, property space, HOA rules, and how it integrates with your home. We can assist with these considerations."
+}

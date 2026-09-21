@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-involved-in-the-design-and-planning-process",
+  "name": "What is involved in the design and planning process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is involved in the design and planning process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our design and planning process begins with a consultation to understand your vision and needs for the home office. We assess the garage's current condition and discuss layout options, material selections, electrical requirements, and desired amenities. Based on this, we create detailed plans and elevations for your approval. This phase also includes finalizing the budget, obtaining necessary permits, and establishing a clear construction timeline before any work begins.",
+        "@type": "Answer",
+        "description": "The design process involves consultation, assessment, planning layouts and materials, finalizing budgets, and obtaining permits."
+      }
+    }
+  ],
+  "description": "The design process involves consultation, assessment, planning layouts and materials, finalizing budgets, and obtaining permits."
+}

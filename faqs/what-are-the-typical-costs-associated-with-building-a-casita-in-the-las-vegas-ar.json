@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-typical-costs-associated-with-building-a-casita-in-the-las-vegas-ar",
+  "name": "What are the typical costs associated with building a casita in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with building a casita in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a casita in the Las Vegas area varies significantly based on size, complexity, materials, and finishes. Factors like utility hookups (electrical, plumbing, sewer), foundation type, interior amenities (kitchen, bathroom), and exterior landscaping all influence the final price. Due to local regulations and material costs, it's best to get a detailed quote from a local contractor for an accurate estimate specific to your project and property.",
+        "@type": "Answer",
+        "description": "Costs for building a casita in Las Vegas vary based on size, complexity, materials, and utility hookups. A detailed quote from a local contractor provides the most accurate estimate."
+      }
+    }
+  ],
+  "description": "Costs for building a casita in Las Vegas vary based on size, complexity, materials, and utility hookups. A detailed quote from a local contractor provides the m"
+}

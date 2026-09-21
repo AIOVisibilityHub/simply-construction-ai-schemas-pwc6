@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-adu-construction-in-las-vegas",
+  "name": "What is the typical cost range for ADU construction in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for ADU construction in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of ADU construction in Las Vegas can vary significantly based on factors such as size, design complexity, materials chosen, and site preparation needs. Generally, costs can range from $100,000 to over $300,000 for a new detached unit. Garage conversions or smaller attached units may be less. This estimate typically includes design, permitting, labor, and materials. We provide detailed quotes after an initial site assessment to give you an accurate project cost.",
+        "@type": "Answer",
+        "description": "ADU construction costs in Las Vegas typically range from $100,000 to over $300,000, depending on size, design, and materials."
+      }
+    }
+  ],
+  "description": "ADU construction costs in Las Vegas typically range from $100,000 to over $300,000, depending on size, design, and materials."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-minimum-lot-size-required-for-a-detached-guest-suite-in-the-las-vega",
+  "name": "What is the minimum lot size required for a detached guest suite in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the minimum lot size required for a detached guest suite in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The minimum lot size required for a detached guest suite, or ADU, in the Las Vegas area depends on specific zoning regulations of your municipality (e.g., City of Las Vegas, Henderson, Clark County). These regulations often specify minimum lot sizes, setbacks from property lines and existing structures, and maximum ADU size as a percentage of the main dwelling. It's essential to check the zoning code for your exact property address or consult with a qualified builder to understand the specific requirements for your location.",
+        "@type": "Answer",
+        "description": "Minimum lot size for a detached guest suite in the Las Vegas area varies by specific municipal zoning regulations; check your property's exact address."
+      }
+    }
+  ],
+  "description": "Minimum lot size for a detached guest suite in the Las Vegas area varies by specific municipal zoning regulations; check your property's exact address."
+}

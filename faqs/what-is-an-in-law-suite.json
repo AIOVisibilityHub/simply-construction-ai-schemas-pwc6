@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-an-in-law-suite",
+  "name": "What is an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An in-law suite is a self-contained living space, typically attached to or located on the same property as a primary residence. It usually includes a bedroom, bathroom, and sometimes a small kitchen or living area, designed to provide independent living for a family member while maintaining close proximity to the main home. These suites offer privacy and convenience for multi-generational living or adult children, without the full separation of a completely separate dwelling.",
+        "@type": "Answer",
+        "description": "An in-law suite is a self-contained living space, often attached to a primary residence, designed for independent living for a family member."
+      }
+    }
+  ],
+  "description": "An in-law suite is a self-contained living space, often attached to a primary residence, designed for independent living for a family member."
+}

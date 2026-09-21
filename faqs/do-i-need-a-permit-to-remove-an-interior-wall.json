@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-a-permit-to-remove-an-interior-wall",
+  "name": "Do I need a permit to remove an interior wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a permit to remove an interior wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in most cases, you will need a building permit to remove an interior wall, especially if it's load-bearing or if the removal impacts electrical, plumbing, or HVAC systems. Permits ensure that the work complies with local building codes and safety standards. A qualified general contractor can advise on specific permit requirements for your project in your area (e.g., Las Vegas, Henderson) and often assist with the permit application process.",
+        "@type": "Answer",
+        "description": "You typically need a building permit to remove an interior wall, particularly if it's load-bearing or involves utilities, to ensure compliance with local building codes."
+      }
+    }
+  ],
+  "description": "You typically need a building permit to remove an interior wall, particularly if it's load-bearing or involves utilities, to ensure compliance with local buildi"
+}

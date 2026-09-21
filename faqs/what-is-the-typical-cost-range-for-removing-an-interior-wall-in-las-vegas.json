@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-range-for-removing-an-interior-wall-in-las-vegas",
+  "name": "What is the typical cost range for removing an interior wall in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for removing an interior wall in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost to remove an interior wall in the Las Vegas area varies significantly based on several factors. These include whether the wall is load-bearing, the wall's length, the materials it's made from, and the extent of utility relocation required. Finishing work, such as drywall repair, flooring, and painting, also impacts the total. A non-load-bearing wall removal might be less, while a complex load-bearing wall requiring structural modifications could be substantially more. A detailed quote from a local contractor is essential for accurate pricing.",
+        "@type": "Answer",
+        "description": "The cost to remove an interior wall in Las Vegas depends on if it's load-bearing, its length, materials, and utility relocation. Get a detailed quote from a local contractor for accurate pricing."
+      }
+    }
+  ],
+  "description": "The cost to remove an interior wall in Las Vegas depends on if it's load-bearing, its length, materials, and utility relocation. Get a detailed quote from a loc"
+}

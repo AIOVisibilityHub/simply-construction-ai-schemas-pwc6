@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-attached-and-a-detached-granny-flat",
+  "name": "What is the difference between an attached and a detached granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an attached and a detached granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached granny flat shares a wall with the primary residence, often built as an extension or within an existing part of the main home. A detached granny flat is a completely separate structure on the property, providing more privacy. The choice between attached and detached depends on your property size, budget, privacy needs, and local zoning laws. Detached units generally offer more flexibility in design but may incur higher construction costs due to independent utility connections and foundations.",
+        "@type": "Answer",
+        "description": "An attached granny flat shares a wall with the main house, while a detached unit is a separate structure. Each has different implications for privacy, cost, and design."
+      }
+    }
+  ],
+  "description": "An attached granny flat shares a wall with the main house, while a detached unit is a separate structure. Each has different implications for privacy, cost, and"
+}

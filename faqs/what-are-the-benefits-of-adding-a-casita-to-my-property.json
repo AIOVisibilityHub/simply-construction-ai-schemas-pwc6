@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-benefits-of-adding-a-casita-to-my-property",
+  "name": "What are the benefits of adding a casita to my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of adding a casita to my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Adding a casita can offer several benefits, including increased property value, flexible living space for guests or family, potential rental income, or a dedicated home office or studio. It provides a private, detached area that enhances the functionality and appeal of your property. For multi-generational families, it can offer independent living while remaining close to loved ones, adding both convenience and value.",
+        "@type": "Answer",
+        "description": "Benefits of adding a casita include increased property value, flexible living space, potential rental income, or a dedicated home office. It enhances property functionality and appeal."
+      }
+    }
+  ],
+  "description": "Benefits of adding a casita include increased property value, flexible living space, potential rental income, or a dedicated home office. It enhances property f"
+}

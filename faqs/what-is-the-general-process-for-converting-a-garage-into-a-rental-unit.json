@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-general-process-for-converting-a-garage-into-a-rental-unit",
+  "name": "What is the general process for converting a garage into a rental unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the general process for converting a garage into a rental unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with a feasibility study and design, followed by securing necessary permits from the local building department. Once permits are approved, construction starts, which involves structural modifications, framing, utility rough-ins (plumbing, electrical), insulation, drywall, and installing finishes like flooring, cabinets, and fixtures. A final inspection by local authorities ensures compliance before the unit can be occupied. The entire process requires coordination with licensed contractors.",
+        "@type": "Answer",
+        "description": "The process involves design, permitting, construction (structural, utilities, finishes), and final inspections, requiring coordination with licensed contractors."
+      }
+    }
+  ],
+  "description": "The process involves design, permitting, construction (structural, utilities, finishes), and final inspections, requiring coordination with licensed contractors"
+}

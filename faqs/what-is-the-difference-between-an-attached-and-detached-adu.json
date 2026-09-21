@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-an-attached-and-detached-adu",
+  "name": "What is the difference between an attached and detached ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an attached and detached ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attached ADU shares a wall with the primary residence, often built as an extension or by converting existing space like a garage. A detached ADU is a completely separate structure on the same property, offering more privacy. The choice between attached and detached often depends on available space, local zoning requirements, and your specific needs for privacy or integration with the main home. Both types offer unique benefits.",
+        "@type": "Answer",
+        "description": "An attached ADU shares a wall with the main house, while a detached ADU is a separate, independent structure on the same property."
+      }
+    }
+  ],
+  "description": "An attached ADU shares a wall with the main house, while a detached ADU is a separate, independent structure on the same property."
+}

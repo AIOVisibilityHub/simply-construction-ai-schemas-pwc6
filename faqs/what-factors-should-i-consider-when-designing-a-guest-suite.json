@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-designing-a-guest-suite",
+  "name": "What factors should I consider when designing a guest suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when designing a guest suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When designing a guest suite, consider factors such as privacy, accessibility, and the comfort of future occupants. Think about whether guests will need a private entrance, dedicated parking, or accessibility features like wider doorways or a roll-in shower. Plan for ample natural light, good ventilation, and sufficient storage. Decide on the level of independence desired, from a simple bedroom/bathroom combo to a full kitchenette. Harmonize the design with your existing home's aesthetic while ensuring the space feels welcoming and self-sufficient.",
+        "@type": "Answer",
+        "description": "Key design factors for a guest suite include privacy, accessibility (e.g., separate entrance), natural light, storage, desired independence (kitchenette?), and aesthetic integration with your home."
+      }
+    }
+  ],
+  "description": "Key design factors for a guest suite include privacy, accessibility (e.g., separate entrance), natural light, storage, desired independence (kitchenette?), and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-materials-are-commonly-used-for-structural-beams",
+  "name": "What materials are commonly used for structural beams?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What materials are commonly used for structural beams?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common materials for structural beams include steel, wood (dimensional lumber, LVL - Laminated Veneer Lumber, Glulam - Glued Laminated Timber), and reinforced concrete. Steel beams offer high strength for large spans and heavy loads but can be heavier and more expensive. Wood beams are versatile, lighter, and often preferred for residential projects due to ease of installation and cost-effectiveness. Engineered wood products like LVL and Glulam provide superior strength and stability compared to traditional lumber. Reinforced concrete is typically used in larger commercial or industrial applications due to its mass and durability.",
+        "@type": "Answer",
+        "description": "Common structural beam materials are steel, wood (dimensional, LVL, Glulam), and reinforced concrete, chosen based on strength, span, and cost."
+      }
+    }
+  ],
+  "description": "Common structural beam materials are steel, wood (dimensional, LVL, Glulam), and reinforced concrete, chosen based on strength, span, and cost."
+}

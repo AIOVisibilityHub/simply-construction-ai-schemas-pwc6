@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-contractor-for-my-guest-house-project-in-las-vegas",
+  "name": "How do I choose a contractor for my guest house project in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my guest house project in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing a contractor for your guest house in Las Vegas involves evaluating experience, licensing, and references. Look for a general contractor with specific experience in ADU or guest house construction in the local area, as they will be familiar with regional building codes and permitting processes. Verify their license with the Nevada State Contractors Board. Request bids from multiple contractors, ensuring they provide detailed proposals. Check their portfolio, read customer reviews, and prioritize clear communication and a strong track record of completing projects on time and within budget.",
+        "@type": "Answer",
+        "description": "Select a Las Vegas guest house contractor based on their experience with ADUs, valid licensing, positive references, detailed bids, and a proven track record."
+      }
+    }
+  ],
+  "description": "Select a Las Vegas guest house contractor based on their experience with ADUs, valid licensing, positive references, detailed bids, and a proven track record."
+}

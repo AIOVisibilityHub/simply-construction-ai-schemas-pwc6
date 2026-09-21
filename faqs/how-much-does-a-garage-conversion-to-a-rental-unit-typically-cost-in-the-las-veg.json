@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-garage-conversion-to-a-rental-unit-typically-cost-in-the-las-veg",
+  "name": "How much does a garage conversion to a rental unit typically cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a garage conversion to a rental unit typically cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for a garage-to-rental-unit conversion in the Las Vegas area can vary significantly. Factors influencing the price include the size of the garage, the extent of structural changes, the quality of finishes, and the need for new utility connections (plumbing, electrical, HVAC). Basic conversions might start from approximately $40,000, while more extensive projects with higher-end materials could exceed $100,000. It's advisable to get a detailed estimate based on your specific project scope.",
+        "@type": "Answer",
+        "description": "Costs for a garage conversion in Las Vegas vary widely, from around $40,000 for basic projects to over $100,000 for extensive ones, depending on size, finishes, and utility needs."
+      }
+    }
+  ],
+  "description": "Costs for a garage conversion in Las Vegas vary widely, from around $40,000 for basic projects to over $100,000 for extensive ones, depending on size, finishes,"
+}

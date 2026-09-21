@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-garage-to-home-office-conversion",
+  "name": "What is a garage-to-home-office conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage-to-home-office conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage-to-home-office conversion transforms your existing garage space into a functional workspace. This process typically involves insulating walls and ceilings, installing new flooring, adding electrical outlets, ensuring proper lighting, and often integrating heating and cooling systems. It's a popular solution for homeowners seeking dedicated office space without the expense or time commitment of a traditional home addition, utilizing existing structures for a new purpose.",
+        "@type": "Answer",
+        "description": "A garage-to-home-office conversion transforms an existing garage into a functional workspace, typically involving insulation, flooring, electrical, lighting, and HVAC."
+      }
+    }
+  ],
+  "description": "A garage-to-home-office conversion transforms an existing garage into a functional workspace, typically involving insulation, flooring, electrical, lighting, an"
+}

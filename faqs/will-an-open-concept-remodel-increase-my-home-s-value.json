@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-an-open-concept-remodel-increase-my-home-s-value",
+  "name": "Will an open-concept remodel increase my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will an open-concept remodel increase my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An open-concept remodel can significantly increase your home's value, especially if it modernizes an outdated layout. Buyers often seek homes with bright, spacious, and connected living areas that are ideal for entertaining and family life. Updated kitchens and living spaces are particularly appealing. The extent of the value increase depends on the quality of the remodel, the materials used, and local market trends in areas like Summerlin or Henderson. While it's an investment, a well-executed open-concept design is generally a strong selling point.",
+        "@type": "Answer",
+        "description": "Yes, an open-concept remodel can increase home value by modernizing layouts and creating desirable, spacious living areas, especially in updated kitchens."
+      }
+    }
+  ],
+  "description": "Yes, an open-concept remodel can increase home value by modernizing layouts and creating desirable, spacious living areas, especially in updated kitchens."
+}

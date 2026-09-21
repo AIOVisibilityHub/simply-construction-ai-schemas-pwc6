@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-difference-between-a-detached-guest-suite-and-an-adu",
+  "name": "What is the difference between a detached guest suite and an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a detached guest suite and an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The terms 'detached guest suite' and 'Accessory Dwelling Unit' (ADU) are often used interchangeably, but there can be subtle differences. An ADU is a legally defined, secondary housing unit on a single-family residential lot that provides independent living facilities, including a kitchen and bathroom. A detached guest suite might be less formally defined, sometimes without a full kitchen, primarily for temporary guest accommodation. However, most modern detached guest suites are built to ADU standards to maximize their utility and value.",
+        "@type": "Answer",
+        "description": "An ADU is a legally defined independent living unit with a kitchen, while a guest suite might be less formal. Most modern guest suites are built as ADUs."
+      }
+    }
+  ],
+  "description": "An ADU is a legally defined independent living unit with a kitchen, while a guest suite might be less formal. Most modern guest suites are built as ADUs."
+}

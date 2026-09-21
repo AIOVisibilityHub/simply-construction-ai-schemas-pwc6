@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-convert-a-detached-garage-into-an-adu",
+  "name": "Can I convert a detached garage into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I convert a detached garage into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to convert a detached garage into an Accessory Dwelling Unit (ADU), provided it meets local zoning and building code requirements. This process typically involves ensuring proper insulation, HVAC, electrical, and plumbing systems are installed to make the space habitable and self-sufficient. Depending on local ordinances in areas like Las Vegas, there may be specific regulations regarding setbacks, parking, and maximum size for detached ADUs. We can help assess your specific property for feasibility.",
+        "@type": "Answer",
+        "description": "Converting a detached garage into an ADU is often possible, given compliance with local zoning, building codes, and necessary utility installations. Regulations vary by location."
+      }
+    }
+  ],
+  "description": "Converting a detached garage into an ADU is often possible, given compliance with local zoning, building codes, and necessary utility installations. Regulations"
+}

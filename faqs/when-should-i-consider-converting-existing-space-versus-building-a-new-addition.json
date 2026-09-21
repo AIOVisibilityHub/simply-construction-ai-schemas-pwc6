@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/when-should-i-consider-converting-existing-space-versus-building-a-new-addition",
+  "name": "When should I consider converting existing space versus building a new addition for an in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider converting existing space versus building a new addition for an in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between converting existing space (like a garage or basement) or building a new addition for an in-law suite depends on several factors. Converting existing space is generally more cost-effective and quicker, as it utilizes existing foundations and structures. However, it might limit size and layout options. A new addition provides greater flexibility in design and amenities but comes with higher costs and a longer construction timeline. We can help assess your home's potential and your needs.",
+        "@type": "Answer",
+        "description": "Convert existing space for cost-effectiveness and speed, or build an addition for greater design flexibility, depending on budget and needs."
+      }
+    }
+  ],
+  "description": "Convert existing space for cost-effectiveness and speed, or build an addition for greater design flexibility, depending on budget and needs."
+}

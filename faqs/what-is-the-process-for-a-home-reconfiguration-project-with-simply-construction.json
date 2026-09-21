@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-a-home-reconfiguration-project-with-simply-construction",
+  "name": "What is the process for a home reconfiguration project with Simply Construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a home reconfiguration project with Simply Construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our process begins with an initial consultation to understand your vision, needs, and budget. Next, we conduct a site visit to assess feasibility and gather detailed measurements. We then develop a detailed proposal, including design concepts, scope of work, timeline, and cost estimate. Upon approval, we handle all permitting, manage the construction phase with regular communication, and conclude with a final walkthrough to ensure your complete satisfaction.",
+        "@type": "Answer",
+        "description": "Our process involves consultation, site assessment, proposal development, permitting, construction management with regular updates, and a final walkthrough to ensure client satisfaction."
+      }
+    }
+  ],
+  "description": "Our process involves consultation, site assessment, proposal development, permitting, construction management with regular updates, and a final walkthrough to e"
+}

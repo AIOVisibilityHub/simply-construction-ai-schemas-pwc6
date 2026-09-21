@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-typically-take-to-build-a-guest-house-from-start-to-finish",
+  "name": "How long does it typically take to build a guest house from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to build a guest house from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for building a guest house can vary, but generally, from initial design to final inspection, it can take 6 to 12 months. This includes time for architectural design, obtaining permits, site preparation, foundation work, framing, utility rough-ins, interior and exterior finishing, and final inspections. Factors such as the complexity of the design, the size of the unit, material availability, and the efficiency of the permitting office can all influence the overall duration of the project.",
+        "@type": "Answer",
+        "description": "Building a guest house typically takes 6 to 12 months from design to completion, depending on design complexity, size, and permitting efficiency."
+      }
+    }
+  ],
+  "description": "Building a guest house typically takes 6 to 12 months from design to completion, depending on design complexity, size, and permitting efficiency."
+}

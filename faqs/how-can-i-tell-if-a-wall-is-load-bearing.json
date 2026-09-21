@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-can-i-tell-if-a-wall-is-load-bearing",
+  "name": "How can I tell if a wall is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I tell if a wall is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if a wall is load-bearing often requires professional assessment. Indicators can include walls running perpendicular to floor joists, walls located near the center of the house, or walls directly above a foundation wall or support beam in the basement. However, visual cues alone are not definitive. A structural engineer or experienced general contractor can perform an inspection to confirm its function accurately, often using architectural plans or by opening up a section of the wall for direct observation.",
+        "@type": "Answer",
+        "description": "Look for walls perpendicular to joists or in the house's center, but a professional assessment by a structural engineer or contractor is recommended for confirmation."
+      }
+    }
+  ],
+  "description": "Look for walls perpendicular to joists or in the house's center, but a professional assessment by a structural engineer or contractor is recommended for confirm"
+}

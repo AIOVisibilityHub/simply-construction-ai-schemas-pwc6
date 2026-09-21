@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-construct-a-granny-flat",
+  "name": "How long does it take to construct a granny flat?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a granny flat?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for granny flat construction can vary, but a typical project from design to completion usually takes between 6 to 12 months. This includes the initial design phase, securing necessary permits from local authorities (which can take several weeks or months), and the actual construction phase. Factors such as the complexity of the design, site conditions, weather, and the efficiency of the permitting process in your specific Las Vegas community can influence the overall duration. We work to streamline the process to minimize delays.",
+        "@type": "Answer",
+        "description": "Construction of a granny flat typically takes 6 to 12 months, including design, permitting, and building phases."
+      }
+    }
+  ],
+  "description": "Construction of a granny flat typically takes 6 to 12 months, including design, permitting, and building phases."
+}

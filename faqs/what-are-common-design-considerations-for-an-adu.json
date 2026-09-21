@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-considerations-for-an-adu",
+  "name": "What are common design considerations for an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common design considerations for an ADU include optimizing space for functionality, ensuring adequate natural light and ventilation, and integrating the unit aesthetically with the main home. You'll also need to consider the number of bedrooms and bathrooms, kitchen layout, and accessibility features if needed. Outdoor space integration, such as a small patio or private entrance, can also enhance the ADU's appeal and usability.",
+        "@type": "Answer",
+        "description": "Design considerations include optimizing space, natural light, ventilation, aesthetic integration, and functional layouts for bedrooms, bathrooms, and kitchens."
+      }
+    }
+  ],
+  "description": "Design considerations include optimizing space, natural light, ventilation, aesthetic integration, and functional layouts for bedrooms, bathrooms, and kitchens."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-an-open-concept-remodel-cost-in-the-las-vegas-area",
+  "name": "How much does an open-concept remodel cost in the Las Vegas area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an open-concept remodel cost in the Las Vegas area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an open-concept remodel in the Las Vegas area varies widely based on several factors. Key considerations include the size of the space, the number of walls to be removed (especially if they are load-bearing), and the extent of material upgrades. Permits, structural engineering, electrical rerouting, plumbing adjustments, and finishes like flooring and cabinetry all contribute to the final price. A basic remodel might start from tens of thousands, while more extensive projects with high-end finishes can be significantly higher. Getting a detailed estimate from a local contractor is crucial.",
+        "@type": "Answer",
+        "description": "Costs for open-concept remodels in Las Vegas depend on space size, load-bearing walls, material choices, and necessary structural, electrical, and plumbing work. Estimates vary widely."
+      }
+    }
+  ],
+  "description": "Costs for open-concept remodels in Las Vegas depend on space size, load-bearing walls, material choices, and necessary structural, electrical, and plumbing work"
+}

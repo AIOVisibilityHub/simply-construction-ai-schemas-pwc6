@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-detached-guest-suite",
+  "name": "What is a detached guest suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a detached guest suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A detached guest suite is a separate living space on your property, independent of the main house. It typically includes a bedroom, bathroom, and often a small kitchenette or living area. These structures are ideal for housing guests, extended family, or can serve as a private home office, studio, or rental unit. Building a detached suite requires careful planning to ensure it complements your existing property and complies with local zoning regulations.",
+        "@type": "Answer",
+        "description": "A detached guest suite is a self-contained living space separate from your main home, often used for guests, family, or as a rental."
+      }
+    }
+  ],
+  "description": "A detached guest suite is a self-contained living space separate from your main home, often used for guests, family, or as a rental."
+}

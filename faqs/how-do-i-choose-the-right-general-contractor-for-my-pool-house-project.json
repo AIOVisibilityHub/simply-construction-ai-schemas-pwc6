@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-the-right-general-contractor-for-my-pool-house-project",
+  "name": "How do I choose the right general contractor for my pool house project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right general contractor for my pool house project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right general contractor involves several key steps. Look for contractors with specific experience in pool house or custom outdoor structure construction. Verify their licensing and insurance. Request to see a portfolio of past projects and ask for client references. It's also important to get detailed quotes from multiple contractors, ensuring they clearly outline the scope of work, materials, timeline, and payment schedule. Communication and transparency are vital.",
+        "@type": "Answer",
+        "description": "Choose a contractor with pool house experience, verify licenses/insurance, check portfolios/references, and compare detailed quotes for scope, materials, and timeline."
+      }
+    }
+  ],
+  "description": "Choose a contractor with pool house experience, verify licenses/insurance, check portfolios/references, and compare detailed quotes for scope, materials, and ti"
+}

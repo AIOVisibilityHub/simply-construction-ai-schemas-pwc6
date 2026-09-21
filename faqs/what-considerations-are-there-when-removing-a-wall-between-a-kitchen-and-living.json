@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-considerations-are-there-when-removing-a-wall-between-a-kitchen-and-living",
+  "name": "What considerations are there when removing a wall between a kitchen and living room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What considerations are there when removing a wall between a kitchen and living room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Removing a wall between a kitchen and living room often creates an open-concept space. Key considerations include the structural integrity of the wall, potential relocation of plumbing, electrical, and HVAC lines, and how the new open space will impact flooring and ceiling transitions. Also, consider the impact on noise transfer, odors from cooking, and the overall aesthetic flow of the two previously separate areas. Planning for new lighting and potential countertop extensions is also common.",
+        "@type": "Answer",
+        "description": "Removing a kitchen-living room wall requires considering structural integrity, utility relocation, flooring/ceiling transitions, and the impact on noise, odors, and aesthetic flow."
+      }
+    }
+  ],
+  "description": "Removing a kitchen-living room wall requires considering structural integrity, utility relocation, flooring/ceiling transitions, and the impact on noise, odors,"
+}

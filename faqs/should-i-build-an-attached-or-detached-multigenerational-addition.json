@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/should-i-build-an-attached-or-detached-multigenerational-addition",
+  "name": "Should I build an attached or detached multigenerational addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I build an attached or detached multigenerational addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between an attached or detached multigenerational addition depends on your property, budget, and desired level of privacy. An attached addition often integrates more seamlessly with the existing home, potentially sharing utilities, and can be more cost-effective. A detached addition, like a separate ADU, offers maximum privacy and independence for the occupants, and may provide greater flexibility in design. However, detached units typically require more extensive utility connections and can be more expensive. Consider your family's needs and property layout when making this decision.",
+        "@type": "Answer",
+        "description": "Decide between attached or detached additions based on privacy needs, budget, and property layout; attached are often more integrated, detached offer more independence."
+      }
+    }
+  ],
+  "description": "Decide between attached or detached additions based on privacy needs, budget, and property layout; attached are often more integrated, detached offer more indep"
+}

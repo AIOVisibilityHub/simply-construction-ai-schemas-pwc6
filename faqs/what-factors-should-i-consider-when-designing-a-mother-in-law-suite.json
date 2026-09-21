@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-designing-a-mother-in-law-suite",
+  "name": "What factors should I consider when designing a mother-in-law suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when designing a mother-in-law suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Consider the intended occupant's needs, such as accessibility features like wider doorways, grab bars, or zero-entry showers, if for an elderly family member. Evaluate the available space and how it integrates with your existing property. Think about natural light, ventilation, and soundproofing for comfort. Plan for essential utilities—water, sewer, electricity, and potentially gas—and whether they can be easily extended. Also, consider the suite's aesthetic to ensure it complements your main home's design.",
+        "@type": "Answer",
+        "description": "Consider occupant needs (e.g., accessibility), available space, natural light, ventilation, soundproofing, essential utility connections, and aesthetic integration with the main home."
+      }
+    }
+  ],
+  "description": "Consider occupant needs (e.g., accessibility), available space, natural light, ventilation, soundproofing, essential utility connections, and aesthetic integrat"
+}

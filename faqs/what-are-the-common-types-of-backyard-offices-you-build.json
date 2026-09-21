@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-types-of-backyard-offices-you-build",
+  "name": "What are the common types of backyard offices you build?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of backyard offices you build?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We construct various backyard office styles, ranging from modern minimalist sheds to more integrated, custom-designed structures that complement your existing home. Options include pre-fabricated kits, custom-built detached units, or even conversions of existing outdoor structures. We can discuss materials like wood, metal, or composite siding, and features such as insulation, climate control, natural light, and integrated power, all tailored to your specific needs and the local climate considerations in Las Vegas.",
+        "@type": "Answer",
+        "description": "We build various backyard office styles, including modern sheds, custom detached units, and converted structures, tailored to your needs and local climate."
+      }
+    }
+  ],
+  "description": "We build various backyard office styles, including modern sheds, custom detached units, and converted structures, tailored to your needs and local climate."
+}

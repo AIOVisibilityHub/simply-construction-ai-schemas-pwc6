@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-multigenerational-addition-in-henderson",
+  "name": "What permits are required for a multigenerational addition in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a multigenerational addition in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Henderson, a multigenerational home addition, especially one creating an accessory dwelling unit (ADU), typically requires several permits. These usually include building permits, plumbing permits, electrical permits, and mechanical permits. Zoning regulations dictate what can be built, so a thorough review of your property's zoning classification is essential. Specific requirements can vary based on the addition's size and features, such as adding a kitchen. We help navigate the Henderson permit process to ensure your project complies with all local building codes and ordinances.",
+        "@type": "Answer",
+        "description": "Permits for a multigenerational addition in Henderson typically include building, plumbing, electrical, and mechanical, subject to local zoning laws."
+      }
+    }
+  ],
+  "description": "Permits for a multigenerational addition in Henderson typically include building, plumbing, electrical, and mechanical, subject to local zoning laws."
+}

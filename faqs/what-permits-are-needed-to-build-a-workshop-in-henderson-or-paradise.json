@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-needed-to-build-a-workshop-in-henderson-or-paradise",
+  "name": "What permits are needed to build a workshop in Henderson or Paradise?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are needed to build a workshop in Henderson or Paradise?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Building a workshop in Henderson or Paradise, like other areas in Southern Nevada, typically requires specific permits to ensure compliance with local building codes and zoning ordinances. These generally include a building permit, and depending on the scope, separate permits for electrical, plumbing, and mechanical work. Zoning regulations will dictate size, setbacks, and allowed uses. It's crucial to consult with your general contractor or the local planning department early in the process to understand all necessary permits and avoid delays or penalties.",
+        "@type": "Answer",
+        "description": "Building a workshop in Henderson or Paradise usually requires a building permit, plus electrical, plumbing, and mechanical permits, depending on the project scope."
+      }
+    }
+  ],
+  "description": "Building a workshop in Henderson or Paradise usually requires a building permit, plus electrical, plumbing, and mechanical permits, depending on the project sco"
+}

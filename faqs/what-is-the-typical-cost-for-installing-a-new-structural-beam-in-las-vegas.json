@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-cost-for-installing-a-new-structural-beam-in-las-vegas",
+  "name": "What is the typical cost for installing a new structural beam in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost for installing a new structural beam in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of installing a new structural beam in Las Vegas varies widely based on several factors. These include the beam's material (steel, wood, glulam), length, and load capacity, as well as the complexity of the installation, site accessibility, and the need for temporary supports. Engineering fees, permit costs, and labor for demolition, installation, and finishing work also contribute. For a standard residential project, costs can range from a few thousand dollars to over ten thousand, but a precise estimate requires an on-site evaluation by a qualified contractor.",
+        "@type": "Answer",
+        "description": "Costs for structural beam installation in Las Vegas vary based on material, size, complexity, and labor, typically ranging from a few thousand to over ten thousand dollars."
+      }
+    }
+  ],
+  "description": "Costs for structural beam installation in Las Vegas vary based on material, size, complexity, and labor, typically ranging from a few thousand to over ten thous"
+}

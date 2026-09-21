@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-s-the-difference-between-home-reconfiguration-and-a-home-addition",
+  "name": "What's the difference between home reconfiguration and a home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between home reconfiguration and a home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home reconfiguration focuses on altering the interior layout and functionality of your existing home's footprint without increasing its overall square footage. This might include moving walls, changing room purposes, or updating the flow. A home addition, conversely, involves expanding the physical size of your home by adding new rooms or extending existing ones, thereby increasing the total square footage. Each has different permitting, cost, and design implications.",
+        "@type": "Answer",
+        "description": "Reconfiguration changes your home's existing layout within its current footprint, while an addition expands your home's total square footage by adding new space."
+      }
+    }
+  ],
+  "description": "Reconfiguration changes your home's existing layout within its current footprint, while an addition expands your home's total square footage by adding new space"
+}

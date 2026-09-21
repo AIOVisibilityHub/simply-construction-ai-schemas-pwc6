@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-garage-to-guest-house-conversion",
+  "name": "What is a garage-to-guest-house conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage-to-guest-house conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage-to-guest-house conversion transforms an existing attached or detached garage into a habitable living space, often including a bedroom, bathroom, and sometimes a small kitchen. This type of conversion is popular for creating accessory dwelling units (ADUs), providing extra space for family, guests, or potential rental income. It utilizes the existing structure, which can simplify the construction process compared to building a new standalone unit. The design prioritizes comfort and functionality, integrating modern amenities while adhering to local building codes.",
+        "@type": "Answer",
+        "description": "A garage-to-guest-house conversion turns an existing garage into a habitable living space, like an accessory dwelling unit (ADU), providing extra room for guests or family."
+      }
+    }
+  ],
+  "description": "A garage-to-guest-house conversion turns an existing garage into a habitable living space, like an accessory dwelling unit (ADU), providing extra room for guest"
+}

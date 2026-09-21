@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-a-garage-conversion-affect-my-home-s-resale-value",
+  "name": "Will a garage conversion affect my home's resale value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a garage conversion affect my home's resale value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-executed garage-to-home-office conversion can positively impact your home's resale value, especially if it adds functional living space that meets market demand. Buyers often value dedicated workspaces. However, ensure the conversion is done professionally, meets all building codes, and maintains the overall aesthetic of your home. Poorly done conversions or those that eliminate necessary parking without adding significant value can detract from resale appeal. We focus on quality to maximize your return.",
+        "@type": "Answer",
+        "description": "A professional garage conversion can increase resale value by adding functional space, but quality and code compliance are key."
+      }
+    }
+  ],
+  "description": "A professional garage conversion can increase resale value by adding functional space, but quality and code compliance are key."
+}

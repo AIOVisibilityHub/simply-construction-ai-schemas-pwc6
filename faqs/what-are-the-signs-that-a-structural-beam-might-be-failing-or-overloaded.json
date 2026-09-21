@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-signs-that-a-structural-beam-might-be-failing-or-overloaded",
+  "name": "What are the signs that a structural beam might be failing or overloaded?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the signs that a structural beam might be failing or overloaded?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Signs of a failing or overloaded structural beam can include visible sagging or bowing in floors or ceilings, cracks appearing in walls or ceilings, particularly above doorways or windows, doors or windows that stick or are difficult to open, and noticeable vibrations in floors. Additionally, a persistent creaking or groaning sound from the structure can indicate stress. If you observe any of these indicators, it is crucial to contact a structural engineer or a qualified general contractor immediately for an inspection to assess the integrity of your home's support system.",
+        "@type": "Answer",
+        "description": "Signs of a failing beam include sagging floors, ceiling cracks, sticking doors/windows, or persistent structural creaking; seek professional inspection immediately."
+      }
+    }
+  ],
+  "description": "Signs of a failing beam include sagging floors, ceiling cracks, sticking doors/windows, or persistent structural creaking; seek professional inspection immediat"
+}

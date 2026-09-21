@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-an-existing-garage-be-converted-into-an-adu",
+  "name": "Can an existing garage be converted into an ADU?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can an existing garage be converted into an ADU?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, converting an existing garage into an ADU is a common and often more cost-effective option than new construction. This process typically involves insulating walls and ceilings, adding plumbing and electrical systems, installing new windows and doors, and ensuring the structure meets all residential building codes for habitation. The feasibility depends on the garage's current condition and local zoning regulations regarding garage conversions.",
+        "@type": "Answer",
+        "description": "Yes, an existing garage can often be converted into an ADU by adding insulation, plumbing, electrical, and ensuring it meets residential building codes."
+      }
+    }
+  ],
+  "description": "Yes, an existing garage can often be converted into an ADU by adding insulation, plumbing, electrical, and ensuring it meets residential building codes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-structural-remodeling-affect-my-home-s-value",
+  "name": "Will structural remodeling affect my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will structural remodeling affect my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, structural remodeling can significantly affect your home's value, typically in a positive way if done correctly. By improving the functionality, safety, or aesthetic appeal through changes like open-concept layouts or added living space, you can enhance market desirability. Addressing existing structural issues, such as foundation repair, directly preserves or increases value by ensuring the home's long-term integrity. Always ensure work is performed by licensed professionals and adheres to codes to maximize return on investment.",
+        "@type": "Answer",
+        "description": "Yes, structural remodeling can positively affect home value by improving safety, functionality, and aesthetics, especially if existing issues are addressed by licensed professionals."
+      }
+    }
+  ],
+  "description": "Yes, structural remodeling can positively affect home value by improving safety, functionality, and aesthetics, especially if existing issues are addressed by l"
+}

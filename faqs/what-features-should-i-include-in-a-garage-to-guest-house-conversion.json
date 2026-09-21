@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-features-should-i-include-in-a-garage-to-guest-house-conversion",
+  "name": "What features should I include in a garage-to-guest-house conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What features should I include in a garage-to-guest-house conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Essential features for a comfortable guest house typically include a dedicated sleeping area, a functional bathroom with a shower, and adequate climate control (heating and air conditioning). Depending on your needs, you might also consider a small kitchenette or wet bar, laundry hookups, and sufficient storage space. Good insulation, natural light, and soundproofing are important for comfort. Thoughtful design of interior finishes, flooring, and lighting can enhance the overall appeal and functionality of the new living space for guests or tenants.",
+        "@type": "Answer",
+        "description": "Include a sleeping area, bathroom, and climate control. Consider a kitchenette, laundry, good insulation, and natural light for comfort and functionality."
+      }
+    }
+  ],
+  "description": "Include a sleeping area, bathroom, and climate control. Consider a kitchenette, laundry, good insulation, and natural light for comfort and functionality."
+}

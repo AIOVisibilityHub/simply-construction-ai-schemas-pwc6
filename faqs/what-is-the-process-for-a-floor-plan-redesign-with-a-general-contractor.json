@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-process-for-a-floor-plan-redesign-with-a-general-contractor",
+  "name": "What is the process for a floor plan redesign with a general contractor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a floor plan redesign with a general contractor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically begins with an initial consultation to discuss your vision, needs, and budget. Next, our team conducts a site visit to assess the existing structure. We then develop preliminary design concepts and floor plans for your review and feedback. Once a design is approved, we handle permit acquisition, material selection, and project scheduling. Construction follows, with regular communication until completion. Simply Construction manages all aspects from concept to final walkthrough.",
+        "@type": "Answer",
+        "description": "The process includes consultation, site assessment, design concepts, permit acquisition, material selection, scheduling, and construction, managed from start to finish."
+      }
+    }
+  ],
+  "description": "The process includes consultation, site assessment, design concepts, permit acquisition, material selection, scheduling, and construction, managed from start to"
+}

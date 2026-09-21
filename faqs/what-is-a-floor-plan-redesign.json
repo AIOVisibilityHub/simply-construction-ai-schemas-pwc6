@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-floor-plan-redesign",
+  "name": "What is a floor plan redesign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a floor plan redesign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A floor plan redesign involves altering the layout of a home or commercial space to improve functionality, aesthetics, or flow. This can include moving walls, reconfiguring rooms, adding new spaces, or changing the purpose of existing areas. It often aims to better utilize space, enhance natural light, or accommodate changing lifestyle needs. Simply Construction works with clients to identify current challenges and design a more efficient and enjoyable environment.",
+        "@type": "Answer",
+        "description": "A floor plan redesign changes the layout of a space to improve functionality, aesthetics, or flow, often involving moving walls or reconfiguring rooms."
+      }
+    }
+  ],
+  "description": "A floor plan redesign changes the layout of a space to improve functionality, aesthetics, or flow, often involving moving walls or reconfiguring rooms."
+}

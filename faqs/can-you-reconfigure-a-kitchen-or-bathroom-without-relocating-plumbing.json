@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-you-reconfigure-a-kitchen-or-bathroom-without-relocating-plumbing",
+  "name": "Can you reconfigure a kitchen or bathroom without relocating plumbing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you reconfigure a kitchen or bathroom without relocating plumbing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to reconfigure a kitchen or bathroom without completely relocating major plumbing lines, which can significantly reduce costs and complexity. This usually involves adjusting fixture locations within the existing wet wall or utility zones. However, moving sinks, toilets, or showers to entirely new walls typically requires extensive plumbing work. Our team can assess your specific layout to determine the feasibility and best approach.",
+        "@type": "Answer",
+        "description": "Yes, kitchens and bathrooms can often be reconfigured by adjusting fixtures within existing utility zones, avoiding full plumbing relocation. Moving them to new walls usually requires extensive plumbing work."
+      }
+    }
+  ],
+  "description": "Yes, kitchens and bathrooms can often be reconfigured by adjusting fixtures within existing utility zones, avoiding full plumbing relocation. Moving them to new"
+}

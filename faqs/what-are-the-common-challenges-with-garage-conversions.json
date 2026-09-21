@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-common-challenges-with-garage-conversions",
+  "name": "What are the common challenges with garage conversions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges with garage conversions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in garage conversions include ensuring adequate insulation and weatherproofing for a comfortable living space, updating electrical and plumbing systems to meet residential standards, and addressing potential foundation issues. Parking requirements can also be a challenge in some areas if the garage originally fulfilled a minimum parking obligation. Adhering to local zoning and building codes, which often differ for ADUs, requires careful planning and execution. We address these challenges proactively through thorough planning and expert craftsmanship.",
+        "@type": "Answer",
+        "description": "Challenges include insulation, updating utilities, foundation issues, parking regulations, and navigating complex zoning and building codes."
+      }
+    }
+  ],
+  "description": "Challenges include insulation, updating utilities, foundation issues, parking regulations, and navigating complex zoning and building codes."
+}

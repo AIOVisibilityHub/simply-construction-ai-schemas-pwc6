@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-an-open-concept-remodel-in-las-vegas",
+  "name": "What permits are required for an open-concept remodel in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for an open-concept remodel in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an open-concept remodel in Las Vegas, you will typically need several permits from the local building department. This often includes a general building permit, especially if load-bearing walls are being altered or removed. Additional permits may be required for electrical work, plumbing modifications, or HVAC system changes, depending on the scope of your project. Our team handles the permit application process to ensure all work complies with local codes and regulations in Las Vegas, Henderson, North Las Vegas, and surrounding areas. Failing to secure proper permits can lead to fines and rework.",
+        "@type": "Answer",
+        "description": "In Las Vegas, open-concept remodels typically require building permits, especially for structural changes. Electrical, plumbing, and HVAC permits may also be needed."
+      }
+    }
+  ],
+  "description": "In Las Vegas, open-concept remodels typically require building permits, especially for structural changes. Electrical, plumbing, and HVAC permits may also be ne"
+}

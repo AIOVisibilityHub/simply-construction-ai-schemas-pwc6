@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-builder-for-my-guest-suite-projec",
+  "name": "What factors should I consider when choosing a builder for my guest suite project?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a builder for my guest suite project?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a builder for your detached guest suite, consider their experience with similar projects, their licensing and insurance, and their reputation for quality and customer service. Look for contractors familiar with local Las Vegas area building codes and permitting processes. Review their portfolio, ask for references, and ensure transparent communication about timelines, costs, and project management. A thorough evaluation helps ensure a smooth project and a high-quality finished product.",
+        "@type": "Answer",
+        "description": "Choose a builder with relevant experience, proper licensing, insurance, strong references, and local code knowledge for your guest suite project."
+      }
+    }
+  ],
+  "description": "Choose a builder with relevant experience, proper licensing, insurance, strong references, and local code knowledge for your guest suite project."
+}

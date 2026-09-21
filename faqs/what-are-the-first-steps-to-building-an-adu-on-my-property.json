@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-first-steps-to-building-an-adu-on-my-property",
+  "name": "What are the first steps to building an ADU on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps to building an ADU on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The first steps involve assessing your property's suitability and understanding local zoning regulations in your specific Las Vegas area. This includes checking lot size, setbacks, and utility access. Next, it's beneficial to consult with a general contractor who specializes in ADUs. They can help you determine feasibility, discuss design options, and provide a preliminary estimate. This initial consultation helps lay the groundwork for a successful project.",
+        "@type": "Answer",
+        "description": "Start by assessing your property's suitability and local zoning, then consult with a general contractor specializing in ADUs for feasibility and design."
+      }
+    }
+  ],
+  "description": "Start by assessing your property's suitability and local zoning, then consult with a general contractor specializing in ADUs for feasibility and design."
+}

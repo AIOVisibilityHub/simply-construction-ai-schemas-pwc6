@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-to-replace-the-garage-door-during-a-conversion",
+  "name": "Do I need to replace the garage door during a conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to replace the garage door during a conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, the existing garage door is removed during a conversion. The opening is then framed and enclosed with conventional wall construction, including proper insulation, windows, and an entry door. This ensures the new living space is well-insulated, weather-tight, and visually integrated with the rest of your home. Keeping a garage door would compromise insulation, security, and the aesthetic of a finished living space, making it unsuitable for habitation. We recommend a full enclosure for optimal results.",
+        "@type": "Answer",
+        "description": "Yes, the garage door is usually removed and the opening framed for conventional wall construction, including insulation and windows, to create a proper living space."
+      }
+    }
+  ],
+  "description": "Yes, the garage door is usually removed and the opening framed for conventional wall construction, including insulation and windows, to create a proper living s"
+}

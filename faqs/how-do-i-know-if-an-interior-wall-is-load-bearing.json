@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-know-if-an-interior-wall-is-load-bearing",
+  "name": "How do I know if an interior wall is load-bearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if an interior wall is load-bearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining if an interior wall is load-bearing requires professional assessment. Indicators can include walls located centrally in the home, walls directly above a foundation wall or support beam in the basement, or walls running perpendicular to the floor joists in the attic or above. However, visual cues are not always conclusive. A general contractor or structural engineer can accurately identify load-bearing walls and advise on safe removal methods.",
+        "@type": "Answer",
+        "description": "A general contractor or structural engineer can determine if an interior wall is load-bearing. Look for walls centrally located, above foundation walls, or perpendicular to floor joists, but professional assessment is necessary."
+      }
+    }
+  ],
+  "description": "A general contractor or structural engineer can determine if an interior wall is load-bearing. Look for walls centrally located, above foundation walls, or perp"
+}

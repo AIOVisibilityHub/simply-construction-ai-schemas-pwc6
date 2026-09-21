@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-factors-should-i-consider-when-choosing-a-location-for-my-pool-house",
+  "name": "What factors should I consider when choosing a location for my pool house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a location for my pool house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a pool house location, consider proximity to the main pool for convenience, but also ensure sufficient space for access and utilities. Factors include sun exposure, privacy from neighbors, proximity to existing plumbing and electrical lines to minimize utility extension costs, and adherence to local setback requirements. The chosen site should also allow for proper drainage and complement the overall landscape design of your backyard.",
+        "@type": "Answer",
+        "description": "Consider proximity to the pool and utilities, sun exposure, privacy, drainage, and local setback requirements when choosing your pool house location."
+      }
+    }
+  ],
+  "description": "Consider proximity to the pool and utilities, sun exposure, privacy, drainage, and local setback requirements when choosing your pool house location."
+}

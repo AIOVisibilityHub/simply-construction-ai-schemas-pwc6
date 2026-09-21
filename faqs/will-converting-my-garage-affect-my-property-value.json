@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-converting-my-garage-affect-my-property-value",
+  "name": "Will converting my garage affect my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage affect my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Converting your garage into a well-designed, permitted guest house or ADU can often significantly increase your property value. It adds usable, habitable square footage and provides a versatile space that can serve as a guest suite, home office, or rental unit. The return on investment can be substantial, especially in desirable areas. However, the quality of the conversion, adherence to local regulations, and the specific needs of the local real estate market all play a role. A professional appraisal can provide a more precise estimate.",
+        "@type": "Answer",
+        "description": "A well-designed, permitted garage conversion can increase property value by adding usable square footage and versatile living space."
+      }
+    }
+  ],
+  "description": "A well-designed, permitted garage conversion can increase property value by adding usable square footage and versatile living space."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-the-typical-timeline-for-in-law-suite-construction",
+  "name": "What is the typical timeline for in-law suite construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for in-law suite construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for an in-law suite varies depending on the project's scope. A garage conversion or renovation of existing interior space might take 2-4 months from start to finish, including design and permitting. A new attached addition or a detached accessory dwelling unit (ADU) could take 5-9 months or longer. Factors like permitting approval times, material availability, and the complexity of finishes all influence the overall duration of the project.",
+        "@type": "Answer",
+        "description": "Timelines range from 2-4 months for conversions to 5-9+ months for new additions, depending on project scope and permitting."
+      }
+    }
+  ],
+  "description": "Timelines range from 2-4 months for conversions to 5-9+ months for new additions, depending on project scope and permitting."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-common-design-considerations-for-a-detached-guest-suite",
+  "name": "What are common design considerations for a detached guest suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common design considerations for a detached guest suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key design considerations for a detached guest suite include size and layout to maximize functionality within local zoning limits, ensuring privacy for both the main house and the suite, and integrating its aesthetics with your existing home. Consider natural light, ventilation, soundproofing, and energy efficiency. Think about the intended use – a simple bedroom/bathroom, or a more comprehensive unit with a kitchenette and living area. Our team can help optimize the design for your specific needs and property.",
+        "@type": "Answer",
+        "description": "Design considerations include size, layout, privacy, aesthetic integration, natural light, and intended use, all within local zoning limits."
+      }
+    }
+  ],
+  "description": "Design considerations include size, layout, privacy, aesthetic integration, natural light, and intended use, all within local zoning limits."
+}

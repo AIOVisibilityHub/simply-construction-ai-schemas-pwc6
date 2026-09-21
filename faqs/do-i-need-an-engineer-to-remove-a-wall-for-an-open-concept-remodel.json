@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-an-engineer-to-remove-a-wall-for-an-open-concept-remodel",
+  "name": "Do I need an engineer to remove a wall for an open-concept remodel?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an engineer to remove a wall for an open-concept remodel?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if the wall you plan to remove is load-bearing, you will absolutely need a structural engineer. A load-bearing wall supports the weight of the structure above it, and its removal without proper support can compromise your home's integrity. An engineer will assess the wall's function and design a suitable support solution, such as a new beam or column. Even for non-load-bearing walls, an engineer might be consulted if there are complex structural elements or if the renovation impacts multiple levels. Always consult a professional before removing any interior wall.",
+        "@type": "Answer",
+        "description": "You need a structural engineer if the wall is load-bearing to ensure your home's structural integrity. Always consult a professional before removing any interior wall."
+      }
+    }
+  ],
+  "description": "You need a structural engineer if the wall is load-bearing to ensure your home's structural integrity. Always consult a professional before removing any interio"
+}

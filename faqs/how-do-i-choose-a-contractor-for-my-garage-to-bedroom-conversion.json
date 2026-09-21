@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-do-i-choose-a-contractor-for-my-garage-to-bedroom-conversion",
+  "name": "How do I choose a contractor for my garage-to-bedroom conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a contractor for my garage-to-bedroom conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a contractor, look for experience with similar conversion projects and ensure they are properly licensed and insured in Nevada. Check their references and review their portfolio of past work. A reputable contractor will provide a detailed proposal, clear communication, and assist with all necessary permits. Prioritize those who demonstrate a strong understanding of local building codes and design aesthetic to match your home.",
+        "@type": "Answer",
+        "description": "Choose a licensed and insured contractor with experience in conversions. Check references, review portfolios, and ensure they understand local codes and permitting."
+      }
+    }
+  ],
+  "description": "Choose a licensed and insured contractor with experience in conversions. Check references, review portfolios, and ensure they understand local codes and permitt"
+}

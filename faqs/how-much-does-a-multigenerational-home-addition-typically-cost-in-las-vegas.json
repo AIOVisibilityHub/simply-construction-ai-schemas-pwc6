@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-much-does-a-multigenerational-home-addition-typically-cost-in-las-vegas",
+  "name": "How much does a multigenerational home addition typically cost in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a multigenerational home addition typically cost in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a multigenerational home addition in the Las Vegas area varies significantly based on its size, complexity, and chosen finishes. Factors include the foundation type, plumbing and electrical work required for new bathrooms or kitchens, and the quality of materials. A basic bedroom and bathroom addition will be less expensive than a fully self-contained apartment. Site preparation, permits, and architectural design also contribute to the overall budget. It's essential to consult with a contractor for a detailed estimate based on your specific project scope and local market conditions.",
+        "@type": "Answer",
+        "description": "Costs for a multigenerational home addition in Las Vegas vary widely based on size, complexity, and finishes, typically requiring a custom quote."
+      }
+    }
+  ],
+  "description": "Costs for a multigenerational home addition in Las Vegas vary widely based on size, complexity, and finishes, typically requiring a custom quote."
+}

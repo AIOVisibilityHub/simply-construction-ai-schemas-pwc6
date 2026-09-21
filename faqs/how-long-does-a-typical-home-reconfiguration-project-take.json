@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-a-typical-home-reconfiguration-project-take",
+  "name": "How long does a typical home reconfiguration project take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical home reconfiguration project take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a home reconfiguration project depends heavily on its complexity and scale. A simple wall removal might take a few days to a week. Projects involving multiple rooms, structural modifications, or extensive utility relocations can take several weeks to a few months. Factors like permitting, material lead times, and unforeseen conditions can also influence the timeline. We provide a projected schedule after the initial design and scope are finalized.",
+        "@type": "Answer",
+        "description": "Project timelines vary; simple changes might take days, while complex reconfigurations with structural work or utility relocations can take several weeks to months. Permitting and material availability also affect the schedule."
+      }
+    }
+  ],
+  "description": "Project timelines vary; simple changes might take days, while complex reconfigurations with structural work or utility relocations can take several weeks to mon"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-reconfiguring-my-home-increase-its-value",
+  "name": "Will reconfiguring my home increase its value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will reconfiguring my home increase its value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, thoughtfully planned and well-executed home reconfiguration can significantly increase your property's value and appeal. Modernizing layouts, improving flow, adding functional spaces (like an extra bedroom or office), and updating kitchens or bathrooms are common reconfigurations that offer a high return on investment. Buyers often prioritize homes that are move-in ready and have an optimized layout that suits contemporary living. The extent of value increase depends on the project's scope and market conditions.",
+        "@type": "Answer",
+        "description": "Yes, well-planned home reconfiguration can increase property value by modernizing layouts, improving functionality, and updating key areas like kitchens or bathrooms, appealing to contemporary buyers."
+      }
+    }
+  ],
+  "description": "Yes, well-planned home reconfiguration can increase property value by modernizing layouts, improving functionality, and updating key areas like kitchens or bath"
+}

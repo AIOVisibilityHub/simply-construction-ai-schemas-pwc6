@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-construct-a-detached-guest-suite",
+  "name": "How long does it take to construct a detached guest suite?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to construct a detached guest suite?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The construction timeline for a detached guest suite varies, but generally ranges from 3 to 6 months from groundbreaking to completion. This estimate excludes the initial design and permitting phases, which can add several weeks or even a few months, depending on the complexity of the design and local government processing times. Factors like weather, material availability, and the size and complexity of the suite can also influence the project duration.",
+        "@type": "Answer",
+        "description": "Construction of a detached guest suite typically takes 3 to 6 months, not including design and permitting."
+      }
+    }
+  ],
+  "description": "Construction of a detached guest suite typically takes 3 to 6 months, not including design and permitting."
+}

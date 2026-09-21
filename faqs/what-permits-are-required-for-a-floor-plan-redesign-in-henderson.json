@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-a-floor-plan-redesign-in-henderson",
+  "name": "What permits are required for a floor plan redesign in Henderson?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for a floor plan redesign in Henderson?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Henderson, permits are generally required for any floor plan redesign involving structural changes, alterations to load-bearing walls, additions, or modifications to plumbing or electrical systems. Minor cosmetic changes typically do not require permits. The specific permits needed will depend on the scope of work and local building codes. Simply Construction assists clients with identifying and securing all necessary permits from the City of Henderson development services department before construction begins.",
+        "@type": "Answer",
+        "description": "Permits in Henderson are needed for structural changes, load-bearing walls, additions, or plumbing/electrical modifications. Simply Construction helps secure all necessary permits from the city."
+      }
+    }
+  ],
+  "description": "Permits in Henderson are needed for structural changes, load-bearing walls, additions, or plumbing/electrical modifications. Simply Construction helps secure al"
+}

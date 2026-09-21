@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/how-long-does-it-take-to-build-a-casita-from-start-to-finish",
+  "name": "How long does it take to build a casita from start to finish?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to build a casita from start to finish?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for casita construction typically ranges from 4 to 8 months, depending on the project's scope, permitting process, and material availability. Design and permitting can take 1-3 months. Construction itself usually takes 3-5 months for a standard project. Unexpected delays due to weather, inspections, or material delivery can extend this timeframe. A clear project plan and schedule will be provided once designs are finalized.",
+        "@type": "Answer",
+        "description": "Building a casita typically takes 4 to 8 months, including design, permitting, and construction. This can vary based on project scope and unforeseen delays."
+      }
+    }
+  ],
+  "description": "Building a casita typically takes 4 to 8 months, including design, permitting, and construction. This can vary based on project scope and unforeseen delays."
+}

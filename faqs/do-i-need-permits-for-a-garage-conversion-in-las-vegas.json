@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/do-i-need-permits-for-a-garage-conversion-in-las-vegas",
+  "name": "Do I need permits for a garage conversion in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for a garage conversion in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, permits are required for garage conversions in Las Vegas to ensure the project meets local building codes and safety standards. This includes structural, electrical, plumbing, and mechanical permits. Converting a garage to a habitable space changes its occupancy classification, necessitating inspections. Working with a contractor experienced in local regulations ensures all necessary permits are obtained before construction begins, avoiding potential delays or fines.",
+        "@type": "Answer",
+        "description": "Yes, permits are required for garage conversions in Las Vegas to meet local building codes and safety standards. A contractor can help navigate this."
+      }
+    }
+  ],
+  "description": "Yes, permits are required for garage conversions in Las Vegas to meet local building codes and safety standards. A contractor can help navigate this."
+}

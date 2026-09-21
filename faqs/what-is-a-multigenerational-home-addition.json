@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-multigenerational-home-addition",
+  "name": "What is a multigenerational home addition?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multigenerational home addition?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multigenerational home addition is an expansion designed to accommodate multiple generations of a family living together, such as adult children, elderly parents, or both. These additions often include private living spaces like bedrooms, bathrooms, and sometimes kitchenettes, while still maintaining shared common areas within the main house. The goal is to provide independence and privacy for each generation while fostering family connection and support. Common types of additions include in-law suites, accessory dwelling units (ADUs), or expanding existing living areas to create separate, self-contained spaces.",
+        "@type": "Answer",
+        "description": "A multigenerational home addition expands your house to create separate, private living spaces for different generations of your family to live together."
+      }
+    }
+  ],
+  "description": "A multigenerational home addition expands your house to create separate, private living spaces for different generations of your family to live together."
+}

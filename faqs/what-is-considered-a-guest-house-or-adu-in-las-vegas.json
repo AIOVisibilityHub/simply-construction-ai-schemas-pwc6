@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-considered-a-guest-house-or-adu-in-las-vegas",
+  "name": "What is considered a guest house or ADU in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a guest house or ADU in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the Las Vegas area, a guest house, often referred to as an Accessory Dwelling Unit (ADU), is a secondary residential structure on the same lot as a primary single-family home. It can be attached or detached and must comply with local zoning ordinances. ADUs typically include a kitchen, bathroom, and sleeping area, providing independent living facilities for guests, family members, or tenants. Regulations vary by jurisdiction within the Las Vegas Valley regarding size, height, and setbacks, impacting design and construction possibilities.",
+        "@type": "Answer",
+        "description": "A guest house, or ADU, is a secondary dwelling on the same property as a primary home, providing independent living space. Regulations vary by specific Las Vegas area."
+      }
+    }
+  ],
+  "description": "A guest house, or ADU, is a secondary dwelling on the same property as a primary home, providing independent living space. Regulations vary by specific Las Vega"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-kind-of-foundation-is-needed-for-a-backyard-office",
+  "name": "What kind of foundation is needed for a backyard office?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of foundation is needed for a backyard office?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The type of foundation depends on the office's size, weight, and local soil conditions. Common options include concrete slab foundations, which are durable and provide a solid base, or pier and beam foundations, which can be suitable for sloped sites or specific structural needs. Smaller, lighter structures might use a gravel base or concrete blocks. We assess your site during the planning phase to recommend the most appropriate and code-compliant foundation for your specific backyard office.",
+        "@type": "Answer",
+        "description": "Foundation types vary based on size, weight, and soil, including concrete slabs, pier and beam, or gravel bases. We recommend the best option for your specific project."
+      }
+    }
+  ],
+  "description": "Foundation types vary based on size, weight, and soil, including concrete slabs, pier and beam, or gravel bases. We recommend the best option for your specific"
+}

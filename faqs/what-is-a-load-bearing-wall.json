@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-load-bearing-wall",
+  "name": "What is a load-bearing wall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a load-bearing wall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A load-bearing wall is a structural element that supports the weight from the floors or roof above it, transferring that load down to the foundation. Removing it without proper support can compromise the structural integrity of your home, potentially leading to sagging floors, cracked walls, or even collapse. Identifying these walls correctly is the first critical step in any renovation project involving wall removal.",
+        "@type": "Answer",
+        "description": "A load-bearing wall supports the weight from above floors or the roof. Removing it improperly can cause structural damage."
+      }
+    }
+  ],
+  "description": "A load-bearing wall supports the weight from above floors or the roof. Removing it improperly can cause structural damage."
+}

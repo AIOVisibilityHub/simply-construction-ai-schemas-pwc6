@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-typical-costs-involved-in-building-a-guest-house-in-southern-nevada",
+  "name": "What are the typical costs involved in building a guest house in Southern Nevada?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs involved in building a guest house in Southern Nevada?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of building a guest house in Southern Nevada varies widely based on size, finishes, foundation type, and utility connections. Basic construction for a detached unit can range significantly. Factors like site preparation, utility trenching, architectural design, permits, and interior amenities all contribute to the final price. High-end finishes, custom designs, or challenging site conditions will increase overall expenses. It's essential to get a detailed quote that includes all potential costs.",
+        "@type": "Answer",
+        "description": "Guest house construction costs in Southern Nevada depend on size, finishes, and utility needs, ranging widely. Site prep, permits, and design are also key cost factors."
+      }
+    }
+  ],
+  "description": "Guest house construction costs in Southern Nevada depend on size, finishes, and utility needs, ranging widely. Site prep, permits, and design are also key cost"
+}

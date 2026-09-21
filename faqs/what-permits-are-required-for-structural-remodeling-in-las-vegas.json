@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-permits-are-required-for-structural-remodeling-in-las-vegas",
+  "name": "What permits are required for structural remodeling in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are required for structural remodeling in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Structural remodeling projects in Las Vegas typically require several permits to ensure compliance with local building codes and safety standards. You will generally need a building permit, and depending on the scope, potentially permits for electrical, plumbing, or mechanical work if those systems are affected. Engineering plans sealed by a licensed structural engineer are often a prerequisite for obtaining these permits. A reputable general contractor will handle the permit application process and ensure all work adheres to Clark County and municipal regulations.",
+        "@type": "Answer",
+        "description": "Structural remodeling in Las Vegas usually requires a building permit, often with sealed engineering plans. Your contractor should manage the permit process."
+      }
+    }
+  ],
+  "description": "Structural remodeling in Las Vegas usually requires a building permit, often with sealed engineering plans. Your contractor should manage the permit process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-are-the-typical-size-limitations-for-granny-flats-in-las-vegas",
+  "name": "What are the typical size limitations for granny flats in Las Vegas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical size limitations for granny flats in Las Vegas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Size limitations for granny flats in Las Vegas and surrounding areas are primarily determined by local zoning ordinances and vary by specific jurisdiction (e.g., City of Las Vegas, Henderson, Clark County). Generally, they are restricted to a percentage of the main dwelling's size or a maximum square footage, often ranging from 700 to 1,000 square feet. There may also be minimum size requirements. These rules ensure the ADU remains accessory to the primary residence. We can help you understand the specific limitations applicable to your property.",
+        "@type": "Answer",
+        "description": "Size limits for granny flats in Las Vegas vary by jurisdiction, typically ranging from 700 to 1,000 square feet, and are tied to the main dwelling's size."
+      }
+    }
+  ],
+  "description": "Size limits for granny flats in Las Vegas vary by jurisdiction, typically ranging from 700 to 1,000 square feet, and are tied to the main dwelling's size."
+}

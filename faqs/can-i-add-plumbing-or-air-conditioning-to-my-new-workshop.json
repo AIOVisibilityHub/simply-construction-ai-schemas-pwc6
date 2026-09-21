@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/can-i-add-plumbing-or-air-conditioning-to-my-new-workshop",
+  "name": "Can I add plumbing or air conditioning to my new workshop?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I add plumbing or air conditioning to my new workshop?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, plumbing and air conditioning can certainly be added to a new workshop, and these additions are best planned during the initial design phase. Integrating plumbing allows for sinks, utility wash stations, or even a small restroom, which can be highly convenient. Air conditioning ensures a comfortable working environment, especially in hot climates like Las Vegas, and can help protect sensitive tools or materials. Both require proper planning for utility connections, drainage, and appropriate HVAC sizing. Your contractor can advise on feasibility and permit requirements for these systems.",
+        "@type": "Answer",
+        "description": "Yes, plumbing and air conditioning can be added to a new workshop, and are best planned during design for proper utility connections and permitting."
+      }
+    }
+  ],
+  "description": "Yes, plumbing and air conditioning can be added to a new workshop, and are best planned during design for proper utility connections and permitting."
+}

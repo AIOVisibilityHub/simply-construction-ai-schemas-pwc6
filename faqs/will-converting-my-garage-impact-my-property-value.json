@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/will-converting-my-garage-impact-my-property-value",
+  "name": "Will converting my garage impact my property value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will converting my garage impact my property value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A well-executed garage conversion can positively impact your property value by adding usable living space and enhancing functionality. However, it's crucial that the conversion is professionally done, integrates seamlessly with the existing home, and adheres to all local building codes. Conversions that compromise parking or are poorly designed might not yield the desired return on investment. Consulting with a local realtor can provide insights into market demand.",
+        "@type": "Answer",
+        "description": "A professional garage conversion can increase property value by adding functional living space, if done correctly and to code."
+      }
+    }
+  ],
+  "description": "A professional garage conversion can increase property value by adding functional living space, if done correctly and to code."
+}

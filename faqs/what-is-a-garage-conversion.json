@@ -1,0 +1,27 @@
+{
+  "url": "http://simplyconstructionlv.com/faq/what-is-a-garage-conversion",
+  "name": "What is a garage conversion?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a garage conversion?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A garage conversion transforms an existing garage space into a functional living area, such as an extra bedroom, home office, or accessory dwelling unit (ADU). This process typically involves insulating walls and ceilings, adding or modifying electrical and plumbing systems, installing new flooring, and integrating the space with the main home's heating and cooling. It's an effective way to maximize your property's footprint without building a new extension, often increasing usable square footage and property value.",
+        "@type": "Answer",
+        "description": "A garage conversion transforms an existing garage into a functional living space like a bedroom, office, or ADU, adding valuable square footage to your home."
+      }
+    }
+  ],
+  "description": "A garage conversion transforms an existing garage into a functional living space like a bedroom, office, or ADU, adding valuable square footage to your home."
+}
