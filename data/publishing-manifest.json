@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-22T19:14:57.809Z",
+  "generatedAt": "2026-09-22T19:22:11.444Z",
   "client": {
     "name": "Simply Construction",
     "canonicalUrl": "https://simplyconstructionlv.aiovisibility.net",
@@ -235,7 +235,7 @@
   },
   "package": {
     "totalFiles": 2872,
-    "totalBytes": 15531300,
+    "totalBytes": 15535028,
     "stats": {
       "qna": 0,
       "faqs": 1777,
@@ -14581,7 +14581,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6417,
+        "bytes": 6787,
         "purpose": "LLM hint"
       },
       {
@@ -14601,32 +14601,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1724,
+        "bytes": 2757,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1288287,
+        "bytes": 1289132,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 374108,
+        "bytes": 374478,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 374108,
+        "bytes": 374478,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 6406,
+        "bytes": 6776,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 442919,
+        "bytes": 443289,
         "purpose": "Repository README"
       },
       {
@@ -14646,6 +14646,16 @@
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
       "pagesUrl": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/",
       "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/simply-construction-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/22904094"
     }
   }
 }

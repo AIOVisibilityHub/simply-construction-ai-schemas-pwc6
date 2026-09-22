@@ -24,6 +24,10 @@ Canonical AI Data Package for Simply Construction.
 - [ai-data-hub] Simply Construction — AI Data Hub — https://simplyconstructionlv.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6
 - [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/ai-data.html
+- [mirror-repo] Kaggle repository — https://www.kaggle.com/datasets/aiovisibilityhub/simply-construction-ai-schemas
+- [mirror-repo] SourceHut repository — https://aiovisibilityhub.srht.site/
+- [mirror-pages] SourceHut — AI Data Hub mirror — https://aiovisibilityhub.srht.site/ai-data.html
+- [mirror-repo] Zenodo repository — https://zenodo.org/record/22904094
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
