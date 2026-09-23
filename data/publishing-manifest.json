@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-23T19:35:38.131Z",
+  "generatedAt": "2026-09-23T19:40:56.055Z",
   "client": {
     "name": "Simply Construction",
     "canonicalUrl": "https://simplyconstructionlv.aiovisibility.net",
@@ -235,7 +235,7 @@
   },
   "package": {
     "totalFiles": 2527,
-    "totalBytes": 11668008,
+    "totalBytes": 11679070,
     "stats": {
       "qna": 0,
       "faqs": 1777,
@@ -12856,7 +12856,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6417,
+        "bytes": 7531,
         "purpose": "LLM hint"
       },
       {
@@ -12876,32 +12876,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1724,
+        "bytes": 4752,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1132903,
+        "bytes": 1135367,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 325075,
+        "bytes": 326189,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 325075,
+        "bytes": 326189,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 6406,
+        "bytes": 7520,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 385928,
+        "bytes": 387042,
         "purpose": "Repository README"
       },
       {
@@ -12921,6 +12921,30 @@
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
       "pagesUrl": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/",
       "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/simply-construction-ai-schemas-g7f4",
+      "pagesUrl": "https://simply-construction-ai-schemas-g7f4-676a76.gitlab.io/"
+    },
+    "huggingface": {
+      "url": "https://huggingface.co/spaces/AIOVisibilityHub/simply-construction-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub-simply-construction-ai-schemas.static.hf.space/",
+      "repo": "AIOVisibilityHub/simply-construction-ai-schemas"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/simply-construction-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/simply-construction-ai-schemas/",
+      "repo": "aiovisibilityhub/simply-construction-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/simply-construction-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/22924514"
     }
   }
 }
