@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-22T19:22:11.406Z",
+  "generatedAt": "2026-09-23T19:35:02.111Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,30 +37,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/simply-construction-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/22904094"
     }
   ],
   "destinations": {
@@ -68,16 +44,6 @@
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
       "pagesUrl": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/",
       "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/simply-construction-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22904094"
     }
   }
 }
