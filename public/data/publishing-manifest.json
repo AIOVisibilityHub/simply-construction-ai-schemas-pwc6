@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:36:03.889Z",
+  "generatedAt": "2026-10-04T00:36:27.475Z",
   "client": {
     "name": "Simply Construction",
     "canonicalUrl": "https://simplyconstructionlv.aiovisibility.net",
@@ -235,7 +235,7 @@
   },
   "package": {
     "totalFiles": 2366,
-    "totalBytes": 9502610,
+    "totalBytes": 9428756,
     "stats": {
       "qna": 0,
       "faqs": 1777,
@@ -11974,72 +11974,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 21048,
+        "bytes": 15619,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 47947,
+        "bytes": 42658,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 144447,
+        "bytes": 139039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 42105,
+        "bytes": 37018,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 19152,
+        "bytes": 13990,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1299127,
+        "bytes": 1293935,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 20459,
+        "bytes": 15272,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 37932,
+        "bytes": 32792,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 138160,
+        "bytes": 132909,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 119942,
+        "bytes": 114621,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 370832,
+        "bytes": 365540,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 364507,
+        "bytes": 359179,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 33547,
+        "bytes": 28325,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 39215,
+        "bytes": 33885,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -12051,7 +12051,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6417,
+        "bytes": 6393,
         "purpose": "LLM hint"
       },
       {
@@ -12071,32 +12071,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1724,
+        "bytes": 1676,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1075941,
+        "bytes": 1075893,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 308183,
+        "bytes": 308159,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 308183,
+        "bytes": 308159,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 6388,
+        "bytes": 6364,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 368437,
+        "bytes": 368413,
         "purpose": "Repository README"
       },
       {
@@ -12114,7 +12114,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
-      "pagesUrl": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/",
+      "pagesUrl": "https://simplyconstructionlv.aiovisibility.net/",
       "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
     }
   }
