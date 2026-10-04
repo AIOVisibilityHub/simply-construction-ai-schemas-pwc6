@@ -1,0 +1,722 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/custom-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-cabinet-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-countertop-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-countertop-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-island-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/open-concept-kitchen-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-wall-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-layout-redesign-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-backsplash-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-lighting-upgrades-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/kitchen-expansion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shower-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/walk-in-shower-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tub-to-shower-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathtub-replacement-las-vegas-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-tile-shower-installation-las-vegas-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-tile-installation-las-vegas-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-vanity-installation-las-vegas-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-layout-redesign-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/guest-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/primary-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/luxury-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/accessible-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/aging-in-place-bathroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/whole-home-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-home-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/older-home-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-modernization-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fixer-upper-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pre-move-in-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-remodeling-for-seniors-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/aging-in-place-home-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/room-additions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-addition-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/house-extension-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bedroom-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/primary-suite-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bathroom-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/family-room-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/living-room-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-office-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-gym-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/second-story-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/attached-garage-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/detached-garage-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/in-law-suite-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/guest-suite-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/multigenerational-home-addition-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-to-bedroom-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-to-living-space-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-to-home-office-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-to-guest-house-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/garage-to-rental-unit-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/casita-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/guest-house-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/in-law-suite-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/mother-in-law-suite-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/granny-flat-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/adu-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/detached-guest-suite-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backyard-office-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pool-house-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/workshop-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/load-bearing-wall-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/interior-wall-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/structural-beam-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/structural-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/open-concept-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/home-reconfiguration-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/floor-plan-redesign-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/ceiling-removal-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/raised-ceiling-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vaulted-ceiling-conversion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-leak-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/storm-damage-roof-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tile-roof-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shingle-roof-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flat-roof-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/flat-roof-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/roof-inspection-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fascia-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/soffit-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-home-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stucco-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/house-exterior-makeover-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/energy-efficient-window-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/window-and-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/exterior-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/front-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sliding-glass-door-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/patio-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/french-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/security-door-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backyard-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/outdoor-living-design-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/covered-patio-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/patio-cover-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-patio-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-patio-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/paver-patio-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backyard-shade-structure-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pergola-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-pergola-design-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/gazebo-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/custom-gazebo-design-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/outdoor-kitchen-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/outdoor-kitchen-design-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/built-in-bbq-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bbq-island-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/outdoor-fireplace-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fire-pit-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backyard-entertainment-area-construction-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pool-deck-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pool-deck-resurfacing-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pool-area-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pool-landscaping-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/desert-landscaping-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/low-maintenance-landscaping-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/artificial-turf-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/backyard-drainage-solutions-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/retaining-wall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/block-wall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/privacy-wall-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-wall-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stone-feature-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-driveway-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-driveway-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-driveway-replacement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/driveway-expansion-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-walkway-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-sidewalk-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-slab-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-foundation-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-foundation-work-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-pad-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-garage-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-garage-floor-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/concrete-repair-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-building-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/small-business-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/office-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/medical-office-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/retail-store-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/restaurant-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-build-out-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/tenant-improvement-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-restroom-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-flooring-installation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/multifamily-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/apartment-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/apartment-unit-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-property-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/duplex-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/townhome-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/condo-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/investment-property-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/landlord-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-turnover-renovation-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rental-unit-make-ready-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-maintenance-remodeling-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/remodeling-permit-assistance-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/remodeling-project-coordination-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}

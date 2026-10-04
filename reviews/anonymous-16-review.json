@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "Used Simply Construction and Gaby was very professional and did an excellent whole-house remodel. Great attention to detail, fair and competitive pricing, and knowledgeable subcontractors who made sure everything was done right the first time.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2026-06-06",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Simply Construction",
+    "url": "https://simplyconstructionlv.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Whole-house remodel"
+      }
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "I have been using Simply Construction for the past two years and it's been the greatest experience ever. I'm a professional homebuyer acquiring multiple properties per year, and Simply Construction has been simply the best. The finishing work was incredible, very well organized, very neat and clean, and they are true professionals. I would not recommend any other contractor. I plan to continue using Simply Construction for all my projects.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2026-06-06",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Simply Construction",
+    "url": "https://simplyconstructionlv.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "Drywall installation and repair"
+      }
+    }
+  }
+}

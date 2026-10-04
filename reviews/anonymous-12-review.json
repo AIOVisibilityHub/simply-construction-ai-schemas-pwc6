@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "author": {
+    "@type": "Person",
+    "name": "Anonymous"
+  },
+  "reviewBody": "There were a few imperfections on my shop floor that I wanted to cover and the flake did a great job doing that. It looks great and they only took one day to complete it. I will be calling them to do my garage floors next.",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": 5,
+    "bestRating": 5
+  },
+  "datePublished": "2024-04-19",
+  "itemReviewed": {
+    "@type": "Organization",
+    "name": "Simply Construction",
+    "url": "https://simplyconstructionlv.aiovisibility.net",
+    "makesOffer": {
+      "@type": "Offer",
+      "itemOffered": {
+        "@type": "Service",
+        "name": "garage floor coating"
+      }
+    }
+  }
+}

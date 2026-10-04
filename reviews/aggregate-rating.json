@@ -1,12 +1,12 @@
 {
-  "url": "http://simplyconstructionlv.com",
-  "name": "Simply Construction",
-  "@type": "Organization",
   "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Simply Construction",
+  "url": "https://simplyconstructionlv.aiovisibility.net",
   "aggregateRating": {
     "@type": "AggregateRating",
-    "bestRating": 5,
     "ratingValue": 5,
-    "reviewCount": 4
+    "bestRating": 5,
+    "reviewCount": 22
   }
 }
