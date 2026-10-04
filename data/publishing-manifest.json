@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-23T19:40:56.055Z",
+  "generatedAt": "2026-10-04T00:36:03.889Z",
   "client": {
     "name": "Simply Construction",
     "canonicalUrl": "https://simplyconstructionlv.aiovisibility.net",
@@ -234,19 +234,19 @@
     ]
   },
   "package": {
-    "totalFiles": 2527,
-    "totalBytes": 11679070,
+    "totalFiles": 2366,
+    "totalBytes": 9502610,
     "stats": {
       "qna": 0,
       "faqs": 1777,
       "press": 0,
-      "total": 2497,
+      "total": 2515,
       "awards": 0,
-      "reviews": 4,
+      "reviews": 22,
       "products": 0,
       "research": 0,
       "services": 180,
-      "webpages": 179,
+      "webpages": 0,
       "locations": 1,
       "personnel": 2,
       "caseStudies": 0,
@@ -1190,33 +1190,6 @@
       {
         "path": "organization/simply-construction-organization.json",
         "bytes": 4607,
-        "purpose": "schema"
-      }
-    ],
-    "reviews": [
-      {
-        "path": "reviews/5-ster-rating-provider-1-review.json",
-        "bytes": 689,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/femi-arawole-2-review.json",
-        "bytes": 351,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/ivy-garcia-3-review.json",
-        "bytes": 501,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/rose-miller-4-review.json",
-        "bytes": 451,
-        "purpose": "schema"
-      },
-      {
-        "path": "reviews/aggregate-rating.json",
-        "bytes": 218,
         "purpose": "schema"
       }
     ],
@@ -11874,977 +11847,199 @@
         "purpose": "schema"
       }
     ],
-    "webpages": [
+    "reviews": [
       {
-        "path": "webpages/custom-kitchen-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/evelyn-ernst-1-review.json",
+        "bytes": 802,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-2-review.json",
+        "bytes": 644,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-3-review.json",
+        "bytes": 565,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-cabinet-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-4-review.json",
+        "bytes": 790,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-cabinet-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-5-review.json",
+        "bytes": 482,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-countertop-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-6-review.json",
+        "bytes": 751,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-countertop-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-7-review.json",
+        "bytes": 573,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-island-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-8-review.json",
+        "bytes": 491,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/open-concept-kitchen-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-9-review.json",
+        "bytes": 576,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-wall-removal-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-10-review.json",
+        "bytes": 716,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-layout-redesign-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-11-review.json",
+        "bytes": 546,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-flooring-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-12-review.json",
+        "bytes": 648,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-backsplash-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-13-review.json",
+        "bytes": 537,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-lighting-upgrades-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-14-review.json",
+        "bytes": 880,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/kitchen-expansion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-15-review.json",
+        "bytes": 515,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/bathroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-16-review.json",
+        "bytes": 668,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/bathroom-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-17-review.json",
+        "bytes": 491,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/shower-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-18-review.json",
+        "bytes": 469,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/walk-in-shower-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-19-review.json",
+        "bytes": 626,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/tub-to-shower-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-20-review.json",
+        "bytes": 631,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/bathtub-replacement-las-vegas-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/john-scott-21-review.json",
+        "bytes": 642,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/custom-tile-shower-installation-las-vegas-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "reviews/anonymous-22-review.json",
+        "bytes": 633,
+        "purpose": "schema"
       },
       {
-        "path": "webpages/bathroom-tile-installation-las-vegas-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/bathroom-vanity-installation-las-vegas-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/bathroom-layout-redesign-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/guest-bathroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/primary-bathroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/luxury-bathroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/accessible-bathroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/aging-in-place-bathroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/custom-home-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/whole-home-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/whole-home-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/interior-home-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/older-home-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-modernization-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/fixer-upper-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pre-move-in-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-remodeling-for-seniors-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/aging-in-place-home-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/room-additions-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-addition-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/house-extension-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/bedroom-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/primary-suite-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/bathroom-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/family-room-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/living-room-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-office-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-gym-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/second-story-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/attached-garage-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/detached-garage-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/in-law-suite-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/guest-suite-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/multigenerational-home-addition-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-to-bedroom-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-to-living-space-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-to-home-office-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-to-guest-house-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/garage-to-rental-unit-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/casita-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/guest-house-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/in-law-suite-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/mother-in-law-suite-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/granny-flat-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/adu-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/detached-guest-suite-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/backyard-office-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pool-house-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/workshop-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/load-bearing-wall-removal-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/interior-wall-removal-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/structural-beam-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/structural-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/open-concept-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/home-reconfiguration-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/floor-plan-redesign-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/ceiling-removal-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/raised-ceiling-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/vaulted-ceiling-conversion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/roof-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/roof-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/roof-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/roof-leak-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/storm-damage-roof-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/tile-roof-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/shingle-roof-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/flat-roof-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/flat-roof-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/roof-inspection-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/fascia-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/soffit-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/exterior-home-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/exterior-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/stucco-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/house-exterior-makeover-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/window-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/energy-efficient-window-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/window-and-door-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/exterior-door-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/front-door-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/sliding-glass-door-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/patio-door-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/french-door-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/security-door-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/backyard-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/outdoor-living-design-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/covered-patio-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/patio-cover-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/custom-patio-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-patio-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/paver-patio-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/backyard-shade-structure-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pergola-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/custom-pergola-design-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/gazebo-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/custom-gazebo-design-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/outdoor-kitchen-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/outdoor-kitchen-design-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/built-in-bbq-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/bbq-island-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/outdoor-fireplace-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/fire-pit-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/backyard-entertainment-area-construction-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pool-deck-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pool-deck-resurfacing-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pool-area-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/pool-landscaping-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/desert-landscaping-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/low-maintenance-landscaping-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/artificial-turf-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/backyard-drainage-solutions-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/retaining-wall-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/block-wall-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/privacy-wall-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/property-wall-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/stone-feature-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-driveway-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-driveway-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-driveway-replacement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/driveway-expansion-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-walkway-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-sidewalk-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-slab-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-foundation-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-foundation-work-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-pad-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-garage-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-garage-floor-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/concrete-repair-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/commercial-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/commercial-building-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/small-business-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/office-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/medical-office-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/retail-store-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/restaurant-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/commercial-build-out-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/tenant-improvement-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/commercial-restroom-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/commercial-flooring-installation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/multifamily-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/apartment-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/apartment-unit-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/rental-property-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/duplex-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/townhome-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/condo-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/investment-property-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/landlord-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/rental-turnover-renovation-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/rental-unit-make-ready-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/property-maintenance-remodeling-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
-      {
-        "path": "webpages/remodeling-permit-assistance-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
-      },
+        "path": "reviews/aggregate-rating.json",
+        "bytes": 234,
+        "purpose": "schema"
+      }
+    ],
+    "webpages-publishing-plan.json": [
       {
-        "path": "webpages/remodeling-project-coordination-hub.json",
-        "bytes": 0,
-        "purpose": "webpage"
+        "path": "webpages-publishing-plan.json",
+        "bytes": 13932,
+        "purpose": "schema"
       }
     ],
     "public": [
       {
         "path": "index.html",
-        "bytes": 15851,
+        "bytes": 21048,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 41341,
+        "bytes": 47947,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 1190539,
+        "bytes": 144447,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 14579,
+        "bytes": 42105,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 12752,
+        "bytes": 19152,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1292697,
+        "bytes": 1299127,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 14034,
+        "bytes": 20459,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 31554,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "web-pages.html",
-        "bytes": 1121979,
+        "bytes": 37932,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 131718,
+        "bytes": 138160,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 113430,
+        "bytes": 119942,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 364349,
+        "bytes": 370832,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 357988,
+        "bytes": 364507,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 27134,
+        "bytes": 33547,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 32694,
+        "bytes": 39215,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -12856,7 +12051,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 7531,
+        "bytes": 6417,
         "purpose": "LLM hint"
       },
       {
@@ -12876,42 +12071,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 4752,
+        "bytes": 1724,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1135367,
+        "bytes": 1075941,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 326189,
+        "bytes": 308183,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 326189,
+        "bytes": 308183,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 7520,
+        "bytes": 6388,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 387042,
+        "bytes": 368437,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 346209,
+        "bytes": 327739,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1767,
+        "bytes": 1681,
         "purpose": "Standard sitemap"
       }
     ]
@@ -12921,30 +12116,6 @@
       "url": "https://github.com/AIOVisibilityHub/simply-construction-ai-schemas-pwc6",
       "pagesUrl": "https://aiovisibilityhub.github.io/simply-construction-ai-schemas-pwc6/",
       "repo": "AIOVisibilityHub/simply-construction-ai-schemas-pwc6"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/simply-construction-ai-schemas-g7f4",
-      "pagesUrl": "https://simply-construction-ai-schemas-g7f4-676a76.gitlab.io/"
-    },
-    "huggingface": {
-      "url": "https://huggingface.co/spaces/AIOVisibilityHub/simply-construction-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub-simply-construction-ai-schemas.static.hf.space/",
-      "repo": "AIOVisibilityHub/simply-construction-ai-schemas"
-    },
-    "codeberg": {
-      "url": "https://codeberg.org/aiovisibilityhub/simply-construction-ai-schemas",
-      "pagesUrl": "https://aiovisibilityhub.codeberg.page/simply-construction-ai-schemas/",
-      "repo": "aiovisibilityhub/simply-construction-ai-schemas"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/simply-construction-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/22924514"
     }
   }
 }
