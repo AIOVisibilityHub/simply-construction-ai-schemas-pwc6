@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-04T00:36:27.475Z",
+  "generatedAt": "2026-10-24T23:04:28.860Z",
   "client": {
     "name": "Simply Construction",
     "canonicalUrl": "https://simplyconstructionlv.aiovisibility.net",
@@ -234,24 +234,24 @@
     ]
   },
   "package": {
-    "totalFiles": 2366,
-    "totalBytes": 9428756,
+    "totalFiles": 2365,
+    "totalBytes": 9557904,
     "stats": {
-      "qna": 0,
       "faqs": 1777,
-      "press": 0,
-      "total": 2515,
-      "awards": 0,
-      "reviews": 22,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 352,
       "services": 180,
       "webpages": 0,
+      "personnel": 1,
+      "products": 0,
       "locations": 1,
-      "personnel": 2,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 352,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 22,
+      "qna": 0,
+      "research": 0,
+      "total": 2514
     }
   },
   "entrypoints": {
@@ -1170,12 +1170,7 @@
     "team": [
       {
         "path": "team/gaby-bolin-profile.json",
-        "bytes": 7529,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/gaby-bolin-las-vegas.json",
-        "bytes": 7493,
+        "bytes": 4681,
         "purpose": "schema"
       }
     ],
@@ -1189,7 +1184,7 @@
     "organization": [
       {
         "path": "organization/simply-construction-organization.json",
-        "bytes": 4607,
+        "bytes": 22767,
         "purpose": "schema"
       }
     ],
@@ -11840,11 +11835,6 @@
         "path": "help/when-should-i-call-a-pro-for-my-bathroom-renovation.json",
         "bytes": 3051,
         "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 104665,
-        "purpose": "schema"
       }
     ],
     "reviews": [
@@ -11974,72 +11964,77 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 15619,
+        "bytes": 21048,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 42658,
+        "bytes": 67876,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 139039,
+        "bytes": 154406,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "reviews.html",
-        "bytes": 37018,
+        "bytes": 42679,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 13990,
+        "bytes": 19726,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 1293935,
+        "bytes": 1299701,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 15272,
+        "bytes": 21454,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 32792,
+        "bytes": 26927,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 132909,
+        "bytes": 153064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 114621,
+        "bytes": 114394,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 365540,
+        "bytes": 409487,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 359179,
+        "bytes": 374580,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 28325,
+        "bytes": 40043,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 33885,
+        "bytes": 45373,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 25126,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -12051,7 +12046,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 6393,
+        "bytes": 10253,
         "purpose": "LLM hint"
       },
       {
@@ -12071,42 +12066,42 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1676,
+        "bytes": 9732,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1075893,
+        "bytes": 1083647,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 308159,
+        "bytes": 311946,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 308159,
+        "bytes": 311946,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 6364,
+        "bytes": 10224,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 368413,
+        "bytes": 372208,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 327739,
+        "bytes": 327636,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1681,
+        "bytes": 1777,
         "purpose": "Standard sitemap"
       }
     ]
