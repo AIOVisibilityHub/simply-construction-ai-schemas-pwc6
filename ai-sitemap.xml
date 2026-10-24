@@ -4,7 +4,6 @@
   <url><loc>https://simplyconstructionlv.aiovisibility.net/ai-data.html</loc><priority>0.9</priority></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/services/general-contracting-service.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/team/gaby-bolin-profile.json</loc></url>
-  <url><loc>https://simplyconstructionlv.aiovisibility.net/team/gaby-bolin-las-vegas.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/locations/primary-office.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/organization/simply-construction-organization.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/services/custom-kitchen-remodeling-service.json</loc></url>
@@ -2339,7 +2338,6 @@
   <url><loc>https://simplyconstructionlv.aiovisibility.net/reviews/anonymous-22-review.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/reviews/aggregate-rating.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/webpages-publishing-plan.json</loc></url>
-  <url><loc>https://simplyconstructionlv.aiovisibility.net/help/publishing-plan.json</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/index.html</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/about.html</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/services.html</loc></url>
@@ -2354,6 +2352,7 @@
   <url><loc>https://simplyconstructionlv.aiovisibility.net/articles/pricing-and-estimates.html</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/articles/local-service-guidance.html</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/articles/care-and-maintenance.html</loc></url>
+  <url><loc>https://simplyconstructionlv.aiovisibility.net/articles/unassigned.html</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/robots.txt</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/llms.txt</loc></url>
   <url><loc>https://simplyconstructionlv.aiovisibility.net/index.html</loc></url>
