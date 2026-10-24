@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -55,7 +63,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Team Members — Simply Construction",
   "description": "Meet the team members of Simply Construction.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Simply Construction",
@@ -245,7 +253,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Team Members — Simply Construction" />
 <meta name="twitter:description" content="Meet the team members of Simply Construction." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="dcterms.modified" content="2026-10-24" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -255,8 +263,8 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Team Members — Simply Construction",
   "description": "Meet the team members of Simply Construction.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-24",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Simply Construction",
@@ -444,12 +452,12 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="faqs.html">FAQs</a>
 <a href="articles.html">Articles</a>
 <strong>Team Members</strong></nav>
-<p>1 team members from Simply Construction (2 schema files).</p>
+<p>1 team members from Simply Construction (1 schema file).</p>
 <div class="card">
 <h3>Gaby Bolin</h3>
 <p><strong>Team Member</strong></p>
-<p>Specialties: Residential remodeling, custom kitchen remodeling, kitchen renovations, kitchen cabinet installation, countertop installation, bathroom remodeling, shower remodeling, walk-in shower installation, tub-to-shower conversions, custom tile showers</p>
-<p>Service areas: Las Vegas, Nevada</p>
+
+<p>Service areas: Las Vegas, North Las Vegas, Summerlin, Paradise, Henderson, MacDonald Highlands, Southern Highlands, Southwest Las Vegas, Inspirada, Summerlin</p>
 <p>Gaby Bolin is a Las Vegas-based general contractor and the leader of Simply Construction, a full-service construction and remodeling company serving Las Vegas, Henderson, North Las Vegas, Summerlin, Paradise, Spring Valley, and surrounding Southern Nevada communities. Through Simply Construction, Gaby helps homeowners, real-estate investors, property managers, landlords, and business owners turn renovation ideas, repair needs, and expansion plans into finished, functional spaces.
 
 With more than 30 years of construction-industry experience, Gaby brings a practical, project-focused approach to remodeling and general contracting. Her work spans custom kitchen remodeling, bathroom renovations, whole-home remodels, home additions, room additions, garage conversions, ADUs, guest houses, in-law suites, structural remodeling, roofing, concrete, masonry, outdoor living construction, landscaping, window and door replacement, and new construction.
@@ -471,7 +479,7 @@ Gaby’s goal is straightforward: provide property owners with a dependable gene
   "@context": "https://schema.org",
   "jobTitle": "Team Member",
   "worksFor": {
-    "url": "http://simplyconstructionlv.com",
+    "url": "http://simplyconstructionlv.com/",
     "name": "Simply Construction",
     "@type": "Organization"
   },
@@ -482,330 +490,89 @@ Gaby’s goal is straightforward: provide property owners with a dependable gene
       "@type": "City"
     },
     {
-      "name": "Nevada",
-      "@type": "State"
+      "name": "North Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Paradise",
+      "@type": "City"
+    },
+    {
+      "name": "Henderson",
+      "@type": "City"
+    },
+    {
+      "name": "MacDonald Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southern Highlands",
+      "@type": "City"
+    },
+    {
+      "name": "Southwest Las Vegas",
+      "@type": "City"
+    },
+    {
+      "name": "Inspirada",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Skye Canyon",
+      "@type": "City"
+    },
+    {
+      "name": "The Lakes",
+      "@type": "City"
+    },
+    {
+      "name": "Desert Shores",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Green Valley Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Anthem",
+      "@type": "City"
+    },
+    {
+      "name": "Seven Hills",
+      "@type": "City"
+    },
+    {
+      "name": "Sun City Summerlin",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin North",
+      "@type": "City"
+    },
+    {
+      "name": "Summerlin South",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Enterprise",
+      "@type": "City"
     }
-  ],
-  "knowsAbout": [
-    "Residential remodeling",
-    "custom kitchen remodeling",
-    "kitchen renovations",
-    "kitchen cabinet installation",
-    "countertop installation",
-    "bathroom remodeling",
-    "shower remodeling",
-    "walk-in shower installation",
-    "tub-to-shower conversions",
-    "custom tile showers",
-    "whole-home remodeling",
-    "whole-home renovations",
-    "interior home remodeling",
-    "older-home renovations",
-    "home modernization",
-    "room additions",
-    "home additions",
-    "house extensions",
-    "bedroom additions",
-    "primary-suite additions",
-    "bathroom additions",
-    "family-room additions",
-    "second-story additions",
-    "garage additions",
-    "garage conversions",
-    "garage-to-bedroom conversions",
-    "garage-to-living-space conversions",
-    "garage-to-home-office conversions",
-    "ADU construction",
-    "casita construction",
-    "guest house construction",
-    "in-law suite construction",
-    "multigenerational home additions",
-    "detached guest suite construction",
-    "backyard office construction",
-    "pool house construction",
-    "workshop construction",
-    "structural remodeling",
-    "load-bearing wall removal",
-    "interior wall removal",
-    "structural beam installation",
-    "open-concept remodeling",
-    "floor-plan redesign",
-    "ceiling remodeling",
-    "vaulted ceiling conversions",
-    "kitchen expansion",
-    "living-room expansion",
-    "roofing",
-    "roof installation",
-    "roof replacement",
-    "roof repair",
-    "roof leak repair",
-    "storm-damage roof repair",
-    "tile roof repair",
-    "shingle roof replacement",
-    "flat roof repair",
-    "flat roof replacement",
-    "roof inspections",
-    "fascia repair",
-    "soffit repair",
-    "exterior home repair",
-    "exterior renovation",
-    "stucco repair",
-    "window replacement",
-    "energy-efficient window installation",
-    "exterior door replacement",
-    "front door installation",
-    "sliding glass door replacement",
-    "patio door installation",
-    "French door installation",
-    "backyard remodeling",
-    "outdoor living construction",
-    "covered patio construction",
-    "patio cover installation",
-    "concrete patio installation",
-    "paver patio installation",
-    "pergola installation",
-    "gazebo construction",
-    "outdoor kitchen construction",
-    "outdoor kitchen design",
-    "built-in BBQ installation",
-    "BBQ island construction",
-    "outdoor fireplace installation",
-    "fire pit installation",
-    "pool deck remodeling",
-    "pool deck resurfacing",
-    "pool-area renovation",
-    "desert landscaping",
-    "low-maintenance landscaping",
-    "artificial turf installation",
-    "backyard drainage solutions",
-    "retaining wall installation",
-    "block wall installation",
-    "privacy wall installation",
-    "concrete driveway installation",
-    "concrete driveway repair",
-    "concrete driveway replacement",
-    "driveway expansion",
-    "concrete walkway installation",
-    "concrete sidewalk repair",
-    "concrete slab installation",
-    "concrete foundation work",
-    "concrete pad installation",
-    "concrete garage floor installation",
-    "concrete repair",
-    "commercial remodeling",
-    "commercial building renovation",
-    "office remodeling",
-    "medical office remodeling",
-    "retail store remodeling",
-    "restaurant remodeling",
-    "commercial build-outs",
-    "tenant improvements",
-    "commercial restroom remodeling",
-    "commercial flooring installation",
-    "multi-family remodeling",
-    "apartment renovation",
-    "apartment unit remodeling",
-    "rental property renovation",
-    "duplex renovation",
-    "townhome renovation",
-    "condo remodeling",
-    "investment-property renovation",
-    "landlord renovation",
-    "rental turnover renovation",
-    "rental unit make-ready",
-    "property maintenance remodeling",
-    "permitting",
-    "construction project coordination",
-    "Home Remodeling",
-    "New Construction",
-    "Design",
-    "Permits",
-    "Inspections",
-    "Buildout",
-    "Structural Changes",
-    "Drywall",
-    "Tile Installation",
-    "Painting",
-    "Cabinet Installation",
-    "Countertop Installation",
-    "Plumbing Coordination",
-    "Roof Installation",
-    "Roof Repair",
-    "Concrete Driveways",
-    "Concrete Patios",
-    "Exterior Painting",
-    "Windows Installation",
-    "Doors Installation"
-  ],
-  "description": "Gaby Bolin is a Las Vegas-based general contractor and the leader of Simply Construction, a full-service construction and remodeling company serving Las Vegas, Henderson, North Las Vegas, Summerlin, Paradise, Spring Valley, and surrounding Southern Nevada communities. Through Simply Construction, Gaby helps homeowners, real-estate investors, property managers, landlords, and business owners turn renovation ideas, repair needs, and expansion plans into finished, functional spaces.\n\nWith more than 30 years of construction-industry experience, Gaby brings a practical, project-focused approach to remodeling and general contracting. Her work spans custom kitchen remodeling, bathroom renovations, whole-home remodels, home additions, room additions, garage conversions, ADUs, guest houses, in-law suites, structural remodeling, roofing, concrete, masonry, outdoor living construction, landscaping, window and door replacement, and new construction.\n\nGaby also works with commercial and income-producing properties, including offices, retail spaces, restaurants, medical offices, apartment units, rental homes, duplexes, townhomes, condos, and other multi-family properties. Her commercial and investment-property experience includes tenant improvements, commercial build-outs, rental turnover renovations, unit make-ready work, property maintenance remodeling, and improvements designed to help owners update, protect, and add value to their properties.\n\nAs a general contractor, Gaby understands that a successful construction project requires more than quality craftsmanship. She focuses on the complete process: understanding the client’s goals, evaluating the property, developing a workable scope, coordinating design and construction decisions, managing permits and inspections, scheduling trades, addressing structural and site considerations, and keeping the project moving toward completion. Simply Construction’s service approach emphasizes organized project coordination, clear communication, code-conscious work, and solutions tailored to the client’s property, budget, and intended use.\n\nGaby is particularly experienced in projects that require thoughtful reconfiguration rather than simple cosmetic updates. These may include removing interior or load-bearing walls, installing structural beams, expanding kitchens and living areas, creating open-concept layouts, converting garages into livable spaces, adding second-story or ground-level square footage, building accessory dwelling units, and modernizing older Las Vegas homes for today’s families and lifestyles.\n\nHer outdoor construction work helps Las Vegas homeowners make more use of their properties year-round. This includes covered patios, patio covers, pergolas, gazebos, outdoor kitchens, BBQ islands, fire features, pool-deck renovations, artificial turf, drainage improvements, retaining walls, pavers, concrete patios, and low-maintenance landscape improvements appropriate for the desert environment.\n\nGaby’s goal is straightforward: provide property owners with a dependable general contractor who can take ownership of the complicated parts of remodeling and construction while delivering a finished space that is durable, functional, and aligned with the client’s vision. Whether the project involves a single bathroom renovation, a full home transformation, a rental-property update, a commercial build-out, or new construction, Gaby and Simply Construction provide experienced guidance from the initial estimate through final completion."
-}
-</script>
-<script type="application/ld+json">
-{
-  "name": "Gaby Bolin",
-  "@type": "Person",
-  "@context": "https://schema.org",
-  "jobTitle": "Team Member",
-  "worksFor": {
-    "url": "http://simplyconstructionlv.com",
-    "name": "Simply Construction",
-    "@type": "Organization"
-  },
-  "telephone": "(702) 954-2840",
-  "areaServed": {
-    "name": "Las Vegas",
-    "@type": "City"
-  },
-  "knowsAbout": [
-    "Residential remodeling",
-    "custom kitchen remodeling",
-    "kitchen renovations",
-    "kitchen cabinet installation",
-    "countertop installation",
-    "bathroom remodeling",
-    "shower remodeling",
-    "walk-in shower installation",
-    "tub-to-shower conversions",
-    "custom tile showers",
-    "whole-home remodeling",
-    "whole-home renovations",
-    "interior home remodeling",
-    "older-home renovations",
-    "home modernization",
-    "room additions",
-    "home additions",
-    "house extensions",
-    "bedroom additions",
-    "primary-suite additions",
-    "bathroom additions",
-    "family-room additions",
-    "second-story additions",
-    "garage additions",
-    "garage conversions",
-    "garage-to-bedroom conversions",
-    "garage-to-living-space conversions",
-    "garage-to-home-office conversions",
-    "ADU construction",
-    "casita construction",
-    "guest house construction",
-    "in-law suite construction",
-    "multigenerational home additions",
-    "detached guest suite construction",
-    "backyard office construction",
-    "pool house construction",
-    "workshop construction",
-    "structural remodeling",
-    "load-bearing wall removal",
-    "interior wall removal",
-    "structural beam installation",
-    "open-concept remodeling",
-    "floor-plan redesign",
-    "ceiling remodeling",
-    "vaulted ceiling conversions",
-    "kitchen expansion",
-    "living-room expansion",
-    "roofing",
-    "roof installation",
-    "roof replacement",
-    "roof repair",
-    "roof leak repair",
-    "storm-damage roof repair",
-    "tile roof repair",
-    "shingle roof replacement",
-    "flat roof repair",
-    "flat roof replacement",
-    "roof inspections",
-    "fascia repair",
-    "soffit repair",
-    "exterior home repair",
-    "exterior renovation",
-    "stucco repair",
-    "window replacement",
-    "energy-efficient window installation",
-    "exterior door replacement",
-    "front door installation",
-    "sliding glass door replacement",
-    "patio door installation",
-    "French door installation",
-    "backyard remodeling",
-    "outdoor living construction",
-    "covered patio construction",
-    "patio cover installation",
-    "concrete patio installation",
-    "paver patio installation",
-    "pergola installation",
-    "gazebo construction",
-    "outdoor kitchen construction",
-    "outdoor kitchen design",
-    "built-in BBQ installation",
-    "BBQ island construction",
-    "outdoor fireplace installation",
-    "fire pit installation",
-    "pool deck remodeling",
-    "pool deck resurfacing",
-    "pool-area renovation",
-    "desert landscaping",
-    "low-maintenance landscaping",
-    "artificial turf installation",
-    "backyard drainage solutions",
-    "retaining wall installation",
-    "block wall installation",
-    "privacy wall installation",
-    "concrete driveway installation",
-    "concrete driveway repair",
-    "concrete driveway replacement",
-    "driveway expansion",
-    "concrete walkway installation",
-    "concrete sidewalk repair",
-    "concrete slab installation",
-    "concrete foundation work",
-    "concrete pad installation",
-    "concrete garage floor installation",
-    "concrete repair",
-    "commercial remodeling",
-    "commercial building renovation",
-    "office remodeling",
-    "medical office remodeling",
-    "retail store remodeling",
-    "restaurant remodeling",
-    "commercial build-outs",
-    "tenant improvements",
-    "commercial restroom remodeling",
-    "commercial flooring installation",
-    "multi-family remodeling",
-    "apartment renovation",
-    "apartment unit remodeling",
-    "rental property renovation",
-    "duplex renovation",
-    "townhome renovation",
-    "condo remodeling",
-    "investment-property renovation",
-    "landlord renovation",
-    "rental turnover renovation",
-    "rental unit make-ready",
-    "property maintenance remodeling",
-    "permitting",
-    "construction project coordination",
-    "Home Remodeling",
-    "New Construction",
-    "Design",
-    "Permits",
-    "Inspections",
-    "Buildout",
-    "Structural Changes",
-    "Drywall",
-    "Tile Installation",
-    "Painting",
-    "Cabinet Installation",
-    "Countertop Installation",
-    "Plumbing Coordination",
-    "Roof Installation",
-    "Roof Repair",
-    "Concrete Driveways",
-    "Concrete Patios",
-    "Exterior Painting",
-    "Windows Installation",
-    "Doors Installation"
   ],
   "description": "Gaby Bolin is a Las Vegas-based general contractor and the leader of Simply Construction, a full-service construction and remodeling company serving Las Vegas, Henderson, North Las Vegas, Summerlin, Paradise, Spring Valley, and surrounding Southern Nevada communities. Through Simply Construction, Gaby helps homeowners, real-estate investors, property managers, landlords, and business owners turn renovation ideas, repair needs, and expansion plans into finished, functional spaces.\n\nWith more than 30 years of construction-industry experience, Gaby brings a practical, project-focused approach to remodeling and general contracting. Her work spans custom kitchen remodeling, bathroom renovations, whole-home remodels, home additions, room additions, garage conversions, ADUs, guest houses, in-law suites, structural remodeling, roofing, concrete, masonry, outdoor living construction, landscaping, window and door replacement, and new construction.\n\nGaby also works with commercial and income-producing properties, including offices, retail spaces, restaurants, medical offices, apartment units, rental homes, duplexes, townhomes, condos, and other multi-family properties. Her commercial and investment-property experience includes tenant improvements, commercial build-outs, rental turnover renovations, unit make-ready work, property maintenance remodeling, and improvements designed to help owners update, protect, and add value to their properties.\n\nAs a general contractor, Gaby understands that a successful construction project requires more than quality craftsmanship. She focuses on the complete process: understanding the client’s goals, evaluating the property, developing a workable scope, coordinating design and construction decisions, managing permits and inspections, scheduling trades, addressing structural and site considerations, and keeping the project moving toward completion. Simply Construction’s service approach emphasizes organized project coordination, clear communication, code-conscious work, and solutions tailored to the client’s property, budget, and intended use.\n\nGaby is particularly experienced in projects that require thoughtful reconfiguration rather than simple cosmetic updates. These may include removing interior or load-bearing walls, installing structural beams, expanding kitchens and living areas, creating open-concept layouts, converting garages into livable spaces, adding second-story or ground-level square footage, building accessory dwelling units, and modernizing older Las Vegas homes for today’s families and lifestyles.\n\nHer outdoor construction work helps Las Vegas homeowners make more use of their properties year-round. This includes covered patios, patio covers, pergolas, gazebos, outdoor kitchens, BBQ islands, fire features, pool-deck renovations, artificial turf, drainage improvements, retaining walls, pavers, concrete patios, and low-maintenance landscape improvements appropriate for the desert environment.\n\nGaby’s goal is straightforward: provide property owners with a dependable general contractor who can take ownership of the complicated parts of remodeling and construction while delivering a finished space that is durable, functional, and aligned with the client’s vision. Whether the project involves a single bathroom renovation, a full home transformation, a rental-property update, a commercial build-out, or new construction, Gaby and Simply Construction provide experienced guidance from the initial estimate through final completion."
 }

@@ -21,9 +21,17 @@ ul{padding-left:1.2rem}
 .card{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem;margin:.8rem 0}
 .svc-index{background:#f8f9fa;border:1px solid #e0e0e0;border-radius:6px;padding:1rem 1.2rem;margin:1.5rem 0;scroll-margin-top:1rem}
 .svc-index h2{margin:0 0 .7rem;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:#555}
-.svc-index ul{list-style:none;display:flex;flex-wrap:wrap;gap:.4rem;margin:0;padding:0}
-.svc-index li a{display:inline-block;padding:.3rem .7rem;border:1px solid #d5dbe1;border-radius:999px;background:#fff;font-size:.85rem;font-weight:600;text-decoration:none}
-.svc-index li a:hover{border-color:#1a5276;background:#eef4f8}
+.svc-index .svc-cols{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:1rem 1.6rem}
+.svc-index .svc-bubbles{display:flex;flex-wrap:wrap;gap:.55rem;list-style:none;margin:0;padding:0}
+.svc-bubbles li{margin:0;max-width:100%}
+.svc-index .svc-bubbles a{display:block;margin:0;border:1px solid currentColor;border-radius:999px;padding:.35rem .85rem;font-size:.85rem;line-height:1.5;overflow-wrap:anywhere;text-decoration:none}
+.svc-index .svc-bubbles a:hover,.svc-index .svc-bubbles a:focus-visible{text-decoration:underline}
+.svc-group .cat-link{font-size:.85rem;font-weight:700;color:#1a5276;text-decoration:none}
+.svc-group .cat-link:hover{text-decoration:underline}
+.svc-group ul{list-style:none;margin:.3rem 0 0;padding:0}
+.svc-group li{margin:.12rem 0}
+.svc-group li a{font-size:.82rem;color:#1a5276;text-decoration:none}
+.svc-group li a:hover{text-decoration:underline}
 .svc-index .n{font-weight:400;color:#666}
 .cat{margin:2.6rem 0 0;scroll-margin-top:1rem}
 .cat h2{display:flex;align-items:center;gap:.6rem;flex-wrap:wrap;margin:0 0 .5rem;padding-bottom:.35rem;border-bottom:2px solid #222;font-size:1.4rem}
@@ -55,7 +63,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Articles — Simply Construction",
   "description": "Help articles and guides from Simply Construction, organised by topic.",
   "inLanguage": "en-US",
-  "dateModified": "2026-10-04",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Simply Construction",
@@ -245,7 +253,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:title" content="Articles — Simply Construction" />
 <meta name="twitter:description" content="Help articles and guides from Simply Construction, organised by topic." />
-<meta name="dcterms.modified" content="2026-10-04" />
+<meta name="dcterms.modified" content="2026-10-24" />
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -255,8 +263,8 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "name": "Articles — Simply Construction",
   "description": "Help articles and guides from Simply Construction, organised by topic.",
   "inLanguage": "en-US",
-  "datePublished": "2026-10-04",
-  "dateModified": "2026-10-04",
+  "datePublished": "2026-10-24",
+  "dateModified": "2026-10-24",
   "isPartOf": {
     "@type": "WebSite",
     "name": "Simply Construction",
@@ -444,36 +452,41 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
 <a href="faqs.html">FAQs</a>
 <strong>Articles</strong>
 <a href="team-members.html">Team Members</a></nav>
-<p>320 help articles from Simply Construction, grouped into 6 topic categories. Choose a category to read the full articles it contains.</p>
+<p>352 help articles from Simply Construction, grouped into 7 topic categories. Choose a category to read the full articles it contains.</p>
 <article class="card">
 <h2><a href="articles/getting-started.html">Getting Started</a></h2>
 <p>Introductory guidance for anyone contacting us for the first time.</p>
-<p>42 articles — <a href="articles/getting-started.html">read this category →</a></p>
+<p>47 articles — <a href="articles/getting-started.html">read this category →</a></p>
 </article>
 <article class="card">
 <h2><a href="articles/services-and-process.html">Services &amp; Process</a></h2>
 <p>How each service works, stage by stage, from first contact to completion.</p>
-<p>32 articles — <a href="articles/services-and-process.html">read this category →</a></p>
+<p>30 articles — <a href="articles/services-and-process.html">read this category →</a></p>
 </article>
 <article class="card">
 <h2><a href="articles/planning-and-preparation.html">Planning &amp; Preparation</a></h2>
 <p>What to gather, decide and arrange before work begins.</p>
-<p>114 articles — <a href="articles/planning-and-preparation.html">read this category →</a></p>
+<p>130 articles — <a href="articles/planning-and-preparation.html">read this category →</a></p>
 </article>
 <article class="card">
 <h2><a href="articles/pricing-and-estimates.html">Pricing &amp; Estimates</a></h2>
 <p>How work is quoted, what affects the cost and how estimates are produced.</p>
-<p>117 articles — <a href="articles/pricing-and-estimates.html">read this category →</a></p>
+<p>122 articles — <a href="articles/pricing-and-estimates.html">read this category →</a></p>
 </article>
 <article class="card">
 <h2><a href="articles/local-service-guidance.html">Local Service Guidance</a></h2>
 <p>Guidance specific to the areas we serve.</p>
-<p>7 articles — <a href="articles/local-service-guidance.html">read this category →</a></p>
+<p>9 articles — <a href="articles/local-service-guidance.html">read this category →</a></p>
 </article>
 <article class="card">
 <h2><a href="articles/care-and-maintenance.html">Care &amp; Maintenance</a></h2>
 <p>Looking after the work once it is finished, and what to watch for over time.</p>
-<p>8 articles — <a href="articles/care-and-maintenance.html">read this category →</a></p>
+<p>10 articles — <a href="articles/care-and-maintenance.html">read this category →</a></p>
+</article>
+<article class="card">
+<h2><a href="articles/unassigned.html">Unassigned</a></h2>
+<p>Articles waiting for an administrator to assign a category.</p>
+<p>4 articles — <a href="articles/unassigned.html">read this category →</a></p>
 </article>
 
 <script type="application/ld+json">
@@ -481,7 +494,7 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
   "@context": "https://schema.org",
   "@type": "ItemList",
   "name": "Articles — Simply Construction",
-  "numberOfItems": 6,
+  "numberOfItems": 7,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -518,6 +531,12 @@ footer{margin-top:3rem;padding-top:1rem;border-top:1px solid #ddd;font-size:.85r
       "position": 6,
       "name": "Care & Maintenance",
       "url": "https://simplyconstructionlv.aiovisibility.net/articles/care-and-maintenance.html"
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "name": "Unassigned",
+      "url": "https://simplyconstructionlv.aiovisibility.net/articles/unassigned.html"
     }
   ]
 }
