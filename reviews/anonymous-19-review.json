@@ -1,27 +1,27 @@
 {
-  "@context": "https://schema.org",
   "@type": "Review",
   "author": {
-    "@type": "Person",
-    "name": "Anonymous"
+    "name": "Anonymous",
+    "@type": "Person"
   },
+  "@context": "https://schema.org",
   "reviewBody": "I moved from California to Las Vegas and purchased a home. They did an amazing job completely remodeling it top to bottom for me and I can't thank them enough. Highly recommend their services to anyone.",
-  "reviewRating": {
-    "@type": "Rating",
-    "ratingValue": 5,
-    "bestRating": 5
-  },
-  "datePublished": "2026-06-06",
   "itemReviewed": {
-    "@type": "Organization",
-    "name": "Simply Construction",
     "url": "https://simplyconstructionlv.aiovisibility.net",
+    "name": "Simply Construction",
+    "@type": "Organization",
     "makesOffer": {
       "@type": "Offer",
       "itemOffered": {
-        "@type": "Service",
-        "name": "Whole-home remodel"
+        "name": "Whole-home remodel",
+        "@type": "Service"
       }
     }
-  }
+  },
+  "reviewRating": {
+    "@type": "Rating",
+    "bestRating": 5,
+    "ratingValue": 5
+  },
+  "datePublished": "2026-06-06"
 }
