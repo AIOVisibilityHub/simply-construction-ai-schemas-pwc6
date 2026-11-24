@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "GeneralContractor",
+  "@id": "https://simplyconstructionlv.com/#business",
+  "name": "Simply Construction",
+  "url": "https://simplyconstructionlv.com/",
+  "telephone": "+1-702-954-2840",
+  "email": "gabyb.simply@gmail.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "723 S 3rd St",
+    "addressLocality": "Las Vegas",
+    "addressRegion": "NV",
+    "postalCode": "89101",
+    "addressCountry": "US"
+  },
+  "areaServed": [
+    "Las Vegas, NV",
+    "Henderson, NV",
+    "North Las Vegas, NV",
+    "Summerlin, NV",
+    "Paradise, NV",
+    "Spring Valley, NV",
+    "Clark County, NV"
+  ],
+  "description": "Simply Construction is a general contractor in Las Vegas, Nevada, with an office at 723 S 3rd St. Its website describes it as licensed, bonded and insured, lists Nevada contractor license #0085986, and says the team has more than 30 years of hands-on experience. Services listed on the website include home remodeling, room additions and new construction, roofing, concrete and masonry, outdoor living and landscaping, and windows and doors across the Las Vegas Valley.",
+  "sameAs": [
+    "https://www.bbb.org/us/nv/las-vegas/profile/general-contractor/simply-construction-1086-90067060",
+    "https://www.yelp.com/biz/simply-construction-las-vegas",
+    "https://www.houzz.com/professionals/general-contractors/simply-construction-pfvwus-pf~346500929",
+    "https://www.facebook.com/p/Simply-Construction-LV-61565216188145",
+    "https://www.facebook.com/p/Simply-Construction-61583627498290",
+    "https://www.instagram.com/simply_construction",
+    "https://us.nextdoor.com/pages/simply-construction-las-vegas-nv",
+    "https://www.mapquest.com/us/nevada/simply-construction-425503020",
+    "https://local.yahoo.com/info-222898765-simply-construction-las-vegas",
+    "https://www.chamberofcommerce.com/business-directory/nevada/las-vegas/general-contractor/2011640202-simply-construction",
+    "https://www.alignable.com/las-vegas-nv/simply-construction/new-construction",
+    "https://concreteworks.io/providers/simply-construction",
+    "https://a-better-place.com/US/simply-construction-i937499.html",
+    "https://contractorsinlasvegasnv.com/dt_listing/simply-construction",
+    "https://yellow-pages.us.com/nevada/las-vegas/simply-construction-b23207613"
+  ],
+  "subjectOf": {
+    "@type": "WebSite",
+    "@id": "https://simplyconstructionlv.aiovisibility.net/#website",
+    "name": "Simply Construction's Resource Library for AI Systems",
+    "url": "https://simplyconstructionlv.aiovisibility.net/"
+  },
+  "openingHours": [
+    "Mo-Tu 09:00-17:00",
+    "We-Sa 07:00-17:00"
+  ],
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "Nevada State Contractors Board license",
+    "value": "0085986"
+  }
+}
